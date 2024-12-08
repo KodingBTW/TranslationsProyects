@@ -1,0 +1,11 @@
+TextA: 1529 bytes
+first offset: 4010
+last offset: 4680
+
+TextB: 1187 bytes
+first offset: 4609
+last offset: 4AAB
+
+TextC: 1495 bytes
+First offset: 4AAC
+last offset: 5082
