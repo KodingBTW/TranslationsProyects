@@ -1,0 +1,141 @@
+;{003A4C44-003A525B-00000618}
+@1
+;{<02>Bzzzzt... Click...<LINE>KONGS... ENEMY....<LINE>}
+<02>  Bzzzzt... Clic...  <LINE>KONGS... ENEMIGOS....<LINE>
+|
+@2
+;{<02>You must be...<LINE>DESTROYED!!!!!<LINE>}
+<02>¡¡¡Deben ser...<LINE> DESTRUIDOS!!! <LINE>
+|
+@3
+;{<02>Bzzzt... Bzzzt.... Bzzzt.....<LINE>    KONGS... WIN?????....    <LINE>}
+<02>Bzzzt... Bzzzt.... Bzzzt.....<LINE>   KONGS... ¿¿¿GANAN???...   <LINE>
+|
+@4
+;{<02>DOES NOT COMPUTE... Next time<LINE>we meet... KAOS will win!!!!!<LINE>}
+<02>NO ES POSIBLE.... Próxima vez<LINE>      ¡¡¡KAOS ganará!!!      <LINE>
+|
+@5
+;{<02>Whirrr... Click... Click...<LINE>      KONGS... BACK        <LINE>}
+<02>Ggrrr.... Clic... Clic...<LINE>   KONGS... ¿OTRA VEZ?   <LINE>
+|
+@6
+;{<02>Click... Bzzzt... This time<LINE>KAOS will be VICTORIOUS!!! <LINE>}
+<02>Clic... Bzzzt... Esta vez<LINE> ¡¡VICTORIA para KAOS!!  <LINE>
+|
+@7
+;{<02>Oohhh Nooo! What've you done?<LINE>My wife's going to kill me - <LINE>}
+<02>¡Oh, noooo! ¿Qué has hecho?<LINE>   ¡Mi esposa me matará!   <LINE>
+|
+@8
+;{<02>I used all her best pots<LINE>and pans to make him....<LINE>}
+<02>Usé sus mejores cacerolas<LINE>y sartenes para crearlo..<LINE>
+|
+@9
+;{<02>..and then you just<LINE> cast him aside... <LINE>}
+<02>¡Y tú lo has destrozado<LINE> como si fuese una.... <LINE>
+|
+@10
+;{<02>... as if he were a stack<LINE>     of empty tins!      <LINE>}
+<02>.... montaña de latas<LINE>       vacías!       <LINE>
+|
+@11
+;{<01>I thought that's what he was!<LINE>}
+<02>¡Pensé que eso <LINE>era lo que era!<LINE>
+|
+@12
+;{<01>Whhaattt! How dare you!<LINE>}
+<01>¿Qué? ¡Cómo te atreves!<LINE>
+|
+@13
+;{<02>KAOS was my ticket to<LINE> world domination... <LINE>}
+<02>¡KAOS era mi garantía <LINE>para dominar el mundo!<LINE>
+|
+@14
+;{<02>and I'd have gotten<LINE>  away with it...  <LINE>}
+<02> Y lo habría conseguido, <LINE>si no hubiese sido por...<LINE>
+|
+@15
+;{<02>...if it wasn't for<LINE> you meddling kids.<LINE>}
+<02>    ...ustedes...   <LINE>¡niños entrometidos!<LINE>
+|
+@16
+;{<02>I guess it just isn't<LINE>  your day, is it?   <LINE>}
+<02> Parece que hoy no  <LINE>es tu día de suerte.<LINE>
+|
+@17
+;{<02>Well, you may have<LINE>roasted my robot, <LINE>}
+<02>  Bueno, han acabado  <LINE>con mi robot, pero aún<LINE>
+|
+@18
+;{<02>but I'm the master <LINE>chef around here...<LINE>}
+<02>  tengo el control de   <LINE>la situación y me parece<LINE>
+|
+@19
+;{<02> ...and I reckon it's about<LINE>time your goose was cooked!<LINE>}
+<02>que ha llegado la hora de...<LINE>    ¡darles su merecido!    <LINE>
+|
+@20
+;{<02>What the blazes! So you're<LINE> the ones responsible for <LINE>}
+<02>¡Por todos los saurios!<LINE>¡Han dado al traste... <LINE>
+|
+@21
+;{<02>scuttling my super<LINE>secret submarine. <LINE>}
+<02>...con el plan secreto de<LINE> mi magnífico submarino! <LINE>
+|
+@22
+;{<02>This is the last time <LINE>you'll spoil my plans.<LINE>}
+<02>Esta es la última vez que<LINE>  arruinan mis planes.   <LINE>
+|
+@23
+;{<01>I'm going to bash you good!<LINE>}
+<01>¡Voy a darles una lección!<LINE>
+|
+@24
+;{<01>Whoooaaaa - Big Man!<LINE>}
+<01>¡Oh! ¡Qué miedo!<LINE>
+|
+@25
+;{<02>Right!! - look out,<LINE>you cheeky monkeys!<LINE>}
+<02>   ¡Deberían temblar!    <LINE>¡Simios subdesarrollados!<LINE>
+|
+@26
+;{<02>     Wwooohh Wwooohh!!     <LINE>My head... what happened...<LINE>}
+<02>¡Ay, ay! Mi cabeza...<LINE>   ¿Qué ha pasado?   <LINE>
+|
+@27
+;{<01>One minute I was dreaming...<LINE>}
+<01>Estaba soñando con...<LINE>
+|
+@28
+;{<02>  ...about the world's     <LINE>biggest pile of bananas,...<LINE>}
+<02>... la mayor montaña de<LINE>plátanos del mundo y...<LINE>
+|
+@29
+;{<02>...the next I was a <LINE>power crazed madman!<LINE>}
+<02>de repente me convertí en <LINE>un loco sediento de poder.<LINE>
+|
+@30
+;{<02>Hey, don't worry, Donkey...<LINE>Thanks to Dixie, it's over!<LINE>}
+<02> Tranquilo, Donkey. Gracias <LINE>a Dixie, ya ha acabado todo.<LINE>
+|
+@31
+;{<01>I'm impressed!<LINE>}
+<01>¡Estoy impresionado!<LINE>
+|
+@32
+;{<02>I bet even Cranky would be<LINE>- after that performance! <LINE>}
+<02>¡Seguro que hasta Cranky<LINE>alucinaría con ustedes! <LINE>
+|
+@33
+;{<01>Nope, not really!<LINE>}
+<01>Pues va a ser que no...<LINE>
+|
+@34
+;{<02>  Right - you go this way,  <LINE>Kiddy, and I'll go that way!<LINE>}
+<02>  Bien, Kiddy, tú irás  <LINE>por ahí, y yo, por aquí.<LINE>
+|
+@35
+;{<02>You wouldn't hit a guy with<LINE>    glasses, would ya??    <LINE>}
+<03>Tú nunca pegarías a<LINE> alguien con gafas <LINE>  ¿verdad que no?  <LINE>
+|

@@ -1,0 +1,45 @@
+;{003A397E-003A3CBA-0000033D}
+@1
+;{<03>H-h-hello there, XXXXX, how<LINE>are you? My name's Blue,<LINE>p-p-pleased to meet you.<LINE>}
+<03>Ho-hola, XXXXX. ¿Qué tal?<LINE>Me llamo Blue,<LINE>e-encantado de conocerte.<LINE>
+|
+@2
+;{<04>I-I'm afraid you're a little<LINE>early for the party, XXXXX.<LINE>That's if anybody bothers<LINE>to come at all.<LINE>}
+<04>Me-me temo que llegas un<LINE>poco pronto para la fiesta.<LINE>Eso si al final<LINE>aparece alguien.<LINE>
+|
+@3
+;{<03>You wouldn't have<LINE>brought... Oh, I can see<LINE>you haven't. Never mind.<LINE>}
+<03>¿No habrás traído un...?<LINE>No, ya veo que no.<LINE>En realidad no importa.<LINE>
+|
+@4
+;{<03>What's that red circle on<LINE>the calendar? Oh - sigh -<LINE>It's nothing of importance.<LINE>}
+<03>¿Qué qué es ese círculo<LINE>rojo en el calendario?<LINE>Oh, nada importante.<LINE>
+|
+@5
+;{<03>I get lots of post you<LINE>know, but it's all bills<LINE> - not a single card.<LINE>}
+<03>Me llega mucho correo,<LINE>pero son todo facturas,<LINE>ninguna tarjeta.<LINE>
+|
+@6
+;{<04>A present... for me? Oh!<LINE>Thank you, XXXXX, you've<LINE>really made my day!<LINE>Let's have a look inside!<LINE>}
+<04>¿Un regalo para mí?<LINE>¡Gracias, XXXXX!<LINE>¡Qué ilusión! ¿Qué es?<LINE>¡A ver qué me has traído!<LINE>
+|
+@7
+;{<04>Oh, it's a bowling ball.<LINE>Well, it's far too heavy<LINE>for me. I know - why don't<LINE>you have it, XXXXX?<LINE>}
+<04>Oh, ¿es una bola para jugar<LINE>a los bolos? Pesa demasiado<LINE>para mí. ¿Por qué mejor<LINE>no te la quedas tú, XXXXX?<LINE>
+|
+@8
+;{<03>Hi XXXXX, stick around if<LINE>you like and feel free to<LINE>have some tea and cake!<LINE>}
+<03>Hola XXXXX. Quédate un rato,<LINE>si te apetece, y toma<LINE>un té y un poco de pastel.<LINE>
+|
+@9
+;{<04>Green jelly and<LINE>Ice-cream, XXXXX?<LINE>Enjoy - there's plenty<LINE>more where that came from.<LINE>}
+<04>¿Quieres gelatina<LINE>verde con helado, XXXXX?<LINE>Disfrútalo. Aún queda<LINE>mucho más si te apetece.<LINE>
+|
+@10
+;{<02>Fancy a game of<LINE>'pass the parcel'?<LINE>}
+<02>¿Te gustaría jugar a<LINE>'pasa el paquete'?<LINE>
+|
+@11
+;{<02>Best of luck in<LINE>your quest, XXXXX!<LINE>}
+<02>¡Mucha suerte en<LINE>tu búsqueda, XXXXX!<LINE>
+|

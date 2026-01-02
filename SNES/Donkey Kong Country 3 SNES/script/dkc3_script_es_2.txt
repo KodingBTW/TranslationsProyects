@@ -1,0 +1,165 @@
+;{003A0856-003A1519-00000CC4}
+@1
+;{<02>Hello there, it's me -<LINE>Mrs. Wrinkly Kong!<LINE>}
+<02>Hola, soy yo,<LINE>¡la señora Wrinkly Kong!<LINE>
+|
+@2
+;{<04>I've found life too hectic<LINE>at school with all those<LINE>naughty Kremlings<LINE>pestering me all the time!<LINE>}
+<04>¡La vida en la escuela<LINE>con todos esos Kremlings<LINE>tan malos era demasiada<LINE>agitada para mí!<LINE>
+|
+@3
+;{<03>If you need to save<LINE>your game, XXXXX, call<LINE>here any time...<LINE>}
+<03>Si necesitas guardar<LINE>tu partida, XXXXX, pasa<LINE>por aquí cuando quieras...<LINE>
+|
+@4
+;{<04>and I'll record your<LINE>progress on my new<LINE>vid-me-whatsit<LINE>machine for you!<LINE>}
+<04>¡Y guardaré tu<LINE>progreso en mi<LINE>nueva máquina de<LINE>vídeo para ti!<LINE>
+|
+@5
+;{<04>I love this bird that<LINE>you've found! It's an<LINE>energetic little thing,<LINE>isn't it?<LINE>}
+<04>¡Me encanta ese pájaro<LINE>que has encontrado!<LINE>Tiene mucha energía,<LINE>¿a que sí?<LINE>
+|
+@6
+;{<04>Can you help, XXXXX?<LINE>I can't get off this<LINE>level - and I've been<LINE>playing it for weeks!<LINE>}
+<04>¿Puedes ayudarme, XXXXX?<LINE>No puedo salir de este<LINE>nivel, ¡y llevo semanas<LINE>jugándolo!<LINE>
+|
+@7
+;{<04>I'm glad Cranky doesn't<LINE>know about this new console.<LINE>If he did, I'd never be<LINE>able to get him off it!<LINE>}
+<04>Me alegro de que Cranky no<LINE>conozca esta nueva consola.<LINE>Si así fuera, ¡nunca sería<LINE>capaz de sacarlo de ella!<LINE>
+|
+@8
+;{<04>All you ever seem to do in<LINE>these games is shoot this or<LINE>jump on that. Why don't they<LINE>make games about knitting?<LINE>}
+<04>Todo lo que pareces hacer en<LINE>estos juegos es disparar o<LINE>saltar sobre aquello. ¿Por qué<LINE>no hacen juegos sobre tejer?<LINE>
+|
+@9
+;{<04>Ssshhhhh, XXXXX!<LINE>I'm on my last life<LINE>and you're breaking my<LINE>concentration!<LINE>}
+<04>¡Ssshhhhh, XXXXX!<LINE>¡Es mi última vida<LINE>y me estás haciendo<LINE>perder la concentración!<LINE>
+|
+@10
+;{<02>Hello, XXXXX, how can I<LINE>help you today?<LINE>}
+<02>Hola, XXXXX,¿En que<LINE>puedo ayudarte hoy?<LINE>
+|
+@11
+;{<03>These birds are such<LINE>good company, unlike my<LINE>wretched husband Cranky.<LINE>}
+<03>Estos pájaros me hacen<LINE>mucha compañía, no como<LINE>mi pobre marido, Cranky.<LINE>
+|
+@12
+;{<03>Have you seen Cranky on<LINE>your travels? He ate all<LINE>of my fresh cookies!<LINE>}
+<03>¿Has visto a Cranky<LINE>en alguno de tus viajes?<LINE>¡Se comió todas mis galletas!<LINE>
+|
+@13
+;{<03>You're looking tired,<LINE>XXXXX - put your feet up<LINE>and save your game.<LINE>}
+<03>Te ves agotado, XXXXX,<LINE>levanta esos pies<LINE>y guarda tu partida.<LINE>
+|
+@14
+;{<04>What was that? You'd like to<LINE>change your name? Oh, sorry!<LINE>I misheard - you want to<LINE>SAVE your game!<LINE>}
+<04>¿Cómo? ¿Quieres cambiar<LINE>tu nombre? ¡Ay, perdona!<LINE>Escuché mal, ¡quieres<LINE>GUARDAR tu partida!<LINE>
+|
+@15
+;{<03>Memblesh. Mammble Schwerble.<LINE>Sorry, XXXXX, I've just had<LINE>my new teeth fitted.<LINE>}
+<03>Hoa, detaltás. Perdona,<LINE>XXXXX, es que me acabo de<LINE>cambiar la dentadura.<LINE>
+|
+@16
+;{<03>How do you like my new<LINE>hairdo, XXXXX? I've just<LINE>had a new banana rinse.<LINE>}
+<03>¿Te gustan mis mechas,<LINE>XXXXX? Son el nuevo tono<LINE>plátano. Una novedad.<LINE>
+|
+@17
+;{<03>Your banana birds are very<LINE>well behaved, I don't hear a<LINE>peep out of them.<LINE>}
+<03>Tus pájaros plátano se<LINE>portan muy bien. No se<LINE>les oye ni piar.<LINE>
+|
+@18
+;{<03>If you catch up with Cranky,<LINE>tell him he still owes me my<LINE>housekeeping money!<LINE>}
+<03>Si ves a Cranky, dile<LINE>que aún me debe dinero<LINE>de la casa.<LINE>
+|
+@19
+;{<03>Make sure you wipe your feet<LINE>and wash your hands before<LINE>saving your game, XXXXX.<LINE>}
+<03>Ni se te ocurra guardar la<LINE>partida sin lavarte bien<LINE>las manos antes, XXXXX.<LINE>
+|
+@20
+;{<03>If you spot Cranky on your<LINE>travels, tell him his<LINE>dinner's gone cold.<LINE>}
+<03>Si ves a Cranky en alguno de<LINE>tus viajes, dile de mi parte<LINE>que se le enfrió la cena.<LINE>
+|
+@21
+;{<04>Have you seen my glasses,<LINE>XXXXX? I put them down<LINE>somewhere, but I can't<LINE>remember where!<LINE>}
+<04>¿Has visto mis gafas,<LINE>XXXXX? Las he dejado<LINE>por ahí, ¡y ahora<LINE>no sé dónde!<LINE>
+|
+@22
+;{<04>What was that? Why don't I<LINE>use my hearing aid? If I do<LINE>that then the batteries will<LINE>run down, silly!<LINE>}
+<03>¿Cómo? ¿Que por qué no uso<LINE>mi audífono? ¡Porque si lo<LINE>uso, se le gastan las pilas!<LINE>
+|
+@23
+;{<02>Hurry up and save your game,<LINE>XXXXX, I'm late for my Bingo!<LINE>}
+<02>¡Rápido! ¡Guarda la partida,<LINE>XXXXX! ¡Llego tarde al Bingo!<LINE>
+|
+@24
+;{<04>All these new fangled toys<LINE>you play with these days. In<LINE>my day we had a box and a<LINE>stick... and we'd be happy!<LINE>}
+<04>No entiendo por qué les hacen<LINE>falta todos estos juguetes tan<LINE>modernos. En mi época, éramos<LINE>felices con una caja y un palo.<LINE>
+|
+@25
+;{<03>It's looking cold out there<LINE>today, XXXXX. I hope<LINE>you've wrapped up warm.<LINE>}
+<03>Parece que hace frío.<LINE>Espero que te hayas<LINE>abrigado bien hoy, XXXXX.<LINE>
+|
+@26
+;{<04>Would you like to save<LINE>your game?<LINE> <LINE> <LINE>}
+<04>¿Quieres guardar<LINE>tu partida?<LINE> <LINE> <LINE>
+|
+@27
+;{<03>Aren't you going to give<LINE>your favorite relative a<LINE>good-bye kiss?<LINE>}
+<03>¿No vas a darle un beso<LINE>de despedida a tu<LINE>abuela favorita?<LINE>
+|
+@28
+;{<04>If you bump into Cranky,<LINE>tell him to stop wasting<LINE>his money on Swanky's<LINE>bonus games.<LINE>}
+<04>Si te encuentras con<LINE>Cranky, dile que deje<LINE>de gastarse el dinero<LINE>en los juegos de Swanky.<LINE>
+|
+@29
+;{<03>Do keep a lookout for<LINE>any banana birds - they're<LINE>ever such nice company.<LINE>}
+<03>Mira a ver si encuentras<LINE>algún pájaro plátano.<LINE>Me gusta mucho su compañía.<LINE>
+|
+@30
+;{<04>When crossing the jungle<LINE>remember to look left,<LINE>right, and then up for<LINE>falling monkeys!<LINE>}
+<04>¡Cuando cruces la selva,<LINE>asegúrate de mirar en<LINE>todas direcciones por si<LINE>te cae un mono encima!<LINE>
+|
+@31
+;{<04>Don't worry XXXXX, I'm<LINE>always ready to help!<LINE>Just try not to bother<LINE>me when I'm exercising!<LINE>}
+<04>Yo siempre estaré aquí,<LINE>XXXXX, si necesitas ayuda.<LINE>¡Pero intenta no molestarme<LINE>si me estoy ejercitando!<LINE>
+|
+@32
+;{<04>What's that?<LINE>You want to see the Lost<LINE>World? Which channel is<LINE>that on, XXXXX?<LINE>}
+<04>¿Cómo dices?<LINE>¿Quieres ver el Mundo<LINE>Perdido? ¿Qué canal<LINE>es ese, XXXXX?<LINE>
+|
+@33
+;{<03>Bye-bye, XXXXX. Try<LINE>to find some of those<LINE>nice banana birds!<LINE>}
+<03>Adiós, XXXXX. ¡A ver<LINE>si ves un pájaro plátano<LINE>de esos tan bonitos!<LINE>
+|
+@34
+;{<04>It's good to have a visit<LINE>from you, XXXXX! All you<LINE>ever see on television<LINE>these days is repeats!<LINE>}
+<04>¡Es bueno tener una visita<LINE>de tu parte, XXXXX! ¡Todo<LINE>lo que ves en televisión en<LINE>estos días son repeticiones!<LINE>
+|
+@35
+;{<03>Look! She's asleep! I'm sure<LINE>she won't mind us saving<LINE>our game though.<LINE>}
+<03>¡Mira! ¡Está dormida!<LINE>Seguro no le importará que<LINE>guardemos nuestra partida.<LINE>
+|
+@36
+;{<03>Oh! Wrinkly's asleep! I'm<LINE>sure she won't mind if<LINE>I save my game though.<LINE>}
+<03>¡Wrinkly está durmiendo!<LINE>Seguro que no le importará<LINE>si guardo mi partida.<LINE>
+|
+@37
+;{<03>So, you've defeated K.Rool<LINE>have you? I'm very proud of<LINE>you - that's very nice!<LINE>}
+<03>Así que derrotaste a<LINE>K. Rool. ¡Qué bien!<LINE>Estoy muy orgullosa.<LINE>
+|
+@38
+;{<04>You know, XXXXX, since<LINE>you've been away I think<LINE>these birds are beginning<LINE>to get a little restless.<LINE>}
+<04>¿Sabes?, XXXXX. En cuanto te<LINE>vas, estos pájaros se ponen<LINE>muy nerviosos. Es como si<LINE>quisieran ir a algún sitio.<LINE>
+|
+@39
+;{<04>Is there any chance that you<LINE>could find out where they<LINE>want to go? If you need help<LINE>exploring, try asking Funky!<LINE>}
+<04>¿Hay alguna posibilidad de que<LINE>averigües adónde quieren ir?<LINE>Si necesitas ayuda explorando,<LINE>¡pregúntale a Funky!<LINE>
+|
+@40
+;{<03>My word, they seem very<LINE>excited! It looks as if they<LINE>want to take you for a ride!<LINE>}
+<04>¡Cielos!, ¡Están muy<LINE>emocionados!, Parece<LINE>que quieren llevarte<LINE>a dar un paseo.<LINE>
+|
+@41
+;{<03>Go on, XXXXX, don't worry<LINE>about your boat - I'll get<LINE>Cranky to fetch it for you!<LINE>}
+<04>Adelante, XXXXX. No te<LINE>preocupes por la<LINE>lancha. Le diré a<LINE>Cranky que la recoja.<LINE>
+|

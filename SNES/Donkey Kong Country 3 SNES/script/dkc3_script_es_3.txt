@@ -1,0 +1,173 @@
+;{003A100A-003A1C2E-00000C25}
+@1
+;{<04>Yo, Dixie, what's happening?<LINE>I've set up my smokin' new<LINE>boat shop on this island.<LINE>But that's not all...<LINE>}
+<04>Hola, Dixie, ¿qué pasa?<LINE>He montado una tienda de<LINE>lanchas en esta isla.<LINE>Pero eso no es todo...<LINE>
+|
+@2
+;{<03>... I've also brought your<LINE>excellent cousin Kiddy Kong<LINE>along for the ride!<LINE>}
+<03>¡También he traído a tu<LINE>genial primo Kiddy Kong<LINE>como compañero de aventuras!<LINE>
+|
+@3
+;{<04>He may be a toddler, but<LINE>if you let him throw you<LINE>upwards, you'll almost<LINE>reach the stars! Oh yeah!<LINE>}
+<04>Ya sé que es muy pequeño,<LINE>pero si dejas que te lance<LINE>hacia arriba, ¡casi alcanzarás<LINE>las estrellas! ¡Sí, señor!<LINE>
+|
+@4
+;{<04>And if you throw him,<LINE>his humongous body can<LINE>smash through the floor<LINE>of some areas! Trust me!<LINE>}
+<04>Y si lo lanzas tú a él,<LINE>¡su increíble cuerpo romperá<LINE>el suelo de algunas zonas!<LINE>¡Créeme! ¡Lo atravesará!<LINE>
+|
+@5
+;{<03>Freak out! Freak out!<LINE>Spare parts for my boats<LINE>are what it's all about.<LINE>}
+<04>¡Despierta! ¡Despierta!<LINE>¡Necesito piezas que<LINE>molen para mis lanchas!<LINE>¡Voy a hacerlas volar!<LINE>
+|
+@6
+;{<04>Hey hey, Funky's in the<LINE>zone! Cash is not a<LINE>problem, XXXXX, 'cause my<LINE>boats you can loan.<LINE>}
+<04>¡Estás en territorio Funky!<LINE>El dinero no es problema, XXXXX,<LINE>mis lanchas puedes<LINE>alquilar sin preocupación.<LINE>
+|
+@7
+;{<04>Hey, those heinous boss<LINE>men have got a hoard of<LINE>items. If you find anything,<LINE>bring it on back here, huh?<LINE>}
+<04>Eh, esos jefes tienen<LINE>un mogollón de objetos.<LINE>Si encuentras alguno,<LINE>tráemelo, ¿de acuerdo?<LINE>
+|
+@8
+;{<03>Uh uh. Yeah! What we're<LINE>needing is some sort of spare<LINE>part situation, you dig?<LINE>}
+<03>A ver si lo captas. Tenemos<LINE>una emergencia de piezas de<LINE>repuesto, ¿lo pillas?<LINE>
+|
+@9
+;{<03>I'm the tower of power, too<LINE>sweet to be sour! Yo, hombres,<LINE>got anything new yet?<LINE>}
+<03>¡Qué agridulce destino el<LINE>mío! ¡La gloria me atrapa!<LINE>Oye, ¿Tienes algo para mí?<LINE>
+|
+@10
+;{<03>Keep looking out for those<LINE>items, XXXXX. I'm a few parts<LINE>short for my new invention!<LINE>}
+<04>No dejes de buscar piezas<LINE>para mis vehículos, XXXXX.<LINE>¡Me falta una para<LINE>mi nuevo invento!<LINE>
+|
+@11
+;{<03>Wicked! I only need a<LINE>few more parts to get<LINE>my vehicles going.<LINE>}
+<03>¡Vaya! Un par de piezas más<LINE>y mis vehículos estarán<LINE>listos para deslumbrar.<LINE>
+|
+@12
+;{<02>What's up! Have you got<LINE>me anything new I can use?<LINE>}
+<02>¿Qué pasa, colega?<LINE>¿Me traes algo útil?<LINE>
+|
+@13
+;{<02>Oh yeah! Everything is<LINE>whistlin', XXXXX.<LINE>}
+<02>¡Todo marcha<LINE>viento en popa!<LINE>
+|
+@14
+;{<03>Hey, XXXXX, take a break<LINE>and catch some rays -<LINE>know what I mean?<LINE>}
+<03>Oye, XXXXX, date un respiro<LINE>y disfruta del sol.<LINE>Tú me entiendes, ¿no?<LINE>
+|
+@15
+;{<04>If you see that loser up at<LINE>the big house, tell him to<LINE>keep it down at night. I've<LINE>got to have my beauty sleep!<LINE>}
+<04>Si te encuentras con el<LINE>pesado de la casa grande,<LINE>dile que meta menos ruido<LINE>por la noche. ¡Me molesta!<LINE>
+|
+@16
+;{<03>Any idea who that major<LINE>dweeb who lives at the top<LINE>of the island is?<LINE>}
+<03>¿Tienes idea de quién<LINE>es el bobo que vive en<LINE>la cima de la isla?<LINE>
+|
+@17
+;{<03>The guy in the big house is<LINE>most un-cool! If I were you,<LINE>XXXXX, I'd keep well away!<LINE>}
+<03>El tipo de la casa<LINE>grande no mola nada!<LINE>¡Yo que tú ni me acerco!<LINE>
+|
+@18
+;{<02>Cool and the gang, XXXXX!<LINE>How's it going today?<LINE>}
+<02>¡Hola, colega!<LINE>¿Cómo va todo hoy?<LINE>
+|
+@19
+;{<04>I'm just hanging out<LINE>today. Watching the<LINE>ships come in, and then<LINE>going out again!<LINE>}
+<04>Hoy solo estoy pasando<LINE>el rato. Mirando cómo llegan<LINE>los barcos, y luego<LINE>cómo se van de nuevo.<LINE>
+|
+@20
+;{<03>Since moving into this<LINE>place, I've become a real<LINE>grease monkey!<LINE>}
+<03>Desde que me mudé a este<LINE>lugar, ¡me he convertido<LINE>en un auténtico manitas!<LINE>
+|
+@21
+;{<02>A patch? Oh yeah! This<LINE>is just what I needed!<LINE>}
+<02>¿Un parche? ¡Oh, sí!<LINE>¡Justo lo que necesitaba!<LINE>
+|
+@22
+;{<04>Hang on for just a couple<LINE>of seconds, XXXXX, and I'll<LINE>get you a cool new tub<LINE>for you to rub a dub dub!<LINE>}
+<03>Dame un par de segundos,<LINE>y arreglaré el pinchazo para<LINE>que vueles sobre el agua.<LINE>
+|
+@23
+;{<02>Hey, XXXXX - a ski!<LINE>Not toooo shabby!<LINE>}
+<02>Eh, ¡pero si es un esquí!<LINE>¡Y está bien conservado!<LINE>
+|
+@24
+;{<04>Problem is, though,<LINE>I'm going to need its<LINE>partner before I can<LINE>get you on your way.<LINE>}
+<04>Claro que como no me<LINE>traigas el otro, no<LINE>podré hacer que vueles<LINE>sobre ellos.<LINE>
+|
+@25
+;{<04>Wahey! You've found two skis!<LINE>Awesome! I've now got all<LINE>the parts I need to make<LINE>you the ultimate ride!<LINE>}
+<04>¡Yupi! ¡Dos esquís! ¡Sí!<LINE>¡Ahora ya tengo todo lo<LINE>que necesito para crear<LINE>un vehículo bestial!<LINE>
+|
+@26
+;{<03>Wait right there, XXXXX,<LINE>while I get you my latest<LINE>and greatest boat yet!<LINE>}
+<03>¡Espera aquí mismo, XXXXX,<LINE>estoy preparando mi mejor<LINE>lancha hasta el momento!<LINE>
+|
+@27
+;{<04>Bonkers! I've built in a cool<LINE>turbo feature that'll be<LINE>sure to take you to new<LINE>heights! Just press 'Y'!!<LINE>}
+<04>¡Es total! He añadido un<LINE>turbo que te llevará hasta<LINE>el límite. ¡No tienes más<LINE>que pulsar el botón 'Y'!<LINE>
+|
+@28
+;{<04>Hey! Someone's told<LINE>you I've been extra busy<LINE>lately. Well... it's<LINE>something a bit special.<LINE>}
+<04>¡Eh! Así que te han<LINE>contado que últimamente<LINE>estoy muy ocupado. Sí...<LINE>Se trata de algo especial.<LINE>
+|
+@29
+;{<04>If you can find all the DK<LINE>coins, then you can put them<LINE>down as a deposit on my<LINE>ultimate ride.<LINE>}
+<04>Si encuentras todas las<LINE>monedas DK, podrás usarlas<LINE>como crédito y te dejaré<LINE>probar mi vehículo especial.<LINE>
+|
+@30
+;{<04>Come back when you've got<LINE>some more, XXXXX! I'll keep<LINE>you informed on how close to<LINE>the jackpot you are.<LINE>}
+<04>¡Vuelve cuando tengas<LINE>más, XXXXX! Te iré contando<LINE>lo cerca que estás de<LINE>ganar el gran premio.<LINE>
+|
+@31
+;{<03>You're still 00 coins<LINE>short of the deposit<LINE>for my top gear!<LINE>}
+<03>¡Aún te falta dinero<LINE>para alquilar mi<LINE>supervehículo! Solo: 00.<LINE>
+|
+@32
+;{<04>Whoa! Bogus docking, XXXXX!<LINE>Get my crate back in here<LINE>before that clumsy Bazaar<LINE>parks it on the rocks!<LINE>}
+<04>¡Por todos los micos, XXXXX!<LINE>¡Vuelve a por mi vehículo<LINE>enseguida, antes de que el<LINE>torpe de Bazaar lo encalle!<LINE>
+|
+@33
+;{<03>Unbelievable type of a<LINE>situation! You've found all<LINE>of the DK coins!<LINE>}
+<03>¡No pensé que sería<LINE>posible! ¡Has hallado<LINE>todas las monedas DK!<LINE>
+|
+@34
+;{<04>I'm sorry, XXXXX, I didn't<LINE>think you'd actually find<LINE>them all, so I've got nothing<LINE>new to show you!<LINE>}
+<04>Lo siento, XXXXX. Nunca pensé,<LINE>que las fueses a hallar<LINE>todas. La verdad es que<LINE>no tengo nada para ti.<LINE>
+|
+@35
+;{<04>Hey, XXXXX, just kidding, you<LINE>know? May I introduce you to<LINE>my finest and coolest creation<LINE>yet, the Funky-Copter!<LINE>}
+<04>Eh, que es una broma.<LINE>Te voy a presentar mi<LINE>última y más sublime<LINE>creación: ¡el Funkycóptero!<LINE>
+|
+@36
+;{<01>Catch you later, XXXXX.<LINE>}
+<01>Hasta luego, XXXXX.<LINE>
+|
+@37
+;{<01>Take it real easy, XXXXX.<LINE>}
+<01>Tómatelo con calma, XXXXX.<LINE>
+|
+@38
+;{<02>Don't stay away for<LINE>too long, huh?<LINE>}
+<02>No te pierdas mucho,<LINE>¿de acuerdo?<LINE>
+|
+@39
+;{<02>I'll be seein' ya<LINE>later, XXXXX.<LINE>}
+<01>Nos vemos luego, XXXXX.<LINE>
+|
+@40
+;{<01>Hang five, XXXXX.<LINE>}
+<01>Choca esos cinco, XXXXX.<LINE>
+|
+@41
+;{<01>Time to catch some rays.<LINE>}
+<01>Hora de un descanso.<LINE>
+|
+@42
+;{<02>Bust a move,<LINE>gotta groove!<LINE>}
+<02>¡Muévete un poco,<LINE>que el ritmo no pare!<LINE>
+|
+@43
+;{<02>Gotta go, XXXXX.<LINE>Surf's up!<LINE>}
+<02>Yo me piro ya, XXXXX.<LINE>¡Viva el surf!<LINE>
+|

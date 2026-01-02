@@ -1,0 +1,49 @@
+;{003A3E36-003A4186-00000351}
+@1
+;{<04>My word! How on earth<LINE>did you find me up here?<LINE>Well, never mind about that.<LINE>My name's Blizzard!<LINE>}
+<04>¡Por todas las nieves!<LINE>¿Cómo me has encontrado?<LINE>Bueno, eso no importa.<LINE>¡Soy Blizzard!<LINE>
+|
+@2
+;{<03>I've been up here for<LINE>weeks getting ready for<LINE>my attempt to conquer K3.<LINE>}
+<03>¡Llevo aquí arriba<LINE>semanas preparándome para<LINE>intentar escalar el K3!<LINE>
+|
+@3
+;{<03>It looks like I'm going<LINE>to miss my best friend<LINE>Blue's birthday.<LINE>}
+<03>Parece que me voy a<LINE>perder el cumpleaños de<LINE>mi mejor amigo, Blue.<LINE>
+|
+@4
+;{<04>Say, could you do me a<LINE>favor, XXXXX?<LINE><LINE><LINE>}
+<04>Oye, ¿podrías hacerme<LINE>un favor, XXXXX?<LINE><LINE><LINE>
+|
+@5
+;{<04><LINE><LINE><LINE>NN Snow problem!            <LINE>}
+<04><LINE><LINE><LINE>NN ¡Claro que sí!           <LINE>
+|
+@6
+;{<04><LINE><LINE><LINE>NN Snow way!                <LINE>}
+<04><LINE><LINE><LINE>NN ¡Va a ser que no!        <LINE>
+|
+@7
+;{<04>That's great! Could you<LINE>take him this present<LINE>for me, please - I'd be<LINE>ever so grateful.<LINE>}
+<04>Genial. ¿Le podrías<LINE>llevar este regalo<LINE>de mi parte? Te lo<LINE>agradecería mucho.<LINE>
+|
+@8
+;{<03>No? Well thanks for nothing,<LINE>XXXXX! I hope you catch a<LINE>cold out there!<LINE>}
+<03>¿No? Pues muchas gracias.<LINE>¡Espero que cojas un<LINE>buen resfriado ahí fuera!<LINE>
+|
+@9
+;{<04>I'm amazed you found me,<LINE>you know. I've been stuck<LINE>up here since I broke my<LINE>leg while sledding.<LINE>}
+<04>Me alucina que me hayas<LINE>encontrado. Llevo aquí<LINE>atrapado desde que me rompí<LINE>la pierna con el trineo.<LINE>
+|
+@10
+;{<03>How ever did you find me?<LINE>My house was completely<LINE>buried under the snow!<LINE>}
+<03>¿Cómo me has encontrado?<LINE>Mi casa estaba completamente<LINE>cubierta por la nieve.<LINE>
+|
+@11
+;{<03>Did he like my present?<LINE>It took me ages to think<LINE>of what to get him.<LINE>}
+<03>¿Le gustó mi regalo?<LINE>Me llevó mucho tiempo<LINE>decidir qué regalarle.<LINE>
+|
+@12
+;{<04>Brrr - it's pretty chilly up<LINE>here, don't you think? It<LINE>could freeze the hind leg<LINE>off your cousin Donkey!<LINE>}
+<04>Brrr, qué frío hace aquí.<LINE>¿No te parece?<LINE>Con este frío igual mutas<LINE>a mono polar. Ja, ja, ja.<LINE>
+|

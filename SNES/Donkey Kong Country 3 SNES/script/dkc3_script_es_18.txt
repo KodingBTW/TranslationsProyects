@@ -1,0 +1,113 @@
+;{003A4768-003A4F89-00000822}
+@1
+;{<04>Hello! Boomer's the name,<LINE>blowing things up is my game.<LINE>The rest of the folks have<LINE>stuck me up in here.<LINE>}
+<04>¡Hola! Me llamo Boomer.<LINE>Me encanta volar cosas<LINE>por los aires.<LINE>Por eso me han mandado aquí.<LINE>
+|
+@2
+;{<02>Something about me being too<LINE>dangerous or something.<LINE>}
+<02>La gente dice que<LINE>soy muy peligroso.<LINE>
+|
+@3
+;{<04>My brothers might be happy<LINE>with those dull bear coins,<LINE>but I'm only interested in<LINE>golds ones with 'B' on them!<LINE>}
+<04>Mis hermanos disfrutan con<LINE>las monedas oso, pero a mí<LINE>solo me interesan las de<LINE>oro con una 'B' en ellas.<LINE>
+|
+@4
+;{<04>If you hand me 15 coins, this<LINE>beauty will be primed and<LINE>ready to blow. Then you'll<LINE>see why they call me Boomer!<LINE>}
+<04>Si encuentras 15 monedas,<LINE>te mostraré por qué me<LINE>llaman Boomer. Haremos honor<LINE>a mi explosivo nombre.<LINE>
+|
+@5
+;{<04>By the way, XXXXX, did I<LINE>mention that my last special<LINE>costs 25 coins? But hey,<LINE>it'll definitely be worth it!<LINE>}
+<04>Por cierto, XXXXX, ¿te he dicho<LINE>que mi último espectáculo<LINE>cuesta 25 monedas? ¡Te<LINE>aseguro que merece la pena!<LINE>
+|
+@6
+;{<04>Fancy giving me some coins<LINE>then? Go on, have a go!<LINE><LINE><LINE>}
+<04>¿Entonces te apetece<LINE>darme unas monedas?<LINE><LINE><LINE>
+|
+@7
+;{<04><LINE><LINE><LINE>NN Let's do it, Boomer!     <LINE>}
+<04><LINE><LINE><LINE>NN ¡Adelante, Boomer!       <LINE>
+|
+@8
+;{<04><LINE><LINE><LINE>NN No way, you crazy bear!  <LINE>}
+<04><LINE><LINE><LINE>NN ¡Ni hablar, oso loco!    <LINE>
+|
+@9
+;{<03>Good one, XXXXX -<LINE>that's bought you 0 of<LINE>Boomer's specials!<LINE>}
+<03>Muy bien, XXXXX.<LINE>¡Eso te ha dado 0 de las<LINE>ofertas especiales de Boomer!<LINE>
+|
+@10
+;{<03>I see, saving up your coins<LINE>are you? What for? Spend<LINE>them here while you can.<LINE>}
+<03>Así que estás ahorrando.<LINE>¿Y para qué? Gástate las<LINE>monedas mientras puedas.<LINE>
+|
+@11
+;{<03>No? Perhaps you should<LINE>go and play with your<LINE>dollies instead!<LINE>}
+<02>¿No? ¡Entonces igual deberías<LINE>irte a jugar con tus muñecas!<LINE>
+|
+@12
+;{<04>Hey, are you trying to<LINE>shortchange me? The last<LINE>person who tried that<LINE>hasn't landed yet!<LINE>}
+<04>Oye, ¿te has propuesto<LINE>tomarme el pelo o qué?<LINE>La última persona que lo<LINE>intentó aún no ha aterrizado.<LINE>
+|
+@13
+;{<04>What the blazes!!?<LINE>I don't know how you did<LINE>it, XXXXX, and I don't<LINE>think I want to either!<LINE>}
+<04>¡Rayos y dinamita!<LINE>No sé cómo lo hiciste,<LINE>XXXXX, ¡y creo que<LINE>tampoco quiero saberlo!<LINE>
+|
+@14
+;{<02>Is that a cog you've got<LINE>there?<LINE>}
+<02>¿Y esa rueda dentada<LINE>que llevas ahí?<LINE>
+|
+@15
+;{<04>You know, I reckon it'll<LINE>fit on this strange box<LINE>which has been here ever<LINE>since I moved in.<LINE>}
+<03>Yo creo que encajaría en<LINE>esta extraña caja que lleva<LINE>aquí desde que me mudé.<LINE>
+|
+@16
+;{<02>Pop it on and see<LINE>what happens!<LINE>}
+<02>¡Encájala a<LINE>ver qué ocurre!<LINE>
+|
+@17
+;{<03>Looks like you're going to<LINE>have to find a few more of<LINE>them to fit it all together.<LINE>}
+<03>Parece que vas a tener que<LINE>encontrar algunas más<LINE>para que todo encaje.<LINE>
+|
+@18
+;{<04>Perhaps there are some more<LINE>hidden on the other levels.<LINE>Go on, XXXXX, I reckon you<LINE>can find the rest!<LINE>}
+<04>Quizá haya más ocultas en<LINE>otras zonas. Vamos, XXXXX,<LINE>¡seguro que encuentras<LINE>el resto enseguida!<LINE>
+|
+@19
+;{<04>Hey, you've got another<LINE>one of those cogs. Put it<LINE>on the machine and see if<LINE>anything happens!<LINE>}
+<04>Eh, tienes otra rueda<LINE>dentada. ¡Encájala en<LINE>la máquina a ver si<LINE>ocurre algo!<LINE>
+|
+@20
+;{<02>Wow, you've found some<LINE>more of those cogs...<LINE>}
+<02>¡Vaya! Has encontrado más<LINE>ruedas dentadas de esas...<LINE>
+|
+@21
+;{<03>let's add them to the<LINE>collection and see<LINE>if they do the trick!<LINE>}
+<02>¡Añadámoslas a la colección<LINE>a ver qué ocurre ahora!<LINE>
+|
+@22
+;{<03>Well, they're all in.....<LINE>Doesn't seem to have done<LINE>too much though, does it?<LINE>}
+<03>Bueno, ya están todas<LINE>y no parece que pase<LINE>nada, ¿verdad?<LINE>
+|
+@23
+;{<04>WHAT on earth is that<LINE>racket? Hey, take a look<LINE>outside, XXXXX - you won't<LINE>believe it!<LINE>}
+<04>¿Qué ha sido ese<LINE>estruendo? ¡Mira!<LINE>¡Mira fuera, XXXXX!<LINE>¡No vas a creértelo!<LINE>
+|
+@24
+;{<04>Hey there, XXXXX, what have<LINE>you found on your travels?<LINE>You know, I reckon those cogs<LINE>will fit onto this machine!<LINE>}
+<04>¿Eso que tienes ahí<LINE>son ruedas dentadas?<LINE>Yo creo que encajarían<LINE>en esta extraña caja.<LINE>
+|
+@25
+;{<02>Let's shove them on and see<LINE>what happens.<LINE>}
+<02>Encájalas a<LINE>ver qué ocurre!<LINE>
+|
+@26
+;{<03>Well, they're all on;<LINE>doesn't seem to have<LINE>done much though.<LINE>}
+<03>Pues ahora que están<LINE>todas colocadas... no<LINE>parece que ocurra nada.<LINE>
+|
+@27
+;{<02>That's it, XXXXX, I'm<LINE>all out of explosives.<LINE>}
+<02>Eso es todo, XXXXX, se me<LINE>han acabado los explosivos.<LINE>
+|
+@28
+;{<04>Phew, it's roasting in<LINE>here! I had to pop down<LINE>to Bazaar's and get this<LINE>fan. He's not cheap, is he?<LINE>}
+<04>¡Uf! ¡Qué calor hace aquí!<LINE>Tuve que hacerle una visita<LINE>a Bazaar y comprar este<LINE>ventilador. Me salió caro.<LINE>
+|

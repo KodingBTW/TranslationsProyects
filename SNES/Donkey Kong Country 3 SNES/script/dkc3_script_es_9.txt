@@ -1,0 +1,61 @@
+;{003A2D60-003A31D6-00000477}
+@1
+;{<04>Hah, hello there, XXXXX!<LINE>Allow me to introduce<LINE>myself - I am Bramble,<LINE>the famed botanist.<LINE>}
+<03>¡Hola, XXXXX!<LINE>Deja que me presente.<LINE>Soy Bramble, famoso botánico.<LINE>
+|
+@2
+;{<04>Yes, I moved up here to get<LINE>away from the smell of the<LINE>machines, but it's been too<LINE>dry to grow anything.<LINE>}
+<04>Sí, me he mudado aquí para<LINE>huir del olor de las máquinas,<LINE>pero esta tierra está<LINE>demasiado seca para cultivar.<LINE>
+|
+@3
+;{<04>Since I have been unable to<LINE>grow or study plants, I<LINE>have taken an interest in<LINE>collecting animals.<LINE>}
+<04>Como no he podido ni<LINE>cultivar ni estudiar plantas,<LINE>me he dedicado a<LINE>coleccionar animales.<LINE>
+|
+@4
+;{<04>I love plants, don't you?<LINE>They're so beautiful. This<LINE>picture reminds me of those<LINE>I can't grow anymore.<LINE>}
+<04>Me encantan las plantas.<LINE>¿A ti no? ¡Son tan hermosas!<LINE>Esta imagen me recuerda a las<LINE>que ya no puedo cultivar.<LINE>
+|
+@5
+;{<04>The most beautiful flowers<LINE>used to grow around here,<LINE>but they died back when<LINE>those awful machines came!<LINE>}
+<04>Las flores más hermosas<LINE>solían crecer por aquí,<LINE>pero murieron cuando<LINE>llegaron esas máquinas.<LINE>
+|
+@6
+;{<04>I'm glad those horrible<LINE>machines are destroyed.<LINE>Perhaps my beautiful flowers<LINE>can start to grow again now.<LINE>}
+<04>Me alegro de que esas<LINE>máquinas hayan sido destruidas.<LINE>Quizás mis hermosas flores<LINE>puedan volver a crecer ahora.<LINE>
+|
+@7
+;{<02>You've got one! A perfect<LINE>Flupperius Petallus Pongus.<LINE>}
+<02>¡Tienes una! Una perfecta<LINE>Floris Mirabilis Petallus.<LINE>
+|
+@8
+;{<04>Would you let me have it?<LINE>I'd be ever so grateful.<LINE><LINE><LINE>}
+<04>¿Me la das? Te estaría<LINE>tan agradecido...<LINE><LINE><LINE>
+|
+@9
+;{<04><LINE><LINE><LINE>NN Oh, okay then.           <LINE>}
+<04><LINE><LINE><LINE>NN Oh, de acuerdo.          <LINE>
+|
+@10
+;{<04><LINE><LINE><LINE>NN No, I want it!           <LINE>}
+<04><LINE><LINE><LINE>NN No, ¡la quiero!          <LINE>
+|
+@11
+;{<04>You are too generous, XXXXX.<LINE>Here, have this<LINE>Bananus Goldus Flutterus.<LINE>Err um.. I meant Banana Bird!<LINE>}
+<04>Tu generosidad deslumbra.<LINE>Toma, llévate este Platanus<LINE>Aureus Volantis. Eh.. quiero<LINE>decir, ¡un pájaro plátano!<LINE>
+|
+@12
+;{<04>I've finished studying<LINE>its abilities - some<LINE>of them are quite magical,<LINE>I'll have you know!<LINE>}
+<04>He terminado de estudiar<LINE>sus habilidades. Tiene<LINE>algunas realmente mágicas.<LINE>¡Quería que lo supieses!<LINE>
+|
+@13
+;{<02>Well it's up to you, but it<LINE>would mean so much to me.<LINE>}
+<02>Bueno, tú verás lo que haces,<LINE>pero me hacía mucha ilusión.<LINE>
+|
+@14
+;{<03>Hello there, XXXXX,<LINE>come to see my flower<LINE>display?<LINE>}
+<03>Hola, XXXXX, ¿has venido<LINE>a ver mi exposición<LINE>de flores?<LINE>
+|
+@15
+;{<02>Thanks again, XXXXX. You've<LINE>made my life happy again.<LINE>}
+<02>Muchas gracias, XXXXX. Me<LINE>has hecho un oso muy feliz.<LINE>
+|

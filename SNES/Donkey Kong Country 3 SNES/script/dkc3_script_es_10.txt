@@ -1,0 +1,105 @@
+;{003A300C-003A368D-00000682}
+@1
+;{<04>Well, good day to you,<LINE>XXXXX! How are you? The<LINE>name's Barter. Whoops!<LINE>Have you seen me washers?<LINE>}
+<04>¿Qué tal el día, XXXXX?<LINE>Yo me llamo Barter.<LINE>¡Oh, oh! No mires los<LINE>platos que están sucios.<LINE>
+|
+@2
+;{<03>That posin' Funky fella<LINE>has been acting a bit<LINE>weird lately.<LINE>}
+<03>El gallito de Funky<LINE>se comporta de forma<LINE>extraña últimamente.<LINE>
+|
+@3
+;{<04>I'd swear he's been working<LINE>on some super secret project.<LINE>But I reckon it's just<LINE>some silly pipe dream!<LINE>}
+<04>Yo creo que tiene un<LINE>proyecto secreto entre manos.<LINE>¡Claro que apuesto a que no<LINE>es más que un sueño tonto!<LINE>
+|
+@4
+;{<04>I've been doing some home<LINE>improvements, but look at<LINE>the state of me! How will I<LINE>know when I'm clean?<LINE>}
+<04>He hecho mejoras en mi casa,<LINE>pero mira lo sucio que me<LINE>he quedado. ¿Y ahora cómo<LINE>sabré cuándo estoy limpio?<LINE>
+|
+@5
+;{<03>What a mess I must be in,<LINE>but what's the point of<LINE>worrying if you can't tell?<LINE>}
+<03>Debo de estar realmente<LINE>desastroso, pero como no puedo<LINE>verme, ¿para qué preocuparme?<LINE>
+|
+@6
+;{<04>Grubby? Well my hands might<LINE>be a bit dirty. But how do<LINE>I know you're not lying<LINE>about my face?<LINE>}
+<04>¿Sucio? Bueno, veo que<LINE>tengo las manos sucias,<LINE>pero, ¿cómo sé que no<LINE>mientes sobre mi cara?<LINE>
+|
+@7
+;{<02>Dirty!? I'd take a look in<LINE>a mirror if I were you.<LINE>}
+<02>¿Sucio? Yo me miraría en<LINE>un espejo, si fuese tú.<LINE>
+|
+@8
+;{<04>Is that a mirror? If it is,<LINE>could I possibly borrow it?<LINE><LINE><LINE>}
+<04>¿Eso que tienes es un espejo?<LINE>¿Me dejarías mirarme en él?<LINE><LINE><LINE>
+|
+@9
+;{<04><LINE><LINE><LINE>NN Why certainly!           <LINE>}
+<04><LINE><LINE><LINE>NN ¡Claro que sí!           <LINE>
+|
+@10
+;{<04><LINE><LINE><LINE>NN Hands off, buster!       <LINE>}
+<04><LINE><LINE><LINE>NN ¡Aleja tus manos de él!  <LINE>
+|
+@11
+;{<04>Thanks for that, XXXXX.<LINE>Oh no! Look at the state of<LINE>me - I'm a wreck! Take this<LINE>wrench - I don't need it now.<LINE>}
+<04>Muchas gracias, XXXXX.<LINE>¡Oh, no! Mira qué pinta<LINE>tengo. ¡Qué horror! Llévate<LINE>esta llave inglesa si quieres.<LINE>
+|
+@12
+;{<02>Well... thank you very<LINE>much. Harrumph!<LINE>}
+<02>Vale. Muchas gracias por<LINE>tu amabilidad. ¡Buaaaa!<LINE>
+|
+@13
+;{<04>Hey, look at me now, XXXXX!<LINE>Don't ya think I'm looking<LINE>drop dead gorgeous? I'm a<LINE>lean, mean machine!<LINE>}
+<04>¡Mírame ahora, XXXXX!<LINE>¿No crees que estoy<LINE>guapísimo? ¡Soy todo<LINE>un galán!<LINE>
+|
+@14
+;{<04>Hey, XXXXX, do you<LINE>want your mirror back?<LINE><LINE><LINE>}
+<04>Hola, XXXXX, ¿quieres que<LINE>te devuelva el espejo?<LINE><LINE><LINE>
+|
+@15
+;{<04><LINE><LINE><LINE>NN Well, it is mine!        <LINE>}
+<04><LINE><LINE><LINE>NN Sí, ¡es mío!             <LINE>
+|
+@16
+;{<04><LINE><LINE><LINE>NN You can keep it.         <LINE>}
+<04><LINE><LINE><LINE>NN No, puedes quedártelo.   <LINE>
+|
+@17
+;{<02>Okay, but I've got<LINE>a feeling you'll be back.<LINE>}
+<02>De acuerdo, pero tengo<LINE>la impresión de que volverás.<LINE>
+|
+@18
+;{<03>Well if you want it back<LINE>then it's gonna cost ya.<LINE>That's right, 10 coins!<LINE>}
+<03>Vale, si lo quieres de vuelta,<LINE>entonces te va a costar algo.<LINE>¡Así es, 10 monedas!<LINE>
+|
+@19
+;{<04>Beauty doesn't come cheap<LINE>you know. Still want it?<LINE><LINE><LINE>}
+<04>La belleza no es gratuita.<LINE>¿Lo quieres de todas formas?<LINE><LINE><LINE>
+|
+@20
+;{<04><LINE><LINE><LINE>NN Yes, you swindler!       <LINE>}
+<04><LINE><LINE><LINE>NN ¡Sí, caradura!           <LINE>
+|
+@21
+;{<04><LINE><LINE><LINE>NN Take a hike, buster!     <LINE>}
+<04><LINE><LINE><LINE>NN ¡Ni hablar, usurero!     <LINE>
+|
+@22
+;{<03>Well, okay then - I was<LINE>getting bored of being<LINE>so neat and tidy.<LINE>}
+<03>De acuerdo. Total, ya<LINE>empezaba a aburrirme de<LINE>estar tan limpio y guapo.<LINE>
+|
+@23
+;{<03>That's no way to talk<LINE>to somebody as good<LINE>looking as me.<LINE>}
+<03>¿Cómo te atreves a<LINE>hablarle así a un oso<LINE>tan hermoso como yo?<LINE>
+|
+@24
+;{<02>Hey, you cheatin' XXXXX,<LINE>what are you playing at?<LINE>}
+<02>Me tomas el pelo, XXXXX.<LINE>¿A qué juegas?<LINE>
+|
+@25
+;{<03>Awww, look at the state of me<LINE>again. As soon as I sold that<LINE>mirror, I fell into the pond!<LINE>}
+<03>Ay, mira en qué estado estoy<LINE>otra vez. En cuanto vendí ese<LINE>espejo, ¡me caí al estanque!<LINE>
+|
+@26
+;{<03>I thought you were supposed<LINE>to smash the mirror to get<LINE>bad luck - look at me!<LINE>}
+<04>¡Pensaba que se suponía que<LINE>había que romper un espejo<LINE>para atraer la mala suerte!<LINE>¡Mírame ahora!<LINE>
+|

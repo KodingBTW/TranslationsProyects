@@ -1,0 +1,189 @@
+;{003A0000-003A0DF0-00000DF1}
+@1
+;{<03>Well would you believe it!<LINE>Hello, XXXXX! Welcome along<LINE>to my all new Bonus Tent!<LINE>}
+<03>¡Bueno, bueno, qué sorpresa!<LINE>¡Hola, XXXXX! ¡Has venido<LINE>a ver mi nuevo juego!<LINE>
+|
+@2
+;{<04>My show's on the road<LINE>and it's in every land.<LINE>The cost of this game?<LINE>Two coins in the hand!<LINE>}
+<04>Mi espectáculo llega a<LINE>todas las ciudades.<LINE>¿Quieres saber el precio?<LINE>¡2 monedas nada más!<LINE>
+|
+@3
+;{<04>There are some great prizes<LINE>on offer today, so come on <LINE>in and choose to play. Just<LINE>do that and you're away!<LINE>}
+<04>Hoy ofrecemos algunos<LINE>premios estupendos, así que,<LINE>vamos, anímate a jugar.<LINE>¡Simplemente apuesta y listo!<LINE>
+|
+@4
+;{<04>So come on, XXXXX,<LINE>and have a go!<LINE>You could well win,<LINE>you never know!<LINE>}
+<03>¡Prueba tu suerte, XXXXX!<LINE>¡Podrías ganar!<LINE>Nunca se sabe.<LINE>
+|
+@5
+;{<04>Okay, pay attention to<LINE>Swanky! There's a lot of<LINE>super prizes on offer for<LINE>our lucky winners today!<LINE>}
+<04>Muy bien, ¡presta atención<LINE>a lo que dice Swanky! ¡Los<LINE>premios que tenemos para los<LINE>ganadores de hoy son fabulosos!<LINE>
+|
+@6
+;{<04>Watch out for Cranky - his<LINE>curve balls are meant for<LINE>moving targets, know what I<LINE>mean?<LINE>}
+<04>Cuidado con Cranky, sus<LINE>bolas curvas están destinadas<LINE>a blancos en movimiento.<LINE>¿Sabes lo que digo?<LINE>
+|
+@7
+;{<02>Hey, come and play! See what<LINE>you can win today!<LINE>}
+<02>Eh, ¡vamos a jugar!<LINE>¡A ver qué ganas hoy!<LINE>
+|
+@8
+;{<03>Hello, XXXXX! Would you like<LINE>to have a go? You could well<LINE>win, you never know!<LINE>}
+<03>¡Hola, XXXXX! ¿Te apetece<LINE>probar suerte? Podrías<LINE>ganar. ¡Nunca se sabe!<LINE>
+|
+@9
+;{<03>Watch out for that Cranky<LINE>Kong! He's a right slippery<LINE>customer - make no mistake!<LINE>}
+<03>¡Cuidado con Cranky Kong!<LINE>Es un tipo muy astuto,<LINE>¡no cometas errores!<LINE>
+|
+@10
+;{<04>Keep an eye on Cranky<LINE>when you're playing - the<LINE>last contestant is still<LINE>recovering!<LINE>}
+<04>No pierdas de vista a Cranky<LINE>cuando estés jugando.<LINE>¡El último concursante<LINE>todavía se está recuperando!<LINE>
+|
+@11
+;{<04>No age restriction for<LINE>this game, young XXXXX, just<LINE>pay up and have yourself a<LINE>ball.<LINE>}
+<04>Los más pequeños también<LINE>pueden participar en este<LINE>juego, joven, XXXXX. Si pagas,<LINE>podrás jugar como todos.<LINE>
+|
+@12
+;{<03>Roll up, roll up, it's all<LINE>the fun of the fair! And<LINE>half the price too!<LINE>}
+<04>¡Pasen y vean!<LINE>¡Toda la diversión<LINE>de la feria y a<LINE>mitad de precio!<LINE>
+|
+@13
+;{<04>Now take your time - it's a<LINE>big decision. Are you going<LINE>to gamble or keep the coins<LINE>you've already won?<LINE>}
+<04>Tómate tu tiempo. Se trata de<LINE>una difícil decisión. ¿Vas a<LINE>apostar las monedas que has<LINE>ganado o las vas a guardar?<LINE>
+|
+@14
+;{<04>Don't worry, your tokens<LINE>are safe. Do you want to<LINE>gamble your coins for<LINE>the Big Prize?<LINE>}
+<04>Tus monedas están a<LINE>salvo conmigo. ¿Quieres<LINE>arriesgarlas para intentar<LINE>hacerte con el gran premio?<LINE>
+|
+@15
+;{<03>It'll be a big day<LINE>today, if you play<LINE>it the right way!<LINE>}
+<03>¡Hoy puede ser un gran<LINE>día, si la suerte te<LINE>sonríe y ganas un montón!<LINE>
+|
+@16
+;{<03>There are some truly<LINE>great prizes to be won -<LINE>or my name's not Swanky!<LINE>}
+<03>Hay algunos premios que<LINE>son realmente maravillosos.<LINE>¡Como que me llamo Swanky!<LINE>
+|
+@17
+;{<03>There are nanas and tokens<LINE>galore, for the ones<LINE>who get the best score!<LINE>}
+<03>¡El que consiga la mejor<LINE>puntuación se llevará<LINE>las monedas y la gloria!<LINE>
+|
+@18
+;{<03>Remember, XXXXX,<LINE>the bigger the win,<LINE>the bigger the prize!<LINE>}
+<03>Recuerda, XXXXX, ¡cuanto más<LINE>ganes, mejor será el<LINE>premio que te lleves!<LINE>
+|
+@19
+;{<03>Welcome to my sideshow!<LINE>The home of fair play -<LINE>apart from Cranky that is!<LINE>}
+<03>¡Bienvenidos a mi<LINE>feria! Hogar del juego limpio,<LINE>¡aparte de Cranky, claro está!<LINE>
+|
+@20
+;{<03>For just a few coins you<LINE>can win a king's ransom<LINE>in top quality prizes!<LINE>}
+<03>¡Por solo unas monedas,<LINE>podrás ganar el tesoro<LINE>de un rey en premios!<LINE>
+|
+@21
+;{<04>Hey, folks! Our contestants<LINE>want to play head to head<LINE>in our all new special<LINE>two player contest!<LINE>}
+<04>¡Hola a todos! ¡Nuestros<LINE>concursantes quieren jugar<LINE>uno contra uno en nuestro<LINE>concurso para dos jugadores!<LINE>
+|
+@22
+;{<04>Today's round is a special<LINE>throwing game where the<LINE>winner is the first to<LINE>score 25 points!<LINE>}
+<04>¡El desafío de hoy es un<LINE>juego de lanzamiento especial<LINE>en el que el ganador es el<LINE>primero en conseguir 25 puntos!<LINE>
+|
+@23
+;{<04>Today's event will be a<LINE>throwing game - the longer<LINE>you last, the bigger the<LINE>prize!<LINE>}
+<04>El evento de hoy será un<LINE>juego de lanzamiento,<LINE>¡cuanto más dures,<LINE>mayor será el premio!<LINE>
+|
+@24
+;{<04>Today's contest is a<LINE>throwing game with a<LINE>difference!  The happiest<LINE>player at the end wins!<LINE>}
+<04>¡El concurso de hoy es un<LINE>juego de lanzamiento con una<LINE>diferencia! ¡El jugador<LINE>más feliz al final gana!<LINE>
+|
+@25
+;{<03>Okay, XXXXX, it's your<LINE>choice today. Which game<LINE>would you like to play?<LINE>}
+<03>Vale, XXXXX, hoy te<LINE>toca elegir. ¿A qué<LINE>juego te gustaría jugar?<LINE>
+|
+@26
+;{<02>Sorry, XXXXX, you don't<LINE>have enough to play.<LINE>}
+<02>Lo siento, XXXXX, te faltan<LINE>monedas para jugar.<LINE>
+|
+@27
+;{<02>Oh, you'll need more coins<LINE>to play this game I'm afraid.<LINE>}
+<02>Necesitas más monedas.<LINE>Si no, no podrás jugar.<LINE>
+|
+@28
+;{<02>Awww, isn't that a shame -<LINE>you don't have enough coins.<LINE>}
+<02>Vaya... Qué pena. No<LINE>tienes bastantes monedas.<LINE>
+|
+@29
+;{<02>Never mind, with more coins<LINE>you can do it next time.<LINE>}
+<02>En cuanto tengas más<LINE>monedas, podrás jugar.<LINE>
+|
+@30
+;{<02>You just haven't got enough<LINE>coins to play I'm afraid.<LINE>}
+<02>No tienes monedas<LINE>suficientes para jugar.<LINE>
+|
+@31
+;{<03>Well, I'm afraid that's not<LINE>the amount of coins I'm<LINE>looking for.<LINE>}
+<03>Me temo que no tienes la<LINE>cantidad de monedas que<LINE>pido a los jugadores.<LINE>
+|
+@32
+;{<02>I can only accept two coins<LINE>to play this game I'm afraid.<LINE>}
+<02>Lo siento, pero no puedo<LINE>aceptar menos de 2 monedas.<LINE>
+|
+@33
+;{<02>Sorry, XXXXX, you're just<LINE>a few coins short.<LINE>}
+<02>Lo siento, XXXXX, te faltan<LINE>unas pocas monedas.<LINE>
+|
+@34
+;{<03>Let's have a big<LINE>round of applause<LINE>for our contestants!<LINE>}
+<03>¡Un fuerte aplauso para<LINE>nuestros concursantes!<LINE>¡Bien hecho! ¡Sí!<LINE>
+|
+@35
+;{<04>You were great! I hope<LINE>you'll be back again when<LINE>the prizes will be even<LINE>bigger and better!<LINE>}
+<04>¡Ha sido estupendo!<LINE>¡Espero volver a verte<LINE>pronto por aquí! Te<LINE>esperan más premios.<LINE>
+|
+@36
+;{<03>That's one of the best<LINE>performances that I've<LINE>seen in a long, long time!<LINE>}
+<03>¡Eres uno de los mejores<LINE>jugadores que han pasado<LINE>por aquí en mucho tiempo!<LINE>
+|
+@37
+;{<03>Hey, I think you've<LINE>played this game<LINE>before, haven't you?!<LINE>}
+<03>Eh, yo creo que tú ya<LINE>habías jugado a este<LINE>juego antes, ¿verdad?<LINE>
+|
+@38
+;{<04>Nobody goes home empty<LINE>handed on this show. Here,<LINE>have some bananas<LINE>with my compliments!<LINE>}
+<04>En este concurso, nadie<LINE>se va a casa con las<LINE>manos vacías. Toma unos<LINE>plátanos, cortesía mía.<LINE>
+|
+@39
+;{<03>Awww, that's a real shame,<LINE>XXXXX! Never mind, you can<LINE>always try again!<LINE>}
+<03>Vaya... ¡Qué pena, XXXXX!<LINE>No pasa nada.<LINE>¡Vuelve a intentarlo!<LINE>
+|
+@40
+;{<03>Well, you gave it your<LINE>best shot. It's just a<LINE>pity that you missed!<LINE>}
+<03>Lo has hecho lo mejor que<LINE>sabes. ¡Es una pena que no<LINE>le hayas dado al blanco!<LINE>
+|
+@41
+;{<04>I can't believe it! Cranky<LINE>beat you! Here's a<LINE>consolation prize to go<LINE>away with!<LINE>}
+<04>¡No me lo puedo creer!<LINE>¡Cranky te ha vencido!<LINE>¡Aquí está tu premio<LINE>de consolación!<LINE>
+|
+@42
+;{<03>You were both on top form<LINE>today! Here, have these<LINE>as a bonus!<LINE>}
+<03>¡Ambos estuvieron<LINE>en plena forma hoy!<LINE>¡Tomen esto como regalo!<LINE>
+|
+@43
+;{<04>That one was too close<LINE>to call, but I reckon you<LINE>should have won! You've<LINE>earned these great prizes!<LINE>}
+<04>Ha estado muy reñido,<LINE>pero creo que deberías<LINE>haber ganado.<LINE>¡Te has ganado esto!<LINE>
+|
+@44
+;{<04>That performance had me on<LINE>the edge of my seat! I've<LINE>never seen a game so close.<LINE>You really deserve more!!<LINE>}
+<04>¡Esa actuación me dejó<LINE>en vilo! Nunca había<LINE>visto un partido tan reñido.<LINE>¡Realmente te mereces más!<LINE>
+|
+@45
+;{<04>There's no way I could<LINE>split the two of you in<LINE>that titanic battle! Have<LINE>these for your efforts!<LINE>}
+<04>¡No hay manera de que<LINE>pudiera separarlos en<LINE>esa batalla titánica!<LINE>¡Tomen esto por su esfuerzo!<LINE>
+|
+@46
+;{<03>Have a nice day!<LINE>Show them Kremlings<LINE>what you're made of!!<LINE>}
+<03>¡Que tengas un buen día!<LINE>¡Demuestra a esos<LINE>Kremlings de qué estás hecho!<LINE>
+|
+@47
+;{<03>Feel free to come back<LINE>whenever you feel like<LINE>a game!<LINE>}
+<03>Vuelve cuando quieras.<LINE>¡Siempre que te<LINE>apetezca jugar un rato!<LINE>
+|

@@ -1,0 +1,65 @@
+;{003A3622-003A3B9B-0000057A}
+@1
+;{<04>Hey, it's the banana brained<LINE>XXXXX! What do you think<LINE>you're doing coming into<LINE>Brash's cabin without asking?<LINE>}
+<04>Vaya, vaya, mira quién está<LINE>aquí, XXXXX. ¿Quién te ha<LINE>dado permiso para irrumpir<LINE>así en la cabina de Brash?<LINE>
+|
+@2
+;{<04>See that river bank race? I<LINE>ran that in 01:15:00. You<LINE>couldn't do it in double<LINE>that time.<LINE>}
+<04>¿Has visto la Carrera de la<LINE>orilla? Mi récord es 01:15:00.<LINE>Tú no la completarías ni<LINE>en el doble de tiempo.<LINE>
+|
+@3
+;{<04>Call that a decent time on<LINE>the river bank? I've given<LINE>people bigger head-starts<LINE>than that - and still won!<LINE>}
+<04>¿A ti te parece eso un tiempo<LINE>decente? Por favor, podría<LINE>dejarte todo ese tiempo de<LINE>ventaja y ganarte sin sudar.<LINE>
+|
+@4
+;{<04>Did you get hurt on the<LINE>river bank level, XXXXX?<LINE>That must be why you were<LINE>sssoooo slowwwww!<LINE>}
+<04>¿Te has hecho daño ya en el<LINE>nivel de la orilla, XXXXX?<LINE>Ya. Por eso ibas más despacio<LINE>que una abuelita.<LINE>
+|
+@5
+;{<04>Went for a walk on the<LINE>river bank level did you?<LINE>That would explain your<LINE>pitifully weak time on it.<LINE>}
+<04>¿Qué? ¿De paseo por la<LINE>orilla? Tiene que ser eso.<LINE>Si no, no entiendo cómo<LINE>se puede ir tan despacio.<LINE>
+|
+@6
+;{<03>Hey XXXXX, did you stop for<LINE>a picnic on the river bank<LINE>or did you just get lost?<LINE>}
+<03>¿Qué? ¿Te paraste a merendar<LINE>durante la carrera?<LINE>O igual te perdiste.<LINE>
+|
+@7
+;{<04>Hey! Did you happen to join<LINE>Wrinkly's ramblers on their<LINE>monthly trundle along the<LINE>river bank? I reckon so!<LINE>}
+<04>¡Eh! Te encontraste con<LINE>Wrinkly y sus amigas de<LINE>excursión por el río y<LINE>te uniste al grupo, ¿no?<LINE>
+|
+@8
+;{<04>Goodness me! If I looked<LINE>like you, XXXXX, I'd walk<LINE>backwards just to look a<LINE>bit more presentable.<LINE>}
+<04>¡Por todos los osos! Si<LINE>yo tuviese tu pinta, XXXXX,<LINE>caminaría hacia atrás para<LINE>parecer más presentable.<LINE>
+|
+@9
+;{<04>Where are your manners?<LINE>I'm sure I didn't see you<LINE>wipe your feet on my<LINE>'Unwelcome' mat.<LINE>}
+<04>¿Dónde están tus modales?<LINE>No te has limpiado las<LINE>patas en la alfombrilla<LINE>que pone 'Largo de aquí'.<LINE>
+|
+@10
+;{<04>Just look at all these fine<LINE>trophies. The only way you'd<LINE>ever win one is if they gave<LINE>them away in cereal packets.<LINE>}
+<04>Tendrías que ver mis<LINE>estupendos trofeos. Tú<LINE>jamás tendrás ni uno, a menos<LINE>que los den con los cereales.<LINE>
+|
+@11
+;{<04>Wwwhhhaatt?! Yooouuu can't<LINE>have beaten my time! I've<LINE>held that record for the<LINE>last two years running!<LINE>}
+<04>¿¡Cómo!? ¡No puedes<LINE>haber mejorado mi tiempo!<LINE>¡En dos años, nadie me<LINE>había arrebatado el récord!<LINE>
+|
+@12
+;{<02>Yoooou've made me ssssooooo<LINE>angry! I could............<LINE>}
+<02>¡Estoy tan enfadado<LINE>que podría...!<LINE>
+|
+@13
+;{<04>If you think I'm talking to<LINE>you, XXXXX, you can forget it.<LINE>I don't mind you winning, but<LINE>showing off is just un-cool!!<LINE>}
+<04>Si piensas que te voy a<LINE>dirigir la palabra, XXXXX,<LINE>¡ni lo sueñes! No me molesta<LINE>que ganes, sino tu prepotencia.<LINE>
+|
+@14
+;{<01>GO ON - GET OUT NOW!<LINE>}
+<01>¡VAMOS! ¡FUERA!<LINE>
+|
+@15
+;{<02>Don't get too cocky, I've<LINE>demanded an inquiry!<LINE>}
+<03>¡No creas que esto va<LINE>a quedar así, XXXXX!<LINE>¡He exigido una investigación!<LINE>
+|
+@16
+;{<02>I'll get my title back from<LINE>you XXXXX, just you wait!<LINE>}
+<02>Recuperaré mi título.<LINE>¡Espera y verás!<LINE>
+|

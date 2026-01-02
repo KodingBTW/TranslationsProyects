@@ -1,0 +1,93 @@
+@1
+<END><END><END><END>Ciudad zancos<LINE>
+|
+@2
+Fiebre en el molino<LINE>
+|
+@3
+Kremisferio norte<LINE>
+|
+@4
+Introducción 1<LINE>
+|
+@5
+Introducción 2<LINE>
+|
+@6
+Frolics helados<LINE>
+|
+@7
+Tiempo extra<LINE>
+|
+@8
+Extra: derrota<LINE>
+|
+@9
+Baile del jefe<LINE>
+|
+@10
+Hermanos osos<LINE>
+|
+@11
+Reina plátano<LINE>
+|
+@12
+Ritmo del árbol<LINE>
+|
+@13
+Río encantado<LINE>
+|
+@14
+Mundo subacuático<LINE>
+|
+@15
+Jefe Arich<LINE>
+|
+@16
+Nivel: victoria<LINE>
+|
+@17
+Nivel extra<LINE>
+|
+@18
+Catarata<LINE>
+|
+@19
+Nueces y rayos<LINE>
+|
+@20
+Tuberías bailonas<LINE>
+|
+@21
+Cueva capricho<LINE>
+|
+@22
+Campanas jungla<LINE>
+|
+@23
+Ritmo roquero<LINE>
+|
+@24
+Temblor salvaje<LINE>
+|
+@25
+Abismo de cristal<LINE>
+|
+@26
+El dojo de Cranky<LINE>
+|
+@27
+Persecución<LINE>
+|
+@28
+El dojo de Cranky 2<LINE>
+|
+@29
+El juego de Funky<LINE>
+|
+@30
+Fin del juego<LINE>
+|
+@31
+Créditos<END><END>
+|

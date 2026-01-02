@@ -1,0 +1,10 @@
+*.sfc
+*.gba
+*.original
+/insert text only.bat
+/Donkey Kong Country 3 (ESP).bps
+/Donkey Kong Country 3 (ESP).ips
+/assets/BACKUP/
+/dump_script/GBA/dump_script.bat
+/dump_script/GBA/*.py
+/dump_script/*.txt

@@ -1,0 +1,69 @@
+;{003A2A3A-003A2F6E-00000535}
+@1
+;{<04>I've been watching your<LINE>progress for a while, XXXXX.<LINE>The name's Blunder, but you<LINE>can call me Mr. Blunder.<LINE>}
+<04>Llevo tiempo<LINE>observándote, XXXXX.<LINE>Me llamo Blunder, pero<LINE>tú llámame Sr. Blunder.<LINE>
+|
+@2
+;{<04>So you think you're going to<LINE>find everything in the game,<LINE>eh? You don't even know<LINE>there's a Lost World, do you?<LINE>}
+<04>Veo que piensas que vas a<LINE>encontrar todo en el juego.<LINE>Y ni siquiera sabes que<LINE>hay un Mundo Perdido...<LINE>
+|
+@3
+;{<04>So you've got this far, have<LINE>you? Big deal, you haven't<LINE>even found the Lost World yet<LINE>- and that's on the main map!<LINE>}
+<04>Así que piensas que has llegado<LINE>muy lejos. Ni siquiera has<LINE>encontrado el Mundo Perdido<LINE>que está en el mapa principal.<LINE>
+|
+@4
+;{<04>How's it going, heroic XXXXX?<LINE>I'm not surprised you're<LINE>stuck - you haven't even<LINE>searched around the rocks!<LINE>}
+<04>¿Cómo va todo, valiente XXXXX?<LINE>No me extraña que te<LINE>hayas atascado. No has<LINE>buscado en las rocas.<LINE>
+|
+@5
+;{<04>Back for more clues, eh?<LINE>Well, if you think I'm<LINE>telling you the Lost World<LINE>is in the compass rocks....<LINE>}
+<04>Has vuelto a por más pistas,<LINE>¿eh? Pues si te piensas que<LINE>te voy a contar que el Mundo<LINE>Perdido está en las rocas...<LINE>
+|
+@6
+;{<04>You're still stuck? Tsk!<LINE>Then again, there's no way<LINE>you'd ever think of circling<LINE>around the rocks...<LINE>}
+<04>¿Aún sigues atascado? ¡Pss!<LINE>Claro, es imposible que se<LINE>te ocurra girar alrededor<LINE>de las rocas...<LINE>
+|
+@7
+;{<04>Still can't find the Lost<LINE>World, eh? You're obviously<LINE>not going around the rocks<LINE>fast enough then, are you?!<LINE>}
+<04>¿Aún no has sido capaz de<LINE>encontrar el Mundo Perdido?<LINE>Sin duda debes pasar<LINE>por las rocas más rápido.<LINE>
+|
+@8
+;{<02>Whoops, I think I just<LINE>let the cat out of the bag.<LINE>}
+<02>Oh, oh. Me parece que acabo<LINE>de irme de la lengua.<LINE>
+|
+@9
+;{<01>D'oh! I've done it now.<LINE>}
+<01>¡Vaya! Ahora sí la he montado.<LINE>
+|
+@10
+;{<02>Oh no! Not again! I can't<LINE>believe I just said that.<LINE>}
+<02>¡Oh, no! ¡Otra vez no!<LINE>¡Se me ha vuelto a escapar!<LINE>
+|
+@11
+;{<02>Uh oh... er, you didn't<LINE>actually hear that, did you?<LINE>}
+<02>Oh, bueno... No has oído<LINE>bien lo que he dicho, ¿verdad?<LINE>
+|
+@12
+;{<03>Get out! Get out of my<LINE>shack and stop making<LINE>a monkey out of me!<LINE>}
+<03>¡Largo! ¡Fuera de mi choza!<LINE>¡No haces más que dejarme<LINE>en ridículo! ¡Basta!<LINE>
+|
+@13
+;{<04>Right that's it, I'm<LINE>leaving! You're not<LINE>getting any more clues<LINE>from me, so there!<LINE>}
+<04>¡Basta! ¡Esto es demasiado!<LINE>¡Me largo! ¡No vas a<LINE>sacarme ni una pista más!<LINE>¡Hala, ya lo he dicho!<LINE>
+|
+@14
+;{<04>I can't believe you found<LINE>the Lost World on your own!<LINE>I bet you cheeky so and so's<LINE>used Nintendo Power's guide!<LINE>}
+<04>¡No me creo que hayas<LINE>encontrado el Mundo Perdido<LINE>sin ayuda! Seguro que has visto<LINE>una guía de alguna revista!<LINE>
+|
+@15
+;{<01>I know I did!<LINE>}
+<01>¡Sé que lo hice!<LINE>
+|
+@16
+;{<02>So you found the Lost<LINE>World then, have you?<LINE>}
+<02>Entonces has encontrado<LINE>el Mundo Perdido, ¿no?<LINE>
+|
+@17
+;{<03>Big deal! You'd have<LINE>never found it without<LINE>my invaluable help!<LINE>}
+<03>¡No es para tanto!<LINE>¡No lo habrías encontrado<LINE>nunca sin mi valiosa ayuda!<LINE>
+|

@@ -1,0 +1,181 @@
+;{003A23B8-003A2E98-00000AE1}
+@1
+;{<03>Hello there, young XXXXX,<LINE>my name's Bazaar and <LINE>this is my general store.<LINE>}
+<03>Hola, joven XXXXX,<LINE>mi nombre es Bazaar y<LINE>esta es mi tienda.<LINE>
+|
+@2
+;{<03>All of my brothers<LINE>are scattered over<LINE>these islands.....<LINE>}
+<03>Todos mis hermanos<LINE>están repartidos<LINE>por estas islas.....<LINE>
+|
+@3
+;{<03>Pop in and say hello<LINE>if you meet them on<LINE>your travels!<LINE>}
+<03>Si te encuentras con<LINE>alguno de ellos durante<LINE>tu viaje, ¡salúdalos!<LINE>
+|
+@4
+;{<04>Good morning! What<LINE>would you like to know?<LINE><LINE><LINE>}
+<04>¡Buenos días!<LINE>¿Qué quieres saber?<LINE><LINE><LINE>
+|
+@5
+;{<04>What will it be on this<LINE>fine day, XXXXX?<LINE><LINE><LINE>}
+<04>¿En qué te puedo<LINE>ayudar hoy, XXXXX?<LINE><LINE><LINE>
+|
+@6
+;{<04>So then, how may I be of<LINE>assistance to you?<LINE><LINE><LINE>}
+<04>Entonces, ¿cómo<LINE>te puedo ayudar?<LINE><LINE><LINE>
+|
+@7
+;{<04>Good day, XXXXX, what<LINE>can I do for you?<LINE><LINE><LINE>}
+<04>Hola, XXXXX. ¿Qué<LINE>puedo hacer por ti?<LINE><LINE><LINE>
+|
+@8
+;{<04><LINE><LINE><LINE>NN Where's the shell from?  <LINE>}
+<04><LINE><LINE><LINE>NN ¿De dónde es esa almeja? <LINE>
+|
+@9
+;{<04><LINE><LINE><LINE>NN Is that a mirror?        <LINE>}
+<04><LINE><LINE><LINE>NN ¿Eso es un espejo?       <LINE>
+|
+@10
+;{<04><LINE><LINE><LINE>NN Nothing today, thanks.   <LINE>}
+<04><LINE><LINE><LINE>NN No quiero nada, gracias. <LINE>
+|
+@11
+;{<04><LINE><LINE><LINE>NN So, who owns the castle? <LINE>}
+<04><LINE><LINE><LINE>NN ¿El dueño del castillo?  <LINE>
+|
+@12
+;{<04><LINE><LINE><LINE>NN Are there secret caves?  <LINE>}
+<04><LINE><LINE><LINE>NN ¿Hay cuevas secretas?    <LINE>
+|
+@13
+;{<04>This shell was found at the<LINE>bottom of Lake Orangatanga<LINE>and is pretty rare. At 5<LINE>bear coins it's a bargain.<LINE>}
+<04>Esta almeja apareció en<LINE>el fondo del Lago Orangatanga<LINE>y es muy rara. Por tan solo<LINE>5 monedas oso, es una ganga.<LINE>
+|
+@14
+;{<04>Would you like to purchase<LINE>this fine specimen?<LINE><LINE><LINE>}
+<04>¿Quieres comprar este<LINE>genial ejemplar?<LINE><LINE><LINE>
+|
+@15
+;{<04><LINE><LINE><LINE>NN Yes, please.             <LINE>}
+<04><LINE><LINE><LINE>NN Sí, por favor.           <LINE>
+|
+@16
+;{<04><LINE><LINE><LINE>NN You gotta be joking!     <LINE>}
+<04><LINE><LINE><LINE>NN ¡Debes estar bromeando!  <LINE>
+|
+@17
+;{<02>It's a deal! I hope you're<LINE>very happy together.<LINE>}
+<02>¡Trato hecho! ¡Espero que<LINE>sean muy felices juntos!<LINE>
+|
+@18
+;{<04>Not interested? I hope<LINE>you're sure, because I<LINE>don't think it's going<LINE>to stay here very long!<LINE>}
+<04>¿No te interesa? Espero<LINE>que no te equivoques, porque<LINE>no creo que dure mucho en<LINE>la tienda. ¡Va a volar!<LINE>
+|
+@
+;{<04>Yes, but it's no ordinary one<LINE>though! It was Cranky's great<LINE>grandfather's! I can't let it<LINE>go for less than 50 coins.<LINE>}
+<04>Sí, ¡pero no es un espejo<LINE>cualquiera! ¡Perteneció al<LINE>abuelo de Cranky! No puedo<LINE>dejarlo por menos de 50 monedas.<LINE>
+|
+@20
+;{<04>Can I interest you in buying<LINE>this fabulous item?<LINE><LINE><LINE>}
+<04>¿Te interesa comprar<LINE>este fabuloso objeto?<LINE><LINE><LINE>
+|
+@21
+;{<03>I can tell you now, my<LINE>friends, that you have made<LINE>a very worthy purchase.<LINE>}
+<03>Deja que te diga que<LINE>has hecho una compra<LINE>extraordinaria.<LINE>
+|
+@22
+;{<03>Not interested? Never mind,<LINE>I'm sure some lucky person<LINE>will snap it up soon.<LINE>}
+<03>¿No te interesa? No<LINE>importa. Seguro que me<LINE>lo quitan de las manos.<LINE>
+|
+@23
+;{<02>Just a second, XXXXX, you<LINE>don't have enough for this.<LINE>}
+<02>Un momento, XXXXX. No<LINE>tienes suficiente dinero.<LINE>
+|
+@24
+;{<02>Keep saving, XXXXX - I'm sure<LINE>you'll get enough together.<LINE>}
+<02>Sigue ahorrando, XXXXX. Pronto<LINE>tendrás suficiente dinero.<LINE>
+|
+@25
+;{<03>Hold on there, young<LINE>XXXXX, I'm afraid you<LINE>don't have enough.<LINE>}
+<02>Un momento, XXXXX. Lo siento,<LINE>pero te falta dinero.<LINE>
+|
+@26
+;{<03>I'm afraid that I'll have to <LINE>offend you by refusing credit<LINE>on this fine item - sorry!<LINE>}
+<03>No es nada personal,<LINE>pero no tienes dinero<LINE>para realizar esta compra.<LINE>
+|
+@27
+;{<04>Well, I ventured up there<LINE>once, but if you want to<LINE>know what I discovered it'll<LINE>cost you 2 coins!<LINE>}
+<04>La verdad es que yo me<LINE>aventuré hasta el castillo<LINE>una vez, pero si quieres<LINE>saber te costará 2 monedas.<LINE>
+|
+@28
+;{<04>So, what do you think?<LINE>Are you interested?<LINE><LINE><LINE>}
+<04>¿Qué piensas?<LINE>¿Te interesa mi oferta?<LINE><LINE><LINE>
+|
+@29
+;{<04><LINE><LINE><LINE>NN Oh, do tell!             <LINE>}
+<04><LINE><LINE><LINE>NN ¡Oh, cuéntamelo todo!    <LINE>
+|
+@30
+;{<04><LINE><LINE><LINE>NN I'm saving for Swanky's! <LINE>}
+<04><LINE><LINE><LINE>NN ¡Ahorro para Swanky!     <LINE>
+|
+@31
+;{<04>Well, once I got to the<LINE>castle grounds I saw a sign<LINE>which said 'Keep right off<LINE>our land!', so I ran off!<LINE>}
+<04>Verás, en una ocasión llegué<LINE>hasta el castillo y vi un<LINE>cartel que ponía '¡Fuera de<LINE>nuestra tierra!', así que huí.<LINE>
+|
+@32
+;{<04>Are you sure? Some cheeky lad<LINE>called Link was in just last<LINE>week and he asked about the<LINE>castle too.<LINE>}
+<04>¿Seguro que no te interesa?<LINE>La semana pasada pasó por<LINE>aquí un joven llamado Link y<LINE>preguntó por el castillo.<LINE>
+|
+@33
+;{<04>He didn't have enough coins,<LINE>but he seemed such a nice<LINE>fellow that I agreed to<LINE>accept 500 rupees instead.<LINE>}
+<04>No tenía bastantes monedas,<LINE>pero parecía tan buen chico<LINE>que acepté 500 rupias como<LINE>pago por la información.<LINE>
+|
+@34
+;{<04>After that he left... <LINE>muttering about my shells<LINE>being the wrong shape or<LINE>something. Oh well!<LINE>}
+<04>Después se marchó...<LINE>diciendo entre dientes que<LINE>si mis almejas no tenían<LINE>la forma correcta o no sé qué.<LINE>
+|
+@35
+;{<03>Quite a lot actually, but if<LINE>you want me to tell you<LINE>it'll cost 13 coins!<LINE>}
+<03>En realidad hay muchas, pero<LINE>si quieres que te hable<LINE>de ellas, dame 13 monedas.<LINE>
+|
+@36
+;{<04>So how about it, XXXXX?<LINE>Would you like to hear more?<LINE><LINE><LINE>}
+<04>¿Qué te parece, XXXXX?<LINE>¿Te gustaría saber más?<LINE><LINE><LINE>
+|
+@37
+;{<04><LINE><LINE><LINE>NN Tell me, oh wise one!    <LINE>}
+<04><LINE><LINE><LINE>NN ¡Oh, sí, sabio tendero!  <LINE>
+|
+@38
+;{<04><LINE><LINE><LINE>NN I'll find them myself!   <LINE>}
+<04><LINE><LINE><LINE>NN ¡Ya las encontraré yo!   <LINE>
+|
+@39
+;{<04>Well, some are hidden on<LINE>islands and mountains, and<LINE>you'll need Funky's<LINE>assistance to get to them.<LINE>}
+<04>Bueno, algunas están ocultas<LINE>en islas y montañas, y para<LINE>llegar a ellas necesitarás<LINE>la ayuda de Funky.<LINE>
+|
+@40
+;{<04>How many secret caves are<LINE>there? The answer's in the<LINE>number of coins you paid for<LINE>this information - HA HA!!<LINE>}
+<04>¿Que cuántas cuevas secretas<LINE>hay? Tantas como monedas has<LINE>pagado por esta información.<LINE>¡Ja, ja, ja, ja!<LINE>
+|
+@41
+;{<02>Okay. Best of luck, XXXXX -<LINE>you'll certainly need it!<LINE>}
+<02>Bien. Buena suerte, XXXXX.<LINE>¡Sin duda, la necesitarás!<LINE>
+|
+@42
+;{<01>See you, so long, bye-bye.<LINE>}
+<01>Hasta la próxima. Adiós.<LINE>
+|
+@43
+;{<03>Hey, you just have a<LINE>really nice day now,<LINE>XXXXX, you hear?<LINE>}
+<02>Espero que tengas un<LINE>día maravilloso, XXXXX.<LINE>
+|
+@44
+;{<02>Catch you later, XXXXX. I'm<LINE>open 24 hours, you know.<LINE>}
+<02>Nos vemos más tarde, XXXXX.<LINE>Abro 24 horas al día.<LINE>
+|
+@45
+;{<03>Thanks for your business,<LINE>XXXXX. It really was a<LINE>pleasure serving you.<LINE>}
+<03>Gracias por comprar<LINE>en mi tienda, XXXXX.<LINE>Ha sido un placer atenderte.<LINE>
+|

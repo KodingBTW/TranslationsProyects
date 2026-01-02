@@ -1,0 +1,105 @@
+;{003A4036-003A4675-00000640}
+@1
+;{<04>Good day, crazy XXXXX, my<LINE>name is Benny. Me and my<LINE>brother Björn run the chair<LINE>lifts in this region.<LINE>}
+<04>Hola XXXXX, me llamo Benny.<LINE>Mi hermano se llama Björn.<LINE>Somos los encargados de los<LINE>telesillas de esta zona.<LINE>
+|
+@2
+;{<02>Would you like to use my<LINE>chair-lift? It's lots of fun!<LINE>}
+<02>¿Te gustaría montar en mi<LINE>telesilla? ¡Es muy divertido!<LINE>
+|
+@3
+;{<03>You can visit my brother<LINE>Björn if you like, up at the<LINE>other chair-lift.<LINE>}
+<03>Puedes visitar a mi<LINE>hermano Björn en el<LINE>otro telesilla, si quieres.<LINE>
+|
+@4
+;{<04>My chair-lift is the<LINE>safest route up the<LINE>cliffs. So go on, XXXXX,<LINE>take a chance on me.<LINE>}
+<04>Mi telesilla es la forma<LINE>más segura de subir hasta<LINE>la cima. Vamos, confía en<LINE>mí, XXXXX. No te arrepentirás.<LINE>
+|
+@5
+;{<02>My lift will never break<LINE>down - you can be sure of it!<LINE>}
+<02>¡Mi telesilla nunca se<LINE>romperá! ¡Te lo aseguro!<LINE>
+|
+@6
+;{<04>Would you like to be<LINE>using the chair-lift?<LINE><LINE><LINE>}
+<04>¿Quieres subir<LINE>en mi telesilla?<LINE><LINE><LINE>
+|
+@7
+;{<04><LINE><LINE><LINE>NN Err... okay!             <LINE>}
+<04><LINE><LINE><LINE>NN Mmm... ¡Vale!            <LINE>
+|
+@8
+;{<04><LINE><LINE><LINE>NN I'll walk, thanks.       <LINE>}
+<04><LINE><LINE><LINE>NN Prefiero caminar.        <LINE>
+|
+@9
+;{<02>Okey dokey, strap yourself<LINE>in and away you go!<LINE>}
+<02>Fabuloso. Agárrate<LINE>bien que allá vas.<LINE>
+|
+@10
+;{<02>No, well okay then -<LINE>maybe later, eh?<LINE>}
+<02>¿No? De acuerdo.<LINE>¿Quizá más tarde?<LINE>
+|
+@11
+;{<04>Ohhhhh Hellooooo!<LINE>How are you, my fine furry<LINE>XXXXX? I am being Björn,<LINE>Benny's brother.<LINE>}
+<04>¡Hola! ¿Qué tal<LINE>estás hoy, XXXXX?<LINE>Yo soy Björn, el<LINE>hermano de Benny.<LINE>
+|
+@12
+;{<04>I'm afraid that my chair lift<LINE>is broken. I lent my No.6<LINE>wrench to someone, and they<LINE>didn't return it to me!<LINE>}
+<04>Lo siento, pero el<LINE>telesilla está roto.<LINE>Presté mi llave inglesa<LINE>a alguien y no puedo arreglarlo.<LINE>
+|
+@13
+;{<04>People say that Benny and I<LINE>are like your regular peas<LINE>in a pod. How funny ha-ha.<LINE>What does it mean?<LINE>}
+<04>La gente dice que Benny<LINE>y yo nos parecemos mucho.<LINE>También que somos una monada.<LINE>¿Sabes lo que digo?<LINE>
+|
+@14
+;{<04>Yes, it's true that me and my<LINE>brother look alike, but we<LINE>are quite different really.<LINE>Yes, honestly - we are!<LINE>}
+<04>En realidad, aunque a mi<LINE>hermano y a mí nos confundan<LINE>a menudo, somos muy distintos.<LINE>¡No nos parecemos en nada!<LINE>
+|
+@15
+;{<04>Hey, you've found my wrench!<LINE>Could I have it back?<LINE><LINE><LINE>}
+<04>¡Eh! ¡Has encontrado mi<LINE>llave inglesa! ¿Me la das?<LINE><LINE><LINE>
+|
+@16
+;{<04><LINE><LINE><LINE>NN It's yours anyway!       <LINE>}
+<04><LINE><LINE><LINE>NN ¡Es tuya de todos modos! <LINE>
+|
+@17
+;{<04><LINE><LINE><LINE>NN Finders keepers, man!    <LINE>}
+<04><LINE><LINE><LINE>NN ¡Ahora es mía!           <LINE>
+|
+@18
+;{<03>Thank you, you top XXXXX,<LINE>you may use my ski lift<LINE>for free from now on!<LINE>}
+<03>Gracias, XXXXX. A partir de<LINE>ahora, podrás usar mi<LINE>telesilla gratis.<LINE>
+|
+@19
+;{<04>Well, if that's your<LINE>attitude then you can<LINE>get your coat and<LINE>be on your way!<LINE>}
+<04>Muy bien. Con amigos<LINE>como tú, no necesito<LINE>enemigos. Toma tus<LINE>cosas y vete ya.<LINE>
+|
+@20
+;{<04>Decided to return it then,<LINE>have you? Well this lift<LINE>is not for free - it's two<LINE>coins a go in fact.<LINE>}
+<04>Así que has decidido<LINE>devolverme la llave inglesa.<LINE>Vale, pero ahora subirte al<LINE>telesilla te costará 2 monedas.<LINE>
+|
+@21
+;{<04>So, do you want to ride<LINE>in my chairlift, XXXXX?<LINE><LINE><LINE>}
+<04>Entonces, ¿quieres montarte<LINE>en mi telesilla, XXXXX?<LINE><LINE><LINE>
+|
+@22
+;{<04><LINE><LINE><LINE>NN Yaaa! You betcha!        <LINE>}
+<04><LINE><LINE><LINE>NN ¡Sí! ¡Claro!             <LINE>
+|
+@23
+;{<04><LINE><LINE><LINE>NN Naaa - not today.        <LINE>}
+<04><LINE><LINE><LINE>NN No, hoy no.              <LINE>
+|
+@24
+;{<02>Tickets please - steady<LINE>as you go now, XXXXX.<LINE>}
+<02>El billete, por favor.<LINE>Con cuidado al subir.<LINE>
+|
+@25
+;{<02>We'll meet again, you<LINE>naughty XXXXX.<LINE>}
+<02>Bueno, ya nos veremos<LINE>de nuevo, XXXXX.<LINE>
+|
+@26
+;{<02>Hey, you're a few tokens<LINE>short I'm afraid.<LINE>}
+<02>Vaya, lo siento, pero<LINE>no tienes bastantes monedas.<LINE>
+|

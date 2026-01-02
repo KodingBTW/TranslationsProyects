@@ -1,0 +1,53 @@
+;{003A33F0-003A3798-000003A9}
+@1
+;{<04>Hello there, how's it going,<LINE>XXXXX? Barnacle's me name,<LINE>and I've set up home here<LINE>to build me shell collection.<LINE>}
+<04>Hola, ¿qué tal te va, XXXXX?<LINE>Me llamo Barnacle y me he<LINE>instalado aquí. Quiero hacerme<LINE>con una colección de almejas.<LINE>
+|
+@2
+;{<04>Yes, I used to be a scuba<LINE>diver but I've given it up.<LINE>I just take it easy here<LINE>at home now.<LINE>}
+<04>Antes solía bucear,<LINE>pero lo he dejado.<LINE>Prefiero relajarme<LINE>en mi casa.<LINE>
+|
+@3
+;{<03>Have you seen my shell<LINE>collection? It's nearly<LINE>complete!<LINE>}
+<02>¿Has visto mi colección de<LINE>almejas? ¡Casi está completa!<LINE>
+|
+@4
+;{<04>This bird is a friendly<LINE>fellow, isn't he? He flew in<LINE>once, so I decided to keep<LINE>him.<LINE>}
+<03>¿A que es un pájaro precioso?<LINE>Un día entró volando en<LINE>casa y decidí quedármelo.<LINE>
+|
+@5
+;{<04>You know, I don't think<LINE>there's anything which<LINE>would persuade me to get<LINE>rid of this bird.<LINE>}
+<03>¿Sabes? No creo que nadie<LINE>pueda convencerme para<LINE>deshacerme de este pájaro.<LINE>
+|
+@6
+;{<03>What a beautiful shell!<LINE>It's just what I need to<LINE>finish off me collection!<LINE>}
+<03>¡Qué almeja tan bonita!<LINE>¡Es perfecta para terminar<LINE>mi estupenda colección!<LINE>
+|
+@7
+;{<04>Say, XXXXX, would you swap<LINE>that shell for my bird?<LINE><LINE><LINE>}
+<04>Oye, XXXXX. ¿Tú me cambiarías<LINE>esa almeja por el pájaro?<LINE><LINE><LINE>
+|
+@8
+;{<04><LINE><LINE><LINE>NN Aarrrr, that I will.     <LINE>}
+<04><LINE><LINE><LINE>NN Bien, eso haré.          <LINE>
+|
+@9
+;{<04><LINE><LINE><LINE>NN Nah, I like my shell.    <LINE>}
+<04><LINE><LINE><LINE>NN No, me gusta mi almeja.  <LINE>
+|
+@10
+;{<03>You would? That's great!<LINE>Here's the bird - please<LINE>take care of him.<LINE>}
+<03>¿En serio? ¡Magnífico!<LINE>Toma, cuida bien<LINE>del pájaro plátano.<LINE>
+|
+@11
+;{<03>Awww, that's a shame.<LINE>It would've had pride<LINE>of place on my shelf.<LINE>}
+<03>Vaya, qué pena.<LINE>Habría tenido un sitio<LINE>privilegiado en mi colección.<LINE>
+|
+@12
+;{<04>Hey there, how's it going?<LINE>Have you come to look at my<LINE>world famous shell<LINE>collection?<LINE>}
+<03>Hola, ¿qué tal? ¿Has venido<LINE>a ver mi colección de almejas,<LINE>famosa en todo el mundo?<LINE>
+|
+@13
+;{<03>I miss that bird you know.<LINE>Never mind, this collection<LINE>always cheers me up.<LINE>}
+<03>La verdad es que echo de menos<LINE>al pájaro, pero cuando observo<LINE>mis almejas se me pasa.<LINE>
+|

@@ -1,0 +1,153 @@
+;{003A175E-003A20B2-00000955}
+@1
+;{<03>So you've reached<LINE>the bonus game<LINE>then, have you?<LINE>}
+<03>Así que has<LINE>llegado al juego<LINE>bonus, ¿no?<LINE>
+|
+@2
+;{<04>It's not a simple<LINE>game of questions<LINE>and answers this<LINE>time though!<LINE>}
+<04>¡Pero esta vez<LINE>no se trata de un<LINE>juego de preguntas<LINE>y respuestas!<LINE>
+|
+@3
+;{<04>Now you've got<LINE>to beat yours<LINE>truly if you want<LINE>to win any prizes!<LINE>}
+<04>¡Ahora tienes que<LINE>ganarme a mí si<LINE>quieres algún<LINE>premio!<LINE>
+|
+@4
+;{<04>Heh heh heh, this<LINE>is going to be<LINE>like taking candy<LINE>from a baby.<LINE>}
+<04>Je, je, je, esto<LINE>va a ser como<LINE>quitarle un dulce<LINE>a un niño.<LINE>
+|
+@5
+;{<04>At last - I'm out<LINE>of retirement! Now<LINE>I'll make a monkey<LINE>out of you!<LINE>}
+<04>¡Por fin he salido<LINE>de mi retiro!<LINE>¡Ahora los dejaré<LINE>como tontos!<LINE>
+|
+@6
+;{<04>If a little girl<LINE>or a dopy kid<LINE>can beat me, I'll<LINE>hang up my gloves!<LINE>}
+<04>Si una niña o<LINE>un niño tonto<LINE>logran vencerme,<LINE>¡me retiraré!<LINE>
+|
+@7
+;{<04>Come and have<LINE>a go if you<LINE>think you're<LINE>good enough.<LINE>}
+<04>Ven e inténtalo<LINE>si crees que eres<LINE>lo suficientemente<LINE>bueno.<LINE>
+|
+@8
+;{<04>You chimps are<LINE>chumps, I can't<LINE>believe you'd even<LINE>try to beat me!<LINE>}
+<03>Qué par de tontos,<LINE>no puedo creer que<LINE>intenten ganarme.<LINE>
+|
+@9
+;{<04>Here's my strategy<LINE>guide for you.....<LINE>Give it up now and<LINE>save your money!<LINE>}
+<04>Aquí tienes mi<LINE>guía estratégica,<LINE>¡Ríndete ya y<LINE>ahorra tu dinero!<LINE>
+|
+@10
+;{<03>If a fool like<LINE>you can beat me,<LINE>I'll eat my hat!<LINE>}
+<04>Si tontos como<LINE>ustedes me vencen,<LINE>¡me como mi<LINE>sombrero!<LINE>
+|
+@11
+;{<04>I hope you like<LINE>red, 'cause that's<LINE>what your face<LINE>is gonna be soon!<LINE>}
+<04>Espero que te<LINE>guste el rojo,<LINE>¡porque así se<LINE>pondrá tu cara!<LINE>
+|
+@12
+;{<04>Was that the best<LINE>you could do? You<LINE>need to eat more<LINE>bananas.<LINE>}
+<04>¿Eso fue lo mejor<LINE>que pudiste hacer?<LINE>Necesitas comer<LINE>más plátanos.<LINE>
+|
+@13
+;{<04>I could beat you<LINE>with both of my<LINE>arms tied behind<LINE>my back!<LINE>}
+<04>¡Podría ganarte<LINE>con mis dos<LINE>brazos atados<LINE>a mi espalda!<LINE>
+|
+@14
+;{<04>I think you need a<LINE>little practice.<LINE>Oooh, about a year<LINE>should do it.<LINE>}
+<04>Creo que necesitas<LINE>más práctica.<LINE>Oh, con un año<LINE>debería bastar.<LINE>
+|
+@15
+;{<03>Next time you<LINE>fancy a lesson,<LINE>come and see ME!<LINE>}
+<04>La próxima vez<LINE>que te apetezca<LINE>una clase.<LINE>¡Ven a verme!<LINE>
+|
+@16
+;{<04>You were no<LINE>contest - go and<LINE>challenge Wrinkly<LINE>and her friends!<LINE>}
+<04>No has sido rival<LINE>para mí, ¡mejor<LINE>juega con Wrinkly<LINE>y sus amigas!<LINE>
+|
+@17
+;{<04>Hey, don't take it<LINE>personally kid -<LINE>I'm the greatest,<LINE>you're a chump!<LINE>}
+<03>Oye, no te lo<LINE>tomes tan a pecho,<LINE>¡yo soy el mejor!<LINE>
+|
+@18
+;{<04>Buzz off, you<LINE>cheeky so and so!<LINE>You ain't got<LINE>enough skillage.<LINE>}
+<04>¡Largo de aquí,<LINE>sin vergüenza!<LINE>Regresa cuando<LINE>tengas habilidad.<LINE>
+|
+@19
+;{<04>Now you know<LINE>that handsome<LINE>monkeys never<LINE>lose!!<LINE>}
+<03>¡Ahora sabes que<LINE>los monos guapos<LINE>nunca pierden!<LINE>
+|
+@20
+;{<04>You fraudster!<LINE>I'm off to consult<LINE>my lawyers about<LINE>this!<LINE>}
+<03>¡Qué fraude!<LINE>¡Enviaré a<LINE>mis abogados!<LINE>
+|
+@21
+;{<04>Get out of my tent<LINE>now, you cheeky<LINE>ape! Wait till I<LINE>tell your parents.<LINE>}
+<04>¡Largo de aquí<LINE>sin vergüenza!<LINE>Te acusaré con<LINE>tus padres.<LINE>
+|
+@22
+;{<04>Hey hey, you<LINE>cheeky monkey!<LINE>Have this as a<LINE>bonus prize!<LINE>}
+<04>¡Eh, eh, tú<LINE>sin vergüenza!<LINE>¡Toma esto como<LINE>premio extra!<LINE>
+|
+@23
+;{<03>I float like a<LINE>boat and sting<LINE>like a nettle!<LINE>}
+<03>¡Floto como una<LINE>mariposa y pico<LINE>como una abeja!<LINE>
+|
+@24
+;{<03>Go home to<LINE>Wrinkly's and<LINE>put on the kettle!<LINE>}
+<04>¡Mejor vuelve a<LINE>casa de Wrinkly<LINE>y vuelve cuando<LINE>juegues en serio!<LINE>
+|
+@25
+;{<04>Hey - are you<LINE>hungry, kid??<LINE>Well...<LINE>EAT THIS!<LINE>}
+<04>¿Qué sucede?<LINE>¿Estás con hambre?<LINE>Bueno...<LINE>¡Cómete esto!<LINE>
+|
+@26
+;{<04>Look at this! It's<LINE>my eight ball air<LINE>juggle! A real<LINE>Killer, Isn't it?<LINE>}
+<04>¡Mira esto!<LINE>¡Malabarismo con<LINE>ocho bolas!<LINE>Es una pasada.<LINE>
+|
+@27
+;{<03>Get some tokens<LINE>and try again,<LINE>you knucklehead.<LINE>}
+<04>Consigue más<LINE>monedas y vuelve<LINE>a intentarlo,<LINE>idiota.<LINE>
+|
+@28
+;{<04>Well, that was a<LINE>waste of 2 coins,<LINE>wasn't it? Go on -<LINE>have another game!<LINE>}
+<04>Bueno, eso fue un<LINE>desperdicio de 2<LINE>monedas, ¿no?<LINE>¡Dame la revancha!<LINE>
+|
+@29
+;{<04>You appreciate, of<LINE>course, that in<LINE>real terms I was<LINE>the actual winner!<LINE>}
+<04>Si te das cuenta,<LINE>en términos<LINE>reales, ¡yo fui<LINE>el ganador!<LINE>
+|
+@30
+;{<04>A draw, eh? It's<LINE>the closest you'll<LINE>ever get to<LINE>winning a game!!<LINE>}
+<04>¿Un empate, eh?<LINE>¡Es lo más cerca<LINE>que estarás de<LINE>ganarme!<LINE>
+|
+@31
+;{<04>It's not fair!<LINE>Some of your<LINE>targets were twice<LINE>the size of mine!<LINE>}
+<04>¡No es justo!<LINE>¡Tus blancos eran<LINE>mucho más grandes<LINE>que los míos!<LINE>
+|
+@32
+;{<04>Did you see my<LINE>last shot? It went<LINE>clean through the<LINE>target. Honest!!!<LINE>}
+<04>¿Viste mi último<LINE>tiro? ¡Dio justo<LINE>en el centro!<LINE>¡Es cierto!<LINE>
+|
+@33
+;{<04>You only had to<LINE>blow on your<LINE>targets for them<LINE>to fall over!<LINE>}
+<04>¡No es justo!<LINE>¡Tus blancos<LINE>se caían solo<LINE>con la brisa!<LINE>
+|
+@34
+;{<04>Oh, so you managed<LINE>a fluke victory,<LINE>huh? I'd like to<LINE>see you try again!<LINE>}
+<04>¡Me has ganado<LINE>solo por<LINE>casualidad!<LINE>¡Dame la revancha!<LINE>
+|
+@35
+;{<04>I could've been a<LINE>contender kid, not<LINE>some two-bit ape<LINE>in this dumb game.<LINE>}
+<04>Podría haber sido<LINE>un buen rival,<LINE>y no un simio del<LINE>tres al cuarto.<LINE>
+|
+@36
+;{<04>I have a suspicion<LINE>that some bananas<LINE>changed hands<LINE>before that game!<LINE>}
+<04>Tengo la sospecha<LINE>de que hubo un<LINE>cambio de plátanos<LINE>antes del juego.<LINE>
+|
+@37
+;{<04>You'd never have<LINE>won if Swanky<LINE>wasn't helping<LINE>you out!<LINE>}
+<04>¡Nunca habrías<LINE>ganado si Swanky<LINE>no te hubiera<LINE>ayudado!<LINE>
+|
+@38
+;{<04>Well, it takes a<LINE>big ape to admit<LINE>defeat... my back<LINE>hurt, you cheat!<LINE>}
+<04>Bueno, solo un<LINE>gran simio acepta<LINE>la derrota...<LINE>¡Ay, mi espalda!<LINE>
+|

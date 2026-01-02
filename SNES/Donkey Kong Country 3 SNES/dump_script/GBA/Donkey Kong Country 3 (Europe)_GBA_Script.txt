@@ -1,0 +1,1161 @@
+@1
+Elige un archivo<END><END><END><END><END><01>
+|
+@2
+<END><END>¿Seguro que quieres<LINE>borrar esta partida?<END><END><END><END><END><END><END><END>¡Partida borrada!<END><END><END><END><END><END><END>¡Error al borrar!<END><END><END><END><END><END><END>¡Partida copiada!<END><END><END><END><END><END><END>¡Error al copiar!<END><END><END><END><END><END><END>Elige un archivo:<END><END><END><END><END><END><END>¿Dónde lo copias?<END><END><END><END><01>
+|
+@3
+<END><END>¿Seguro que quieres<LINE>borrar todos los<LINE>datos guardados?<END><END><END><END><01>
+|
+@4
+<END><END>¡Guardando partida!<LINE>No apagues (OFF)<LINE>la consola.<END><END><END><END><END><END><END><END>¿Dónde lo guardas?<END><END><END><END><END><END>Borrar<END><END><END><END><END><END>Copiar<END><END><END><END><END><END>Opciones<END><END><END><END><END><END><END><END>Idioma<END><END><END><END><END><END>Volumen de la música<END><END><END><END><END><END><END><END>Volumen de los efectos<END><END><END><END><END><END>Trucos<END><END><END><END><END><END>English<LINE>Français<LINE>Español<LINE>Italiano<LINE>Deutsch<END><END><END><END><END><END><END>Sí<END><END><END><END><END><END>No<END><END><END><01>
+|
+@5
+<END><END>Bueno, bueno, qué sorpresa.<LINE>¡Hola! Qué bien que hayas<LINE>venido a ver mi nuevo juego.<NEXT>Mi espectáculo llega a<LINE>todas las ciudades.<LINE>¿Quieres saber el precio?<LINE>¡2 monedas nada más!<NEXT>Hoy ofrecemos algunos<LINE>premios estupendos, así que,<LINE>vamos, anímate a jugar.<LINE>¡Escapa de todo un rato!<NEXT>¡Prueba suerte!<LINE>¡Podrías ganar!<LINE>Nunca se sabe.<END><END><01>
+|
+@6
+<END><END>¿Quieres probar?<END><END><END><END><END><END><END><END>¡Claro!<LINE>No, gracias.<END><END><END><END><END><01>
+|
+@7
+<END><END>Tú Dixie sí puedes jugar,<LINE>pero tu amigo es aún muy<LINE>pequeño. Si viene solo, no<LINE>podrá jugar. Dixie, suerte.<NEXT>Consigue todas las estrellas<LINE>doradas que puedas antes de<LINE>que se acabe el tiempo.<NEXT>Ten cuidado con los<LINE>obstáculos con pinchos<LINE>porque si te das con ellos,<NEXT>perderás todas las<LINE>estrellas que tengas.<NEXT>Pulsa el Botón A para<LINE>saltar y pulsa el<LINE>+ Panel de Control<LINE>abajo para agacharte.<END><END><01>
+|
+@8
+<END><END>Creo que ya no necesitas<LINE>ayuda. ¡Adelante!<END><END><END><01>
+|
+@9
+<END><END>Muy bien, ¡presta atención<LINE>a lo que dice Swanky! ¡Los<LINE>premios que tenemos para los<LINE>ganadores de hoy son fabulosos!<END><END><END><01>
+|
+@10
+<END><END>Cuidado con los obstáculos.<LINE>¡Te detendrán en seco!<LINE>¿Sabes a lo que me refiero?<END><END><END><01>
+|
+@11
+<END><END>Eh, ¡vamos a jugar!<LINE>¡A ver qué ganas hoy!<END><END><END><END><01>
+|
+@12
+<END><END>¡Hola! ¿Te apetece<LINE>probar suerte? Podrías<LINE>ganar. ¡Nunca se sabe!<END><END><END><END><END><01>
+|
+@13
+<END><END>Atención a los saltos.<LINE>¡No cometas errores!<END><END><01>
+|
+@14
+<END><END>Mantén los ojos bien abiertos.<LINE>El juego es más fácil así.<END><END><END><END><01>
+|
+@15
+<END><END>Los más pequeños también<LINE>pueden participar en este<LINE>juego, mico. Si pagas,<LINE>podrás jugar como todos.<END><END><END><01>
+|
+@16
+<END><END>¡Qué diver, qué diver!<LINE>¡Todo el mundo a la feria!<LINE>¡Hoy a mitad de precio!<END><END><END><END><01>
+|
+@17
+<END><END>Tómate tu tiempo. Se trata de<LINE>una difícil decisión. ¿Vas a<LINE>apostar las monedas que has<LINE>ganado o las vas a guardar?<END><END><END><01>
+|
+@18
+<END><END>Tus monedas están a<LINE>salvo conmigo. ¿Quieres<LINE>arriesgarlas para intentar<LINE>hacerte con el gran premio?<END><END><END><01>
+|
+@19
+<END><END>¡Hoy puede ser un gran<LINE>día, si la suerte te<LINE>sonríe y ganas un montón!<END><END><END><END><01>
+|
+@20
+<END><END>Hay algunos premios que<LINE>son realmente maravillosos.<LINE>¡Como que me llamo Swanky!<END><END><END><01>
+|
+@21
+<END><END>¡El que consiga la mejor<LINE>puntuación se llevará<LINE>las monedas y la gloria!<END><END><01>
+|
+@22
+<END><END>Recuerda, ¡cuanto más<LINE>ganes, mejor será el<LINE>premio que te lleves!<END><END><END><END><END><01>
+|
+@23
+<END><END>¡Este es mi mundo<LINE>de fantasía! ¡Haz<LINE>realidad tus sueños!<END><END><END><END><END><01>
+|
+@24
+<END><END>¡Por solo unas monedas,<LINE>podrás ganar el tesoro<LINE>de un rey en premios!<END><END><END><END><END><01>
+|
+@25
+<END><END>Lo siento, te faltan<LINE>monedas para jugar.<END><END><END><END><END><01>
+|
+@26
+<END><END>Necesitas más monedas.<LINE>Si no, no podrás jugar.<END><END><END><01>
+|
+@27
+<END><END>Vaya... Qué pena. No<LINE>tienes bastantes monedas.<END><END><END><01>
+|
+@28
+<END><END>En cuanto tengas más<LINE>monedas, podrás jugar.<END><END><01>
+|
+@29
+<END><END>No tienes monedas<LINE>suficientes para jugar.<END><END><END><END><01>
+|
+@30
+<END><END>Me temo que no tienes la<LINE>cantidad de monedas que<LINE>pido a los jugadores.<END><END><END><01>
+|
+@31
+<END><END>Lo siento, pero no puedo<LINE>aceptar menos de 2 monedas.<END><END><END><END><END><01>
+|
+@32
+<END><END>Lo siento, te faltan<LINE>unas pocas monedas.<END><END><END><END><END><01>
+|
+@33
+<END><END>¡Muy bien! ¡Lo has hecho<LINE>mejor de lo que esperaba!<LINE>¡Tienes XX de YY estrellas!<END><END><END><01>
+|
+@34
+<END><END>¡Toma, un pájaro plátano!<END><END><END><END><01>
+|
+@35
+<END><END>¡Solo has conseguido<LINE>XX de YY estrellas!<LINE>Debes practicar más.<NEXT>Te sugiero que evites<LINE>las bolas con pinchos.<END><END><END><END><END><END>XX<END><END><END><END><END><END>YY<END><END><END><01>
+|
+@36
+<END><END>¡Un fuerte aplauso para<LINE>nuestro concursante!<LINE>¡Bien hecho! ¡Sí!<END><END><END><01>
+|
+@37
+<END><END>¡Ha sido estupendo!<LINE>¡Espero volver a verte<LINE>pronto por aquí! Te<LINE>esperan más premios.<END><END><01>
+|
+@38
+<END><END>Eres uno de los mejores<LINE>jugadores que han pasado<LINE>por aquí en mucho tiempo.<END><END><END><01>
+|
+@39
+<END><END>Eh, yo creo que tú ya<LINE>habías jugado a este<LINE>juego antes, ¿verdad?<END><END><END><END><END><01>
+|
+@40
+<END><END>En este concurso, nadie<LINE>se va a casa con las<LINE>manos vacías. Toma, unos<LINE>plátanos y enhorabuena.<END><END><END><END><01>
+|
+@41
+<END><END>Vaya... Qué pena.<LINE>No pasa nada.<LINE>¡Vuelve a intentarlo!<END><END><END><END><01>
+|
+@42
+<END><END>Lo has hecho lo mejor que<LINE>sabes. ¡Es una pena que no<LINE>te haya salido tan bien!<END><END><END><END><01>
+|
+@43
+<END><END>¡No me lo puedo creer!<LINE>¡Aquí está tu premio<LINE>de consolación!<END><END><01>
+|
+@44
+<END><END>¡Que tengas un buen día!<LINE>¡Demuestra a esos<LINE>kremlings lo que vales!<END><END><END><01>
+|
+@45
+<END><END>Vuelve cuando quieras.<LINE>¡Siempre que te<LINE>apetezca jugar un rato!<END><END><END><01>
+|
+@46
+<END><END>Hola, soy yo, ¡la señora<LINE>Wrinkly Kong!<LINE>La vida en la escuela con<LINE>todos esos kremlings tan<NEXT>malos era demasiado agitada<LINE>para mí. ¡Siempre molestando!<LINE>Así que decidí dejarlo y<LINE>explorar mi yo interior.<NEXT>Este lugar es muy relajante.<LINE>Aunque tengo la impresión de<LINE>que me sigue faltando algo.<LINE>¿Crees que podrías ayudarme?<NEXT>Durante tus viajes, a ver<LINE>si encuentras algún pájaro<LINE>plátano de esos tan poco<LINE>habituales.<NEXT>Y si atrapas alguno,<LINE>¡tráemelo sin falta!<NEXT>Una cosa más antes de que<LINE>sigas tu camino: puedes guardar<LINE>la partida en cualquier<NEXT>momento. Pulsa START para<LINE>abrir el inventario y después<LINE>elige Guardar partida.<LINE>Así guardarás tu progreso.<END><END><END><END><END><01>
+|
+@47
+<END><END>¡Me encanta ese pájaro<LINE>que has encontrado!<LINE>Tiene mucha energía,<LINE>¿a que sí?<END><END><END><01>
+|
+@48
+<END><END>Hola, ¿en qué te<LINE>puedo ayudar hoy?<END><END><END><01>
+|
+@49
+<END><END>Estos pájaros me hacen<LINE>mucha compañía, no como<LINE>mi pobre marido, Cranky.<END><END><01>
+|
+@50
+<END><END>¿Has visto a Cranky en<LINE>alguno de tus viajes?<LINE>¡Se comió todas mis galletas!<END><END><END><01>
+|
+@51
+<END><END>Tienes aspecto cansado.<LINE>Deberías guardar la<LINE>partida y descansar.<END><END><END><END><END><01>
+|
+@52
+<END><END>¿Cómo? ¿Que no encuentras<LINE>la salida? ¿No es eso?<LINE>Ay, perdona, que quieres<LINE>guardar la partida. Ah...<END><END><01>
+|
+@53
+<END><END>Hoa, detaltás. Perdona,<LINE>es que me acabo de<LINE>cambiar la dentadura.<END><END><END><END><END><01>
+|
+@54
+<END><END>¿Te gustan mis mechas?<LINE>Son el nuevo tono<LINE>plátano. Una novedad.<END><END><END><01>
+|
+@55
+<END><END>Tus pájaros plátano se<LINE>portan muy bien. No se<LINE>les oye ni piar.<END><END><END><01>
+|
+@56
+<END><END>Si ves a Cranky, dile<LINE>que aún me debe dinero<LINE>de la casa.<END><END><END><END><END><01>
+|
+@57
+<END><END>Ni se te ocurra guardar<LINE>la partida sin lavarte<LINE>bien las manos antes.<END><END><END><END><END><01>
+|
+@58
+<END><END>Si ves a Cranky en alguno de<LINE>tus viajes, dile de mi parte<LINE>que se le enfrió la cena.<END><END><01>
+|
+@59
+<END><END>¿Has visto mis gafas?<LINE>Las he dejado por ahí<LINE>y ahora no sé dónde.<END><END><END><END><END><01>
+|
+@60
+<END><END>¿Cómo? ¿Que por qué no uso<LINE>mi audífono? ¡Porque si lo<LINE>uso, se le gastan las pilas!<END><END><END><01>
+|
+@61
+<END><END>¡Rápido! ¡Guarda la partida!<LINE>¡Llego tarde al cine!<END><END><END><01>
+|
+@62
+<END><END>No entiendo por qué os hacen<LINE>falta todos estos juguetes tan<LINE>modernos. En mi época, éramos<LINE>felices con una caja y un palo.<END><END><END><END><01>
+|
+@63
+<END><END>Parece que hace frío.<LINE>Espero que te hayas<LINE>abrigado bien hoy.<END><END><END><END><END><01>
+|
+@64
+<END><END>¿No vas a darle un beso<LINE>de despedida a tu<LINE>abuela favorita?<END><END><END><01>
+|
+@65
+<END><END>Si te encuentras con<LINE>Cranky, dile que deje<LINE>de gastarse el dinero<LINE>en los juegos de Swanky.<END><END><END><END><01>
+|
+@66
+<END><END>Mira a ver si encuentras<LINE>algún pájaro plátano.<LINE>Me gusta mucho su compañía.<END><END><END><01>
+|
+@67
+<END><END>¡Cuando cruces la selva,<LINE>asegúrate de mirar en<LINE>todas direcciones por si<LINE>te cae un mono encima!<END><END><END><01>
+|
+@68
+<END><END>Yo siempre estaré aquí<LINE>si necesitas ayuda.<LINE>¡Pero intenta no molestarme<LINE>si estoy meditando!<END><END><END><01>
+|
+@69
+<END><END>¿Cómo dices? ¿Quieres ver<LINE>el Mundo Perdido? Lo siento,<LINE>pero no puedo ayudarte.<END><END><END><01>
+|
+@70
+<END><END>Adiós. ¡A ver si ves<LINE>un pájaro plátano de<LINE>esos tan bonitos!<END><END><01>
+|
+@71
+<END><END>¡Cómo me alegra que<LINE>te pases a verme!<END><END><END><END><01>
+|
+@72
+<END><END>Así que derrotaste a<LINE>K. Rool. ¡Qué bien!<LINE>Me siento muy<LINE>orgullosa de ti.<NEXT>¿Sabes? En cuanto te vas,<LINE>estos pájaros se ponen<LINE>nerviosos. Es como si<LINE>quisieran irse a algún<NEXT>sitio. Quizá puedas<LINE>averiguar adónde.<LINE>Seguro que Funky te<LINE>ayuda a investigar.<END><END><01>
+|
+@73
+<END><END>¿Ves? Se ponen muy<LINE>nerviosos, como si<LINE>quisieran llevarte<LINE>a algún sitio.<NEXT>Adelante. No te<LINE>preocupes por la<LINE>lancha. Le diré a<LINE>Cranky que la recoja.<END><END><END><END><END><END><END><END>Alquilar lancha<END><END><END><END><END>Alquilar vehículo<END><END><END><END><END><END><END>Reto de Funky<END><END><END><END><END><END><END>Me voy<END><END><END><01>
+|
+@74
+<END><END>Hola, Dixie, ¿qué pasa?<LINE>He montado una tienda de<LINE>lanchas en esta isla.<LINE>Pero eso no es todo...<NEXT>¡También he traído a tu<LINE>genial primo Kiddy Kong<0F><LINE>como compañero de aventuras!<NEXT>Ya sé que es muy pequeño,<LINE>pero si dejas que te lance<LINE>hacia arriba, casi alcanzarás<LINE>las estrellas. ¡Sí, señor!<NEXT>Y si lo lanzas tú a él,<LINE>su increíble cuerpo romperá<LINE>el suelo de algunas zonas.<LINE>¡Créeme! ¡Lo atravesará!<END><END><END><END><01>
+|
+@75
+<END><END>¡Necesito piezas que<LINE>molen para mis lanchas!<LINE>¡Voy a hacerlas volar!<END><END><01>
+|
+@76
+<END><END>¡Estás en territorio Funky!<LINE>El dinero no es problema<LINE>para alquilar una de mis<LINE>lanchas. ¡Aquí tienes crédito!<END><END><END><END><END><01>
+|
+@77
+<END><END>Eh, esos jefes tienen<LINE>mogollón de objetos.<LINE>Si encuentras alguno,<LINE>tráemelo, ¿de acuerdo?<END><END><01>
+|
+@78
+<END><END>A ver si lo captas. Tenemos<LINE>una emergencia de piezas de <LINE>repuesto. ¿Lo pillas?<END><END><END><01>
+|
+@79
+<END><END>¡Qué agridulce destino el<LINE>mío! ¡La gloria me atrapa!<LINE>Oye, ¿tienes algo para mí?<END><END><01>
+|
+@80
+<END><END>No dejes de buscar piezas<LINE>para mis vehículos. Me falta<LINE>una para mi nuevo invento.<END><END><END><END><01>
+|
+@81
+<END><END>¡Vaya! Un par de piezas más<LINE>y mis vehículos estarán<LINE>listos para deslumbrar.<END><END><01>
+|
+@82
+<END><END>¿Qué pasa, coleguita?<LINE>¿Me traes algo útil?<END><END><END><01>
+|
+@83
+<END><END>¿Un parche? ¡Oh, sí!<LINE>¡Justo lo que necesitaba!<NEXT>Dame un par de segundos y<LINE>arreglaré el pinchazo para<LINE>que vueles sobre el agua.<END><END><END><END><01>
+|
+@84
+<END><END>Eh, ¡pero si es un esquí!<LINE>¡Y está bien conservado!<NEXT>Claro que como no me<LINE>traigas el otro, no<LINE>podré hacer que vueles<LINE>sobre ellos.<END><END><01>
+|
+@85
+<END><END>¡Yupi! ¡Dos esquís! ¡Sí!<LINE>¡Ahora ya tengo todo lo<LINE>que necesito para crear<LINE>un vehículo bestial!<NEXT>¡Espera aquí mismo que<LINE>estoy preparando mi mejor<LINE>lancha hasta el momento!<END><END><01>
+|
+@86
+<END><END>¡Es total! He añadido un<LINE>turbo que te llevará hasta<LINE>el límite. No tienes mas<LINE>que pulsar el Botón B.<END><END><01>
+|
+@87
+<END><END>¡Eh! Así que te han<LINE>contado que últimamente<LINE>estoy muy ocupado. Sí...<LINE>Se trata de algo especial.<NEXT>Si encuentras todas las<LINE>monedas DK, te dejaré<LINE>probar mi vehículo especial.<NEXT>¡Vuelve cuando tengas<LINE>más! Te iré contando lo<LINE>cerca que estás de ganar<LINE>el gran premio.<END><END><END><END><01>
+|
+@88
+<END><END>¡Todo marcha<LINE>viento en popa!<END><END><END><END><END><01>
+|
+@89
+<END><END>Oye, date un respiro<LINE>y disfruta del sol.<LINE>Tú me entiendes, ¿no?<END><END><END><01>
+|
+@90
+<END><END>Si te encuentras con el<LINE>pesado de la casa grande,<LINE>dile que meta menos ruido<LINE>por la noche. ¡Me molesta!<END><END><END><01>
+|
+@91
+<END><END>¿Tienes idea de quién<LINE>es el memo que vive en<LINE>la cima de la isla?<END><END><END><END><END><01>
+|
+@92
+<END><END>¡El tipo de la casa<LINE>grande no mola nada!<LINE>¡Yo que tú ni me acercaba!<END><END><01>
+|
+@93
+<END><END>¡Hola, coleguita!<LINE>¿Cómo va todo hoy?<END><END><END><END><END><01>
+|
+@94
+<END><END>Hoy me estoy tomando el<LINE>día con calma. Veo las<LINE>lanchas atracar y zarpar<LINE>del embarcadero y poco más.<END><END><01>
+|
+@95
+<END><END>Este sitio cada vez<LINE>me parece más mono.<LINE>¿Tú qué piensas?<END><END><END><END><END><01>
+|
+@96
+<END><END>Aún te falta dinero<LINE>para alquilar mi<LINE>supervehículo. Solo: 00.<END><END><END><END><01>
+|
+@97
+<END><END>¡Por todos los micos!<LINE>¡Vuelve a por mi vehículo<LINE>enseguida, antes de que el<LINE>torpe de Bazaar lo encalle!<END><END><END><01>
+|
+@98
+<END><END>¡No pensé que sería<LINE>posible! ¡Has hallado<LINE>todas las monedas DK!<NEXT>Lo siento. Nunca pensé<LINE>que las fueses a hallar<LINE>todas. La verdad es que<LINE>no tengo nada para ti.<NEXT>Eh, que es una broma.<LINE>Te voy a presentar mi<LINE>última y más sublime<LINE>creación: ¡el Funkycóptero!<END><END><END><01>
+|
+@99
+<END><END>Hasta luego.<END><END><END><END><END><01>
+|
+@100
+<END><END>Tómatelo con calma.<END><END><01>
+|
+@101
+<END><END>No te pierdas mucho,<LINE>¿de acuerdo?<END><END><END><END><01>
+|
+@102
+<END><END>Nos vemos luego.<END><END><END><END><END><01>
+|
+@103
+<END><END>Choca esos cinco.<END><END><END><END><01>
+|
+@104
+<END><END>Hora de un descanso.<END><END><END><END><END><01>
+|
+@105
+<END><END>¡Ha llegado la<LINE>hora de largarse!<END><END><END><END><END><01>
+|
+@106
+<END><END>Yo me piro ya.<LINE>¡Viva el surf!<END><END><END><END><01>
+|
+@107
+<END><END>¡Genial! Sabía que<LINE>te atreverías con el<LINE>reto. Muy bien. Esto<LINE>es lo que debes hacer.<NEXT>Esos kremlings han<LINE>bloqueado el río.<LINE>Dales una buena<LINE>lección y échalos.<NEXT>Usa el + Panel de Control<LINE>para controlar la lancha.<LINE>El Botón B para acelerar y<LINE>y el Botón A para disparar.<NEXT>¡Destruye 10 y la recompensa<LINE>será magnífica!<END><END><01>
+|
+@108
+<END><END>Muy bien, ¿todo listo?<LINE>Hay que robar las minas<LINE>que flotan en el río<LINE>para que los kremlings<NEXT>no puedan hacerlas<LINE>explotar. No te lo<LINE>pondrán fácil. Usa<LINE>tus habilidades al<NEXT>volante para moverlas<LINE>hasta la zona de<LINE>seguridad marcada<LINE>con boyas.<END><END><END><01>
+|
+@109
+<END><END>¿Qué tal un poco de acción<LINE>con un aerodeslizador?<LINE>Los Kongs han decidido<NEXT>ir a nadar al río, justo<LINE>al lado del refugio de<LINE>los kremlings. Si es que...<NEXT>Debes defenderlos de los<LINE>kremlings secuestradores<LINE>hasta que llegue más ayuda.<NEXT>Debes salvar a al<LINE>menos un Kong para<LINE>superar el reto.<END><END><END><END><END><01>
+|
+@110
+<END><END>¿Otra vez aquí? ¡Qué fuerte!<LINE>Compite en esta carrera<LINE>con el Turboesquí y cruza<LINE>la línea de meta antes<NEXT>que nadie. ¡Da tres vueltas<LINE>y ganarás este reto!<END><END><END><01>
+|
+@111
+<END><END>NOT USED<END><END><END><END><END><01>
+|
+@112
+<END><END>¡Esta es mi zona de<LINE>entrenamiento! Estoy<LINE>cansado de ser el último<LINE>mono en este juego.<NEXT>¡Así que ahora me entreno<LINE>para mejorar mis habilidades<LINE>y liderar la próxima aventura<LINE>de Cranky Kong Country!<NEXT>Te dejaré entrenar conmigo,<LINE>pero esto no es una obra de<LINE>caridad porque necesito<NEXT>fondos para mi nuevo<LINE>proyecto, así que te cobraré<LINE>por el privilegio de entrenar<LINE>con un maestro.<END><END><END><01>
+|
+@113
+<END><END>Así que quieres verme<LINE>en acción, ¿verdad?<END><END><END><END><01>
+|
+@114
+<END><END>Como aún el juego no está<LINE>muy avanzado, te dejaré<LINE>entrenar conmigo a cambio de<LINE>una sola moneda de plata.<NEXT>Una de esas monedas con el<LINE>dibujo de una cabeza de oso.<END><END><END><END><END><01>
+|
+@115
+<END><END>Si quieres entrenar conmigo,<LINE>tendrás que pagar dos<LINE>monedas de plata. Esas con<LINE>una cabeza de oso dibujada.<END><END><END><END><01>
+|
+@116
+<END><END>¡Quiero entrenar!<LINE>Hoy no me apetece.<END><END><END><END><END><01>
+|
+@117
+<END><END>Ayúdame a repeler el ataque<LINE>de estos kritters llenos<LINE>de púas con mi escudo.<NEXT>Mueve mi escudo con el<LINE>+ Panel de Control hacia la<LINE>posición de bloqueo correcta.<NEXT>¡Te recompensaré según<LINE>lo bien que lo hagas!<END><END><END><END><01>
+|
+@118
+<END><END>¡Buena suerte!<END><END><END><01>
+|
+@119
+<END><END>¿Cómo puedes dejar pasar<LINE>una oportunidad así? ¡Yo<LINE>soy el maestro! ¡Adiós!<END><END><END><END><01>
+|
+@120
+<END><END>¡Me insultas! ¡No mereces<LINE>entrenar con el maestro!<END><END><END><01>
+|
+@121
+<END><END>Oh, vaya. No te ha ido<LINE>nada bien. ¿Verdad?<NEXT>Como no lo hagas mejor,<LINE>no te daré ni un premio.<END><END><01>
+|
+@122
+<END><END>No lo has hecho mal, pero<LINE>aún puedes mejorar mucho.<NEXT>Si alcanzas la puntuación<LINE>perfecta, te daré este<LINE>pájaro plátano.<END><END><END><END><END><01>
+|
+@123
+<END><END>¡Has completado el<LINE>reto del maestro!<NEXT>Toma este pájaro.<LINE>Estoy seguro de que<LINE>te resultará útil.<END><END><END><END><01>
+|
+@124
+<END><END>¡Qué maestría!<LINE>¡Has evitado todos esos<LINE>kritters llenos de púas!<END><END><END><END><END>RÉCORD<END><END><END><01>
+|
+@125
+<END><END>Bien hecho. Ahora haré<LINE>leña de ese barril gigante.<NEXT>Hora de continuar. Ahora<LINE>vete al bosque Kremwood.<END><END><END><END><END><01>
+|
+@126
+<END><END>Muy bien. Ese monstruo<LINE>de ocho patas no volverá<LINE>a darte problemas.<NEXT>Seguro que Funky hace<LINE>buen uso de ese parche.<LINE>Vete a verlo enseguida.<END><END><END><END><END><01>
+|
+@127
+<END><END>¿Qué ha sido eso?<LINE>No sé si quiero saberlo.<NEXT>Aún así, estás un paso más<LINE>cerca del rescate de Diddy.<END><END><END><END><01>
+|
+@128
+<END><END>¿Qué ha sido eso?<LINE>No sé si quiero saberlo.<NEXT>Aún así, estás un paso más<LINE>cerca del rescate de Diddy.<NEXT>Creo que será mejor que<LINE>vuelvas a ver a Funky.<LINE>Seguro que te puede ayudar.<END><END><END><END><END><01>
+|
+@129
+<END><END>Las batallas contra los<LINE>jefes ya no son lo que eran.<NEXT>A estos macacos los derriba<LINE>cualquiera enseguida...<END><END><END><END><END><01>
+|
+@130
+<END><END>Las batallas contra los<LINE>jefes ya no son lo que eran.<NEXT>Con solo un buen ataque<LINE>cualquiera puede...<NEXT>Creo que será mejor que<LINE>vuelvas a ver a Funky.<LINE>Seguro que te puede ayudar.<END><END><01>
+|
+@131
+<END><END>Bien hecho. ¡Eso es<LINE>lo que yo llamo una<LINE>bienvenida helada!<NEXT>Lo estás haciendo muy<LINE>bien, así que ahora no<LINE>pares. ¡Adelante!<END><END><END><END><01>
+|
+@132
+<END><END>Así se hace. Enguarde, el pez<LINE>espada, ha resultado muy útil<LINE>para enfrentarte a esa extraña<LINE>criatura marina.<NEXT>¡Pasa al siguiente mundo!<LINE>¿No se acaba nunca este juego?<END><END><END><END><END><01>
+|
+@133
+<END><END>Toma, un obstáculo menos.<NEXT>Los juegos de hoy en día<LINE>tienen demasiadas batallas<LINE>de jefes. Menos mal que yo<NEXT>ya no me dedico a esto.<LINE>Bueno, me voy porque<LINE>llevo un montón de horas<LINE>siguiéndote a todos lados.<END><END><END><END><01>
+|
+@134
+<END><END>Hola. Soy Bazaar<LINE>y esta es mi tienda.<NEXT>Todos mis hermanos<LINE>están desperdigados<LINE>por estas islas...<NEXT>Si te encuentras con<LINE>alguno de ellos durante<LINE>tu viaje, salúdale.<END><END><END><END><END><01>
+|
+@135
+<END><END>¡Buenos días!<LINE>¿Qué quieres saber?<END><END><END><END><01>
+|
+@136
+<END><END>¿En qué te puedo<LINE>ayudar hoy?<END><END><END><END><END><01>
+|
+@137
+<END><END>Entonces, ¿cómo<LINE>te puedo ayudar?<END><END><END><END><END><01>
+|
+@138
+<END><END>Hola, ¿qué quieres?<END><END><01>
+|
+@139
+<END><END>¿Dónde hallaste esa concha?<LINE>¿Eso es un espejo?<LINE>¡Cómo me gustan los bombones!<LINE>¿De quién es el castillo?<LINE>¿Hay alguna cueva secreta?<LINE>Hoy no quiero nada, gracias.<END><END><END><01>
+|
+@140
+<END><END>Esta concha apareció en<LINE>el fondo del lago Orangatanga.<LINE>Es muy poco común. <NEXT>Es una ganga por solo 5<LINE>monedas de oso. ¿Quieres<LINE>comprar este genial ejemplar?<END><END><END><END><01>
+|
+@141
+<END><END>Sí, por favor.<END><END><END><01>
+|
+@142
+<END><END>¡Debes de estar bromeando!<END><END><END><01>
+|
+@143
+<END><END>¡Trato hecho! ¡Espero que<LINE>seáis muy felices juntos!<END><END><01>
+|
+@144
+<END><END>¿No te interesa? Espero<LINE>que no te equivoques porque<NEXT>no creo que dure mucho en<LINE>la tienda. ¡Va a volar!<END><END><END><END><01>
+|
+@145
+<END><END>Sí, pero no es un espejo<LINE>cualquiera. Perteneció al<LINE>abuelo de Cranky. Así que<NEXT>no puedo venderlo por menos<LINE>de 50 monedas. ¿Te interesa<LINE>comprar este fabuloso objeto?<END><END><END><01>
+|
+@146
+<END><END>Sí, mucho.<END><END><END><01>
+|
+@147
+<END><END>¡No, no me interesa!<END><END><END><END><END><01>
+|
+@148
+<END><END>Deja que te diga que<LINE>has hecho una compra<LINE>extraordinaria.<END><END><END><END><01>
+|
+@149
+<END><END>¿No te interesa? No<LINE>importa. Seguro que me<LINE>lo quitan de las manos.<END><END><END><01>
+|
+@150
+<END><END>¡Son unos bombones deliciosos!<LINE>Te garantizo que causarás<LINE>una gran impresión.<NEXT>¡Puedes hacerte con ellos<LINE>por solo 20 monedas!<END><END><01>
+|
+@151
+<END><END>¡Los quiero!<END><END><END><END><END><01>
+|
+@152
+<END><END>¡Debes de estar bromeando!<END><END><END><01>
+|
+@153
+<END><END>Deja que te diga que<LINE>has hecho una elección<LINE>deliciosa. Una gran compra.<END><END><01>
+|
+@154
+<END><END>¿No los quieres? Da igual.<LINE>Seguro que se venden<LINE>como churros.<END><END><END><END><01>
+|
+@155
+<END><END>La verdad es que yo me<LINE>aventuré hasta el castillo<LINE>una vez, pero si quieres<NEXT>saber qué descubrí, te<LINE>costará 2 monedas. Bueno,<LINE>¿te interesa mi oferta?<END><END><01>
+|
+@156
+<END><END>¡Oh, cuéntamelo todo!<END><END><END><END><01>
+|
+@157
+<END><END>¡Estoy ahorrando para Swanky!<END><END><END><END><01>
+|
+@158
+<END><END>Verás, en una ocasión llegué<LINE>hasta el castillo y vi un<NEXT>cartel que ponía ''¡Fuera de<LINE>nuestra tierra!'', así que huí.<END><END><01>
+|
+@159
+<END><END>¿Seguro que no te interesa?<LINE>La semana pasada pasó por<LINE>aquí un joven llamado Link y<NEXT>preguntó por el castillo.<LINE>No tenía bastantes monedas,<LINE>pero parecía tan buen chico<NEXT>que acepté 500 rupias como<LINE>pago por la información.<LINE>Después se marchó... <NEXT>diciendo entre dientes que<LINE>si mis conchas no tenían<LINE>la forma correcta o no sé qué.<END><END><END><END><01>
+|
+@160
+<END><END>En realidad hay muchas, pero<LINE>si quieres que te hable<LINE>de ellas, dame 13 monedas.<NEXT>¿Qué te parece?<LINE>¿Te lo cuento?<END><END><END><01>
+|
+@161
+<END><END>¡Oh, sí, sabio tendero!<END><END><01>
+|
+@162
+<END><END>¡Ya las encontraré yo!<END><END><END><01>
+|
+@163
+<END><END>Bueno, algunas están ocultas<LINE>en islas y montañas, y para<LINE>llegar a ellas necesitarás<NEXT>la ayuda de Funky. ¿Que<LINE>cuántas cuevas secretas hay?<LINE>Tantas como monedas has<NEXT>pagado por esta información.<LINE>¡Ja, ja, ja, ja!<END><END><END><01>
+|
+@164
+<END><END>Bien. Buena suerte.<LINE>¡Sin duda, la necesitarás!<END><END><END><01>
+|
+@165
+<END><END>Un momento. No tienes<LINE>suficiente dinero.<END><END><END><END><END><01>
+|
+@166
+<END><END>Sigue ahorrando. Pronto<LINE>tendrás suficiente dinero.<END><END><END><01>
+|
+@167
+<END><END>Un momento. Lo siento,<LINE>pero te falta dinero.<END><END><END><END><END><01>
+|
+@168
+<END><END>No es nada personal,<LINE>pero no tienes dinero<LINE>para realizar esta compra.<END><END><END><END><01>
+|
+@169
+<END><END>Hasta la próxima. Adiós.<END><END><END><END><END><01>
+|
+@170
+<END><END>Espero que tengas un<LINE>día maravilloso.<END><END><END><END><01>
+|
+@171
+<END><END>Nos vemos más tarde.<LINE>Abro 24 horas al día.<END><END><END><01>
+|
+@172
+<END><END>Gracias por comprar<LINE>en mi tienda. Ha sido<LINE>un placer atenderte.<END><END><END><01>
+|
+@173
+<END><END>Llevo tiempo<LINE>observándote.<NEXT>Me llamo Blunder, pero<LINE>tú llámame Sr. Blunder.<END><END><END><END><01>
+|
+@174
+<END><END>Veo que piensas que vas a<LINE>encontrar todo en el juego.<NEXT>Y ni siquiera sabes que<LINE>hay un Mundo Perdido...<END><END><END><END><01>
+|
+@175
+<END><END>Así que piensas que has<LINE>llegado muy lejos. Pues<NEXT>no te creas. Ni siquiera<LINE>has encontrado el Mundo<NEXT>Perdido y eso que está en<LINE>en el mapa principal.<END><END><END><END><END><01>
+|
+@176
+<END><END>¿Cómo va todo, valiente?<LINE>No me extraña que te<NEXT>hayas atascado. No has<LINE>buscado en las rocas.<END><END><END><01>
+|
+@177
+<END><END>Has vuelto a por más pistas,<LINE>¿eh? Pues si te piensas que<NEXT>te voy a contar que el Mundo<LINE>Perdido está en las rocas...<END><END><END><01>
+|
+@178
+<END><END>¿Aún sigues atascado? ¡Psé!<LINE>Claro, como no hay forma de<LINE>que rodees las rocas...<END><END><01>
+|
+@179
+<END><END>¿Aún no has sido capaz de<LINE>encontrar el Mundo Perdido?<NEXT>Sin duda debes pasar<LINE>por las rocas más rápido.<END><END><END><END><END><01>
+|
+@180
+<END><END>Oh, oh. Me parece que acabo<LINE>de descubrir el pastel.<END><END><01>
+|
+@181
+<END><END>¡Vaya! Ahora sí la he montado.<END><END><END><01>
+|
+@182
+<END><END>¡Oh, no! ¡Otra vez no!<LINE>¡Se me ha vuelto a escapar!<END><END><END><01>
+|
+@183
+<END><END>Oh, bueno... No has oído<LINE>bien lo que he dicho, ¿verdad?<END><END><01>
+|
+@184
+<END><END>¡Largo! ¡Fuera de mi choza!<LINE>¡No haces más que dejarme<LINE>en ridículo! ¡Basta!<END><END><END><01>
+|
+@185
+<END><END>¡Basta! ¡Esto es demasiado!<LINE>¡Me largo! ¡No vas a<NEXT>sacarme ni una pista más!<LINE>¡Hala, ya lo he dicho!<END><END><END><END><01>
+|
+@186
+<END><END>¡No me creo que hayas<LINE>encontrado el Mundo Perdido<LINE>sin ayuda! Seguro que has<NEXT>consultado la revista oficial<LINE>de Nintendo: ''Nintendo Acción''.<END><END><01>
+|
+@187
+<END><END>¡Yo lo hice y fue<LINE>una gran idea!<END><END><END><END><END><01>
+|
+@188
+<END><END>Entonces has encontrado<LINE>el Mundo Perdido, ¿no?<END><END><END><01>
+|
+@189
+<END><END>¡No es para tanto!<LINE>¡No lo habrías encontrado<LINE>nunca sin mi valiosa ayuda!<END><END><END><END><END><01>
+|
+@190
+<END><END>¡Hola! Deja que me presente.<LINE>Soy Bramble, famoso botánico.<NEXT>Sí, me he mudado aquí para<LINE>huir del olor de las máquinas,<NEXT>pero esta tierra está<LINE>demasiado seca para cultivar.<NEXT>Y como no he podido ni<LINE>cultivar ni estudiar plantas,<NEXT>me he dedicado a<LINE>coleccionar animales.<NEXT>Pero me encantan las plantas.<LINE>¿A ti no? ¡Son tan hermosas!<NEXT>Esta rosa púrpura me<LINE>recuerda a las que ya<LINE>no puedo cultivar.<NEXT>Hazme el favor de ir a<LINE>Mekanos y apagar esas<LINE>máquinas.<END><END><END><END><END><01>
+|
+@191
+<END><END>Estoy tan contento de que esas<LINE>máquinas hayan desaparecido.<NEXT>Quizá pueda volver a cultivar<LINE>mis hermosas flores de nuevo.<NEXT>Toma, un Platanus Aureus<LINE>Volantis para ti...<NEXT>Vamos, un pájaro plátano.<LINE>He terminado de estudiar<LINE>sus habilidades. Tiene<NEXT>algunas realmente mágicas.<LINE>¡Quería que lo supieses!<END><END><END><01>
+|
+@192
+<END><END>¡Tienes una! Una perfecta<LINE>Floris Mirabilis Petallus.<NEXT>¿Me la das? Te estaría<LINE>tan agradecido...<END><END><END><END><01>
+|
+@193
+<END><END>Oh, de acuerdo.<LINE>No, ¡la quiero!<END><END><01>
+|
+@194
+<END><END>Tu generosidad deslumbra.<LINE>Toma, llévate esta<LINE>preciosa rosa a cambio.<END><END><END><END><END><01>
+|
+@195
+<END><END>Bueno, tú verás lo que haces,<LINE>pero me hacía mucha ilusión.<END><END><END><01>
+|
+@196
+<END><END>Hola, ¿has venido<LINE>a ver mi exposición<LINE>de flores?<NEXT>Gracias. Me has hecho<LINE>un oso muy feliz.<END><END><END><END><END><01>
+|
+@197
+<END><END>¿Qué tal el día?<LINE>Yo me llamo Barter.<NEXT>¡Oh, oh! ¿Me has<LINE>visto lavarme?<NEXT>El gallito de Funky<LINE>se comporta de forma<LINE>extraña últimamente.<NEXT>Yo creo que tiene un<LINE>proyecto secreto entre manos.<NEXT>¡Claro que apuesto a que no<LINE>es más que un sueño tonto!<END><END><END><END><END><01>
+|
+@198
+<END><END>He hecho mejoras en mi casa,<LINE>pero mira lo sucio que me<NEXT>he quedado. ¿Y ahora cómo<LINE>sabré cuándo estoy limpio?<END><END><01>
+|
+@199
+<END><END>Debo de estar realmente<LINE>desastroso, pero como no puedo<LINE>verme, ¿para qué preocuparme?<END><END><END><END><END><01>
+|
+@200
+<END><END>¿Sucio? Bueno, veo que<LINE>tengo las patas sucias,<NEXT>pero, ¿cómo sé que no<LINE>mientes sobre mi cara?<END><END><01>
+|
+@201
+<END><END>¿Sucio? Yo me miraría en<LINE>un espejo, si fuese tú.<END><END><END><END><END><01>
+|
+@202
+<END><END>¿Eso que tienes es un espejo?<LINE>¿Me dejarías mirarme en él?<END><END><END><END><01>
+|
+@203
+<END><END>¡Claro que sí!<LINE>¡Aleja tus patas de él!<END><END><END><01>
+|
+@204
+<END><END>Muchas gracias.<LINE>¡Oh, no! Mira qué pinta<NEXT>tengo. ¡Qué horror! Llévate<LINE>esta llave inglesa si quieres.<END><END><END><01>
+|
+@205
+<END><END>Vale. Muchas gracias por<LINE>tu amabilidad. ¡Buaaaa!<END><END><END><END><END><01>
+|
+@206
+<END><END>Mírame ahora.<LINE>¿A que estoy para<NEXT>dejar sin aliento?<LINE>¡Una máquina perfecta!<END><END><END><END><01>
+|
+@207
+<END><END>Hola, ¿quieres que<LINE>te devuelva el espejo?<END><END><END><END><01>
+|
+@208
+<END><END>Sí, como que es mío.<LINE>No, puedes quedártelo.<END><END><01>
+|
+@209
+<END><END>De acuerdo, pero tengo<LINE>la impresión de que volverás.<END><END><END><END><END><01>
+|
+@210
+<END><END>Vale, te lo devolveré,<LINE>pero tendrás que pagarme<LINE>10 monedas. La belleza<NEXT>no es gratuita. ¿Lo<LINE>quieres de todas formas?<END><END><01>
+|
+@211
+<END><END>¡Sí, caradura!<LINE>¡Ni hablar, usurero!<END><END><01>
+|
+@212
+<END><END>De acuerdo. Total, ya<LINE>empezaba a aburrirme de<LINE>estar tan limpio y guapo.<END><END><01>
+|
+@213
+<END><END>¿Cómo te atreves a<LINE>hablarle así a un oso<LINE>tan hermoso como yo?<END><END><END><END><01>
+|
+@214
+<END><END>Me tomas el pelo.<LINE>¿A qué juegas?<END><END><END><END><END><01>
+|
+@215
+<END><END>Aaah. Mira en qué estado me<LINE>encuentro. Fue vender el<LINE>espejo y hundirme de nuevo.<NEXT>Pensé que romper un espejo<LINE>traía mala suerte, no<LINE>venderlo. Mira qué aspecto.<END><END><END><END><01>
+|
+@216
+<END><END>Hola. ¿Cómo te va?<LINE>Yo soy Bachelor y he<LINE>construido esta preciosa<NEXT>casa. Igual puedes ayudarme.<LINE>Aún no he hallado a la chica<LINE>de mis sueños con quien<NEXT>compartir mi nuevo y dulce<LINE>hogar. Necesito una hermosa<LINE>rosa y una caja de bombones<NEXT>para conquistarla. ¿Crees<LINE>que podrías conseguir<LINE>esas dos cosas para mí?<NEXT>Si lo haces, yo te daré a<LINE>cambio ese pájaro amarillo.<LINE>Es un pesado y solo molesta.<NEXT>Toma, toma. Quizá esto<LINE>te resulte útil.<END><END><END><END><END><01>
+|
+@217
+<END><END>Ha llegado la hora de irte.<LINE>Tengo que darme un baño<LINE>para mi cita de esta noche...<END><END><END><END><01>
+|
+@218
+<END><END>Me vendrían tan bien una<LINE>rosa y unos bombones para<LINE>mi cita de esta noche...<END><END><01>
+|
+@219
+<END><END>¡Qué rosa tan... púrpura!<LINE>Qué pena que no tengas unos<LINE>bombones para acompañarla.<END><END><END><END><END><01>
+|
+@220
+<END><END>¡Esos bombones tienen<LINE>una pinta estupenda!<NEXT>Ahora ya solo falta<LINE>una hermosa rosa.<END><END><END><END><END><01>
+|
+@221
+<END><END>¡Fantástico! ¡Tienes la rosa<LINE>y los bombones! ¡Justo lo que<LINE>necesito para mi cita de hoy!<NEXT>Oye, te los cambio por ese<LINE>pájaro que no hace más que<LINE>llenarme la bañera de plumas.<END><END><END><END><END><01>
+|
+@222
+<END><END>Claro que sí.<LINE>No, me los quedo.<END><END><01>
+|
+@223
+<END><END>¿En serio? ¡Fabuloso!<LINE>Aquí tienes el pájaro.<LINE>Cuídalo bien.<END><END><END><01>
+|
+@224
+<END><END>Vaya... Qué pena.<LINE>Seguro que habría triunfado<LINE>en mi cita de esta noche.<END><END><01>
+|
+@225
+<END><END>Hola, ¿qué tal va todo?<LINE>Luego tengo otra prometedora<NEXT>cita. ¡No tengo<LINE>tiempo que perder!<END><END><01>
+|
+@226
+<END><END>¿Sabes que echo de menos al<LINE>pájaro amarillo ese tan lelo?<LINE>La casa está vacía sin él.<END><END><END><END><END><01>
+|
+@227
+<END><END>Hola, ¿qué tal te va?<LINE>Me llamo Barnacle y me<LINE>he instalado aquí.<NEXT>Quiero hacerme con una<LINE>gran colección de conchas.<NEXT>Antes solía bucear,<LINE>pero lo he dejado.<NEXT>Prefiero relajarme<LINE>en mi casa.<NEXT>¿Has visto mi colección de<LINE>conchas? ¡Casi está completa!<NEXT>¿A que es un pájaro precioso?<LINE>Un día entró volando en<LINE>casa y decidí quedármelo.<END><END><END><END><END><01>
+|
+@228
+<END><END>¿Sabes? No creo que nadie<LINE>pueda convencerme para<LINE>deshacerme de este pájaro.<END><END><01>
+|
+@229
+<END><END>¡Qué concha tan bonita!<LINE>¡Es perfecta para terminar<LINE>mi estupenda colección!<NEXT>Oye, ¿tú me cambiarías<LINE>la concha por el pájaro?<END><END><END><01>
+|
+@230
+<END><END>Me parece un buen cambio.<LINE>No. Me gusta mi concha.<END><END><END><END><01>
+|
+@231
+<END><END>¿En serio? ¡Magnífico!<LINE>Toma, cuida bien<LINE>del pájaro plátano.<END><END><01>
+|
+@232
+<END><END>Vaya, qué pena.<LINE>Habría tenido un sitio<LINE>privilegiado en mi colección.<END><END><END><END><END><01>
+|
+@233
+<END><END>Hola, ¿qué tal? ¿Has venido<LINE>a ver mi colección de conchas,<LINE>famosa en todo el mundo?<END><END><01>
+|
+@234
+<END><END>La verdad es que echo de menos<LINE>al pájaro, pero cuando observo<LINE>mis conchas se me pasa.<END><END><END><END><01>
+|
+@235
+<END><END>Vaya, vaya, mira quién<LINE>está aquí. ¿Quién te ha<NEXT>dado permiso para irrumpir<LINE>así en el estadio de Brash?<NEXT>¿Has visto la Carrera de la<LINE>orilla? Mi récord es 01:15:00.<NEXT>Tú no la completarías ni<LINE>en el doble de tiempo.<END><END><END><END><END><01>
+|
+@236
+<END><END>¿A ti te parece eso un tiempo<LINE>decente? Por favor, podría<NEXT>dejarte todo ese tiempo de<LINE>ventaja y ganarte sin sudar.<END><END><END><END><END><01>
+|
+@237
+<END><END>¿Te has hecho daño ya<LINE>en el nivel de la orilla?<NEXT>Ya. Por eso ibas más despacio<LINE>que el caballo del malo.<END><END><END><01>
+|
+@238
+<END><END>¿Qué? ¿De paseo por la<LINE>orilla? Tiene que ser eso.<NEXT>Si no, no entiendo cómo<LINE>se puede ir tan despacio.<END><END><01>
+|
+@239
+<END><END>¿Qué? ¿Te paraste a merendar<LINE>durante la carrera?<NEXT>O igual te perdiste.<END><END><END><END><01>
+|
+@240
+<END><END>¡Eh! Te encontraste con<LINE>Wrinkly y sus amigos de<NEXT>excursión por el río y<LINE>te uniste al grupo, ¿no?<END><END><01>
+|
+@241
+<END><END>¡Por todos los osos! Si<LINE>yo tuviese tu pinta,<NEXT>caminaría hacia atrás para<LINE>parecer más presentable.<END><END><END><END><END><01>
+|
+@242
+<END><END>¿Dónde están tus modales?<LINE>No te has limpiado las<NEXT>patas en la alfombrilla<LINE>que pone ''Largo de aquí''.<END><END><END><END><END><01>
+|
+@243
+<END><END>Tendrías que ver mis<LINE>estupendos trofeos. Tú<NEXT>jamás tendrás ni uno, a menos<LINE>que los den con los cereales.<END><END><01>
+|
+@244
+<END><END>¿¡Cómo!? ¡No puedes<LINE>haber mejorado mi tiempo!<NEXT>¡En dos años, nadie me<LINE>había arrebatado el récord!<NEXT>¡Estoy tan enfadado<LINE>que no sé si...!<END><END><END><END><01>
+|
+@245
+<END><END>Si piensas que te voy a<LINE>dirigir la palabra, ¡ni lo<NEXT>sueñes! No me molesta que<LINE>ganes, sino tu prepotencia.<NEXT>¡VAMOS! ¡FUERA DE AQUÍ!<END><END><END><END><END><01>
+|
+@246
+<END><END>¡No creas que esto va<LINE>a quedar así, arrogante!<NEXT>¡Voy a vengarme de ti!<LINE>Espera y verás.<END><END><END><END><01>
+|
+@247
+<END><END>Ho-hola, ¿qué tal?<LINE>Me llamo Blue.<LINE>E-encantado de conocerte.<END><END><01>
+|
+@248
+<END><END>Me-me temo que llegas un<LINE>poco pronto para la fiesta.<NEXT>Eso si al final<LINE>aparece alguien.<END><END><END><END><01>
+|
+@249
+<END><END>¿No habrás traído un...?<LINE>No, ya veo que no.<LINE>En realidad no importa.<END><END><01>
+|
+@250
+<END><END>¿Que qué es ese círculo<LINE>rojo en el calendario?<LINE>Oh, nada importante.<END><END><01>
+|
+@251
+<END><END>Me llega mucho correo,<LINE>pero son todo facturas.<END><END><END><01>
+|
+@252
+<END><END>¿Un regalo para mí? ¡Gracias!<LINE>¡Qué ilusión! ¿Qué es?<LINE>¡A ver qué me has traído!<END><END><END><01>
+|
+@253
+<END><END>Oh, ¿es una bola para jugar<LINE>a los bolos? Pesa demasiado<LINE>para mí. Quédatela tú.<END><END><END><01>
+|
+@254
+<END><END>Hola. Quédate un rato,<LINE>si te apetece, y toma<LINE>un té y un poco de pastel.<END><END><01>
+|
+@255
+<END><END>¿Quieres gelatina<LINE>verde con helado?<NEXT>Disfrútalo. Aún queda<LINE>mucho más si te apetece.<END><END><END><01>
+|
+@256
+<END><END>¿Te gustaría jugar<LINE>conmigo a algo divertido?<END><END><END><END><END><01>
+|
+@257
+<END><END>¡Mucha suerte en<LINE>tu búsqueda!<END><END><END><END><01>
+|
+@258
+<END><END>¡Buenos días! ¡Soy el<LINE>brigadier Bazooka! Veo<LINE>que estamos todos. ¡Bien!<NEXT>Yo luché en la Guerra de<LINE>Kremean. Aunque el Gran<NEXT>Bessie y yo nos jubilamos<LINE>ya del servicio. ¿Cómo?<NEXT>¿Que quién es el Gran Bessie?<LINE>¡Es el mayor y mejor<NEXT>cañón de todos los<LINE>tiempos! ¡Es tan bonito!<END><END><END><END><END><01>
+|
+@259
+<END><END>¿Has visto el Gran Bessie?<LINE>No lo he disparado en años.<LINE>No tengo munición. Ya ves.<END><END><END><END><01>
+|
+@260
+<END><END>Tengo mucha artillería<LINE>antigua, pero Bessie es mi<LINE>pieza favorita. ¡Qué sonido!<END><END><END><01>
+|
+@261
+<END><END>¡Cómo me gustaría<LINE>dispararlo una vez más!<NEXT>Sin embargo, no tengo<LINE>la munición que necesita.<END><END><END><END><01>
+|
+@262
+<END><END>¿Quieres usar mi cañón?<LINE>Sin munición, no es<LINE>posible. Lo siento.<END><END><01>
+|
+@263
+<END><END>¿Qué tienes ahí?<LINE>¿Es una bola de cañón?<NEXT>Quizá esta bola sirva<LINE>para disparar mi cañón...<NEXT>¿Te parece que carguemos el<LINE>viejo Bessie a ver si dispara?<END><END><END><01>
+|
+@264
+<END><END>¡Cargado y listo, señor!<LINE>No dispare, brigadier.<END><END><01>
+|
+@265
+<END><END>¡Muy bien, veamos de qué<LINE>es capaz! ¡Apunte...!<END><END><END><01>
+|
+@266
+<END><END>¿No quieres? De todas formas<LINE>no creo que funcione. Da igual.<END><END><END><END><END><01>
+|
+@267
+<END><END>¡Menudo estruendo! ¡Cómo<LINE>me apetecía oírlo de nuevo!<NEXT>¿Qué te parece si<LINE>probamos de nuevo?<END><END><END><END><01>
+|
+@268
+<END><END>Ay... ¡Los recuerdos<LINE>inundan mi mente!<NEXT>Estábamos atrapados en un<LINE>acantilado, rodeados de...<END><END><01>
+|
+@269
+<END><END>¡Por todas las nieves!<LINE>¿Cómo me has encontrado?<LINE>Bueno, eso no importa.<NEXT>¡Soy Blizzard! ¡Llevo aquí<LINE>arriba semanas preparándome<LINE>para intentar escalar el K3!<END><END><END><01>
+|
+@270
+<END><END>Parece que me voy a<LINE>perder el cumpleaños<LINE>de mi mejor amigo, Blue.<NEXT>Oye, ¿podrías<LINE>hacerme un favor?<END><END><END><END><01>
+|
+@271
+<END><END>¡Claro que sí!<LINE>¡Va a ser que no!<END><END><END><END><END><01>
+|
+@272
+<END><END>Genial. ¿Le podrías<LINE>llevar este regalo<NEXT>de mi parte? Te lo<LINE>agradecería mucho.<END><END><END><END><END><01>
+|
+@273
+<END><END>¿No? Qué poco solidario.<LINE>¡Espero que cojas un<LINE>buen resfriado ahí fuera!<END><END><01>
+|
+@274
+<END><END>Me alucina que me hayas<LINE>encontrado. Llevo aquí<NEXT>atrapado desde que me rompí<LINE>la pierna con el trineo.<END><END><01>
+|
+@275
+<END><END>¿Cómo me has encontrado?<LINE>Mi casa estaba completamente<LINE>cubierta por la nieve.<END><END><END><END><END><01>
+|
+@276
+<END><END>¿Le gustó mi regalo?<LINE>Me costó mucho<LINE>tiempo elegirlo.<END><END><END><END><END><01>
+|
+@277
+<END><END>Brrr, qué frío hace aquí.<LINE>¿No te parece?<NEXT>Con este frío igual<LINE>mutas a mono polar. Ja, ja.<END><END><END><END><END><01>
+|
+@278
+<END><END>Hola, me llamo Benny.<LINE>Mi hermano se llama Björn.<NEXT>Somos los encargados de los<LINE>telesillas de esta zona.<END><END><END><END><01>
+|
+@279
+<END><END>¿Te gustaría montar en mi<LINE>telesilla? ¡Te cautivará!<END><END><01>
+|
+@280
+<END><END>Puedes visitar a mi<LINE>hermano Björn en el<LINE>telesilla, si quieres.<END><END><END><01>
+|
+@281
+<END><END>Mi telesilla es la forma<LINE>más segura de subir hasta<NEXT>la cima. Vamos, confía en<LINE>mí y no te arrepentirás.<END><END><END><END><01>
+|
+@282
+<END><END>Mi telesilla no se romperá<LINE>nunca. ¡Te lo aseguro!<END><END><END><END><01>
+|
+@283
+<END><END>¿Quieres subir<LINE>en mi telesilla?<END><END><01>
+|
+@284
+<END><END>Mmm... ¡Vale!<LINE>Prefiero caminar.<END><END><01>
+|
+@285
+<END><END>Fabuloso. Agárrate<LINE>bien que allá vas.<END><END><END><END><01>
+|
+@286
+<END><END>¿No? De acuerdo.<LINE>¿Quizá más tarde?<END><END><END><01>
+|
+@287
+<END><END>¡Hola! ¿Qué tal<LINE>estás hoy, monada?<NEXT>Yo soy Björn, el<LINE>hermano de Benny.<NEXT>Lo siento, pero el<LINE>telesilla está roto.<NEXT>Presté mi llave inglesa<LINE>a alguien y no puedo arreglarlo.<END><END><END><01>
+|
+@288
+<END><END>La gente dice que Benny<LINE>y yo nos parecemos mucho.<NEXT>También que somos una monada.<LINE>No sé qué te parecerá a ti.<END><END><01>
+|
+@289
+<END><END>En realidad, aunque a mi<LINE>hermano y a mí nos confundan<NEXT>a menudo, somos muy distintos.<LINE>¡No nos parecemos en nada!<END><END><01>
+|
+@290
+<END><END>¡Eh! ¡Has encontrado mi<LINE>llave inglesa! ¿Me la das?<END><END><END><01>
+|
+@291
+<END><END>¡Claro! Es tuya.<LINE>Quien fue a Sevilla...<END><END><01>
+|
+@292
+<END><END>Gracias. A partir de<LINE>ahora, podrás usar mi<NEXT>telesilla gratis<LINE>siempre que quieras.<END><END><END><END><END><01>
+|
+@293
+<END><END>Muy bien. Con amigos<LINE>como tú, no necesito<NEXT>enemigos. Coge tus<LINE>cosas y vete ya.<END><END><END><END><01>
+|
+@294
+<END><END>Así que has decidido<LINE>devolverme la llave inglesa.<NEXT>Vale, pero ahora subirte al<LINE>telesilla te costará 2 monedas.<END><END><END><END><01>
+|
+@295
+<END><END>Entonces, ¿quieres<LINE>montarte en mi telesilla?<END><END><END><END><END><01>
+|
+@296
+<END><END>¡Sí! ¡Claro!<LINE>No, hoy no.<END><END><END><END><END><01>
+|
+@297
+<END><END>El billete, por favor.<LINE>Está prohibido moverse<LINE>durante el trayecto.<END><END><END><01>
+|
+@298
+<END><END>Bueno, ya nos veremos.<END><END><END><01>
+|
+@299
+<END><END>Vaya, lo siento, pero<LINE>no tienes bastantes monedas.<END><END><END><01>
+|
+@300
+<END><END>¡Hola! ¿Cómo estás?<LINE>Me llamo Baffle y soy el<LINE>maestro de los acertijos.<NEXT>Tengo un problema, y es<LINE>que no consigo descifrar uno.<NEXT>Llevo tiempo intentándolo.<LINE>Quizá debería reflexionar.<END><END><END><01>
+|
+@301
+<END><END>Estoy seguro de que la<LINE>respuesta está delante<NEXT>de mis narices, pero<LINE>no consigo verla...<END><END><END><01>
+|
+@302
+<END><END>Hola de nuevo. No veas<LINE>lo duro que es darle<NEXT>vueltas y más vueltas<LINE>a lo mismo. ¿Me entiendes?<END><END><END><END><END><01>
+|
+@303
+<END><END>Mmm... Este acertijo me<LINE>está volviendo loco.<LINE>Quizá no lo estoy enfocando<NEXT>bien. Ya no sé qué hacer.<LINE>No consigo adivinarlo...<NEXT>Supongo que tendré que<LINE>seguir dándole vueltas.<END><END><END><01>
+|
+@304
+<END><END>Oye, ¿eso que tienes<LINE>ahí es un espejo?<NEXT>¿Me lo dejarías? Acabo<LINE>de tener una corazonada...<END><END><END><END><END><01>
+|
+@305
+<END><END>Claro, toma.<LINE>Es un marco, no un espejo.<END><END><01>
+|
+@306
+<END><END>Eh, mira, mira. Era un<LINE>acertijo escrito al revés.<LINE>Dice: ''Para abrir la puerta,<NEXT>haz ocho en las dos piedras.''<LINE>Bueno, ¿qué crees que quiere<NEXT>decir? ¿Crees que podrás<LINE>adivinar este acertijo?<END><END><END><END><END><01>
+|
+@307
+<END><END>Qué pena. Igual era<LINE>la respuesta a todos<LINE>mis problemas.<END><END><01>
+|
+@308
+<END><END>¡sarerbmul ,aloH!<LINE>¿yoh sátse omóC?<END><END><END><01>
+|
+@309
+<END><END>¿K tl v td mg?<END><END><END><01>
+|
+@310
+<END><END>adan seneit oN?<LINE>¿recah euq rojem<END><END><END><END><END><01>
+|
+@311
+<END><END>.adiv ut ed sodnuges<LINE>ecniuq redrep ed sabacA<END><END><END><END><END><01>
+|
+@312
+<END><END>¡Hola! Me llamo Boomer.<LINE>Me encanta volar cosas<LINE>por los aires.<NEXT>Por eso me han mandado aquí.<LINE>La gente dice que soy<NEXT>peligroso. Mis hermanos<LINE>disfrutan con las monedas de<LINE>osos, pero a mí solo me<NEXT>interesan las de oro con<LINE>una ''B''. Si encuentras 18,<LINE>te mostraré por qué me<NEXT>llaman Boomer. Haremos<LINE>honor a mi explosivo nombre.<LINE>¡Provocaremos un gran ''buum''!<END><END><END><01>
+|
+@313
+<END><END>¡Encuentra 18 monedas!<END><END><END><01>
+|
+@314
+<END><END>Por cierto, ¿te he dicho<LINE>que mi último espectáculo<LINE>cuesta 26 monedas?<NEXT>¡Te aseguro que<LINE>merece la pena!<END><END><END><END><01>
+|
+@315
+<END><END>¿Entonces te apetece<LINE>darme unas monedas?<END><END><END><END><END><01>
+|
+@316
+<END><END>¡Adelante, Boomer!<LINE>¡Ni hablar, oso loco!<END><END><END><END><END><01>
+|
+@317
+<END><END>Sí. ¡Te garantizo<LINE>que será una<LINE>experiencia explosiva!<END><END><END><END><01>
+|
+@318
+<END><END>Así que estás ahorrando.<LINE>¿Y para qué? Gástate las<LINE>monedas mientras puedas.<END><END><END><01>
+|
+@319
+<END><END>¿No? ¡Entonces igual deberías<LINE>irte a jugar con tus muñecas!<END><END><01>
+|
+@320
+<END><END>Oye, ¿te has propuesto<LINE>tomarme el pelo o qué?<NEXT>La última persona que lo<LINE>intentó aún no ha aterrizado.<END><END><END><END><END><01>
+|
+@321
+<END><END>¡Rayos y dinamita!<LINE>Creo que te falta un<LINE>detalle: ¡mi dinero!<LINE>Vuelve cuando lo tengas.<END><END><END><END><01>
+|
+@322
+<END><END>¿Y esa rueda dentada<LINE>que llevas ahí?<NEXT>Yo creo que encajaría en<LINE>esta extraña caja que lleva<LINE>aquí desde que me mudé.<NEXT>¡Encájala a<LINE>ver qué ocurre!<END><END><END><END><01>
+|
+@323
+<END><END>¿Eso que tienes ahí<LINE>son ruedas dentadas?<NEXT>Yo creo que encajarían en<LINE>esta extraña caja que lleva<LINE>aquí desde que me mudé.<NEXT>¡Encájalas a<LINE>ver qué ocurre!<END><END><01>
+|
+@324
+<END><END>Eh, tienes otra rueda<LINE>dentada. ¡Encájala en<LINE>la máquina a ver si<LINE>ocurre algo!<END><END><END><END><END><01>
+|
+@325
+<END><END>¡Vaya! Has encontrado más<LINE>ruedas dentadas de esas...<NEXT>¡Añadámoslas a la colección<LINE>a ver qué ocurre ahora!<END><END><END><END><END><01>
+|
+@326
+<END><END>Creo que necesitas<LINE>más para que este<LINE>trasto funcione.<NEXT>Quizá haya más ocultas<LINE>en otras zonas. Vamos,<LINE>¡seguro que encuentras<LINE>el resto enseguida!<END><END><END><01>
+|
+@327
+<END><END>¡No olvides que aún<LINE>podemos demoler muchas<LINE>cosas más! ¡Qué ganas!<END><END><END><END><01>
+|
+@328
+<END><END>Pues ahora que están<LINE>todas colocadas... no<LINE>parece que ocurra nada.<END><END><END><01>
+|
+@329
+<END><END>Bueno, ya están todas<LINE>y no parece que pase<LINE>nada, ¿verdad?<END><END><END><END><01>
+|
+@330
+<END><END>¿Qué ha sido ese<LINE>estruendo? ¡Mira!<LINE>¡Mira fuera! ¡No<LINE>vas a creértelo!<END><END><END><END><END><01>
+|
+@331
+<END><END>Hola, ¿qué has encontrado<LINE>durante tus viajes?<LINE>Creo que esas ruedas<LINE>encajarían en esta máquina.<NEXT>Sigue colocándolas<LINE>a ver qué ocurre.<END><END><01>
+|
+@332
+<END><END>¡Se me han acabado<LINE>los explosivos!<END><END><END><01>
+|
+@333
+<END><END>¡Uf! ¡Qué calor hace aquí!<LINE>Tengo que hacerle una<LINE>visita a Bazaar a ver<LINE>si tiene un ventilador.<END><END><END><01>
+|
+@334
+<END><END>Bzzzzt... Clic...<LINE>KONGS... ENEMIGOS...<NEXT>¡¡¡Debo...<LINE>DESTRUIROS!!!<END><END><01>
+|
+@335
+<END><END>Bzzzt... Bzzzt... Bzzzt...<LINE>KONGS... ¿GANAN? <NEXT>NO ES POSIBLE... Próxima vez<LINE>enfrentamiento... ¡KAOS ganará!<END><END><END><END><01>
+|
+@336
+<END><END>Ggrrr... Clic... Clic...<LINE>KONGS... ¿OTRA VEZ? <NEXT>Clic... Bzzzt... Esta vez<LINE>¡VICTORIA para KAOS! <END><END><END><END><01>
+|
+@337
+<END><END>¡Oh, noooo! ¿Qué has hecho?<LINE>¡Mi esposa me matará! <NEXT>Usé sus mejores cacerolas<LINE>y sartenes para crearlo...<NEXT>¡Y tú lo has destrozado<LINE>como si fuese una<NEXT>montaña de latas vacías!<LINE>¿Qué voy a hacer ahora?<END><END><END><01>
+|
+@338
+<END><END>Pensé que no era más<LINE>que un montón de latas.<END><END><END><END><END><01>
+|
+@339
+<END><END>¿Qué? ¡Cómo te atreves!<NEXT>¡KAOS era mi garantía<LINE>para dominar el mundo!<NEXT>Y lo habría conseguido,<LINE>si no hubiese sido por<NEXT>vosotros... ¡Pequeños<LINE>mequetrefes sabelotodo!<END><END><END><END><01>
+|
+@340
+<END><END>Parece que hoy no<LINE>es tu día de suerte.<END><END><END><01>
+|
+@341
+<END><END>Bueno, habéis acabado<LINE>con mi robot, pero aún<NEXT>tengo el control de<LINE>la situación y me parece<NEXT>que ha llegado la hora de...<LINE>¡daros vuestro merecido!<END><END><01>
+|
+@342
+<END><END>¡Por todos los saurios!<LINE>¡Habéis dado al traste<NEXT>con el plan secreto de<LINE>mi magnífico submarino!<NEXT>Esta es la última vez que<LINE>arruináis mis planes. ¡Voy<LINE>a daros una lección!<END><END><01>
+|
+@343
+<END><END>¡Oh! ¡Qué miedo!<END><END><END><END><END><01>
+|
+@344
+<END><END>¡Deberíais temblar!<LINE>¡Simios subdesarrollados!<END><END><END><END><01>
+|
+@345
+<END><END>¡Ay, ay! Mi cabeza...<LINE>¿Qué ha pasado?<NEXT>Estaba soñando con...<NEXT>la mayor montaña de<LINE>plátanos del mundo y...<NEXT>de repente me convertí en<LINE>un loco sediento de poder.<END><END><END><END><END><01>
+|
+@346
+<END><END>Tranquilo, Donkey. Gracias<LINE>a Dixie, ya ha acabado todo.<END><END><01>
+|
+@347
+<END><END>¡Estoy impresionado!<NEXT>¡Seguro que hasta Cranky<LINE>alucinaría con vosotros! <END><END><01>
+|
+@348
+<END><END>Pues va a ser que no...<END><END><01>
+|
+@349
+<END><END>Bien, Kiddy, tú irás<LINE>por ahí, y yo, por aquí.<END><END><END><END><01>
+|
+@350
+<END><END>Tú nunca pegarías a<LINE>alguien con gafas,<LINE>¿verdad que no?<END><END><END><01>
+|
+@351
+<END><END>¡Oh! ¡Menos mal! Por fin<LINE>me ha encontrado alguien.<LINE>¡Ese pirata de tripa<LINE>amarilla, K. Rool, me<NEXT>encerró tras esta terrible<LINE>barrera y después la selló<LINE>con un oscuro hechizo.<NEXT>Entonces encargó a un grupo<LINE>de sus malvados kremlings<LINE>que ocultasen a los únicos<LINE>seres capaces de hacer<NEXT>frente a la Llave de Cristal.<LINE>Mis pobres pajaritos. Solo<LINE>todos juntos tienen el<NEXT>poder para romper el<LINE>hechizo. Encuéntralos y<LINE>tráelos aquí lo antes<LINE>posible. A cambio...<NEXT>te prometo que echaré a<LINE>K. Rool de esta tierra para<LINE>siempre. No te despistes.<LINE>Cumple tu parte del trato.<END><END><01>
+|
+@352
+<END><END>¡Ya has encontrado a todos<LINE>los pájaros plátano!<LINE>Vete a la cueva de Wrinkly<LINE>y ella te dirá qué hacer.<NEXT>¡Date prisa! ¡No te<LINE>entretengas por ahí!<END><END><END><END><01>
+|
+@353
+<END><END>¡Lo has logrado! ¡Sí!<LINE>¡Has encontrado a todos<LINE>los pájaros plátano!<LINE>¡Por fin me liberaré<NEXT>del hechizo de K. Rool!<LINE>¡Vamos! ¡Cantad conmigo!<END><END><END><END><END><01>
+|
+@354
+<END><END>Oh, cómo me alegra tener a<LINE>toda la familia reunida de<LINE>nuevo. Te lo debo todo a ti.<END><END><END><01>
+|
+@355
+<END><END>Ahora, tal y como te prometí,<LINE>ha llegado la hora de darle<LINE>una lección a K. Rool.<LINE>¡Una que no olvidará nunca!<END><END><END><END><END><01>
+|
+@356
+<END><END>¡Has vuelto! Pero aún no<LINE>has encontrado a todos los<LINE>pájaros. Encuentra: XX más.<LINE>¡Sé que lo conseguirás!<END><END><01>
+|
+@357
+<END><END>Cuando esté libre,<LINE>voy a ser la peor<LINE>pesadilla de ese<LINE>cabeza de chorlito.<END><END><END><END><01>
+|
+@358
+<END><END>K. Rool no volverá a<LINE>reír a sus anchas<LINE>como hace ahora.<END><END><01>
+|
+@359
+<END><END>Espero que K. Rool salga<LINE>volando antes de que le<LINE>ponga las patas encima.<END><END><END><END><END><01>
+|
+@360
+<END><END>Cuando haya acabado con<LINE>K. Rool, temblará cada<LINE>vez que vea un plátano.<END><END><END><01>
+|
+@361
+<END><END>LOS MÁS MONOS<LINE>PUESTO: <LINE>MONO APESTOSO<LINE>MICO TRAMPOSO<LINE>MONO HOLGAZÁN<LINE>MANDRIL PUERIL<LINE>CHIMPANCÉ SIMPLÓN<LINE>SIMIO MEDIO<LINE>MACACO MOLÓN<LINE>GORILA CAMPEÓN<LINE>MEGA MONO<LINE>KONG GUAY<LINE>SEÑOR DEL PLÁTANO<LINE>REY DE LA SELVA<END><END><01>
+|
+@362
+<END><END>XXXXX<END><END><END><END><01>
+|
+@363
+<END><END>Dixie<END><END><END><END><01>
+|
+@364
+<END><END>Kiddy<END><END><END><END><01>
+|
+@365
+<END><END>Kongs<END><END><END><END><01>
+|
+@366
+<END><END>PULSA START<END><END><01>
+|
+@367
+<END><END>©1996-2005 Nintendo<LINE>Un juego de Rare<END><END><END><END><END><01>
+|
+@368
+<END><END>1 jugador<END><END><END><END><01>
+|
+@369
+<END><END>2 jugadores<END><END><01>
+|
+@370
+<END><END>Juego principal<END><END><01>
+|
+@371
+<END><END>Extras<END><END><END><01>
+|
+@372
+<END><END>Alquileres Funky<END><END><END><END><END><01>
+|
+@373
+<END><END>Carrera de Swanky<END><END><END><END><01>
+|
+@374
+<END><END>Dojo de Cranky<END><END><END><01>
+|
+@375
+<END><END>INTRODUCE TU NOMBRE<END><END><01>
+|
+@376
+<END><END>INTRODUCE CÓDIGO<END><END><END><END><END><END><END><END>FIN<END><END><END><END><END>BOR<END><END><END><END><END>Reto 1: Destruir<LINE>Reto 2: Desarmar<LINE>Reto 3: Proteger<LINE>Reto 4: Carrera<END><END><END><END><END><END>LAGO ORANGATANGA<LINE>BOSQUE KREMWOOD<LINE>VALLE DE ALGODÓN<LINE>MEKANOS<LINE>K3<LINE>PACÍFICA<LINE>CUMBRE AFILADA<LINE>NÚKLEO KAOS<LINE>KREMATOA<END><END><END><END><01>
+|
+@377
+<END><END>Hola. Tienes que<LINE>apagar esas terribles<LINE>máquinas de Mekanos.<NEXT>No puedo cultivar nada<LINE>con toda esta polución.<END><END><END><01>
+|
+@378
+<END><END>Les has dado una buena<LINE>lección a esos kremlings.<LINE>Toma tu recompensa.<END><END><END><END><END><01>
+|
+@379
+<END><END>Bien hecho. Has limpiado<LINE>el río de minas. Aquí<LINE>está tu recompensa.<END><END><END><01>
+|
+@380
+<END><END>Bien, así se hace. La<LINE>familia Kong ha vuelto<LINE>sana y salva. Toma.<END><END><END><END><END><01>
+|
+@381
+<END><END>Oh, vaya. ¿Qué ha<LINE>pasado ahí fuera?<LINE>Tienes que esforzarte más.<END><END><END><01>
+|
+@382
+<END><END>El río sigue lleno de<LINE>minas. ¡Vuelve al agua<LINE>e inténtalo de nuevo!<END><END><END><01>
+|
+@383
+<END><END>Oh, vaya. Han secuestrado<LINE>a toda la familia Kong.<LINE>Debes esforzarte más.<END><END><01>
+|
+@384
+<END><END>¡Buen trabajo!<LINE>¡Has completado<LINE>todos mis retos!<NEXT>Toma, llévate este extraño<LINE>pájaro como premio. Seguro<LINE>que te resulta útil.<END><END><END><01>
+|
+@385
+<END><END>¡No lo has hecho mal, pero<LINE>aún puedes mejorar mucho!<END><END><END><END><END><01>
+|
+@386
+<END><END>¡Qué guay! Has volado<LINE>sobre el agua. Toma,<LINE>aquí está el premio.<END><END><01>
+|
+@387
+<END><END>Tienes que navegar<LINE>mucho más rápido.<LINE>Procura acelerar.<END><END><END><END><END><END>Reina plátano<END><END><END><END><END><END><END>A$<END><END><03><END>ï
+|

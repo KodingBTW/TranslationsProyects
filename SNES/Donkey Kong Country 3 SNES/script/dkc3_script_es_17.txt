@@ -1,0 +1,109 @@
+;{003A43F4-003A49BE-000005CB}
+@1
+;{<03>Hey! Hi there, XXXXX, how are<LINE>you doing? My name's Baffle,<LINE>the master of code!<LINE>}
+<03>¡Hola, XXXXX! ¿Cómo estás?<LINE>Me llamo Baffle y soy el<LINE>maestro de los acertijos.<LINE>
+|
+@2
+;{<04>I've got a problem at the<LINE>moment - I can't break a code<LINE>I've been working on...<LINE>maybe I should reflect on it.<LINE>}
+<04>Tengo un problema, y es<LINE>que no consigo descifrar uno.<LINE>Llevo tiempo intentándolo.<LINE>Quizá debería reflexionar.<LINE>
+|
+@3
+;{<04>I'm sure the answer to<LINE>my problem is staring me<LINE>in the face - but I just<LINE>can't see it!<LINE>}
+<04>Estoy seguro de que la<LINE>respuesta está delante<LINE>de mis narices, pero<LINE>no consigo verla...<LINE>
+|
+@4
+;{<04>Hello again. What a problem<LINE>it is, churning out the same<LINE>thing again and again, do you<LINE>know what I mean?<LINE>}
+<04>Hola de nuevo. No veas<LINE>lo duro que es darle<LINE>vueltas y más vueltas<LINE>a lo mismo. ¿Me entiendes?<LINE>
+|
+@5
+;{<04>Mmmmmmm. This code is really<LINE>bugging me. Perhaps I'm<LINE>looking at this thing the<LINE>wrong way around.<LINE>}
+<04>Mmm... Este acertijo me<LINE>está volviendo loco.<LINE>Quizá no lo estoy enfocando<LINE>bien. Ya no sé qué hacer.<LINE>
+|
+@6
+;{<03>I still can't break this<LINE>code. I'll have to keep<LINE>looking into it.<LINE>}
+<03>No consigo adivinarlo...<LINE>Supongo que tendré que<LINE>seguir dándole vueltas.<LINE>
+|
+@7
+;{<02>Hey, XXXXX, is that a<LINE>mirror you've got there?<LINE>}
+<02>Oye, XXXXX, ¿eso que tienes<LINE>ahí es un espejo?<LINE>
+|
+@8
+;{<04>If it is, could I have<LINE>it to solve my code?<LINE><LINE><LINE>}
+<04>¿Me lo dejarías? Acabo<LINE>de tener una corazonada...<LINE><LINE><LINE>
+|
+@9
+;{<04><LINE><LINE><LINE>NN No problem!              <LINE>}
+<04><LINE><LINE><LINE>NN Claro, toma.             <LINE>
+|
+@10
+;{<04><LINE><LINE><LINE>NN It's a picture frame!    <LINE>}
+<04><LINE><LINE><LINE>NN No es un espejo.         <LINE>
+|
+@11
+;{<04>Hey, look at this! It was a<LINE>riddle written backwards. It<LINE>says, 'To open the gate, at<LINE>the two stones make eight'.<LINE>}
+<04>Eh, mira, mira. Era un<LINE>acertijo escrito al revés.<LINE>Dice: 'Para abrir la puerta,<LINE>haz ocho en las dos piedras.'<LINE>
+|
+@12
+;{<03>Well what do you reckon<LINE>that means? Can you 'figure'<LINE>this one out, XXXXX?<LINE>}
+<03>Bueno, ¿qué crees que quiere<LINE>decir? ¿Crees que podrás<LINE>adivinar este acertijo, XXXXX?<LINE>
+|
+@13
+;{<03>That's a shame, it might<LINE>have been the answer to<LINE>my problems.<LINE>}
+<03>Qué pena. Igual era<LINE>la respuesta a todos<LINE>mis problemas.<LINE>
+|
+@14
+;{<02>Olleh sgnok!<LINE>woh era ouy yadot?<LINE>}
+<02>¡aloH, sgnok!<LINE>¿omóC sátse yoh?<LINE>
+|
+@15
+;{<01>Hw's t gng gd bdds!<LINE>}
+<01>¿K tl v td mg?<LINE>
+|
+@16
+;{<02>T'nevah uoy tog gnihtyna<LINE>retteb ot od?<LINE>}
+<02>¿oN seneit adan<LINE>rojem euq recah?<LINE>
+|
+@17
+;{<02>Ev'uoy tsuj detsaw<LINE>neetfif sdnoces!<LINE>}
+<02>sabacA ed redrep ecniuq<LINE>sodnuges ed ut adiv.<LINE>
+|
+@18
+;{<04>Say, XXXXX, do you<LINE>want your mirror back?<LINE><LINE><LINE>}
+<04>Oye, XXXXX, ¿quieres que<LINE>te devuelva el espejo?<LINE><LINE><LINE>
+|
+@19
+;{<04><LINE><LINE><LINE>NN Hand it over!            <LINE>}
+<04><LINE><LINE><LINE>NN ¡Entrégalo!              <LINE>
+|
+@20
+;{<04><LINE><LINE><LINE>NN Not really.              <LINE>}
+<04><LINE><LINE><LINE>NN No realmente.            <LINE>
+|
+@21
+;{<02>Okay, but I've got a<LINE>feeling you'll be back.<LINE>}
+<02>Vale, pero tengo la<LINE>sensación de que volverás.<LINE>
+|
+@22
+;{<04>I think a price of 10 tokens<LINE>is fair, don't you?<LINE><LINE><LINE>}
+<04>Creo que 10 monedas es un<LINE>precio justo, ¿no crees?<LINE><LINE><LINE>
+|
+@23
+;{<04><LINE><LINE><LINE>NN I suppose so.            <LINE>}
+<04><LINE><LINE><LINE>NN Supongo.                 <LINE>
+|
+@24
+;{<04><LINE><LINE><LINE>NN Take a hike, buddy!      <LINE>}
+<04><LINE><LINE><LINE>NN ¡Fuera de aquí!          <LINE>
+|
+@25
+;{<02>Okay, XXXXX,<LINE>here you go.<LINE>}
+<02>Bien, XXXXX,<LINE>aquí tienes.<LINE>
+|
+@26
+;{<02>Haven't you got a moral<LINE>code to think of?<LINE>}
+<02>¿No tienes un código<LINE>moral en el que pensar?<LINE>
+|
+@27
+;{<02>Hey, you're a few tokens<LINE>short I'm afraid.<LINE>}
+<02>Vaya, lo siento, pero<LINE>no tienes bastantes monedas.<LINE>
+|

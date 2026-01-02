@@ -1,0 +1,61 @@
+;{003A3B7A-003A3FFB-00000482}
+@1
+;{<03>Morning, XXXXX! Brigadier<LINE>Bazooka here. All present and<LINE>correct I see! Marvelous.<LINE>}
+<03>¡Buenos días, XXXXX! ¡Soy<LINE>el brigadier Bazooka! Veo<LINE>que estamos todos. ¡Bien!<LINE>
+|
+@2
+;{<04>I fought in the Kremean War,<LINE>don't you know, but I've<LINE>retired from the service<LINE>along with 'Big Bessie'.<LINE>}
+<04>Yo luché en la Guerra de<LINE>Kremean. Aunque el Gran<LINE>Bessie y yo nos jubilamos<LINE>ya del servicio. ¿Cómo?<LINE>
+|
+@3
+;{<04>Who's 'Big Bessie'!?<LINE>She's only the biggest and<LINE>greatest cannon of all time<LINE>- What a beauty!<LINE>}
+<04>¿Qué quién es el Gran Bessie?<LINE>¡Es el mayor y mejor<LINE>cañón de todos los<LINE>tiempos! ¡Es tan bonito!<LINE>
+|
+@4
+;{<03>Have you seen 'Big Bessie'?<LINE>I haven't fired her for years<LINE>- no ammunition, y'see.<LINE>}
+<03>¿Has visto el Gran Bessie?<LINE>No lo he disparado en años.<LINE>No tengo munición. Ya ves.<LINE>
+|
+@5
+;{<03>I have lots of old artillery,<LINE>you know? But Bessie's my<LINE>favorite - what a noise!<LINE>}
+<03>Tengo mucha artillería<LINE>antigua, pero Bessie es mi<LINE>pieza favorita. ¡Qué sonido!<LINE>
+|
+@6
+;{<04>It would be splendid to<LINE>fire her one more time.<LINE>But she needs some ammo<LINE>to really get going.<LINE>}
+<04>¡Cómo me gustaría<LINE>dispararlo una vez más!<LINE>Sin embargo, no tengo<LINE>la munición que necesita.<LINE>
+|
+@7
+;{<03>You want to use my cannon,<LINE>young XXXXX? Not without<LINE>some sort of ammo I'm afraid.<LINE>}
+<03>¿Quieres usar mi cañón,<LINE>joven XXXXX? Sin munición,<LINE>no es posible. Lo siento.<LINE>
+|
+@8
+;{<04>What have you got there,<LINE>XXXXX? A heavy ball!?<LINE>Well you never know,<LINE>it might just work...<LINE>}
+<04>¿Qué tienes ahí, XXXXX?<LINE>¿Es una bola pesada?<LINE>Quizá esta bola sirva<LINE>para disparar mi cañón...<LINE>
+|
+@9
+;{<04>Shall we load Big Bessie<LINE>up and fire her off?<LINE><LINE><LINE>}
+<04>¿Te parece que carguemos el<LINE>Gran Bessie a ver si dispara?<LINE><LINE><LINE>
+|
+@10
+;{<04><LINE><LINE><LINE>NN Lock and Load, sir!      <LINE>}
+<04><LINE><LINE><LINE>NN ¡Cargado y listo, señor! <LINE>
+|
+@11
+;{<04><LINE><LINE><LINE>NN Hold fire, Brigadier!    <LINE>}
+<04><LINE><LINE><LINE>NN No dispare, brigadier.   <LINE>
+|
+@12
+;{<02>Okay, let's give it a go!<LINE>Ready... Aim.............<LINE>}
+<02>¡Muy bien, veamos de qué<LINE>es capaz! Listo... Apunten...<LINE>
+|
+@13
+;{<02>No? I think it was probably<LINE>a shot in the dark anyway.<LINE>}
+<02>¿No quieres? De todas formas<LINE>no creo que funcione. Da igual.<LINE>
+|
+@14
+;{<04>What a cracking noise! It<LINE>was good to hear her again!<LINE>I say, would you like to<LINE>have another try, XXXXX?<LINE>}
+<04>¡Menudo estruendo! ¡Cómo<LINE>me apetecía oírlo de nuevo!<LINE>¿Qué te parece si<LINE>probamos de nuevo, XXXXX?<LINE>
+|
+@15
+;{<04>Aahhhh, the memories come<LINE>flooding back, you know? We<LINE>were trapped on a clifftop<LINE>surrounded by... oh, sorry!<LINE>}
+<04>Ay... ¡Los recuerdos<LINE>inundan mi mente!<LINE>Estábamos atrapados en un<LINE>acantilado, rodeados de...<LINE>
+|

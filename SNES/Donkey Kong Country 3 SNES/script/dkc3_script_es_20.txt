@@ -1,0 +1,69 @@
+;{003A5028-003A55CB-000005A4}
+@1
+;{<04>Oh! Thank goodness! At last<LINE>somebody has found me! That<LINE>rotten yellow belly K.Rool<LINE>imprisoned me...<LINE>}
+<04>¡Oh! ¡Menos mal! Por fin<LINE>me ha encontrado alguien.<LINE>¡Ese pirata de tripa<LINE>amarilla, K. Rool, me...<LINE>
+|
+@2
+;{<03>...behind this evil barrier,<LINE>which he sealed with a dark<LINE>and powerful magic spell.<LINE>}
+<03>...encerró tras esta terrible<LINE>barrera y después la selló<LINE>con un oscuro hechizo.<LINE>
+|
+@3
+;{<04>Then he commanded a bunch<LINE>of his wicked Kremlings to<LINE>hide the only ones that could<LINE>split the Crystal Key -<LINE>}
+<04>Entonces encargó a un grupo de<LINE>sus malvados Kremlings que<LINE>ocultasen a los únicos seres<LINE>capaces de hacer frente...<LINE>
+|
+@4
+;{<03>... my poor children. Only<LINE>all of them together have<LINE>the power to break the spell.<LINE>}
+<04>...a la Llave de Cristal...<LINE>Mis pobres pajaritos. Todos<LINE>juntos tienen el poder<LINE>para romper el hechizo.<LINE>
+|
+@5
+;{<04>Please, XXXXX, find all of<LINE>my children and bring them<LINE>back to me as soon as you<LINE>can. In return ... <LINE>}
+<04>Por favor, XXXXX,<LINE>encuéntralos y<LINE>tráelos aquí lo antes<LINE>posible. A cambio...<LINE>
+|
+@6
+;{<04>... I promise to rid this<LINE>land of K.Rool forever. So<LINE>keep your eyes peeled and<LINE>return as soon as you can.<LINE>}
+<04>te prometo que echaré a<LINE>K. Rool de esta tierra para<LINE>siempre. No te despistes.<LINE>Cumple tu parte del trato.<LINE>
+|
+@7
+;{<04>Please, you've found all<LINE>of my children! Go to<LINE>Wrinkly's cave. She'll<LINE>tell you what to do!<LINE>}
+<04>¡Ya has encontrado a todos<LINE>los pájaros plátano!<LINE>¡Vete a la cueva de Wrinkly<LINE>y ella te dirá que hacer!<LINE>
+|
+@8
+;{<02>Please hurry -<LINE>don't slip up!<LINE>}
+<02>¡Date prisa! ¡No te<LINE>entretengas por ahí!<LINE>
+|
+@9
+;{<04>You did it, you did it!<LINE>You've found all of my<LINE>children. At last I can be<LINE>freed from K.Rool's spell.<LINE>}
+<04>¡Lo has logrado! ¡Sí!<LINE>¡Has encontrado a todos<LINE>los pájaros plátano!<LINE>¡Por fin me liberaré!<LINE>
+|
+@10
+;{<02>Ready Children!! Sing<LINE>along with me!<LINE>}
+<02>¡Preparados, niños!<LINE>¡Canten conmigo!<LINE>
+|
+@11
+;{<03>Oh I'm so happy that we're a<LINE>family again, and it's all<LINE>thanks to you, XXXXX.<LINE>}
+<03>Oh, cómo me alegra tener a<LINE>toda la familia reunida de<LINE>nuevo. Te lo debo a ti, XXXXX.<LINE>
+|
+@12
+;{<04>Now, as I promised, it's<LINE>time to fulfil my half of the<LINE>bargain and teach K.Rool a<LINE>lesson he'll never forget!!!<LINE>}
+<04>Ahora, tal y como te prometí,<LINE>ha llegado la hora de darle<LINE>una lección a K.Rool<LINE>¡Una que no olvidará nunca!<LINE>
+|
+@13
+;{<04>You're back! But you still<LINE>need to find 00 of my<LINE>children. If anybody can find<LINE>them, I know you can!<LINE>}
+<04>¡Has vuelto! Pero aún no<LINE>has encontrado a todos los<LINE>pájaros. Encuentra: 00 más.<LINE>¡Sé que lo conseguirás!<LINE>
+|
+@14
+;{<04>Once I get out of<LINE>here, I'm going to give<LINE>that banana-brain K.Rool<LINE>a major headache!<LINE>}
+<04>Cuando esté libre,<LINE>¡voy a ser la peor<LINE>pesadilla de ese<LINE>cabeza de chorlito!<LINE>
+|
+@15
+;{<03>K.Rool won't be splitting<LINE>his sides laughing once I<LINE>get at him.<LINE>}
+<03>K. Rool no volverá a<LINE>reír a sus anchas<LINE>como hace ahora.<LINE>
+|
+@16
+;{<03>K.Rool had better pack his<LINE>case now, before I get my<LINE>claws near him.<LINE>}
+<03>Espero que K. Rool salga<LINE>volando antes de que le<LINE>ponga las garras encima.<LINE>
+|
+@17
+;{<04>After I'm finished with<LINE>K.Rool, he won't even be<LINE>able to look at a banana<LINE>again.<LINE>}
+<03>Cuando haya acabado con<LINE>K. Rool, temblará cada<LINE>vez que vea un plátano.<LINE>
+|
