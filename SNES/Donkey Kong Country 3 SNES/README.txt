@@ -4,6 +4,8 @@ Traducido por koda 2026
 --------------------------------------------------------------------------------
 1. INSTRUCCIONES
 --------------------------------------------------------------------------------
+Paso 1:
+Copiar la ROM a la carpeta raíz
 
 Este parche debe ser aplicado a la versión americana sin cabecera.
 
@@ -14,11 +16,24 @@ Database: No-Intro: Super Nintendo Entertainment System (v. 20210222-050638)
 File/ROM SHA-1: D737E90D91DBA8620FD5C2985EB6FF2CDA7F23F9
 File/ROM CRC32: 448EEC19
 
-Utilicen "Lunar IPS" o "Floating IPS"
-Pueden descargarlo de aquí:
-https://www.romhacking.net/utilities/240/
-https://www.romhacking.net/utilities/1040/
+Paso 2:
+renombrar a "Donkey Kong Country 3.sfc"
 
+Paso 3:
+Contruir el parche dando click a "build.bat"
+
+Paso 4:
+Esperar a que termine esto generará "Donkey Kong Country 3.sfc (ESP)"
+
+Database: No-Intro: Super Nintendo Entertainment System (v. 20210222-050638)
+File/ROM SHA-1: 32BCA314B717DA78A658F74EF16DD5773D548577
+File/ROM CRC32: 405D5B78
+
+Además se crearán 2 parches "Donkey Kong Country 3 (ESP).bps" y
+"Donkey Kong Country 3 (ESP).ips" 
+
+Paso 5:
+Disfrutar
 --------------------------------------------------------------------------------
 2. VERSIONES
 --------------------------------------------------------------------------------
