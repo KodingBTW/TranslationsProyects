@@ -23,7 +23,7 @@ Paso 3:
 Contruir el parche dando click a "build.bat"
 
 Paso 4:
-Esperar a que termine esto generará "Donkey Kong Country 3.sfc (ESP)"
+Esperar a que termine, esto generará "Donkey Kong Country 3 (ESP).sfc"
 
 Database: No-Intro: Super Nintendo Entertainment System (v. 20210222-050638)
 File/ROM SHA-1: 32BCA314B717DA78A658F74EF16DD5773D548577
