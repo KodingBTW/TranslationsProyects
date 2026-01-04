@@ -1,5 +1,5 @@
 Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)
-Traducido por koda 2026
+Traducido al español por koda 2026
 
 ## 1. INSTRUCCIONES
 
