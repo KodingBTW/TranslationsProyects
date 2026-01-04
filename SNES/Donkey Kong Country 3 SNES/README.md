@@ -1,28 +1,29 @@
 Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)
 Traducido por koda 2026
 
---------------------------------------------------------------------------------
-1. INSTRUCCIONES
---------------------------------------------------------------------------------
-Paso 1:
+## 1. INSTRUCCIONES
+
+### Paso 1:
 Copiar la ROM a la carpeta raíz
 
 Este parche debe ser aplicado a la versión americana sin cabecera.
 
 La ROM es:
 
+```
 Database match: Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)
 Database: No-Intro: Super Nintendo Entertainment System (v. 20210222-050638)
 File/ROM SHA-1: D737E90D91DBA8620FD5C2985EB6FF2CDA7F23F9
 File/ROM CRC32: 448EEC19
+```
 
-Paso 2:
+### Paso 2:
 Renombrar a "Donkey Kong Country 3.sfc"
 
-Paso 3:
+### Paso 3:
 Contruir el parche dando click a "build.bat"
 
-Paso 4:
+### Paso 4:
 Esperar a que termine, esto generará "Donkey Kong Country 3 (ESP).sfc"
 
 Database: No-Intro: Super Nintendo Entertainment System (v. 20210222-050638)
@@ -32,12 +33,10 @@ File/ROM CRC32: 405D5B78
 Además se crearán 2 parches "Donkey Kong Country 3 (ESP).bps" y
 "Donkey Kong Country 3 (ESP).ips" 
 
-Paso 5:
+### Paso 5:
 Disfrutar del parche.
 
---------------------------------------------------------------------------------
-2. VERSIONES
---------------------------------------------------------------------------------
+## 2. VERSIONES
 
 Versión 1.0 (01/01/2026):
 - Agregados los caracteres del idioma español.
@@ -64,9 +63,8 @@ Versión 1.0 (01/01/2026):
 - Corregido un error en el nivel "Knautilus", si el jugador pausa el juego
   en el momento de que un rayo es lanzado, este continua moviéndose y golpea
   inevitablemente al jugador.
---------------------------------------------------------------------------------
-3. ERRORES CONOCIDOS
---------------------------------------------------------------------------------
+
+## 3. ERRORES CONOCIDOS
 
 Pregunta:
 Estoy cargando una partida antigua desde la SRAM/batería del juego, pero el
@@ -82,10 +80,7 @@ Solución:
 4) Para que el cambio sea permanente, vaya a la cueva de Wrinkly y guarde la
    partida nuevamente.
 
---------------------------------------------------------------------------------
-4. ACERCA DE LA TRADUCCION
---------------------------------------------------------------------------------
-
+## 4. ACERCA DE LA TRADUCCION
 
 Para esta traducción se creó una herramienta de autoría propia que permite
 editar textos comprimidos. Para ello, también se modificaron los punteros
@@ -113,9 +108,8 @@ refería al jugador como "Kongs". Esta lógica fue modificada y el uso de
 forma, los NPC siempre se dirigen al jugador por el nombre del personaje
 activo y todo el guion se mantiene en singular.
 
---------------------------------------------------------------------------------
-5. HERRAMIENTAS UTILIZADAS
---------------------------------------------------------------------------------
+## 5. HERRAMIENTAS UTILIZADAS
+
 - Assembler Asar
   https://github.com/RPGHacker/asar
 
@@ -130,9 +124,7 @@ activo y todo el guion se mantiene en singular.
 
 - DKC3 Level Editor por Kingizor
 
---------------------------------------------------------------------------------
-6. CONTACTO
---------------------------------------------------------------------------------
+## 6. CONTACTO
 
 Traducción realizada por:
 
@@ -147,10 +139,7 @@ traduccioneskoda@gmail.com
 GitHub:
 https://github.com/KodingBTW
 
-
---------------------------------------------------------------------------------
-7. AGRADECIMIENTOS
---------------------------------------------------------------------------------
+## 7. AGRADECIMIENTOS
 
 - Gdkchan:
   Uso de parte de su código fuente para la herramienta de compresión y
@@ -169,9 +158,7 @@ https://github.com/KodingBTW
 - Mattrizzle:
   Notas de ASM para corregir el bug del rayo en el Knautilus al pausar el juego.
 
---------------------------------------------------------------------------------
-8. LICENCIA
---------------------------------------------------------------------------------
+## 8. LICENCIA
 
 Acuerdo de Licencia para la Distribución de Parches de la autoría de koda
 
