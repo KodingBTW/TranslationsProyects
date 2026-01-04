@@ -1,6 +1,6 @@
 Repositorio que contiene mis traducciones de ROMs al Español
 
-##CONTACTO
+## CONTACTO
 
 * BLOG https://traduccioneskoda.blogspot.com/
 * CORREO: traduccioneskoda@gmail.com
