@@ -169,7 +169,7 @@
 |
 @43
 ;{<03>Hey, you just have a<LINE>really nice day now,<LINE>XXXXX, you hear?<LINE>}
-<02>Espero que tengas un<LINE>día maravilloso, XXXXX.<LINE>
+<02>Adiós, espero que tengas<LINE>un buen día, XXXXX.<LINE>
 |
 @44
 ;{<02>Catch you later, XXXXX. I'm<LINE>open 24 hours, you know.<LINE>}
@@ -177,5 +177,5 @@
 |
 @45
 ;{<03>Thanks for your business,<LINE>XXXXX. It really was a<LINE>pleasure serving you.<LINE>}
-<03>Gracias por comprar<LINE>en mi tienda, XXXXX.<LINE>Ha sido un placer atenderte.<LINE>
+<03>Gracias por tu preferencia,<LINE>XXXXX. Ha sido todo un<LINE>placer atenderte.<LINE>
 |
