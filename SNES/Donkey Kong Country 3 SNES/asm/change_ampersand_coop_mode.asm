@@ -53,7 +53,7 @@ load_ampersand_at_save:
 	LDY $1CC8
 	LDA $00,X
 	BIT #$80
-	BNE $80B06A
+	BNE return
 load_next:
 	STA $1CB4,Y
 	INY
@@ -61,6 +61,7 @@ load_next:
 	LDA $00,X
 	BIT #$80
 	BEQ load_next
+return:
 	AND #$7F
 	STA $1CB4,Y
 	INY
