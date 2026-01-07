@@ -64,6 +64,10 @@ Versión 1.0 (01/01/2026):
   en el momento de que un rayo es lanzado, este continua moviéndose y golpea
   inevitablemente al jugador.
 
+Versión 1.0 (02/01/2026):
+- Arreglado error que crashea el juego tras intentar guardar la partida en 
+  cueva de Wrinkly tras ciertas condiciones.
+
 ## 3. ERRORES CONOCIDOS
 
 Pregunta:
