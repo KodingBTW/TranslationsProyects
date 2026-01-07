@@ -23,7 +23,7 @@ https://www.romhacking.net/utilities/1040/
 2. VERSIONES
 --------------------------------------------------------------------------------
 
-Versión 1.0 (01/01/2026):
+Versión 1.0 (04/01/2026):
 - Agregados los caracteres del idioma español.
 - Traducidos todos los textos y nombres de los niveles.
 - Traducido el menú secreto de prueba de sonido tras usar el código "MUSIC".
@@ -49,7 +49,7 @@ Versión 1.0 (01/01/2026):
   en el momento de que un rayo es lanzado, este continuará moviéndose y golpeando
   inevitablemente al jugador.
   ´
-Versión 1.1 (02/01/2026):
+Versión 1.1 (07/01/2026):
 - Arreglado error que crashea el juego tras intentar guardar la partida en 
   cueva de Wrinkly tras ciertas condiciones.
 
