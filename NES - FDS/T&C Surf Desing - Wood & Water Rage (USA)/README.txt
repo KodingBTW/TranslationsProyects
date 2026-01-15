@@ -49,10 +49,16 @@ https://www.romhacking.net/utilities/240/
 3. VERSIONES
 -------------------------------------------------------------------------------------------
 
-version 1.0 (30/01/2024):
+versión 1.0 (30/01/2024):
 
-- Traduccion completa y nuevos gráficos.
-- Mejora espacio de los gráficos.
+- Traducción completa.
+- Agregado caracteres del español
+
+versión 1.1 (15/01/2025):
+
+- Ahora la palabra jugador parpadea correctamente.
+- Cartel de "PARTIDA" traducido.
+- Arreglada paleta de la pantalla de inicial.
 
 
 -------------------------------------------------------------------------------------------
