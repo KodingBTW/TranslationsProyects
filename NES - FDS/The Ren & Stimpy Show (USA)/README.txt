@@ -5,7 +5,7 @@ Traducido por koda 2025
 1. INSTRUCCIONES
 ---------------------------------------------------------------------------------------------
 
-Este parche debe ser aplicado a la versión americana.
+Este parche debe ser aplicado a la versión americana con cabecera
 
 La ROM es:
 
@@ -29,15 +29,14 @@ Versión 1.0 (08/03/2025):
 - Traducido al español.
 - Agregados algunos caracteres del español.
 - Punteros modificados.
+Versión 1.1 (30/01/2026):
+- Arreglado error de paleta al seleccionar los controles.
 
 ---------------------------------------------------------------------------------------------
 3. ERRORES CONOCIDOS
 ---------------------------------------------------------------------------------------------
 
-- El menú de "Elegir Botones" tiene cierto problema con la asignación de la paleta, 
-por el momento se sube así, ya que desconozco como modificarlo.
-
-- Tras perder todos los continues, existe un tile basura que aparece momentaneamente y que
+- Tras perder todos los continues, existe un tile basura que aparece momentáneamente y que
 no tiene mayor impacto en el gameplay.
 
 ---------------------------------------------------------------------------------------------
