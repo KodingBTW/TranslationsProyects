@@ -1,0 +1,11 @@
+*.nes
+*.gba
+*.original
+*.zip
+/Deja Vu (ESP).bps
+/Deja Vu (ESP).ips
+/insert_text.bat
+/dump_script/*.txt
+/tools/src/*.py
+/build/
+/screenshots

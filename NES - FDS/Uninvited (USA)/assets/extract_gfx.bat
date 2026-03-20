@@ -1,0 +1,20 @@
+set ROM_ORG="../Uninvited (U)_uncensored.nes"
+
+REM ..\tools\bin_manager extract -r %ROM_ORG% -f "uncensored_carpet_penthagram.bin" -o "0x21810" -s "1000"
+REM ..\tools\bin_manager extract -r %ROM_ORG% -f "uncensored_wall_masks.bin" -o "0x27810" -s "1000"
+REM ..\tools\bin_manager extract -r %ROM_ORG% -f "uncensored_wall_cross.bin" -o "0x30810" -s "1000"
+REM ..\tools\bin_manager extract -r %ROM_ORG% -f "uncensored_zombie.bin" -o "0x37810" -s "1000"
+REM ..\tools\bin_manager extract -r %ROM_ORG% -f "uncensored_crosses_graveyard.bin" -o "0x3D810" -s "800"
+REM ..\tools\bin_manager extract -r %ROM_ORG% -f "uncensored_item_cross.bin" -o "0x3C810" -s "800"
+REM ..\tools\bin_manager extract -r %ROM_ORG% -f "uncensored_item_carpet.bin" -o "0x3A410" -s "800"
+REM ..\tools\bin_manager extract -r %ROM_ORG% -f "uncensored_item_book_cover.bin" -o "0x3E810" -s "800"
+REM ..\tools\bin_manager extract -r %ROM_ORG% -f "uncensored_skeleton.bin" -o "0x3B410" -s "1000"
+REM ..\tools\bin_manager extract -r %ROM_ORG% -f "uncensored_item_book_cover2.bin" -o "0x32810" -s "800"
+REM ..\tools\bin_manager extract -r %ROM_ORG% -f "restored_backyard_clouds.bin" -o "0x2D810" -s "1000"
+REM ..\tools\bin_manager extract -r %ROM_ORG% -f "main_fonts.bin" -o "0x20010" -s "800"
+
+REM ..\tools\bin_manager extract -r %ROM_ORG% -f "the_end.bin" -o "0x39810" -s "800"
+REM ..\tools\bin_manager extract -r %ROM_ORG% -f "title_screen.bin" -o "0x3F010" -s "1000"
+REM ..\tools\kemco_tilemap decompress -r %ROM_ORG% -f "push_start_tilemap.map" -o "0xBABE" -s "19D"
+REM ..\tools\kemco_tilemap decompress -r %ROM_ORG% -f "game_over_tilemap.map" -o "0xBE00" -s "17E"
+pause

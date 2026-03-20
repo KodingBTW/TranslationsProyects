@@ -1,0 +1,10 @@
+set ROM_ENG="../Deja Vu (USA).nes"
+REM ..\tools\bin_manager extract -r %ROM_ENG% -f "main_fonts_tileset.bin" -o "20010" -s "800"
+REM ..\tools\bin_manager extract -r %ROM_ENG% -f "presentation_screen_tileset.bin" -o "5A010" -s "800"
+REM ..\tools\bin_manager extract -r %ROM_ENG% -f "title_screen_tileset.bin" -o "58010" -s "1000"
+REM ..\tools\bin_manager extract -r %ROM_ENG% -f "the_end_screen_tileset.bin" -o "5C010" -s "800"
+REM ..\tools\bin_manager extract -r %ROM_ENG% -f "main_fonts_2_tileset.bin" -o "5C810" -s "800"
+REM ..\tools\bin_manager extract -r %ROM_ENG% -f "certificate_tileset.bin" -o "45010" -s "800"
+REM ..\tools\kemco_tilemap.py decompress -r %ROM_ENG% -f "main_screen_tilemap.map" -o "8A9B" -s "176"
+REM ..\tools\kemco_tilemap.py decompress -r %ROM_ENG% -f "presentation_screen_tilemap.map" -o "1B1EA" -s "94"
+pause
