@@ -1,0 +1,28 @@
+org $C119
+;base $1C119
+
+include "asm/screen_messages_offsets.asm"
+
+dw screen_messages_offsets_0001
+dw screen_messages_offsets_0002
+dw screen_messages_offsets_0003
+dw screen_messages_offsets_0004
+dw screen_messages_offsets_0003
+dw screen_messages_offsets_0005
+dw screen_messages_offsets_0006
+dw screen_messages_offsets_0007
+dw screen_messages_offsets_0008
+dw screen_messages_offsets_0009
+dw screen_messages_offsets_0010
+dw screen_messages_offsets_0010
+dw screen_messages_offsets_0003
+dw screen_messages_offsets_0003
+dw screen_messages_offsets_0011
+dw screen_messages_offsets_0012
+dw screen_messages_offsets_0013
+dw screen_messages_offsets_0014
+dw screen_messages_offsets_0015
+dw screen_messages_offsets_0016
+dw screen_messages_offsets_0017
+dw screen_messages_offsets_0018
+dw screen_messages_offsets_0019

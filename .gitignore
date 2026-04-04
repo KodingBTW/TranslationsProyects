@@ -1,0 +1,72 @@
+# ===============================
+# ROMs y copias de juegos
+# ===============================
+
+# Nintendo
+*.nes
+*.fds
+*.sfc
+*.smc
+*.n64
+*.z64
+*.v64
+*.gb
+*.gbc
+*.gba
+*.nds
+*.3ds
+*.cia
+*.wux
+*.wud
+
+# Sega
+*.sms
+*.gg
+*.sg
+*.gen
+*.32x
+*.cue
+*.iso
+*.chd
+
+# Sony
+*.psx
+*.psp
+*.pbp
+*.cso
+*.cue
+*.img
+
+# PC Engine / TurboGrafx
+*.pce
+*.sgx
+
+# Atari
+*.a26
+*.a52
+*.a78
+
+# ===============================
+# Backups y archivos comunes
+# ===============================
+*.bak
+*.backup
+*.old
+*.original
+*.copy
+
+# ===============================
+# Saves y estados
+# ===============================
+*.sav
+*.srm
+*.state
+*.st*
+*.slot*
+
+# ===============================
+# Compresión
+# ===============================
+*.zip
+*.7z
+*.rar

@@ -1,0 +1,4 @@
+// compresion 6 bits
+text 2265
+pointers 1DE4
+CHARMAP ?

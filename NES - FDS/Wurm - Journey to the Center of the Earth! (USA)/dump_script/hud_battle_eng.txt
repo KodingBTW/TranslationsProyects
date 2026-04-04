@@ -1,0 +1,12 @@
+@1
+;000006BF{ FIRE! }#7
+ FIRE! 
+|
+@2
+;000006C6{DANGER!}#7
+DANGER!
+|
+@3
+;000006CD{PUSH B }#7
+PUSH B 
+|
