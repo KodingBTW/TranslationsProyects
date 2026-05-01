@@ -1,0 +1,4 @@
+org $BA00
+;base $5FA00
+
+dw $BA00,$BA7F,$BAC9,$BB42,$BBDA,$BC5F,$BCD9,$BD52

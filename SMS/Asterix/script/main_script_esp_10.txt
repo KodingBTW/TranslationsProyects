@@ -1,0 +1,76 @@
+@1
+;"THIS PRODUCT HAS BEEN      
+"ESTE PRODUCTO HA SIDO      
+|
+@2
+;                            
+                            
+|
+@3
+;MANUFACTURED AND SOLD UNDER 
+MANUFACTURADO Y VENDIDO BAJO
+|
+@4
+;                            
+                   ´        
+|
+@5
+;LICENSE FROM LES EDITIONS   
+LA LICENCIA DE LES EDITIONS 
+|
+@6
+;                            
+          ´                 
+|
+@7
+;ALBERT RENE.                
+ALBERT RENE.                
+|
+@8
+;                            
+                      ´     
+|
+@9
+;ALL REPRODUCTION AND        
+DERECHOS DE REPRODUCCIÓN    
+|
+@10
+;                            
+              ´             
+|
+@11
+;REPRESENTATION RIGHTS TO    
+Y REPRESENTACIÓN DE         
+|
+@12
+;                            
+                     ´      
+|
+@13
+;'THE ADVENTURES OF ASTERIX  
+'LAS AVENTURAS DE ASTÉRIX   
+|
+@14
+;                            
+                            
+|
+@15
+;THE GAUL' ARE RESERVED TO   
+EL GALO' PERTENECEN A       
+|
+@16
+;                            
+    ´                  ´    
+|
+@17
+;LES EDITIONS ALBERT RENE."  
+LES EDITIONS ALBERT RENE".  
+|
+@18
+;                            
+                            
+|
+@19
+;                            
+                            
+|

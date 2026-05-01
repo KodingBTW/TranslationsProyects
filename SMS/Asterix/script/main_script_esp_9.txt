@@ -1,0 +1,80 @@
+@1
+;"CHARACTERS OF              
+"LOS PERSONAJES DE          
+|
+@2
+;                            
+                            
+|
+@3
+;                            
+                            
+|
+@4
+;'THE ADVENTURES             
+'LAS AVENTURAS              
+|
+@5
+;                            
+                            
+|
+@6
+;                            
+      ´                     
+|
+@7
+;OF ASTERIX THE GAUL'        
+DE ASTÉRIX EL GALO'         
+|
+@8
+;                            
+                            
+|
+@9
+;                            
+     ´                   ´  
+|
+@10
+;© 199O EDITIONS ALBERT RENE/
+EDICIÓN © 199O ALBERT RENE/ 
+|
+@11
+;                            
+                            
+|
+@12
+;                            
+                            
+|
+@13
+;GOSCINNY-UDERZO             
+GOSCINNY-UDERZO             
+|
+@14
+;                            
+                            
+|
+@15
+;                            
+                            
+|
+@16
+;VIDEO GAME & COMPUTER       
+VIDEOJUEGO Y PROGRAMA       
+|
+@17
+;                            
+                            
+|
+@18
+;                            
+                            
+|
+@19
+;PROGRAM © 1991 SEGA"        
+© 1991 SEGA"                
+|
+@20
+;                            
+                            
+|

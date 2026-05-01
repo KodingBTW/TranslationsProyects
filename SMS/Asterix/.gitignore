@@ -1,0 +1,9 @@
+*.sms
+*.original
+/insert only text.bat
+/Asterix (Esp,Cat).bps
+/Asterix (Esp,Cat).ips
+/assets/backup/
+/dump_script/*.txt
+/screenshots/*.png
+/tools/src

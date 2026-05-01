@@ -1,0 +1,80 @@
+@1
+;0005DB93{THE POTION IS BREWED BY      }#58
+       ´                     
+|
+@2
+;0005DBCD{                             }#58
+LA POCIÓN ES ELABORADA POR   
+|
+@3
+;0005DC07{GETAFIX THE VENERABLE VILLAGE}#58
+     ´                       
+|
+@4
+;0005DC41{       '                     }#58
+PANORÁMIX  EL VENERABLE      
+|
+@5
+;0005DC7B{DRUID. KNOWING THE VILLAGE   }#58
+         '                   
+|
+@6
+;0005DCB5{                             }#58
+DRUIDA DEL PUEBLO.           
+|
+@7
+;0005DCEF{WILL EASILY FALL WITHOUT THE }#58
+                             
+|
+@8
+;0005DD29{                             }#58
+SABIENDO QUE LA ALDEA        
+|
+@9
+;0005DD63{MAGIC POTION CAESAR HAS      }#58
+    ´  ´                     
+|
+@10
+;0005DD9D{            '                }#58
+CAERÁ FACILMENTE SIN LA      
+|
+@11
+;0005DDD7{GETAFIX ABDUCTED BY HIS LOYAL}#58
+    ´       ´                
+|
+@12
+;0005DE11{                             }#58
+POCIÓN  EL CÉSAR HACE QUE    
+|
+@13
+;0005DE4B{LEGIONNAIRES.                }#58
+     ´'                      
+|
+@14
+;0005DE85{                             }#58
+PANORÁMIX SEA SECUESTRADO    
+|
+@15
+;0005DEBF{                             }#58
+                             
+|
+@16
+;0005DEF9{                             }#58
+POR SUS LEALES LEGIONARIOS.  
+|
+@17
+;0005DF33{                             }#58
+                             
+|
+@18
+;0005DF6D{                             }#58
+                             
+|
+@19
+;0005DFA7{                             }#58
+                             
+|
+@20
+;0005DFE1{                             }#58
+                             
+|

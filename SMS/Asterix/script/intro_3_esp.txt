@@ -1,0 +1,80 @@
+@1
+;0005E01B{HOPING TO SAVE THE VILLAGE   }#58
+                             
+|
+@2
+;0005E055{                             }#58
+CON LA ESPERANZA DE SALVAR   
+|
+@3
+;0005E08F{AND ITS DWINDLING POTION     }#58
+                             
+|
+@4
+;0005E0C9{                             }#58
+LA ALDEA Y SU DISMINUIDO     
+|
+@5
+;0005E103{SUPPLY VITALSTATISTIX        }#58
+                             
+|
+@6
+;0005E13D{      '                      }#58
+SUMINISTRO DE POCIONES.      
+|
+@7
+;0005E177{--THE VILLAGE CHIEF-- SENDS  }#58
+       ´                     
+|
+@8
+;0005E1B1{                             }#58
+ABRARACÚRCIX -EL JEFE DE LA  
+|
+@9
+;0005E1EB{ASTERIX AND OBELIX ON        }#58
+          ´       ´          
+|
+@10
+;0005E225{                             }#58
+ALDEA- ENVÍA A ASTÉRIX Y     
+|
+@11
+;0005E25F{A PERILOUS MISSION TO RESCUE }#58
+  ´                          
+|
+@12
+;0005E299{                             }#58
+OBÉLIX A UNA PELIGROSA       
+|
+@13
+;0005E2D3{GETAFIX.                     }#58
+    ´                        
+|
+@14
+;0005E30D{                             }#58
+MISIÓN PARA RESCATAR A       
+|
+@15
+;0005E347{                             }#58
+     ´                       
+|
+@16
+;0005E381{                             }#58
+PANORÁMIX.                   
+|
+@17
+;0005E3BB{                             }#58
+                             
+|
+@18
+;0005E3F5{                             }#58
+                             
+|
+@19
+;0005E42F{                             }#58
+                             
+|
+@20
+;0005E469{                             }#58
+                             
+|

@@ -1,0 +1,80 @@
+@1
+;0005D70B{THE YEAR IS 5O BC.           }#58
+       ,                     
+|
+@2
+;0005D745{                             }#58
+ES EL AÑO 5O A.C.            
+|
+@3
+;0005D77F{GAUL IS ENTIRELY OCCUPIED BY }#58
+         ´                   
+|
+@4
+;0005D7B9{                             }#58
+GALIA ESTÁ COMPLETAMENTE     
+|
+@5
+;0005D7F3{THE ROMANS.                  }#58
+                             
+|
+@6
+;0005D82D{                             }#58
+OCUPADA POR LOS ROMANOS.     
+|
+@7
+;0005D867{WELL ALMOST ENTIRELY...      }#58
+                             
+|
+@8
+;0005D8A1{    '                        }#58
+BUENO  CASI POR COMPLETO...  
+|
+@9
+;0005D8DB{ONE SMALL GAULISH VILLAGE    }#58
+     '   ,                   
+|
+@10
+;0005D915{                             }#58
+UNA PEQUEÑA ALDEA GALA       
+|
+@11
+;0005D94F{CONTINUES TO DEFY THE        }#58
+                             
+|
+@12
+;0005D989{                             }#58
+SIGUE DESAFIANDO A LAS       
+|
+@13
+;0005D9C3{OCCUPYING FORCES             }#58
+                             
+|
+@14
+;0005D9FD{                '            }#58
+FUERZAS OCUPANTES  LOS       
+|
+@15
+;0005DA37{THE VILLAGERS PROTECTED BY   }#58
+            ´    '           
+|
+@16
+;0005DA71{                             }#58
+ALDEANOS ESTÁN PROTEGIDOS    
+|
+@17
+;0005DAAB{A MAGIC POTION WHICH MAKES   }#58
+            ´   ´            
+|
+@18
+;0005DAE5{                             }#58
+POR UNA POCIÓN MÁGICA QUE    
+|
+@19
+;0005DB1F{THEM INVINCIBLE.             }#58
+                             
+|
+@20
+;0005DB59{                             }#58
+LOS HACE INVENCIBLES.        
+|

@@ -1,0 +1,80 @@
+@1
+;0005E01B{HOPING TO SAVE THE VILLAGE   }#58
+                             
+|
+@2
+;0005E055{                             }#58
+AMB L'ESPERANCA DE SALVAR    
+|
+@3
+;0005E08F{AND ITS DWINDLING POTION     }#58
+             Ç               
+|
+@4
+;0005E0C9{                             }#58
+ALS SEUS I LES MINVANTS      
+|
+@5
+;0005E103{SUPPLY VITALSTATISTIX        }#58
+                ´            
+|
+@6
+;0005E13D{      '                      }#58
+RESERVES DE POCIÓ  EL CAP    
+|
+@7
+;0005E177{--THE VILLAGE CHIEF-- SENDS  }#58
+                 '      ´    
+|
+@8
+;0005E1B1{                             }#58
+DE LA TRIBU  L'ABRARACACÚRCIX
+|
+@9
+;0005E1EB{ASTERIX AND OBELIX ON        }#58
+           ' `           `   
+|
+@10
+;0005E225{                             }#58
+ENVIA A L'ASTÈRIX I AL OBÈLIX
+|
+@11
+;0005E25F{A PERILOUS MISSION TO RESCUE }#58
+            ´                
+|
+@12
+;0005E299{                             }#58
+EN UNA MISSIÓ PERILLOSA PER  
+|
+@13
+;0005E2D3{GETAFIX.                     }#58
+                 `           
+|
+@14
+;0005E30D{                             }#58
+RESCATAR EN PANORÀMIX.       
+|
+@15
+;0005E347{                             }#58
+                             
+|
+@16
+;0005E381{                             }#58
+                             
+|
+@17
+;0005E3BB{                             }#58
+                             
+|
+@18
+;0005E3F5{                             }#58
+                             
+|
+@19
+;0005E42F{                             }#58
+                             
+|
+@20
+;0005E469{                             }#58
+                             
+|
