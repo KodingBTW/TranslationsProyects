@@ -89,7 +89,7 @@ https://github.com/KodingBTW
 
 ## 7. AGRADECIMIENTOS
 
-- Noishe: Traduccón al catalán.
+- Noishe: Traducción al catalán.
 
 ## 8. LICENCIA
 

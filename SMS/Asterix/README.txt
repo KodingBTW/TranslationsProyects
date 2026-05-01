@@ -59,7 +59,7 @@ Correo contacto: traduccioneskoda@gmail.com
 6. CRÉDITOS
 ---------------------------------------------------------------------------------------------
 
-- Noishe: Traduccón al catalán.
+- Noishe: Traducción al catalán.
 
 ---------------------------------------------------------------------------------------------
 7. LICENCIA
