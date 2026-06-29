@@ -1,0 +1,480 @@
+@1
+;003FC257{Newbie<END>}#7
+Newbie<END>
+|
+@2
+;003FC25E{Student<END>}#9
+Student<END>
+|
+@3
+;003FC266{2nd-Rate<END>}#10
+2nd-Rate<END>
+|
+@4
+;003FC26F{Bronze<END>}#8
+Bronze<END>
+|
+@5
+;003FC276{Average<END>}#9
+Average<END>
+|
+@6
+;003FC27E{Wild<END>}#6
+Wild<END>
+|
+@7
+;003FC283{Fire<END>}#6
+Fire<END>
+|
+@8
+;003FC288{Silver<END>}#8
+Silver<END>
+|
+@9
+;003FC28F{Prince<END>}#8
+Prince<END>
+|
+@10
+;003FC296{1st-Rate<END>}#10
+1st-Rate<END>
+|
+@11
+;003FC29F{Cosmic<END>}#8
+Cosmic<END>
+|
+@12
+;003FC2A6{Gold<END>}#6
+Gold<END>
+|
+@13
+;003FC2AB{B-DaKing<END>}#10
+B-DaKing<END>
+|
+@14
+;003FC2B4{Master<END>}#8
+Master<END>
+|
+@15
+;003FC2BB{B-DaGod<END>}#9
+B-DaGod<END>
+|
+@16
+;003FC2C3{GO YAMATO!<END>}#12
+GO YAMATO!<END>
+|
+@17
+;003FC2CE{HEY TOMMI!<END>}#12
+HEY TOMMI!<END>
+|
+@18
+;003FC2D9{B-DAFIRING<END>}#12
+B-DAFIRING<END>
+|
+@19
+;003FC2E4{SHOOT IT!!<END>}#12
+SHOOT IT!!<END>
+|
+@20
+;003FC2EF{THE BOTTLE<END>}#12
+THE BOTTLE<END>
+|
+@21
+;003FC2FA{HARD TEETH<END>}#12
+HARD TEETH<END>
+|
+@22
+;003FC305{VENOMOUS TAIL<END>}#15
+VENOMOUS TAIL<END>
+|
+@23
+;003FC313{TONS OF BALLS<END>}#15
+TONS OF BALLS<END>
+|
+@24
+;003FC321{GLEAMING FANG<END>}#15
+GLEAMING FANG<END>
+|
+@25
+;003FC32F{YOKUSAIMARU!<END>}#14
+YOKUSAIMARU!<END>
+|
+@26
+;003FC33C{A BLOODY BODY<END>}#15
+A BLOODY BODY<END>
+|
+@27
+;003FC34A{GUST OF WIND!<END>}#15
+GUST OF WIND!<END>
+|
+@28
+;003FC358{MONGREL FANG!<END>}#15
+MONGREL FANG!<END>
+|
+@29
+;003FC366{SHADOWY ARMOR<END>}#15
+SHADOWY ARMOR<END>
+|
+@30
+;003FC374{GOLDEN ARMOR!<END>}#15
+GOLDEN ARMOR!<END>
+|
+@31
+;003FC382{REVIVAL OF EVIL<END>}#17
+REVIVAL OF EVIL<END>
+|
+@32
+;003FC392{LET'S B-DAFIRE!<END>}#17
+LET'S B-DAFIRE!<END>
+|
+@33
+;003FC3A2{GIFT FROM ATLUS<END>}#17
+GIFT FROM ATLUS<END>
+|
+@34
+;003FC3B2{THE SWIFT WINGS<END>}#17
+THE SWIFT WINGS<END>
+|
+@35
+;003FC3C2{FEROCIOUS WOLF!<END>}#17
+FEROCIOUS WOLF!<END>
+|
+@36
+;003FC3D2{THE RAZING FIRE<END>}#17
+THE RAZING FIRE<END>
+|
+@37
+;003FC3E2{DEVILISH FIGURE<END>}#17
+DEVILISH FIGURE<END>
+|
+@38
+;003FC3F2{STRONG RED GALE<END>}#17
+STRONG RED GALE<END>
+|
+@39
+;003FC402{Set a SA to<END>}#13
+Set a SA to<END>
+|
+@40
+;003FC40E{a button.<END>}#11
+a button.<END>
+|
+@41
+;003FC418{Choose a SA.<END>}#14
+Choose a SA.<END>
+|
+@42
+;003FC425{Choose a file<END>}#15
+Choose a file<END>
+|
+@43
+;003FC433{to copy to.<END>}#13
+to copy to.<END>
+|
+@44
+;003FC43F{Is it OK to copy it?<END>}#22
+Is it OK to copy it?<END>
+|
+@45
+;003FC454{Yes<END>}#5
+Yes<END>
+|
+@46
+;003FC458{No <END>}#5
+No <END>
+|
+@47
+;003FC45C{This B-Daman can't<END>}#20
+This B-Daman can't<END>
+|
+@48
+;003FC46F{be copied.<END>}#12
+be copied.<END>
+|
+@49
+;003FC47A{The character skill<END>}#21
+The character skill<END>
+|
+@50
+;003FC48E{can't be changed.<END>}#19
+can't be changed.<END>
+|
+@51
+;003FC4A0{The data has been<END>}#19
+The data has been<END>
+|
+@52
+;003FC4B2{successfully copied.<END>}#22
+successfully copied.<END>
+|
+@53
+;003FC4C7{You don't have<END>}#16
+You don't have<END>
+|
+@54
+;003FC4D6{your own B-Daman.<END>}#19
+your own B-Daman.<END>
+|
+@55
+;003FC4E8{You have no parts.<END>}#20
+You have no parts.<END>
+|
+@56
+;003FC4FB{You have no SAs.<END>}#18
+You have no SAs.<END>
+|
+@57
+;003FC50C{Some parts will be<END>}#20
+Some parts will be<END>
+|
+@58
+;003FC51F{unequipped by <END>}#16
+unequipped by <END>
+|
+@59
+;003FC52E{equipping this part.<END>}#22
+equipping this part.<END>
+|
+@60
+;003FC543{Still want to equip?<END>}#22
+Still want to equip?<END>
+|
+@61
+;003FC558{Yes<END>}#5
+Yes<END>
+|
+@62
+;003FC55C{No<END>}#4
+No<END>
+|
+@63
+;003FC55F{Unable to equip this<END>}#22
+Unable to equip this<END>
+|
+@64
+;003FC574{without changing core.<END>}#24
+without changing core.<END>
+|
+@65
+;003FC58B{Unable to choose any<END>}#22
+Unable to choose any<END>
+|
+@66
+;003FC5A0{parts with this core.<END>}#23
+parts with this core.<END>
+|
+@67
+;003FC5B6{The SA has changed<END>}#20
+The SA has changed<END>
+|
+@68
+;003FC5C9{because the equipped<END>}#22
+because the equipped<END>
+|
+@69
+;003FC5DE{part was changed.<END>}#19
+part was changed.<END>
+|
+@70
+;003FC5F0{You have no complete<END>}#22
+You have no complete<END>
+|
+@71
+;003FC605{B-Daman.<END>}#10
+B-Daman.<END>
+|
+@72
+;003FC60E{You have collected<END>}#20
+You have collected<END>
+|
+@73
+;003FC621{all the parts for <END>}#20
+all the parts for <END>
+|
+@74
+;003FC634{!<END>}#3
+!<END>
+|
+@75
+;003FC636{You can now use a<END>}#19
+You can now use a<END>
+|
+@76
+;003FC648{Special Attack with<END>}#21
+Special Attack with<END>
+|
+@77
+;003FC65C{!<END>}#3
+!<END>
+|
+@78
+;003FC65E{Zero Code entered!<END>}#20
+Zero Code entered!<END>
+|
+@79
+;003FC671{Error!<END>}#8
+Error!<END>
+|
+@80
+;003FC678{Zero code is incorrect.<END>}#25
+Zero code is incorrect.<END>
+|
+@81
+;003FC690{Loading completed.<END>}#20
+Loading completed.<END>
+|
+@82
+;003FC6A3{That Zero Code has<END>}#20
+That Zero Code has<END>
+|
+@83
+;003FC6B6{already been entered.<END>}#23
+already been entered.<END>
+|
+@84
+;003FC6CC{You got<END>}#9
+You got<END>
+|
+@85
+;003FC6D4{!<END>}#3
+!<END>
+|
+@86
+;003FC6D6{You received<END>}#14
+You received<END>
+|
+@87
+;003FC6E3{ ฿!<END>}#5
+ ฿!<END>
+|
+@88
+;003FC6E7{ <END>}#3
+ <END>
+|
+@89
+;003FC6E9{loaded but sold for ฿<END>}#23
+loaded but sold for ฿<END>
+|
+@90
+;003FC6FF{since you have it.<END>}#20
+since you have it.<END>
+|
+@91
+;003FC712{That's <END>}#9
+That's <END>
+|
+@92
+;003FC71A{ ฿.<END>}#5
+ ฿.<END>
+|
+@93
+;003FC71E{I'll buy it.<END>}#14
+I'll buy it.<END>
+|
+@94
+;003FC72B{No, thanks. <END>}#14
+No, thanks. <END>
+|
+@95
+;003FC738{Is <END>}#5
+Is <END>
+|
+@96
+;003FC73C{ ฿ OK?<END>}#8
+ ฿ OK?<END>
+|
+@97
+;003FC743{Okay.      <END>}#13
+Okay.      <END>
+|
+@98
+;003FC74F{No, thanks.<END>}#13
+No, thanks.<END>
+|
+@99
+;003FC75B{You don't have<END>}#16
+You don't have<END>
+|
+@100
+;003FC76A{enough ฿.<END>}#11
+enough ฿.<END>
+|
+@101
+;003FC774{You can't sell a part<END>}#23
+You can't sell a part<END>
+|
+@102
+;003FC78A{that is currently<END>}#19
+that is currently<END>
+|
+@103
+;003FC79C{equipped.<END>}#11
+equipped.<END>
+|
+@104
+;003FC7A6{You can't sell<END>}#16
+You can't sell<END>
+|
+@105
+;003FC7B5{this part.<END>}#12
+this part.<END>
+|
+@106
+;003FC7C0{You already have<END>}#18
+You already have<END>
+|
+@107
+;003FC7D1{this part.<END>}#12
+this part.<END>
+|
+@108
+;003FC7DC{Save the game?<END>}#16
+Save the game?<END>
+|
+@109
+;003FC7EB{Yes<END>}#5
+Yes<END>
+|
+@110
+;003FC7EF{No<END>}#4
+No<END>
+|
+@111
+;003FC7F2{Saving data.<END>}#14
+Saving data.<END>
+|
+@112
+;003FC7FF{Do not turn off<END>}#17
+Do not turn off<END>
+|
+@113
+;003FC80F{the GBA.<END>}#10
+the GBA.<END>
+|
+@114
+;003FC818{The game has been<END>}#19
+The game has been<END>
+|
+@115
+;003FC82A{saved successfully.<END>}#21
+saved successfully.<END>
+|
+@116
+;003FC83E{Unable to save data.<END>}#22
+Unable to save data.<END>
+|
+@117
+;003FC853{All parts collected!<END>}#22
+All parts collected!<END>
+|
+@118
+;003FC868{You get Disguise!<END>}#19
+You get Disguise!<END>
+|
+@119
+;003FC87A{<END>}#2
+<END>
+|
+@120
+;003FC87B{<END>}#2
+<END>
+|

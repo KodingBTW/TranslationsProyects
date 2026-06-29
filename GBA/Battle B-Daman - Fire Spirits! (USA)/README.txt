@@ -1,18 +1,18 @@
-Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)
-Traducido por koda 2026
+Battle B-Daman - Fire Spirits! (USA).gba
+Traducido al español
 
 --------------------------------------------------------------------------------
 1. INSTRUCCIONES
 --------------------------------------------------------------------------------
 
-Este parche debe ser aplicado a la versión americana sin cabecera.
+Este parche debe ser aplicado a la versión USA
 
 La ROM es:
 
-Database match: Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)
-Database: No-Intro: Super Nintendo Entertainment System (v. 20210222-050638)
-File/ROM SHA-1: D737E90D91DBA8620FD5C2985EB6FF2CDA7F23F9
-File/ROM CRC32: 448EEC19
+Database match: Battle B-Daman - Fire Spirits! (USA)
+Database: No-Intro: Game Boy Advance (v. 20210227-023848)
+File/ROM SHA-1: D57084C399BBD4B37D145B712FF6CA22DB9B1C49
+File/ROM CRC32: 5789F441
 
 Utilicen "Lunar IPS" o "Floating IPS"
 Pueden descargarlo de aquí:
@@ -23,101 +23,33 @@ https://www.romhacking.net/utilities/1040/
 2. VERSIONES
 --------------------------------------------------------------------------------
 
-Versión 1.0 (04/01/2026):
-- Agregados los caracteres del idioma español.
-- Traducidos todos los textos y nombres de los niveles.
-- Traducido el menú secreto de prueba de sonido tras usar el código "MUSIC".
-- Editados los gráficos del menú principal y de la presentación.
-- Editada la rutina que agrega el carácter "!" al nombre de la etapa tras
-  conseguir las dos monedas bonus; ahora se agrega "¡" al inicio.
-- Editada la rutina de pluralización. El juego ahora siempre se refiere al
-  jugador por el nombre del personaje activo (Dixie o Kiddy).
-- Editado el menú principal. El idioma por defecto es el español y el cambio
-  de idioma queda bloqueado.
-- Reemplazado el ampersand "&" por la "Y" latina en el menú de selección de
-  juego y en la pantalla de guardado de la cueva de Wrinkly en modo cooperativo.
-- Corregido un error en el nivel "Rocket Rush", donde la letra "G" no existía.
-- Corregido un error en el nivel "Pot Hole Panic", donde al final de la etapa
-  había un problema de ralentización. Se cambiaron los enemigos para que
-  coincidan con la versión Europea/Japonesa.
-- Reubicado el globo rojo en el nivel "Krevice Kreepers", dejándolo en la misma
-  posición que en la versión Europea/Japonesa.
-- Corregido un problema de paleta de colores de Kiddy en la pantalla de bonus
-  tras usar el código oculto "COLOR". Normalmente solo se cambiaba la paleta de
-  Diddy; este error fue corregido oficialmente en la versión japonesa 1.1.
-- Corregido un error en el nivel "Knautilus", si el jugador pausa el juego 
-  en el momento de que un rayo es lanzado, este continuará moviéndose y golpeando
-  inevitablemente al jugador.
-  ´
-Versión 1.1 (07/01/2026):
-- Arreglado error que crashea el juego tras intentar guardar la partida en 
-  cueva de Wrinkly tras ciertas condiciones.
+Versión 1.0 (DD/MM/AAAA):
+TBD
 
 --------------------------------------------------------------------------------
 3. ERRORES CONOCIDOS
 --------------------------------------------------------------------------------
 
-Pregunta:
-Estoy cargando una partida antigua desde la SRAM/batería del juego, pero el
-texto sigue apareciendo en inglés.
-
-Respuesta:
-Sí, es normal. En la SRAM se guarda el idioma utilizado en la partida.
-
-Solución:
-1) Cargar la partida.
-2) Abrir la VRAM en el emulador.
-3) Editar el offset $06D6 y cambie el valor de $00 a $01.
-4) Para que el cambio sea permanente, ir a la cueva de Wrinkly y guardar la
-   partida nuevamente.
+TBD
 
 --------------------------------------------------------------------------------
 4. ACERCA DE LA TRADUCCION
 --------------------------------------------------------------------------------
 
-
-Para esta traducción se creó una herramienta de autoría propia que permite
-editar textos comprimidos. Para ello, también se modificaron los punteros
-asociados a los textos.
-
-Se utilizó parte del script original de Nintendo de la versión de Game Boy
-Advance. Sin embargo, se puso especial énfasis en crear un español lo más
-neutro posible, disfrutable tanto para jugadores de España como de
-Latinoamérica. Entre los ajustes realizados se reemplazó el uso de "vosotros"
-por "ustedes", además de adaptar frases muy localizadas al español de España.
-
-En general, los nombres de niveles, NPC y objetos se mantienen prácticamente
-iguales a los originales, lo que hace a esta traducción totalmente compatible
-con la guía oficial de Nintendo.
-
-Cambios destacados:
-- El nivel "Duelo de Chorros" fue renombrado a "Duelo de Squirt", nombre
-  original de la versión japonesa.
-- El objeto "concha" fue renombrado a "almeja".
-
-Además, se editó la rutina que identifica al personaje del jugador. De forma
-original, si ambos personajes estaban vivos al hablar con un NPC, este se
-refería al jugador como "Kongs". Esta lógica fue modificada y el uso de
-"Kongs" fue bloqueado, ya que generaba conflictos al adaptar el guion. De esta
-forma, los NPC siempre se dirigen al jugador por el nombre del personaje
-activo y todo el guion se mantiene en singular.
+TBD
 
 --------------------------------------------------------------------------------
 5. HERRAMIENTAS UTILIZADAS
 --------------------------------------------------------------------------------
-- Assembler Asar
-  https://github.com/RPGHacker/asar
 
-- HexString 1.4.1
-  https://github.com/KodingBTW/hexstring
+Blog:
+https://traduccioneskoda.blogspot.com
 
-- DKC3 Text Editor
-  https://github.com/KodingBTW/dkc3_texteditor
+Correo de contacto:
+traduccioneskoda@gmail.com
 
-- dkcomp
-  https://github.com/Kingizor/dkcomp
-
-- DKC3 Level Editor por Kingizor
+GitHub:
+https://github.com/KodingBTW
 
 --------------------------------------------------------------------------------
 6. CONTACTO
@@ -138,25 +70,14 @@ https://github.com/KodingBTW
 
 
 --------------------------------------------------------------------------------
-7. AGRADECIMIENTOS
+7. CRÉDITOS
 --------------------------------------------------------------------------------
 
-- Gdkchan:
-  Uso de parte de su código fuente para la herramienta de compresión y
-  descompresión de textos.
+- Koda: Hacking & Tools.
 
-- Kingizor:
-  Creador de la herramienta para extraer e insertar gráficos comprimidos de
-  DKC3 y de su editor de niveles.
+- Digiverde: Traducción al español.
 
-- Insectduel:
-  Creador de un parche para depurar DKC3 con todo el inventario lleno.
-
-- Blaziken257:
-  Notas de ASM para el cambio de paleta de Kiddy tras usar el código "COLOR".
-
-- Mattrizzle:
-  Notas de ASM para corregir el bug del rayo en el Knautilus al pausar el juego.
+- Griever: Herramienta que permite descomprimir y comprimir gráficos.
 
 --------------------------------------------------------------------------------
 8. LICENCIA

@@ -1,0 +1,48 @@
+@1
+;003BDD50{Instructions<LINE><END>}#14
+Instrucciones<LINE><END>
+|
+@2
+;003BDD5E{Back<LINE><END>}#7
+Atrás<LINE><END>
+|
+@3
+;003BDD64{Instructions<LINE><END>}#15
+Instrucciones<LINE><END>
+|
+@4
+;003BDD72{Strike Shot<LINE><END>}#14
+Tiro Certero<LINE><END>
+|
+@5
+;003BDD7F{Back<LINE><END>}#7
+Atrás<LINE><END>
+|
+@6
+;003BDD85{Instructions<LINE><END>}#15
+Instrucciones<LINE><END>
+|
+@7
+;003BDD93{Strike Shot<LINE><END>}#14
+Tiro Certero<LINE><END>
+|
+@8
+;003BDDA0{Invasion<LINE><END>}#11
+Invasión<LINE><END>
+|
+@9
+;003BDDAA{Back<LINE><END>}#7
+Atrás<LINE><END>
+|
+@10
+;003BDDB0{        Do you want to <LINE>        hear that again?<LINE>        Yes   No<END>}#67
+        ¿Quieres volver <LINE>        a escucharlo?<LINE>        Sí    No<END>
+|
+@11
+;003BDDF2{Oh? You don't want any<LINE>more instructions?<LINE>        Yes   No<END>}#60
+¿Oh? ¿Ya no quieres más<LINE>instrucciones?<LINE>        Sí    No<END>
+|
+@12
+;003BDE2D{Do you want to hear the<LINE>instructions again?<LINE>        No    Yes<END>}#63
+¿Quieres escuchar las<LINE>instrucciones nuevamente?<LINE>        Sí    No<END>
+|

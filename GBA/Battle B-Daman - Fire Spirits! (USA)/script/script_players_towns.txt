@@ -1,0 +1,504 @@
+@1
+;003BFBC4{Yamato<END>}#7
+Yamato<END>
+|
+@2
+;003BFBCB{Gray<END>}#6
+Gray<END>
+|
+@3
+;003BFBD0{Bull<END>}#6
+Bull<END>
+|
+@4
+;003BFBD5{Terry<END>}#7
+Terry<END>
+|
+@5
+;003BFBDB{Wen<END>}#5
+Wen<END>
+|
+@6
+;003BFBDF{Li<END>}#4
+Li<END>
+|
+@7
+;003BFBE2{Enjyu<END>}#7
+Enjyu<END>
+|
+@8
+;003BFBE8{Joe<END>}#5
+Joe<END>
+|
+@9
+;003BFBEC{Liena<END>}#7
+Liena<END>
+|
+@10
+;003BFBF2{Mie<END>}#5
+Mie<END>
+|
+@11
+;003BFBF6{Armada<END>}#8
+Armada<END>
+|
+@12
+;003BFBFD{B-DaMage<END>}#10
+B-DaMage<END>
+|
+@13
+;003BFC06{Tommi<END>}#7
+Tommi<END>
+|
+@14
+;003BFC0C{Meowmigos<END>}#11
+Meowmigos<END>
+|
+@15
+;003BFC16{Gunnos<END>}#8
+Gunnos<END>
+|
+@16
+;003BFC1D{Haja<END>}#6
+Haja<END>
+|
+@17
+;003BFC22{Aqulas<END>}#8
+Aqulas<END>
+|
+@18
+;003BFC29{Shin<END>}#6
+Shin<END>
+|
+@19
+;003BFC2E{Kiba<END>}#6
+Kiba<END>
+|
+@20
+;003BFC33{Jinbee<END>}#8
+Jinbee<END>
+|
+@21
+;003BFC3A{Biarce<END>}#8
+Biarce<END>
+|
+@22
+;003BFC41{Spade<END>}#7
+Spade<END>
+|
+@23
+;003BFC47{Club<END>}#6
+Club<END>
+|
+@24
+;003BFC4C{Heart<END>}#7
+Heart<END>
+|
+@25
+;003BFC52{Diamond<END>}#9
+Diamond<END>
+|
+@26
+;003BFC5A{Joker<END>}#7
+Joker<END>
+|
+@27
+;003BFC60{Badmada<END>}#9
+Badmada<END>
+|
+@28
+;003BFC68{Fornan<END>}#8
+Fornan<END>
+|
+@29
+;003BFC6F{Cowboy<END>}#8
+Cowboy<END>
+|
+@30
+;003BFC76{Masked<END>}#8
+Masked<END>
+|
+@31
+;003BFC7D{Dogman<END>}#8
+Dogman<END>
+|
+@32
+;003BFC84{Masked<END>}#8
+Masked<END>
+|
+@33
+;003BFC8B{YoungDude<END>}#11
+YoungDude<END>
+|
+@34
+;003BFC95{Masked<END>}#8
+Masked<END>
+|
+@35
+;003BFC9C{Merman<END>}#8
+Merman<END>
+|
+@36
+;003BFCA3{Haja<END>}#6
+Haja<END>
+|
+@37
+;003BFCA8{Old Man<END>}#9
+Old Man<END>
+|
+@38
+;003BFCB0{Gangster<END>}#10
+Gangster<END>
+|
+@39
+;003BFCB9{Hoodlum<END>}#9
+Hoodlum<END>
+|
+@40
+;003BFCC1{Octodude<END>}#10
+Octodude<END>
+|
+@41
+;003BFCCA{Salesperson<END>}#13
+Salesperson<END>
+|
+@42
+;003BFCD6{TP<END>}#4
+TP<END>
+|
+@43
+;003BFCD9{Young Man<END>}#11
+Young Man<END>
+|
+@44
+;003BFCE3{Young Fellow<END>}#14
+Young Fellow<END>
+|
+@45
+;003BFCF0{Young Gal<END>}#11
+Young Gal<END>
+|
+@46
+;003BFCFA{Girl<END>}#6
+Girl<END>
+|
+@47
+;003BFCFF{Boy<END>}#5
+Boy<END>
+|
+@48
+;003BFD03{Robot<END>}#7
+Robot<END>
+|
+@49
+;003BFD09{Mayor<END>}#7
+Mayor<END>
+|
+@50
+;003BFD0F{Gunman<END>}#8
+Gunman<END>
+|
+@51
+;003BFD16{Masked<END>}#8
+Masked<END>
+|
+@52
+;003BFD1D{Beast Man<END>}#11
+Beast Man<END>
+|
+@53
+;003BFD27{Masked<END>}#8
+Masked<END>
+|
+@54
+;003BFD2E{Man<END>}#5
+Man<END>
+|
+@55
+;003BFD32{Masked<END>}#8
+Masked<END>
+|
+@56
+;003BFD39{Mustache Man<END>}#14
+Mustache Man<END>
+|
+@57
+;003BFD46{Bandit<END>}#8
+Bandit<END>
+|
+@58
+;003BFD4D{Monster<END>}#9
+Monster<END>
+|
+@59
+;003BFD55{Townsman<END>}#10
+Townsman<END>
+|
+@60
+;003BFD5E{Townsman<END>}#10
+Townsman<END>
+|
+@61
+;003BFD67{Woman<END>}#7
+Woman<END>
+|
+@62
+;003BFD6D{Kid<END>}#5
+Kid<END>
+|
+@63
+;003BFD71{B-Daspace<END>}#11
+B-Daspace<END>
+|
+@64
+;003BFD7B{Cat Cafe<END>}#10
+Cat Cafe<END>
+|
+@65
+;003BFD84{Town Entrance<END>}#15
+Town Entrance<END>
+|
+@66
+;003BFD92{Saloon<END>}#8
+Saloon<END>
+|
+@67
+;003BFD99{Outskirts<END>}#11
+Outskirts<END>
+|
+@68
+;003BFDA3{Parts Shop<END>}#12
+Parts Shop<END>
+|
+@69
+;003BFDAE{Town Entrance<END>}#15
+Town Entrance<END>
+|
+@70
+;003BFDBC{B-Center<END>}#10
+B-Center<END>
+|
+@71
+;003BFDC5{Cemetery<END>}#10
+Cemetery<END>
+|
+@72
+;003BFDCE{Parts Shop<END>}#12
+Parts Shop<END>
+|
+@73
+;003BFDD9{Main Street<END>}#13
+Main Street<END>
+|
+@74
+;003BFDE5{Square<END>}#8
+Square<END>
+|
+@75
+;003BFDEC{Outside Dome<END>}#14
+Outside Dome<END>
+|
+@76
+;003BFDF9{Inside Dome<END>}#13
+Inside Dome<END>
+|
+@77
+;003BFE05{Gold Area<END>}#11
+Gold Area<END>
+|
+@78
+;003BFE0F{Silver Area<END>}#13
+Silver Area<END>
+|
+@79
+;003BFE1B{Bronze Area<END>}#13
+Bronze Area<END>
+|
+@80
+;003BFE27{Parts Shop<END>}#12
+Parts Shop<END>
+|
+@81
+;003BFE32{Town Entrance<END>}#15
+Town Entrance<END>
+|
+@82
+;003BFE40{B-Center<END>}#10
+B-Center<END>
+|
+@83
+;003BFE49{Secret Arena<END>}#14
+Secret Arena<END>
+|
+@84
+;003BFE56{Waiting Room<END>}#14
+Waiting Room<END>
+|
+@85
+;003BFE63{Parts Shop<END>}#12
+Parts Shop<END>
+|
+@86
+;003BFE6E{Ruins Entry<END>}#13
+Ruins Entry<END>
+|
+@87
+;003BFE7A{Tunnel<END>}#8
+Tunnel<END>
+|
+@88
+;003BFE81{Hall<END>}#6
+Hall<END>
+|
+@89
+;003BFE86{Town Entrance<END>}#15
+Town Entrance<END>
+|
+@90
+;003BFE94{Harbor<END>}#8
+Harbor<END>
+|
+@91
+;003BFE9B{Coliseum(Out)<END>}#15
+Coliseum(Out)<END>
+|
+@92
+;003BFEA9{Coliseum(In)<END>}#14
+Coliseum(In)<END>
+|
+@93
+;003BFEB6{Parts Shop<END>}#12
+Parts Shop<END>
+|
+@94
+;003BFEC1{At Armada's<END>}#13
+At Armada's<END>
+|
+@95
+;003BFECD{Parts Shop<END>}#12
+Parts Shop<END>
+|
+@96
+;003BFED8{Square<END>}#8
+Square<END>
+|
+@97
+;003BFEDF{Stand<END>}#7
+Stand<END>
+|
+@98
+;003BFEE5{Battlefield A<END>}#15
+Battlefield A<END>
+|
+@99
+;003BFEF3{Battlefield B<END>}#15
+Battlefield B<END>
+|
+@100
+;003BFF01{Practice Room<END>}#15
+Practice Room<END>
+|
+@101
+;003BFF0F{Hotel<END>}#7
+Hotel<END>
+|
+@102
+;003BFF15{a corridor<END>}#12
+a corridor<END>
+|
+@103
+;003BFF20{Parts Shop<END>}#12
+Parts Shop<END>
+|
+@104
+;003BFF2B{Island Entry<END>}#14
+Island Entry<END>
+|
+@105
+;003BFF38{Sealing Room<END>}#14
+Sealing Room<END>
+|
+@106
+;003BFF45{Workshop<END>}#10
+Workshop<END>
+|
+@107
+;003BFF4E{Tunnel<END>}#8
+Tunnel<END>
+|
+@108
+;003BFF55{DPA Hideout<END>}#13
+DPA Hideout<END>
+|
+@109
+;003BFF61{Another town<END>}#14
+Another town<END>
+|
+@110
+;003BFF6E{<END>}#2
+<END>
+|
+@111
+;003BFF6F{<END>}#2
+<END>
+|
+@112
+;003BFF70{<END>}#2
+<END>
+|
+@113
+;003BFF71{<END>}#2
+<END>
+|
+@114
+;003BFF72{<END>}#2
+<END>
+|
+@115
+;003BFF73{<END>}#2
+<END>
+|
+@116
+;003BFF74{<END>}#2
+<END>
+|
+@117
+;003BFF75{<END>}#2
+<END>
+|
+@118
+;003BFF76{<END>}#2
+<END>
+|
+@119
+;003BFF77{<END>}#2
+<END>
+|
+@120
+;003BFF78{<END>}#2
+<END>
+|
+@121
+;003BFF79{Target Hit<END>}#12
+Target Hit<END>
+|
+@122
+;003BFF84{Gate Check<END>}#12
+Gate Check<END>
+|
+@123
+;003BFF8F{Balloon Shoot<END>}#15
+Balloon Shoot<END>
+|
+@124
+;003BFF9D{Target Bug<END>}#12
+Target Bug<END>
+|
+@125
+;003BFFA8{Snipe Shoot<END>}#13
+Snipe Shoot<END>
+|
+@126
+;003BFFB4{Puzzle Wall<END>}#13
+Puzzle Wall<END>
+|

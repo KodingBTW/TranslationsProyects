@@ -1,0 +1,12 @@
+.definelabel script_tutorial_02_offsets_0001, 0x08842140
+.definelabel script_tutorial_02_offsets_0002, 0x0884214F
+.definelabel script_tutorial_02_offsets_0003, 0x08842156
+.definelabel script_tutorial_02_offsets_0004, 0x08842165
+.definelabel script_tutorial_02_offsets_0005, 0x08842173
+.definelabel script_tutorial_02_offsets_0006, 0x0884217A
+.definelabel script_tutorial_02_offsets_0007, 0x08842189
+.definelabel script_tutorial_02_offsets_0008, 0x08842197
+.definelabel script_tutorial_02_offsets_0009, 0x088421A1
+.definelabel script_tutorial_02_offsets_0010, 0x088421A8
+.definelabel script_tutorial_02_offsets_0011, 0x088421E8
+.definelabel script_tutorial_02_offsets_0012, 0x08842220

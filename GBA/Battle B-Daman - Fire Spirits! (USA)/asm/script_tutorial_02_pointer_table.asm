@@ -1,0 +1,20 @@
+.include "asm/script_tutorial_02_offsets.asm"
+
+org 0x0807ACF0
+.word script_tutorial_02_offsets_0001
+.word script_tutorial_02_offsets_0002
+org 0x0807ADE4
+.word script_tutorial_02_offsets_0003
+.word script_tutorial_02_offsets_0004
+.word script_tutorial_02_offsets_0005
+org 0x0807AF04
+.word script_tutorial_02_offsets_0006
+.word script_tutorial_02_offsets_0007
+.word script_tutorial_02_offsets_0008
+.word script_tutorial_02_offsets_0009
+org 0x0807B004
+.word script_tutorial_02_offsets_0010
+org 0x0807B078
+.word script_tutorial_02_offsets_0011
+org 0x0807B1B4
+.word script_tutorial_02_offsets_0012

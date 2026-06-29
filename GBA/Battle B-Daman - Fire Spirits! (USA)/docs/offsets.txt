@@ -1,0 +1,5 @@
+pointer #4 =  $7f0d0
+
+texto = $3c2140
+
+fuentes comprimida = $cf75c

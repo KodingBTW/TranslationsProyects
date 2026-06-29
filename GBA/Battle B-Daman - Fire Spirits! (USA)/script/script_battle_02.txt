@@ -1,0 +1,3980 @@
+@1
+;003FCE68{Fire is produced by air<END>}#24
+Fire is produced by air<END>
+|
+@2
+;003FCE80{friction, and it wraps<END>}#24
+friction, and it wraps<END>
+|
+@3
+;003FCE97{around the B-Daball!<END>}#22
+around the B-Daball!<END>
+|
+@4
+;003FCEAC{Only Yamato can use this<END>}#26
+Only Yamato can use this<END>
+|
+@5
+;003FCEC5{special shot!<END>}#15
+special shot!<END>
+|
+@6
+;003FCED3{The B-Daball wrapped with<END>}#27
+The B-Daball wrapped with<END>
+|
+@7
+;003FCEED{fire explodes as it<END>}#21
+fire explodes as it<END>
+|
+@8
+;003FCF01{zigzags and charges at<END>}#24
+zigzags and charges at<END>
+|
+@9
+;003FCF18{your opponent!<END>}#16
+your opponent!<END>
+|
+@10
+;003FCF27{The intense power of its<END>}#26
+The intense power of its<END>
+|
+@11
+;003FCF40{fire overwhelms your<END>}#22
+fire overwhelms your<END>
+|
+@12
+;003FCF55{opponent!<END>}#11
+opponent!<END>
+|
+@13
+;003FCF5F{The B-Daball moves in a<END>}#25
+The B-Daball moves in a<END>
+|
+@14
+;003FCF77{half-circular motion as it<END>}#28
+half-circular motion as it<END>
+|
+@15
+;003FCF92{rolls due to the<END>}#18
+rolls due to the<END>
+|
+@16
+;003FCFA3{propulsive force of wind<END>}#26
+propulsive force of wind<END>
+|
+@17
+;003FCFBC{from the Fire Wings!<END>}#22
+from the Fire Wings!<END>
+|
+@18
+;003FCFD1{The wind friction causes a<END>}#28
+The wind friction causes a<END>
+|
+@19
+;003FCFEC{big explosion which<END>}#21
+big explosion which<END>
+|
+@20
+;003FD000{attacks your opponent!<END>}#24
+attacks your opponent!<END>
+|
+@21
+;003FD017{The B-Daball wrapped with<END>}#27
+The B-Daball wrapped with<END>
+|
+@22
+;003FD031{burning, hot flames spins<END>}#27
+burning, hot flames spins<END>
+|
+@23
+;003FD04B{and assaults your opponent!<END>}#29
+and assaults your opponent!<END>
+|
+@24
+;003FD067{This special attack is<END>}#24
+This special attack is<END>
+|
+@25
+;003FD07E{produced by Gray's<END>}#20
+produced by Gray's<END>
+|
+@26
+;003FD091{B-Daspirit. His B-Daspirit<END>}#28
+B-Daspirit. His B-Daspirit<END>
+|
+@27
+;003FD0AC{generates powerful wind<END>}#25
+generates powerful wind<END>
+|
+@28
+;003FD0C4{and makes the B-Daball<END>}#24
+and makes the B-Daball<END>
+|
+@29
+;003FD0DB{spin!<END>}#7
+spin!<END>
+|
+@30
+;003FD0E1{The killer tornado makes<END>}#26
+The killer tornado makes<END>
+|
+@31
+;003FD0FA{the B-Daball spin and roll<END>}#28
+the B-Daball spin and roll<END>
+|
+@32
+;003FD115{around all over the field!<END>}#28
+around all over the field!<END>
+|
+@33
+;003FD130{The super rapid-fire deals<END>}#28
+The super rapid-fire deals<END>
+|
+@34
+;003FD14B{a shower of blasts to your<END>}#28
+a shower of blasts to your<END>
+|
+@35
+;003FD166{opponent!<END>}#11
+opponent!<END>
+|
+@36
+;003FD170{<END>}#2
+<END>
+|
+@37
+;003FD171{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@38
+;003FD18C{you to collect the<END>}#20
+you to collect the<END>
+|
+@39
+;003FD19F{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@40
+;003FD1B6{automatically!<END>}#16
+automatically!<END>
+|
+@41
+;003FD1C5{The high-speed B-Daball<END>}#25
+The high-speed B-Daball<END>
+|
+@42
+;003FD1DD{wrapped with flames heads<END>}#27
+wrapped with flames heads<END>
+|
+@43
+;003FD1F7{directly toward your<END>}#22
+directly toward your<END>
+|
+@44
+;003FD20C{opponent!<END>}#11
+opponent!<END>
+|
+@45
+;003FD216{The intense sparks caused<END>}#27
+The intense sparks caused<END>
+|
+@46
+;003FD230{by the zigzag motion<END>}#22
+by the zigzag motion<END>
+|
+@47
+;003FD245{charge at your opponent,<END>}#26
+charge at your opponent,<END>
+|
+@48
+;003FD25E{raising a big cloud of<END>}#24
+raising a big cloud of<END>
+|
+@49
+;003FD275{dust!<END>}#7
+dust!<END>
+|
+@50
+;003FD27B{The earth's aura will turn<END>}#28
+The earth's aura will turn<END>
+|
+@51
+;003FD296{into a howling twister and<END>}#28
+into a howling twister and<END>
+|
+@52
+;003FD2B1{charge straight at your<END>}#25
+charge straight at your<END>
+|
+@53
+;003FD2C9{opponent!<END>}#11
+opponent!<END>
+|
+@54
+;003FD2D3{It assaults your opponent<END>}#27
+It assaults your opponent<END>
+|
+@55
+;003FD2ED{by hiding the B-Daball's<END>}#26
+by hiding the B-Daball's<END>
+|
+@56
+;003FD306{trajectory in a flurry of<END>}#27
+trajectory in a flurry of<END>
+|
+@57
+;003FD320{blowing leaves! This is<END>}#25
+blowing leaves! This is<END>
+|
+@58
+;003FD338{Terry's special attack!<END>}#25
+Terry's special attack!<END>
+|
+@59
+;003FD350{<END>}#2
+<END>
+|
+@60
+;003FD351{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@61
+;003FD36C{you to collect the<END>}#20
+you to collect the<END>
+|
+@62
+;003FD37F{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@63
+;003FD396{automatically!<END>}#16
+automatically!<END>
+|
+@64
+;003FD3A5{This shot was inspired by<END>}#27
+This shot was inspired by<END>
+|
+@65
+;003FD3BF{the quick movement of<END>}#23
+the quick movement of<END>
+|
+@66
+;003FD3D5{swallows. It attacks by<END>}#25
+swallows. It attacks by<END>
+|
+@67
+;003FD3ED{hiding itself, which<END>}#22
+hiding itself, which<END>
+|
+@68
+;003FD402{confuses your opponent!<END>}#25
+confuses your opponent!<END>
+|
+@69
+;003FD41A{<END>}#2
+<END>
+|
+@70
+;003FD41B{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@71
+;003FD436{you to collect the<END>}#20
+you to collect the<END>
+|
+@72
+;003FD449{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@73
+;003FD460{automatically!<END>}#16
+automatically!<END>
+|
+@74
+;003FD46F{This rapid-fire shot<END>}#22
+This rapid-fire shot<END>
+|
+@75
+;003FD484{offers a level of<END>}#19
+offers a level of<END>
+|
+@76
+;003FD496{precision that can even<END>}#25
+precision that can even<END>
+|
+@77
+;003FD4AE{take aim at the eye of a<END>}#26
+take aim at the eye of a<END>
+|
+@78
+;003FD4C7{needle! It attacks your<END>}#25
+needle! It attacks your<END>
+|
+@79
+;003FD4DF{opponent directly! Take<END>}#25
+opponent directly! Take<END>
+|
+@80
+;003FD4F7{aim with amazing accuracy.<END>}#28
+aim with amazing accuracy.<END>
+|
+@81
+;003FD512{<END>}#2
+<END>
+|
+@82
+;003FD513{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@83
+;003FD52E{you to collect the<END>}#20
+you to collect the<END>
+|
+@84
+;003FD541{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@85
+;003FD558{automatically!<END>}#16
+automatically!<END>
+|
+@86
+;003FD567{This special effect allows<END>}#28
+This special effect allows<END>
+|
+@87
+;003FD582{B-Daspirit to turn itself<END>}#27
+B-Daspirit to turn itself<END>
+|
+@88
+;003FD59C{into wind power and<END>}#21
+into wind power and<END>
+|
+@89
+;003FD5B0{enables ultra high-speed<END>}#26
+enables ultra high-speed<END>
+|
+@90
+;003FD5C9{movement!<END>}#11
+movement!<END>
+|
+@91
+;003FD5D3{The howling of the dragon<END>}#27
+The howling of the dragon<END>
+|
+@92
+;003FD5ED{causes a tornado! The blue<END>}#28
+causes a tornado! The blue<END>
+|
+@93
+;003FD608{flashing B-Daball tears<END>}#25
+flashing B-Daball tears<END>
+|
+@94
+;003FD620{your opponent into pieces!<END>}#28
+your opponent into pieces!<END>
+|
+@95
+;003FD63B{Only Wen can fire this<END>}#24
+Only Wen can fire this<END>
+|
+@96
+;003FD652{special shot!<END>}#15
+special shot!<END>
+|
+@97
+;003FD660{It's an irregular curve<END>}#25
+It's an irregular curve<END>
+|
+@98
+;003FD678{shot that is fired from <END>}#26
+shot that is fired from <END>
+|
+@99
+;003FD691{the Revolver Core!<END>}#20
+the Revolver Core!<END>
+|
+@100
+;003FD6A4{It attacks your opponent<END>}#26
+It attacks your opponent<END>
+|
+@101
+;003FD6BD{by making zigzag<END>}#18
+by making zigzag<END>
+|
+@102
+;003FD6CE{movements!<END>}#12
+movements!<END>
+|
+@103
+;003FD6D9{When the Sight Barrel is<END>}#26
+When the Sight Barrel is<END>
+|
+@104
+;003FD6F2{functioning at peak<END>}#21
+functioning at peak<END>
+|
+@105
+;003FD706{capacity, you can fire the<END>}#28
+capacity, you can fire the<END>
+|
+@106
+;003FD721{flashing thunder-shot,<END>}#24
+flashing thunder-shot,<END>
+|
+@107
+;003FD738{which confuses your<END>}#21
+which confuses your<END>
+|
+@108
+;003FD74C{opponent before colliding<END>}#27
+opponent before colliding<END>
+|
+@109
+;003FD766{violently into it!<END>}#20
+violently into it!<END>
+|
+@110
+;003FD779{When the the dragon's roar<END>}#28
+When the the dragon's roar<END>
+|
+@111
+;003FD794{is heard, the bright<END>}#22
+is heard, the bright<END>
+|
+@112
+;003FD7A9{flashing tornado tears<END>}#24
+flashing tornado tears<END>
+|
+@113
+;003FD7C0{straight into your<END>}#20
+straight into your<END>
+|
+@114
+;003FD7D3{opponent! This is Li's<END>}#24
+opponent! This is Li's<END>
+|
+@115
+;003FD7EA{special shot!<END>}#15
+special shot!<END>
+|
+@116
+;003FD7F8{When the terrifying<END>}#21
+When the terrifying<END>
+|
+@117
+;003FD80C{dragon's roar echoes, a<END>}#25
+dragon's roar echoes, a<END>
+|
+@118
+;003FD824{gigantic tornado assaults<END>}#27
+gigantic tornado assaults<END>
+|
+@119
+;003FD83E{your opponent by<END>}#18
+your opponent by<END>
+|
+@120
+;003FD84F{zigzagging!<END>}#13
+zigzagging!<END>
+|
+@121
+;003FD85B{When the Sight Magazine is<END>}#28
+When the Sight Magazine is<END>
+|
+@122
+;003FD876{functioning at peak<END>}#21
+functioning at peak<END>
+|
+@123
+;003FD88A{capacity, the lightning<END>}#25
+capacity, the lightning<END>
+|
+@124
+;003FD8A2{shot splits into three,<END>}#25
+shot splits into three,<END>
+|
+@125
+;003FD8BA{confusing your opponent<END>}#25
+confusing your opponent<END>
+|
+@126
+;003FD8D2{before colliding violently<END>}#28
+before colliding violently<END>
+|
+@127
+;003FD8ED{with it!<END>}#10
+with it!<END>
+|
+@128
+;003FD8F6{The purple fire flares up<END>}#27
+The purple fire flares up<END>
+|
+@129
+;003FD910{and becomes a Lightning<END>}#25
+and becomes a Lightning<END>
+|
+@130
+;003FD928{Ball, which then assaults<END>}#27
+Ball, which then assaults<END>
+|
+@131
+;003FD942{your opponent directly!<END>}#25
+your opponent directly!<END>
+|
+@132
+;003FD95A{This is Enjyu's special<END>}#25
+This is Enjyu's special<END>
+|
+@133
+;003FD972{attack!<END>}#9
+attack!<END>
+|
+@134
+;003FD97A{The inherent power of<END>}#23
+The inherent power of<END>
+|
+@135
+;003FD990{thunder in the Power<END>}#22
+thunder in the Power<END>
+|
+@136
+;003FD9A5{Shoulder is used to<END>}#21
+Shoulder is used to<END>
+|
+@137
+;003FD9B9{enhance the fired<END>}#19
+enhance the fired<END>
+|
+@138
+;003FD9CB{B-Daball's power and<END>}#22
+B-Daball's power and<END>
+|
+@139
+;003FD9E0{assails your opponent!<END>}#24
+assails your opponent!<END>
+|
+@140
+;003FD9F7{The purple thunder<END>}#20
+The purple thunder<END>
+|
+@141
+;003FDA0A{B-Daball zigzags,<END>}#19
+B-Daball zigzags,<END>
+|
+@142
+;003FDA1C{producing shock waves,<END>}#24
+producing shock waves,<END>
+|
+@143
+;003FDA33{and crushes your opponent!<END>}#28
+and crushes your opponent!<END>
+|
+@144
+;003FDA4E{The fiery thunder ball<END>}#24
+The fiery thunder ball<END>
+|
+@145
+;003FDA65{from the Blazing Kahn <END>}#24
+from the Blazing Kahn <END>
+|
+@146
+;003FDA7C{goes straight towards its<END>}#27
+goes straight towards its<END>
+|
+@147
+;003FDA96{target and crushes your<END>}#25
+target and crushes your<END>
+|
+@148
+;003FDAAE{opponent!<END>}#11
+opponent!<END>
+|
+@149
+;003FDAB8{The B-Daball fired from<END>}#25
+The B-Daball fired from<END>
+|
+@150
+;003FDAD0{the D. C. Core becomes a<END>}#26
+the D. C. Core becomes a<END>
+|
+@151
+;003FDAE9{purple thunder-clad<END>}#21
+purple thunder-clad<END>
+|
+@152
+;003FDAFD{B-Daball and confuses your<END>}#28
+B-Daball and confuses your<END>
+|
+@153
+;003FDB18{opponent!<END>}#11
+opponent!<END>
+|
+@154
+;003FDB22{A deep, rosy light is<END>}#23
+A deep, rosy light is<END>
+|
+@155
+;003FDB38{given off! A big flash of<END>}#27
+given off! A big flash of<END>
+|
+@156
+;003FDB52{light moves in an s-curve<END>}#27
+light moves in an s-curve<END>
+|
+@157
+;003FDB6C{over the field and<END>}#20
+over the field and<END>
+|
+@158
+;003FDB7F{overwhelms your opponent!<END>}#27
+overwhelms your opponent!<END>
+|
+@159
+;003FDB99{This is Liena's special<END>}#25
+This is Liena's special<END>
+|
+@160
+;003FDBB1{attack!<END>}#9
+attack!<END>
+|
+@161
+;003FDBB9{This special attack uses<END>}#26
+This special attack uses<END>
+|
+@162
+;003FDBD2{the blistering power of<END>}#25
+the blistering power of<END>
+|
+@163
+;003FDBEA{the Garnet Wind's visor!<END>}#26
+the Garnet Wind's visor!<END>
+|
+@164
+;003FDC03{The deep, rosy ball of<END>}#24
+The deep, rosy ball of<END>
+|
+@165
+;003FDC1A{light makes a big curve as<END>}#28
+light makes a big curve as<END>
+|
+@166
+;003FDC35{it charges at your<END>}#20
+it charges at your<END>
+|
+@167
+;003FDC48{opponent. It engulfs your<END>}#27
+opponent. It engulfs your<END>
+|
+@168
+;003FDC62{opponent in sparks!<END>}#21
+opponent in sparks!<END>
+|
+@169
+;003FDC76{The purple B-Daballs--that<END>}#28
+The purple B-Daballs--that<END>
+|
+@170
+;003FDC91{make you think of deadly<END>}#26
+make you think of deadly<END>
+|
+@171
+;003FDCAA{poison--zigzag on the<END>}#23
+poison--zigzag on the<END>
+|
+@172
+;003FDCC0{field! This is Haja's<END>}#23
+field! This is Haja's<END>
+|
+@173
+;003FDCD6{special shot!<END>}#15
+special shot!<END>
+|
+@174
+;003FDCE4{The B-Daball that is fired<END>}#28
+The B-Daball that is fired<END>
+|
+@175
+;003FDCFF{from the Wolfman's Tail<END>}#25
+from the Wolfman's Tail<END>
+|
+@176
+;003FDD17{Grip zigzags all over the<END>}#27
+Grip zigzags all over the<END>
+|
+@177
+;003FDD31{field!<END>}#8
+field!<END>
+|
+@178
+;003FDD38{This is a special attack<END>}#26
+This is a special attack<END>
+|
+@179
+;003FDD51{that enables you to launch<END>}#28
+that enables you to launch<END>
+|
+@180
+;003FDD6C{supreme rapid fire! It<END>}#24
+supreme rapid fire! It<END>
+|
+@181
+;003FDD83{will overwhelm your<END>}#21
+will overwhelm your<END>
+|
+@182
+;003FDD97{opponent!<END>}#11
+opponent!<END>
+|
+@183
+;003FDDA1{<END>}#2
+<END>
+|
+@184
+;003FDDA2{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@185
+;003FDDBD{you to collect the<END>}#20
+you to collect the<END>
+|
+@186
+;003FDDD0{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@187
+;003FDDE7{automatically!<END>}#16
+automatically!<END>
+|
+@188
+;003FDDF6{The blue flash of light<END>}#25
+The blue flash of light<END>
+|
+@189
+;003FDE0E{goes straight to your<END>}#23
+goes straight to your<END>
+|
+@190
+;003FDE24{opponent and pulverizes<END>}#25
+opponent and pulverizes<END>
+|
+@191
+;003FDE3C{their B-Daman!<END>}#16
+their B-Daman!<END>
+|
+@192
+;003FDE4B{When the rapid blue flash<END>}#27
+When the rapid blue flash<END>
+|
+@193
+;003FDE65{of light gets its opponent<END>}#28
+of light gets its opponent<END>
+|
+@194
+;003FDE80{in its sights, it goes<END>}#24
+in its sights, it goes<END>
+|
+@195
+;003FDE97{straight towards their<END>}#24
+straight towards their<END>
+|
+@196
+;003FDEAE{B-Daman until it nails it.<END>}#28
+B-Daman until it nails it.<END>
+|
+@197
+;003FDEC9{The gigantic fire that is<END>}#27
+The gigantic fire that is<END>
+|
+@198
+;003FDEE3{fired from the Saber<END>}#22
+fired from the Saber<END>
+|
+@199
+;003FDEF8{Barrel spreads<END>}#16
+Barrel spreads<END>
+|
+@200
+;003FDF07{dramatically and bursts<END>}#25
+dramatically and bursts<END>
+|
+@201
+;003FDF1F{into flames when it<END>}#21
+into flames when it<END>
+|
+@202
+;003FDF33{reaches your opponent!<END>}#24
+reaches your opponent!<END>
+|
+@203
+;003FDF4A{The phoenix's spirit<END>}#22
+The phoenix's spirit<END>
+|
+@204
+;003FDF5F{engulfed in flames goes<END>}#25
+engulfed in flames goes<END>
+|
+@205
+;003FDF77{straight to your opponent<END>}#27
+straight to your opponent<END>
+|
+@206
+;003FDF91{and burns him up! This is<END>}#27
+and burns him up! This is<END>
+|
+@207
+;003FDFAB{Joe's special attack!<END>}#23
+Joe's special attack!<END>
+|
+@208
+;003FDFC1{The power of the phoenix<END>}#26
+The power of the phoenix<END>
+|
+@209
+;003FDFDA{contained in the Phoenix<END>}#26
+contained in the Phoenix<END>
+|
+@210
+;003FDFF3{Visor explodes and<END>}#20
+Visor explodes and<END>
+|
+@211
+;003FE006{produces roaring flames.<END>}#26
+produces roaring flames.<END>
+|
+@212
+;003FE01F{It burns your opponent up!<END>}#28
+It burns your opponent up!<END>
+|
+@213
+;003FE03A{The power of the phoenix<END>}#26
+The power of the phoenix<END>
+|
+@214
+;003FE053{enclosed in the Phoenix<END>}#25
+enclosed in the Phoenix<END>
+|
+@215
+;003FE06B{Wings becomes a blade of<END>}#26
+Wings becomes a blade of<END>
+|
+@216
+;003FE084{fire and carves up the<END>}#24
+fire and carves up the<END>
+|
+@217
+;003FE09B{ground in zigzags!<END>}#20
+ground in zigzags!<END>
+|
+@218
+;003FE0AE{The Blue King Helm causes<END>}#27
+The Blue King Helm causes<END>
+|
+@219
+;003FE0C8{tornadoes! The blue flames<END>}#28
+tornadoes! The blue flames<END>
+|
+@220
+;003FE0E3{replicate themselves and<END>}#26
+replicate themselves and<END>
+|
+@221
+;003FE0FC{attack your opponent!<END>}#23
+attack your opponent!<END>
+|
+@222
+;003FE112{The Ohryu Helm creates<END>}#24
+The Ohryu Helm creates<END>
+|
+@223
+;003FE129{tornadoes! The yellow<END>}#23
+tornadoes! The yellow<END>
+|
+@224
+;003FE13F{lightning meanders its way<END>}#28
+lightning meanders its way<END>
+|
+@225
+;003FE15A{to your opponent before<END>}#25
+to your opponent before<END>
+|
+@226
+;003FE172{finally charging into it!<END>}#27
+finally charging into it!<END>
+|
+@227
+;003FE18C{The Shinryu Helm causes<END>}#25
+The Shinryu Helm causes<END>
+|
+@228
+;003FE1A4{tornadoes, and its blue<END>}#25
+tornadoes, and its blue<END>
+|
+@229
+;003FE1BC{lightning draws a curve on<END>}#28
+lightning draws a curve on<END>
+|
+@230
+;003FE1D7{the ground and assaults<END>}#25
+the ground and assaults<END>
+|
+@231
+;003FE1EF{your opponent!<END>}#16
+your opponent!<END>
+|
+@232
+;003FE1FE{The tornado that is<END>}#21
+The tornado that is<END>
+|
+@233
+;003FE212{launched by the Kokuryu<END>}#25
+launched by the Kokuryu<END>
+|
+@234
+;003FE22A{Helm generates purple<END>}#23
+Helm generates purple<END>
+|
+@235
+;003FE240{flames! The flames go<END>}#23
+flames! The flames go<END>
+|
+@236
+;003FE256{straight at your opponent.<END>}#28
+straight at your opponent.<END>
+|
+@237
+;003FE271{The power produced by the<END>}#27
+The power produced by the<END>
+|
+@238
+;003FE28B{Striker Core makes the<END>}#24
+Striker Core makes the<END>
+|
+@239
+;003FE2A2{shot B-Daball replicate<END>}#25
+shot B-Daball replicate<END>
+|
+@240
+;003FE2BA{itself and assails your<END>}#25
+itself and assails your<END>
+|
+@241
+;003FE2D2{opponent!<END>}#11
+opponent!<END>
+|
+@242
+;003FE2DC{The Asura Visor gives<END>}#23
+The Asura Visor gives<END>
+|
+@243
+;003FE2F2{thunder power to the<END>}#22
+thunder power to the<END>
+|
+@244
+;003FE307{B-Daball as it's fired. It<END>}#28
+B-Daball as it's fired. It<END>
+|
+@245
+;003FE322{randomly zigzags toward<END>}#25
+randomly zigzags toward<END>
+|
+@246
+;003FE33A{your opponent!<END>}#16
+your opponent!<END>
+|
+@247
+;003FE349{The power produced by the<END>}#27
+The power produced by the<END>
+|
+@248
+;003FE363{Wolf Visor brings out the<END>}#27
+Wolf Visor brings out the<END>
+|
+@249
+;003FE37D{fury of the earth and<END>}#23
+fury of the earth and<END>
+|
+@250
+;003FE393{blasts your opponent!<END>}#23
+blasts your opponent!<END>
+|
+@251
+;003FE3A9{<END>}#2
+<END>
+|
+@252
+;003FE3AA{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@253
+;003FE3C5{you to collect the<END>}#20
+you to collect the<END>
+|
+@254
+;003FE3D8{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@255
+;003FE3EF{automatically!<END>}#16
+automatically!<END>
+|
+@256
+;003FE3FE{The Garuda Visor creates<END>}#26
+The Garuda Visor creates<END>
+|
+@257
+;003FE417{lots of wind! The blue<END>}#24
+lots of wind! The blue<END>
+|
+@258
+;003FE42E{tornado zigzags all over<END>}#26
+tornado zigzags all over<END>
+|
+@259
+;003FE447{the field and confuses<END>}#24
+the field and confuses<END>
+|
+@260
+;003FE45E{your opponent!<END>}#16
+your opponent!<END>
+|
+@261
+;003FE46D{The killer tornado caused<END>}#27
+The killer tornado caused<END>
+|
+@262
+;003FE487{by the Scorpion Visor<END>}#23
+by the Scorpion Visor<END>
+|
+@263
+;003FE49D{strikes violently at your<END>}#27
+strikes violently at your<END>
+|
+@264
+;003FE4B7{opponent!<END>}#11
+opponent!<END>
+|
+@265
+;003FE4C1{<END>}#2
+<END>
+|
+@266
+;003FE4C2{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@267
+;003FE4DD{you to collect the<END>}#20
+you to collect the<END>
+|
+@268
+;003FE4F0{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@269
+;003FE507{automatically!<END>}#16
+automatically!<END>
+|
+@270
+;003FE516{Fire spews forth from the<END>}#27
+Fire spews forth from the<END>
+|
+@271
+;003FE530{fury of the earth! A<END>}#22
+fury of the earth! A<END>
+|
+@272
+;003FE545{high-speed fireball<END>}#21
+high-speed fireball<END>
+|
+@273
+;003FE559{attacks your opponent<END>}#23
+attacks your opponent<END>
+|
+@274
+;003FE56F{directly! This is Gunnos's<END>}#28
+directly! This is Gunnos's<END>
+|
+@275
+;003FE58A{special shot!<END>}#15
+special shot!<END>
+|
+@276
+;003FE598{Out of the power of<END>}#21
+Out of the power of<END>
+|
+@277
+;003FE5AC{darkness, tiny cross-like<END>}#27
+darkness, tiny cross-like<END>
+|
+@278
+;003FE5C6{lights burst forth from<END>}#25
+lights burst forth from<END>
+|
+@279
+;003FE5DE{the Disguise Barrel!<END>}#22
+the Disguise Barrel!<END>
+|
+@280
+;003FE5F3{<END>}#2
+<END>
+|
+@281
+;003FE5F4{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@282
+;003FE60F{you to collect the<END>}#20
+you to collect the<END>
+|
+@283
+;003FE622{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@284
+;003FE639{automatically!<END>}#16
+automatically!<END>
+|
+@285
+;003FE648{The power of darkness<END>}#23
+The power of darkness<END>
+|
+@286
+;003FE65E{contained in the Disguise<END>}#27
+contained in the Disguise<END>
+|
+@287
+;003FE678{Visor is explosive! The<END>}#25
+Visor is explosive! The<END>
+|
+@288
+;003FE690{intense power of darkness<END>}#27
+intense power of darkness<END>
+|
+@289
+;003FE6AA{blasts away rapidly! The<END>}#26
+blasts away rapidly! The<END>
+|
+@290
+;003FE6C3{opponent shot by this SPA<END>}#27
+opponent shot by this SPA<END>
+|
+@291
+;003FE6DD{will start to move in slow<END>}#28
+will start to move in slow<END>
+|
+@292
+;003FE6F8{motion!<END>}#9
+motion!<END>
+|
+@293
+;003FE700{The fury of the thunder<END>}#25
+The fury of the thunder<END>
+|
+@294
+;003FE718{turns itself into little<END>}#26
+turns itself into little<END>
+|
+@295
+;003FE731{lights that slither around<END>}#28
+lights that slither around<END>
+|
+@296
+;003FE74C{the field!<END>}#12
+the field!<END>
+|
+@297
+;003FE757{<END>}#2
+<END>
+|
+@298
+;003FE758{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@299
+;003FE773{you to collect the<END>}#20
+you to collect the<END>
+|
+@300
+;003FE786{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@301
+;003FE79D{automatically!<END>}#16
+automatically!<END>
+|
+@302
+;003FE7AC{The sacred power turns<END>}#24
+The sacred power turns<END>
+|
+@303
+;003FE7C3{itself into crosses made<END>}#26
+itself into crosses made<END>
+|
+@304
+;003FE7DC{of light and strikes your<END>}#27
+of light and strikes your<END>
+|
+@305
+;003FE7F6{opponent!<END>}#11
+opponent!<END>
+|
+@306
+;003FE800{<END>}#2
+<END>
+|
+@307
+;003FE801{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@308
+;003FE81C{you to collect the<END>}#20
+you to collect the<END>
+|
+@309
+;003FE82F{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@310
+;003FE846{automatically!<END>}#16
+automatically!<END>
+|
+@311
+;003FE855{The evil light forms a<END>}#24
+The evil light forms a<END>
+|
+@312
+;003FE86C{cross and strikes your<END>}#24
+cross and strikes your<END>
+|
+@313
+;003FE883{opponent! It zigzags<END>}#22
+opponent! It zigzags<END>
+|
+@314
+;003FE898{across the field and<END>}#22
+across the field and<END>
+|
+@315
+;003FE8AD{bewilders your opponent!<END>}#26
+bewilders your opponent!<END>
+|
+@316
+;003FE8C6{The evil light gathers<END>}#24
+The evil light gathers<END>
+|
+@317
+;003FE8DD{itself up to blast a<END>}#22
+itself up to blast a<END>
+|
+@318
+;003FE8F2{curving B-Daball that will<END>}#28
+curving B-Daball that will<END>
+|
+@319
+;003FE90D{slam into your opponent!<END>}#26
+slam into your opponent!<END>
+|
+@320
+;003FE926{<END>}#2
+<END>
+|
+@321
+;003FE927{It has the power to<END>}#21
+It has the power to<END>
+|
+@322
+;003FE93B{totally bewilder your<END>}#23
+totally bewilder your<END>
+|
+@323
+;003FE951{opponent!<END>}#11
+opponent!<END>
+|
+@324
+;003FE95B{It fires a ball of blue<END>}#25
+It fires a ball of blue<END>
+|
+@325
+;003FE973{haze that makes it hard to<END>}#28
+haze that makes it hard to<END>
+|
+@326
+;003FE98E{figure out what it really<END>}#27
+figure out what it really<END>
+|
+@327
+;003FE9A8{is! Its zigzag movement<END>}#25
+is! Its zigzag movement<END>
+|
+@328
+;003FE9C0{confuses your opponent!<END>}#25
+confuses your opponent!<END>
+|
+@329
+;003FE9D8{This is Aqulas's special<END>}#26
+This is Aqulas's special<END>
+|
+@330
+;003FE9F1{shot!<END>}#7
+shot!<END>
+|
+@331
+;003FE9F7{This SPA produces<END>}#19
+This SPA produces<END>
+|
+@332
+;003FEA09{distinctive smoke that<END>}#24
+distinctive smoke that<END>
+|
+@333
+;003FEA20{will scare your opponent<END>}#26
+will scare your opponent<END>
+|
+@334
+;003FEA39{into submission! Anyone<END>}#25
+into submission! Anyone<END>
+|
+@335
+;003FEA51{who has been covered in<END>}#25
+who has been covered in<END>
+|
+@336
+;003FEA69{the smoke will move much<END>}#26
+the smoke will move much<END>
+|
+@337
+;003FEA82{slower than usual!<END>}#20
+slower than usual!<END>
+|
+@338
+;003FEA95{The poisonous smoke will<END>}#26
+The poisonous smoke will<END>
+|
+@339
+;003FEAAE{split in two and charge at<END>}#28
+split in two and charge at<END>
+|
+@340
+;003FEAC9{your opponent! It doesn't<END>}#27
+your opponent! It doesn't<END>
+|
+@341
+;003FEAE3{have much destructive<END>}#23
+have much destructive<END>
+|
+@342
+;003FEAF9{power, but it will really<END>}#27
+power, but it will really<END>
+|
+@343
+;003FEB13{confuse your opponent!<END>}#24
+confuse your opponent!<END>
+|
+@344
+;003FEB2A{<END>}#2
+<END>
+|
+@345
+;003FEB2B{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@346
+;003FEB46{you to collect the<END>}#20
+you to collect the<END>
+|
+@347
+;003FEB59{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@348
+;003FEB70{automatically!<END>}#16
+automatically!<END>
+|
+@349
+;003FEB7F{The speedy movement, like<END>}#27
+The speedy movement, like<END>
+|
+@350
+;003FEB99{a tiger hunting its prey,<END>}#27
+a tiger hunting its prey,<END>
+|
+@351
+;003FEBB3{chases and hits your<END>}#22
+chases and hits your<END>
+|
+@352
+;003FEBC8{opponent! This is Kiba's<END>}#26
+opponent! This is Kiba's<END>
+|
+@353
+;003FEBE1{special attack!<END>}#17
+special attack!<END>
+|
+@354
+;003FEBF1{<END>}#2
+<END>
+|
+@355
+;003FEBF2{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@356
+;003FEC0D{you to collect the<END>}#20
+you to collect the<END>
+|
+@357
+;003FEC20{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@358
+;003FEC37{automatically!<END>}#16
+automatically!<END>
+|
+@359
+;003FEC46{The phantasmagoric magic<END>}#26
+The phantasmagoric magic<END>
+|
+@360
+;003FEC5F{ball that is fired from<END>}#25
+ball that is fired from<END>
+|
+@361
+;003FEC77{the Revolver Core zigzags<END>}#27
+the Revolver Core zigzags<END>
+|
+@362
+;003FEC91{and strikes your opponent!<END>}#28
+and strikes your opponent!<END>
+|
+@363
+;003FECAC{It has a special effect<END>}#25
+It has a special effect<END>
+|
+@364
+;003FECC4{that can really confuse<END>}#25
+that can really confuse<END>
+|
+@365
+;003FECDC{your opponent!<END>}#16
+your opponent!<END>
+|
+@366
+;003FECEB{<END>}#2
+<END>
+|
+@367
+;003FECEC{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@368
+;003FED07{you to collect the<END>}#20
+you to collect the<END>
+|
+@369
+;003FED1A{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@370
+;003FED31{automatically!<END>}#16
+automatically!<END>
+|
+@371
+;003FED40{A huge tornado produces a<END>}#27
+A huge tornado produces a<END>
+|
+@372
+;003FED5A{blue flash of light! It<END>}#25
+blue flash of light! It<END>
+|
+@373
+;003FED72{travels at high-speed and<END>}#27
+travels at high-speed and<END>
+|
+@374
+;003FED8C{hits your opponent<END>}#20
+hits your opponent<END>
+|
+@375
+;003FED9F{directly! This is Jinbee's<END>}#28
+directly! This is Jinbee's<END>
+|
+@376
+;003FEDBA{special shot!<END>}#15
+special shot!<END>
+|
+@377
+;003FEDC8{The B-Daball replicates<END>}#25
+The B-Daball replicates<END>
+|
+@378
+;003FEDE0{itself by using the power<END>}#27
+itself by using the power<END>
+|
+@379
+;003FEDFA{of darkness, which really<END>}#27
+of darkness, which really<END>
+|
+@380
+;003FEE14{bewilders your opponent!<END>}#26
+bewilders your opponent!<END>
+|
+@381
+;003FEE2D{This is Biarce's special<END>}#26
+This is Biarce's special<END>
+|
+@382
+;003FEE46{shot!<END>}#7
+shot!<END>
+|
+@383
+;003FEE4C{The gigantic tornado that<END>}#27
+The gigantic tornado that<END>
+|
+@384
+;003FEE66{is fired from the Super<END>}#25
+is fired from the Super<END>
+|
+@385
+;003FEE7E{King Helm zigzags around<END>}#26
+King Helm zigzags around<END>
+|
+@386
+;003FEE97{the field and confuses<END>}#24
+the field and confuses<END>
+|
+@387
+;003FEEAE{your opponent! It<END>}#19
+your opponent! It<END>
+|
+@388
+;003FEEC0{demolishes everything on<END>}#26
+demolishes everything on<END>
+|
+@389
+;003FEED9{the field!<END>}#12
+the field!<END>
+|
+@390
+;003FEEE4{The aura coming from the<END>}#26
+The aura coming from the<END>
+|
+@391
+;003FEEFD{Side Shield becomes a<END>}#23
+Side Shield becomes a<END>
+|
+@392
+;003FEF13{brilliant light and<END>}#21
+brilliant light and<END>
+|
+@393
+;003FEF27{temporarily increases your<END>}#28
+temporarily increases your<END>
+|
+@394
+;003FEF42{B-Daman's defenses!<END>}#21
+B-Daman's defenses!<END>
+|
+@395
+;003FEF56{The wind-stream made by<END>}#25
+The wind-stream made by<END>
+|
+@396
+;003FEF6E{the Garnet Wings creates a<END>}#28
+the Garnet Wings creates a<END>
+|
+@397
+;003FEF89{whirlwind and produces<END>}#24
+whirlwind and produces<END>
+|
+@398
+;003FEFA0{flames!<END>}#9
+flames!<END>
+|
+@399
+;003FEFA8{<END>}#2
+<END>
+|
+@400
+;003FEFA9{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@401
+;003FEFC4{you to collect the<END>}#20
+you to collect the<END>
+|
+@402
+;003FEFD7{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@403
+;003FEFEE{automatically!<END>}#16
+automatically!<END>
+|
+@404
+;003FEFFD{The aura coming from the<END>}#26
+The aura coming from the<END>
+|
+@405
+;003FF016{Shield becomes a glaring<END>}#26
+Shield becomes a glaring<END>
+|
+@406
+;003FF02F{light and temporarily<END>}#23
+light and temporarily<END>
+|
+@407
+;003FF045{increases your B-Daman's<END>}#26
+increases your B-Daman's<END>
+|
+@408
+;003FF05E{defenses!<END>}#11
+defenses!<END>
+|
+@409
+;003FF068{The intensely hot sparks<END>}#26
+The intensely hot sparks<END>
+|
+@410
+;003FF081{from the Crimson Visor<END>}#24
+from the Crimson Visor<END>
+|
+@411
+;003FF098{cause thunder and attack<END>}#26
+cause thunder and attack<END>
+|
+@412
+;003FF0B1{your opponent directly!<END>}#25
+your opponent directly!<END>
+|
+@413
+;003FF0C9{The wind created by the<END>}#25
+The wind created by the<END>
+|
+@414
+;003FF0E1{Shinobi Visor becomes a<END>}#25
+Shinobi Visor becomes a<END>
+|
+@415
+;003FF0F9{tornado and blows<END>}#19
+tornado and blows<END>
+|
+@416
+;003FF10B{curvingly over the field!<END>}#27
+curvingly over the field!<END>
+|
+@417
+;003FF125{The tornado produced by<END>}#25
+The tornado produced by<END>
+|
+@418
+;003FF13D{the Shark Head blows in a<END>}#27
+the Shark Head blows in a<END>
+|
+@419
+;003FF157{curving fashion and chases<END>}#28
+curving fashion and chases<END>
+|
+@420
+;003FF172{down your opponent!<END>}#21
+down your opponent!<END>
+|
+@421
+;003FF186{Supersonic rapid-fire is<END>}#26
+Supersonic rapid-fire is<END>
+|
+@422
+;003FF19F{produced by this magazine!<END>}#28
+produced by this magazine!<END>
+|
+@423
+;003FF1BA{The rapid-fire<END>}#16
+The rapid-fire<END>
+|
+@424
+;003FF1C9{relentlessly attacks your<END>}#27
+relentlessly attacks your<END>
+|
+@425
+;003FF1E3{opponent, like a surge of<END>}#27
+opponent, like a surge of<END>
+|
+@426
+;003FF1FD{waves hitting the shore!<END>}#26
+waves hitting the shore!<END>
+|
+@427
+;003FF216{<END>}#2
+<END>
+|
+@428
+;003FF217{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@429
+;003FF232{you to collect the<END>}#20
+you to collect the<END>
+|
+@430
+;003FF245{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@431
+;003FF25C{automatically!<END>}#16
+automatically!<END>
+|
+@432
+;003FF26B{The B-Daball engulfed with<END>}#28
+The B-Daball engulfed with<END>
+|
+@433
+;003FF286{lightning is fired from<END>}#25
+lightning is fired from<END>
+|
+@434
+;003FF29E{the Short Stroke Drive<END>}#24
+the Short Stroke Drive<END>
+|
+@435
+;003FF2B5{Core! It strikes your<END>}#23
+Core! It strikes your<END>
+|
+@436
+;003FF2CB{opponent directly with<END>}#24
+opponent directly with<END>
+|
+@437
+;003FF2E2{incredible speed!<END>}#19
+incredible speed!<END>
+|
+@438
+;003FF2F4{The power of darkness<END>}#23
+The power of darkness<END>
+|
+@439
+;003FF30A{surging from the Hades<END>}#24
+surging from the Hades<END>
+|
+@440
+;003FF321{Visor produces purple<END>}#23
+Visor produces purple<END>
+|
+@441
+;003FF337{shock-waves!<END>}#14
+shock-waves!<END>
+|
+@442
+;003FF344{The powerful light<END>}#20
+The powerful light<END>
+|
+@443
+;003FF357{flashing from the Case<END>}#24
+flashing from the Case<END>
+|
+@444
+;003FF36E{Trigger flies over the<END>}#24
+Trigger flies over the<END>
+|
+@445
+;003FF385{field! The high-speed<END>}#23
+field! The high-speed<END>
+|
+@446
+;003FF39B{flames will demolish your<END>}#27
+flames will demolish your<END>
+|
+@447
+;003FF3B5{opponent!<END>}#11
+opponent!<END>
+|
+@448
+;003FF3BF{When the rapid-firing<END>}#23
+When the rapid-firing<END>
+|
+@449
+;003FF3D5{system of the Short <END>}#22
+system of the Short <END>
+|
+@450
+;003FF3EA{Strike Core is working at<END>}#27
+Strike Core is working at<END>
+|
+@451
+;003FF404{max capacity, it sends out<END>}#28
+max capacity, it sends out<END>
+|
+@452
+;003FF41F{a shower of glowing<END>}#21
+a shower of glowing<END>
+|
+@453
+;003FF433{B-Daballs that crushes<END>}#24
+B-Daballs that crushes<END>
+|
+@454
+;003FF44A{everything into<END>}#17
+everything into<END>
+|
+@455
+;003FF45A{smithereens!<END>}#14
+smithereens!<END>
+|
+@456
+;003FF467{The shock waves emanating<END>}#27
+The shock waves emanating<END>
+|
+@457
+;003FF481{from the earth make a<END>}#23
+from the earth make a<END>
+|
+@458
+;003FF497{zigzag motion, totally<END>}#24
+zigzag motion, totally<END>
+|
+@459
+;003FF4AE{confusing your opponent!<END>}#26
+confusing your opponent!<END>
+|
+@460
+;003FF4C7{The intense light<END>}#19
+The intense light<END>
+|
+@461
+;003FF4D9{emanating from the<END>}#20
+emanating from the<END>
+|
+@462
+;003FF4EC{Blizzard Barrel causes the<END>}#28
+Blizzard Barrel causes the<END>
+|
+@463
+;003FF507{B-Daball to replicate<END>}#23
+B-Daball to replicate<END>
+|
+@464
+;003FF51D{itself and go after your<END>}#26
+itself and go after your<END>
+|
+@465
+;003FF536{opponent!<END>}#11
+opponent!<END>
+|
+@466
+;003FF540{<END>}#2
+<END>
+|
+@467
+;003FF541{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@468
+;003FF55C{you to collect the<END>}#20
+you to collect the<END>
+|
+@469
+;003FF56F{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@470
+;003FF586{automatically!<END>}#16
+automatically!<END>
+|
+@471
+;003FF595{The tornado of darkness<END>}#25
+The tornado of darkness<END>
+|
+@472
+;003FF5AD{produced by the Quick<END>}#23
+produced by the Quick<END>
+|
+@473
+;003FF5C3{Loading Core creates an<END>}#25
+Loading Core creates an<END>
+|
+@474
+;003FF5DB{illusion! Its dizzying<END>}#24
+illusion! Its dizzying<END>
+|
+@475
+;003FF5F2{movement as it rolls<END>}#22
+movement as it rolls<END>
+|
+@476
+;003FF607{around hiding itself<END>}#22
+around hiding itself<END>
+|
+@477
+;003FF61C{confuses your opponent!<END>}#25
+confuses your opponent!<END>
+|
+@478
+;003FF634{The power of darkness<END>}#23
+The power of darkness<END>
+|
+@479
+;003FF64A{enables both the raging<END>}#25
+enables both the raging<END>
+|
+@480
+;003FF662{rapid-fire and<END>}#16
+rapid-fire and<END>
+|
+@481
+;003FF671{quick-loading function!<END>}#25
+quick-loading function!<END>
+|
+@482
+;003FF689{Overwhelm your opponent<END>}#25
+Overwhelm your opponent<END>
+|
+@483
+;003FF6A1{with this supreme<END>}#19
+with this supreme<END>
+|
+@484
+;003FF6B3{rapid-fire!<END>}#13
+rapid-fire!<END>
+|
+@485
+;003FF6BF{<END>}#2
+<END>
+|
+@486
+;003FF6C0{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@487
+;003FF6DB{you to collect the<END>}#20
+you to collect the<END>
+|
+@488
+;003FF6EE{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@489
+;003FF705{automatically!<END>}#16
+automatically!<END>
+|
+@490
+;003FF714{This special ball has a<END>}#25
+This special ball has a<END>
+|
+@491
+;003FF72C{rubber center which<END>}#21
+rubber center which<END>
+|
+@492
+;003FF740{creates the drive effect!<END>}#27
+creates the drive effect!<END>
+|
+@493
+;003FF75A{It's wrapped in flames and<END>}#28
+It's wrapped in flames and<END>
+|
+@494
+;003FF775{flies straight at your<END>}#24
+flies straight at your<END>
+|
+@495
+;003FF78C{opponent!<END>}#11
+opponent!<END>
+|
+@496
+;003FF796{When the Drive Shot is<END>}#24
+When the Drive Shot is<END>
+|
+@497
+;003FF7AD{fired from the core that<END>}#26
+fired from the core that<END>
+|
+@498
+;003FF7C6{it's matched with, it'll<END>}#26
+it's matched with, it'll<END>
+|
+@499
+;003FF7DF{show a destructive power<END>}#26
+show a destructive power<END>
+|
+@500
+;003FF7F8{far greater than a normal<END>}#27
+far greater than a normal<END>
+|
+@501
+;003FF812{Drive Shot!<END>}#13
+Drive Shot!<END>
+|
+@502
+;003FF81E{<END>}#2
+<END>
+|
+@503
+;003FF81F{The huge flames head<END>}#22
+The huge flames head<END>
+|
+@504
+;003FF834{directly for your opponent!<END>}#29
+directly for your opponent!<END>
+|
+@505
+;003FF850{This special ball is made<END>}#27
+This special ball is made<END>
+|
+@506
+;003FF86A{of two, differently<END>}#21
+of two, differently<END>
+|
+@507
+;003FF87E{weighted materials!<END>}#21
+weighted materials!<END>
+|
+@508
+;003FF892{It zigzags all over the<END>}#25
+It zigzags all over the<END>
+|
+@509
+;003FF8AA{field!<END>}#8
+field!<END>
+|
+@510
+;003FF8B1{When the Random Shot is<END>}#25
+When the Random Shot is<END>
+|
+@511
+;003FF8C9{fired from the core that<END>}#26
+fired from the core that<END>
+|
+@512
+;003FF8E2{it's matched with, it'll<END>}#26
+it's matched with, it'll<END>
+|
+@513
+;003FF8FB{show a destructive power<END>}#26
+show a destructive power<END>
+|
+@514
+;003FF914{far greater than a normal<END>}#27
+far greater than a normal<END>
+|
+@515
+;003FF92E{Random Shot!<END>}#14
+Random Shot!<END>
+|
+@516
+;003FF93B{<END>}#2
+<END>
+|
+@517
+;003FF93C{It makes a zigzagging<END>}#23
+It makes a zigzagging<END>
+|
+@518
+;003FF952{movement that confuses<END>}#24
+movement that confuses<END>
+|
+@519
+;003FF969{your opponent and delivers<END>}#28
+your opponent and delivers<END>
+|
+@520
+;003FF984{a mortal attack!<END>}#18
+a mortal attack!<END>
+|
+@521
+;003FF995{This special ball is made<END>}#27
+This special ball is made<END>
+|
+@522
+;003FF9AF{of extremely light-weight<END>}#27
+of extremely light-weight<END>
+|
+@523
+;003FF9C9{material! Together, the<END>}#25
+material! Together, the<END>
+|
+@524
+;003FF9E1{shock waves and wind power<END>}#28
+shock waves and wind power<END>
+|
+@525
+;003FF9FC{spear your opponent!<END>}#22
+spear your opponent!<END>
+|
+@526
+;003FFA11{When the Speed Shot is<END>}#24
+When the Speed Shot is<END>
+|
+@527
+;003FFA28{fired from the core that<END>}#26
+fired from the core that<END>
+|
+@528
+;003FFA41{it's matched with, it'll<END>}#26
+it's matched with, it'll<END>
+|
+@529
+;003FFA5A{show a destructive power<END>}#26
+show a destructive power<END>
+|
+@530
+;003FFA73{far greater than a normal<END>}#27
+far greater than a normal<END>
+|
+@531
+;003FFA8D{Speed Shot!<END>}#13
+Speed Shot!<END>
+|
+@532
+;003FFA99{<END>}#2
+<END>
+|
+@533
+;003FFA9A{Tornado power accelerates<END>}#27
+Tornado power accelerates<END>
+|
+@534
+;003FFAB4{the Speed Shot and<END>}#20
+the Speed Shot and<END>
+|
+@535
+;003FFAC7{fiercely stabs your<END>}#21
+fiercely stabs your<END>
+|
+@536
+;003FFADB{opponent!<END>}#11
+opponent!<END>
+|
+@537
+;003FFAE5{This special ball is made<END>}#27
+This special ball is made<END>
+|
+@538
+;003FFAFF{of extremely heavy<END>}#20
+of extremely heavy<END>
+|
+@539
+;003FFB12{material! This sturdy<END>}#23
+material! This sturdy<END>
+|
+@540
+;003FFB28{glowing Strike Shot,<END>}#22
+glowing Strike Shot,<END>
+|
+@541
+;003FFB3D{powered by the earth's<END>}#24
+powered by the earth's<END>
+|
+@542
+;003FFB54{energy, blows everything<END>}#26
+energy, blows everything<END>
+|
+@543
+;003FFB6D{to smithereens!<END>}#17
+to smithereens!<END>
+|
+@544
+;003FFB7D{If the Metal Shot is fired<END>}#28
+If the Metal Shot is fired<END>
+|
+@545
+;003FFB98{from the core that it's<END>}#25
+from the core that it's<END>
+|
+@546
+;003FFBB0{matched with, it'll show a<END>}#28
+matched with, it'll show a<END>
+|
+@547
+;003FFBCB{destructive power far<END>}#23
+destructive power far<END>
+|
+@548
+;003FFBE1{greater than a normal<END>}#23
+greater than a normal<END>
+|
+@549
+;003FFBF7{Metal Shot!<END>}#13
+Metal Shot!<END>
+|
+@550
+;003FFC03{<END>}#2
+<END>
+|
+@551
+;003FFC04{The fury of the earth<END>}#23
+The fury of the earth<END>
+|
+@552
+;003FFC1A{transforms itself into a<END>}#26
+transforms itself into a<END>
+|
+@553
+;003FFC33{gigantic tornado! Anything<END>}#28
+gigantic tornado! Anything<END>
+|
+@554
+;003FFC4E{that gets in its way will<END>}#27
+that gets in its way will<END>
+|
+@555
+;003FFC68{be trampled to death!<END>}#23
+be trampled to death!<END>
+|
+@556
+;003FFC7E{This special ball is made<END>}#27
+This special ball is made<END>
+|
+@557
+;003FFC98{of transparent material!<END>}#26
+of transparent material!<END>
+|
+@558
+;003FFCB1{This hard-to-see Strike<END>}#25
+This hard-to-see Strike<END>
+|
+@559
+;003FFCC9{Shot has fantastic<END>}#20
+Shot has fantastic<END>
+|
+@560
+;003FFCDC{accuracy!<END>}#11
+accuracy!<END>
+|
+@561
+;003FFCE6{If the Stealth Shot is<END>}#24
+If the Stealth Shot is<END>
+|
+@562
+;003FFCFD{fired from the core that<END>}#26
+fired from the core that<END>
+|
+@563
+;003FFD16{it's matched with, it'll<END>}#26
+it's matched with, it'll<END>
+|
+@564
+;003FFD2F{show a destructive power<END>}#26
+show a destructive power<END>
+|
+@565
+;003FFD48{far greater than a normal<END>}#27
+far greater than a normal<END>
+|
+@566
+;003FFD62{Stealth Shot!<END>}#15
+Stealth Shot!<END>
+|
+@567
+;003FFD70{<END>}#2
+<END>
+|
+@568
+;003FFD71{This attack, which uses a<END>}#27
+This attack, which uses a<END>
+|
+@569
+;003FFD8B{B-Daball that is almost<END>}#25
+B-Daball that is almost<END>
+|
+@570
+;003FFDA3{impossible to see with the<END>}#28
+impossible to see with the<END>
+|
+@571
+;003FFDBE{naked eye, will confuse<END>}#25
+naked eye, will confuse<END>
+|
+@572
+;003FFDD6{any opponent!<END>}#15
+any opponent!<END>
+|
+@573
+;003FFDE4{This special ball has<END>}#23
+This special ball has<END>
+|
+@574
+;003FFDFA{ridges all along the<END>}#22
+ridges all along the<END>
+|
+@575
+;003FFE0F{rubber part! This feature<END>}#27
+rubber part! This feature<END>
+|
+@576
+;003FFE29{creates a strong drive<END>}#24
+creates a strong drive<END>
+|
+@577
+;003FFE40{effect! The mighty energy<END>}#27
+effect! The mighty energy<END>
+|
+@578
+;003FFE5A{this effect produces<END>}#22
+this effect produces<END>
+|
+@579
+;003FFE6F{sparks which assault your<END>}#27
+sparks which assault your<END>
+|
+@580
+;003FFE89{opponent like lightning!<END>}#26
+opponent like lightning!<END>
+|
+@581
+;003FFEA2{If the Spike Shot is fired<END>}#28
+If the Spike Shot is fired<END>
+|
+@582
+;003FFEBD{from the core that it's<END>}#25
+from the core that it's<END>
+|
+@583
+;003FFED5{matched with, it'll show<END>}#26
+matched with, it'll show<END>
+|
+@584
+;003FFEEE{a destructive power far<END>}#25
+a destructive power far<END>
+|
+@585
+;003FFF06{greater than a normal<END>}#23
+greater than a normal<END>
+|
+@586
+;003FFF1C{Spike Shot!<END>}#13
+Spike Shot!<END>
+|
+@587
+;003FFF28{<END>}#2
+<END>
+|
+@588
+;003FFF29{The powerful spark becomes<END>}#28
+The powerful spark becomes<END>
+|
+@589
+;003FFF44{a ball of light that<END>}#22
+a ball of light that<END>
+|
+@590
+;003FFF59{destroys anything that<END>}#24
+destroys anything that<END>
+|
+@591
+;003FFF70{gets in its way and<END>}#21
+gets in its way and<END>
+|
+@592
+;003FFF84{assails your opponent like<END>}#28
+assails your opponent like<END>
+|
+@593
+;003FFF9F{lightning!<END>}#12
+lightning!<END>
+|
+@594
+;003FFFAA{This special ball has a<END>}#25
+This special ball has a<END>
+|
+@595
+;003FFFC2{smaller B-Daball inside of<END>}#28
+smaller B-Daball inside of<END>
+|
+@596
+;003FFFDD{it! It separates from the<END>}#27
+it! It separates from the<END>
+|
+@597
+;003FFFF7{other B-Daball while it's<END>}#27
+other B-Daball while it's<END>
+|
+@598
+;00400011{on its trajectory and<END>}#23
+on its trajectory and<END>
+|
+@599
+;00400027{zigzags to confuse your<END>}#25
+zigzags to confuse your<END>
+|
+@600
+;0040003F{opponent.<END>}#11
+opponent.<END>
+|
+@601
+;00400049{If the Splitting Shot is<END>}#26
+If the Splitting Shot is<END>
+|
+@602
+;00400062{fired from the core that<END>}#26
+fired from the core that<END>
+|
+@603
+;0040007B{it's matched with, it'll<END>}#26
+it's matched with, it'll<END>
+|
+@604
+;00400094{show a destructive power<END>}#26
+show a destructive power<END>
+|
+@605
+;004000AD{far greater than a normal<END>}#27
+far greater than a normal<END>
+|
+@606
+;004000C7{Double Shot!<END>}#14
+Double Shot!<END>
+|
+@607
+;004000D4{<END>}#2
+<END>
+|
+@608
+;004000D5{This is a speedy attack<END>}#25
+This is a speedy attack<END>
+|
+@609
+;004000ED{where the ball splits into<END>}#28
+where the ball splits into<END>
+|
+@610
+;00400108{two after it's fired, and<END>}#27
+two after it's fired, and<END>
+|
+@611
+;00400122{then recombines into one<END>}#26
+then recombines into one<END>
+|
+@612
+;0040013B{ball right before it hits<END>}#27
+ball right before it hits<END>
+|
+@613
+;00400155{the opponent.<END>}#15
+the opponent.<END>
+|
+@614
+;00400163{This special ball has both<END>}#28
+This special ball has both<END>
+|
+@615
+;0040017E{speed and power features!<END>}#27
+speed and power features!<END>
+|
+@616
+;00400198{The bright ball of light<END>}#26
+The bright ball of light<END>
+|
+@617
+;004001B1{is gently rocked in an<END>}#24
+is gently rocked in an<END>
+|
+@618
+;004001C8{undulating wave before<END>}#24
+undulating wave before<END>
+|
+@619
+;004001DF{whamming into your<END>}#20
+whamming into your<END>
+|
+@620
+;004001F2{opponent!<END>}#11
+opponent!<END>
+|
+@621
+;004001FC{If the Impact Shot is<END>}#23
+If the Impact Shot is<END>
+|
+@622
+;00400212{fired from the core that<END>}#26
+fired from the core that<END>
+|
+@623
+;0040022B{it's matched with, it'll<END>}#26
+it's matched with, it'll<END>
+|
+@624
+;00400244{show a destructive power<END>}#26
+show a destructive power<END>
+|
+@625
+;0040025D{far greater than a normal<END>}#27
+far greater than a normal<END>
+|
+@626
+;00400277{Impact Shot!<END>}#14
+Impact Shot!<END>
+|
+@627
+;00400284{<END>}#2
+<END>
+|
+@628
+;00400285{The shock waves produced<END>}#26
+The shock waves produced<END>
+|
+@629
+;0040029E{by huge undulations curve<END>}#27
+by huge undulations curve<END>
+|
+@630
+;004002B8{dramatically and assault<END>}#26
+dramatically and assault<END>
+|
+@631
+;004002D1{your opponent!<END>}#16
+your opponent!<END>
+|
+@632
+;004002E0{This special ball has both<END>}#28
+This special ball has both<END>
+|
+@633
+;004002FB{the features of the Drive<END>}#27
+the features of the Drive<END>
+|
+@634
+;00400315{Shot and the Stealth Shot!<END>}#28
+Shot and the Stealth Shot!<END>
+|
+@635
+;00400330{This mortal attack works<END>}#26
+This mortal attack works<END>
+|
+@636
+;00400349{by sending out high-speed,<END>}#28
+by sending out high-speed,<END>
+|
+@637
+;00400364{blue flames that will<END>}#23
+blue flames that will<END>
+|
+@638
+;0040037A{definitely hit your<END>}#21
+definitely hit your<END>
+|
+@639
+;0040038E{opponent!<END>}#11
+opponent!<END>
+|
+@640
+;00400398{If the Stealth Drive Shot<END>}#27
+If the Stealth Drive Shot<END>
+|
+@641
+;004003B2{is fired from the core <END>}#25
+is fired from the core <END>
+|
+@642
+;004003CA{that it's matched with,<END>}#25
+that it's matched with,<END>
+|
+@643
+;004003E2{it'll show a destructive<END>}#26
+it'll show a destructive<END>
+|
+@644
+;004003FB{power far greater than a<END>}#26
+power far greater than a<END>
+|
+@645
+;00400414{normal Stealth Drive Shot!<END>}#28
+normal Stealth Drive Shot!<END>
+|
+@646
+;0040042F{<END>}#2
+<END>
+|
+@647
+;00400430{The attack of the high-<END>}#25
+The attack of the high-<END>
+|
+@648
+;00400448{speed blue flames will<END>}#24
+speed blue flames will<END>
+|
+@649
+;0040045F{blow your opponent to<END>}#23
+blow your opponent to<END>
+|
+@650
+;00400475{smithereens before they<END>}#25
+smithereens before they<END>
+|
+@651
+;0040048D{know what hit 'em.<END>}#20
+know what hit 'em.<END>
+|
+@652
+;004004A0{This special ball<END>}#19
+This special ball<END>
+|
+@653
+;004004B2{replicates itself after<END>}#25
+replicates itself after<END>
+|
+@654
+;004004CA{it's been fired! It makes<END>}#27
+it's been fired! It makes<END>
+|
+@655
+;004004E4{a double of itself while<END>}#26
+a double of itself while<END>
+|
+@656
+;004004FD{cloaked in smoke and<END>}#22
+cloaked in smoke and<END>
+|
+@657
+;00400512{attacks your opponent!<END>}#24
+attacks your opponent!<END>
+|
+@658
+;00400529{If the Break Shot is fired<END>}#28
+If the Break Shot is fired<END>
+|
+@659
+;00400544{from the core that it's<END>}#25
+from the core that it's<END>
+|
+@660
+;0040055C{matched with, it'll show a<END>}#28
+matched with, it'll show a<END>
+|
+@661
+;00400577{destructive power far<END>}#23
+destructive power far<END>
+|
+@662
+;0040058D{greater than a normal<END>}#23
+greater than a normal<END>
+|
+@663
+;004005A3{Break Shot!<END>}#13
+Break Shot!<END>
+|
+@664
+;004005AF{<END>}#2
+<END>
+|
+@665
+;004005B0{After the replication,<END>}#24
+After the replication,<END>
+|
+@666
+;004005C7{concealed by pink smoke,<END>}#26
+concealed by pink smoke,<END>
+|
+@667
+;004005E0{they reunite and slam into<END>}#28
+they reunite and slam into<END>
+|
+@668
+;004005FB{your opponent!<END>}#16
+your opponent!<END>
+|
+@669
+;0040060A{The shock wave caused by<END>}#26
+The shock wave caused by<END>
+|
+@670
+;00400623{simultaneously firing two<END>}#27
+simultaneously firing two<END>
+|
+@671
+;0040063D{Speed Shots smashes your<END>}#26
+Speed Shots smashes your<END>
+|
+@672
+;00400656{opponent to pieces!<END>}#21
+opponent to pieces!<END>
+|
+@673
+;0040066A{The gigantic tornado<END>}#22
+The gigantic tornado<END>
+|
+@674
+;0040067F{caused by simultaneously<END>}#26
+caused by simultaneously<END>
+|
+@675
+;00400698{firing two Speed Shots<END>}#24
+firing two Speed Shots<END>
+|
+@676
+;004006AF{knocks everything over and<END>}#28
+knocks everything over and<END>
+|
+@677
+;004006CA{blows your opponent to<END>}#24
+blows your opponent to<END>
+|
+@678
+;004006E1{smithereens!<END>}#14
+smithereens!<END>
+|
+@679
+;004006EE{Intense B-Daspirit<END>}#20
+Intense B-Daspirit<END>
+|
+@680
+;00400701{produces fierce lightning,<END>}#28
+produces fierce lightning,<END>
+|
+@681
+;0040071C{which wraps itself around<END>}#27
+which wraps itself around<END>
+|
+@682
+;00400736{your B-Daball! It blasts<END>}#26
+your B-Daball! It blasts<END>
+|
+@683
+;0040074F{its way toward your<END>}#21
+its way toward your<END>
+|
+@684
+;00400763{opponent! This is Spade's<END>}#27
+opponent! This is Spade's<END>
+|
+@685
+;0040077D{special shot!<END>}#15
+special shot!<END>
+|
+@686
+;0040078B{Fierce B-Daspirit splits<END>}#26
+Fierce B-Daspirit splits<END>
+|
+@687
+;004007A4{your ball into a ton of<END>}#25
+your ball into a ton of<END>
+|
+@688
+;004007BC{balls! These balls then<END>}#25
+balls! These balls then<END>
+|
+@689
+;004007D4{line up in a row and<END>}#22
+line up in a row and<END>
+|
+@690
+;004007E9{charge at your opponent!<END>}#26
+charge at your opponent!<END>
+|
+@691
+;00400802{This is Club's special<END>}#24
+This is Club's special<END>
+|
+@692
+;00400819{shot!<END>}#7
+shot!<END>
+|
+@693
+;0040081F{<END>}#2
+<END>
+|
+@694
+;00400820{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@695
+;0040083B{you to collect the<END>}#20
+you to collect the<END>
+|
+@696
+;0040084E{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@697
+;00400865{automatically!<END>}#16
+automatically!<END>
+|
+@698
+;00400874{The wind caused by<END>}#20
+The wind caused by<END>
+|
+@699
+;00400887{B-Daspirit produces<END>}#21
+B-Daspirit produces<END>
+|
+@700
+;0040089B{friction, which then<END>}#22
+friction, which then<END>
+|
+@701
+;004008B0{starts a fire! It moves in<END>}#28
+starts a fire! It moves in<END>
+|
+@702
+;004008CB{a zigzag fashion toward<END>}#25
+a zigzag fashion toward<END>
+|
+@703
+;004008E3{your opponent and confuses<END>}#28
+your opponent and confuses<END>
+|
+@704
+;004008FE{them! This is Heart's<END>}#23
+them! This is Heart's<END>
+|
+@705
+;00400914{special shot!<END>}#15
+special shot!<END>
+|
+@706
+;00400922{<END>}#2
+<END>
+|
+@707
+;00400923{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@708
+;0040093E{you to collect the<END>}#20
+you to collect the<END>
+|
+@709
+;00400951{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@710
+;00400968{automatically!<END>}#16
+automatically!<END>
+|
+@711
+;00400977{B-Daspirit and the power<END>}#26
+B-Daspirit and the power<END>
+|
+@712
+;00400990{of the earth unite to<END>}#23
+of the earth unite to<END>
+|
+@713
+;004009A6{produce cross-like lights!<END>}#28
+produce cross-like lights!<END>
+|
+@714
+;004009C1{This is Diamond's special<END>}#27
+This is Diamond's special<END>
+|
+@715
+;004009DB{shot!<END>}#7
+shot!<END>
+|
+@716
+;004009E1{<END>}#2
+<END>
+|
+@717
+;004009E2{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@718
+;004009FD{you to collect the<END>}#20
+you to collect the<END>
+|
+@719
+;00400A10{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@720
+;00400A27{automatically!<END>}#16
+automatically!<END>
+|
+@721
+;00400A36{Strong B-Daspirit produces<END>}#28
+Strong B-Daspirit produces<END>
+|
+@722
+;00400A51{an intense ball of light,<END>}#27
+an intense ball of light,<END>
+|
+@723
+;00400A6B{which confuses your<END>}#21
+which confuses your<END>
+|
+@724
+;00400A7F{opponent with its zigzag<END>}#26
+opponent with its zigzag<END>
+|
+@725
+;00400A98{movement! This is Joker's<END>}#27
+movement! This is Joker's<END>
+|
+@726
+;00400AB2{special shot!<END>}#15
+special shot!<END>
+|
+@727
+;00400AC0{B-Daspirit gathers up all<END>}#27
+B-Daspirit gathers up all<END>
+|
+@728
+;00400ADA{the evil light to create<END>}#26
+the evil light to create<END>
+|
+@729
+;00400AF3{the cross of darkness!<END>}#24
+the cross of darkness!<END>
+|
+@730
+;00400B0A{It zigzags all over the<END>}#25
+It zigzags all over the<END>
+|
+@731
+;00400B22{field and confuses your<END>}#25
+field and confuses your<END>
+|
+@732
+;00400B3A{opponent! This is <END>}#20
+opponent! This is <END>
+|
+@733
+;00400B4D{Badmada's special shot!<END>}#25
+Badmada's special shot!<END>
+|
+@734
+;00400B65{<END>}#2
+<END>
+|
+@735
+;00400B66{This special attack allows<END>}#28
+This special attack allows<END>
+|
+@736
+;00400B81{you to collect the<END>}#20
+you to collect the<END>
+|
+@737
+;00400B94{B-Daballs in your zone<END>}#24
+B-Daballs in your zone<END>
+|
+@738
+;00400BAB{automatically!<END>}#16
+automatically!<END>
+|
+@739
+;00400BBA{The B-Daball uses intense<END>}#27
+The B-Daball uses intense<END>
+|
+@740
+;00400BD4{tornado power to zigzag<END>}#25
+tornado power to zigzag<END>
+|
+@741
+;00400BEC{toward your opponent! This<END>}#28
+toward your opponent! This<END>
+|
+@742
+;00400C07{is Fornan's special shot!<END>}#27
+is Fornan's special shot!<END>
+|
+@743
+;00400C21{The bright light emanating<END>}#28
+The bright light emanating<END>
+|
+@744
+;00400C3C{from the Legend Blaster<END>}#25
+from the Legend Blaster<END>
+|
+@745
+;00400C54{gathers on the Legend<END>}#23
+gathers on the Legend<END>
+|
+@746
+;00400C6A{Sight and creates a huge<END>}#26
+Sight and creates a huge<END>
+|
+@747
+;00400C83{ball of light!<END>}#16
+ball of light!<END>
+|
+@748
+;00400C92{The strong beam of light<END>}#26
+The strong beam of light<END>
+|
+@749
+;00400CAB{emanating from the beak<END>}#25
+emanating from the beak<END>
+|
+@750
+;00400CC3{burns your opponent up!<END>}#25
+burns your opponent up!<END>
+|
+@751
+;00400CDB{It absorbs star light and<END>}#27
+It absorbs star light and<END>
+|
+@752
+;00400CF5{creates a cross of light<END>}#26
+creates a cross of light<END>
+|
+@753
+;00400D0E{which blasts away at your<END>}#27
+which blasts away at your<END>
+|
+@754
+;00400D28{opponent!<END>}#11
+opponent!<END>
+|
+@755
+;00400D32{The light from its front<END>}#26
+The light from its front<END>
+|
+@756
+;00400D4B{teeth transforms itself<END>}#25
+teeth transforms itself<END>
+|
+@757
+;00400D63{into lightning and attacks<END>}#28
+into lightning and attacks<END>
+|
+@758
+;00400D7E{your opponent!<END>}#16
+your opponent!<END>
+|
+@759
+;00400D8D{When the level of magic<END>}#25
+When the level of magic<END>
+|
+@760
+;00400DA5{power is maximized, it<END>}#24
+power is maximized, it<END>
+|
+@761
+;00400DBC{turns itself into a bright<END>}#28
+turns itself into a bright<END>
+|
+@762
+;00400DD7{ball of light and hits<END>}#24
+ball of light and hits<END>
+|
+@763
+;00400DEE{your opponent!<END>}#16
+your opponent!<END>
+|
+@764
+;00400DFD{It attacks by confusing<END>}#25
+It attacks by confusing<END>
+|
+@765
+;00400E15{your opponent with tiger<END>}#26
+your opponent with tiger<END>
+|
+@766
+;00400E2E{growls and zigzag<END>}#19
+growls and zigzag<END>
+|
+@767
+;00400E40{movements!<END>}#12
+movements!<END>
+|
+@768
+;00400E4B{Strong bright lights come<END>}#27
+Strong bright lights come<END>
+|
+@769
+;00400E65{together and form<END>}#19
+together and form<END>
+|
+@770
+;00400E77{themselves into a cross!<END>}#26
+themselves into a cross!<END>
+|
+@771
+;00400E90{If it hits your opponent,<END>}#27
+If it hits your opponent,<END>
+|
+@772
+;00400EAA{their agility will be<END>}#23
+their agility will be<END>
+|
+@773
+;00400EC0{hindered!<END>}#11
+hindered!<END>
+|
+@774
+;00400ECA{Boost Magnum<END>}#14
+Boost Magnum<END>
+|
+@775
+;00400ED7{Boost Magnum<END>}#14
+Boost Magnum<END>
+|
+@776
+;00400EE4{Shadow Flare<END>}#14
+Shadow Flare<END>
+|
+@777
+;00400EF1{Shadow Flare<END>}#14
+Shadow Flare<END>
+|
+@778
+;00400EFE{Burning Cannon<END>}#16
+Burning Cannon<END>
+|
+@779
+;00400F0D{Brning Cannon<END>}#15
+Brning Cannon<END>
+|
+@780
+;00400F1B{Burning Magnum<END>}#16
+Burning Magnum<END>
+|
+@781
+;00400F2A{Brning Magnum<END>}#15
+Brning Magnum<END>
+|
+@782
+;00400F38{Mega Tornado<END>}#14
+Mega Tornado<END>
+|
+@783
+;00400F45{Mega Tornado<END>}#14
+Mega Tornado<END>
+|
+@784
+;00400F52{Rising Stream<END>}#15
+Rising Stream<END>
+|
+@785
+;00400F60{Rising Stream<END>}#15
+Rising Stream<END>
+|
+@786
+;00400F6E{Chrome Impact Slam<END>}#20
+Chrome Impact Slam<END>
+|
+@787
+;00400F81{Chrome Impact<END>}#15
+Chrome Impact<END>
+|
+@788
+;00400F8F{Break Tornado<END>}#15
+Break Tornado<END>
+|
+@789
+;00400F9D{Break Tornado<END>}#15
+Break Tornado<END>
+|
+@790
+;00400FAB{Helio Fias<END>}#12
+Helio Fias<END>
+|
+@791
+;00400FB6{Helio Fias<END>}#12
+Helio Fias<END>
+|
+@792
+;00400FC1{Gigantic Grenade<END>}#18
+Gigantic Grenade<END>
+|
+@793
+;00400FD2{Gigantic Gren<END>}#15
+Gigantic Gren<END>
+|
+@794
+;00400FE0{Light Twin Blades<END>}#19
+Light Twin Blades<END>
+|
+@795
+;00400FF2{Twin Blades<END>}#13
+Twin Blades<END>
+|
+@796
+;00400FFE{Swift Slash<END>}#13
+Swift Slash<END>
+|
+@797
+;0040100A{Swift Slash<END>}#13
+Swift Slash<END>
+|
+@798
+;00401016{Winged Fury<END>}#13
+Winged Fury<END>
+|
+@799
+;00401022{Winged Fury<END>}#13
+Winged Fury<END>
+|
+@800
+;0040102E{Fast Blow<END>}#11
+Fast Blow<END>
+|
+@801
+;00401038{Fast Blow<END>}#11
+Fast Blow<END>
+|
+@802
+;00401042{Blue Dragon Light<END>}#19
+Blue Dragon Light<END>
+|
+@803
+;00401054{Bl Drgn Light<END>}#15
+Bl Drgn Light<END>
+|
+@804
+;00401062{Cyclone Edge<END>}#14
+Cyclone Edge<END>
+|
+@805
+;0040106F{Cyclone Edge<END>}#14
+Cyclone Edge<END>
+|
+@806
+;0040107C{Dragon Light Wave<END>}#19
+Dragon Light Wave<END>
+|
+@807
+;0040108E{DrgLight Wave<END>}#15
+DrgLight Wave<END>
+|
+@808
+;0040109C{Red Dragon Barrage<END>}#20
+Red Dragon Barrage<END>
+|
+@809
+;004010AF{Rd Drgn Brrge<END>}#15
+Rd Drgn Brrge<END>
+|
+@810
+;004010BD{Dragonic Buster<END>}#17
+Dragonic Buster<END>
+|
+@811
+;004010CD{Drgnic Buster<END>}#15
+Drgnic Buster<END>
+|
+@812
+;004010DB{Dragon Split Attack<END>}#21
+Dragon Split Attack<END>
+|
+@813
+;004010EF{Drgn Splt Atk<END>}#15
+Drgn Splt Atk<END>
+|
+@814
+;004010FD{Bloody Magnum<END>}#15
+Bloody Magnum<END>
+|
+@815
+;0040110B{Bloody Magnum<END>}#15
+Bloody Magnum<END>
+|
+@816
+;00401119{Lightning Plasma<END>}#18
+Lightning Plasma<END>
+|
+@817
+;0040112A{Ltn Plasma<END>}#12
+Ltn Plasma<END>
+|
+@818
+;00401135{Crimson Nova<END>}#14
+Crimson Nova<END>
+|
+@819
+;00401142{Crimson Nova<END>}#14
+Crimson Nova<END>
+|
+@820
+;0040114F{Blazing Magnum<END>}#16
+Blazing Magnum<END>
+|
+@821
+;0040115E{Blzing Magnum<END>}#15
+Blzing Magnum<END>
+|
+@822
+;0040116C{Lord Strike<END>}#13
+Lord Strike<END>
+|
+@823
+;00401178{Lord Strike<END>}#13
+Lord Strike<END>
+|
+@824
+;00401184{Illumination Gale<END>}#19
+Illumination Gale<END>
+|
+@825
+;00401196{Illumina Gale<END>}#15
+Illumina Gale<END>
+|
+@826
+;004011A4{Cardinal Blaze<END>}#16
+Cardinal Blaze<END>
+|
+@827
+;004011B3{CardinalBlaze<END>}#15
+CardinalBlaze<END>
+|
+@828
+;004011C1{Venom Phantom<END>}#15
+Venom Phantom<END>
+|
+@829
+;004011CF{Venom Phantom<END>}#15
+Venom Phantom<END>
+|
+@830
+;004011DD{Beast Fang<END>}#12
+Beast Fang<END>
+|
+@831
+;004011E8{Beast Fang<END>}#12
+Beast Fang<END>
+|
+@832
+;004011F3{King Jet Claw<END>}#15
+King Jet Claw<END>
+|
+@833
+;00401201{King Jet Claw<END>}#15
+King Jet Claw<END>
+|
+@834
+;0040120F{Meteor Hammer<END>}#15
+Meteor Hammer<END>
+|
+@835
+;0040121D{Meteor Hammer<END>}#15
+Meteor Hammer<END>
+|
+@836
+;0040122B{Mach Javelin<END>}#14
+Mach Javelin<END>
+|
+@837
+;00401238{Mach Javelin<END>}#14
+Mach Javelin<END>
+|
+@838
+;00401245{Gigantic Volcano<END>}#18
+Gigantic Volcano<END>
+|
+@839
+;00401256{Giga Volcano<END>}#14
+Giga Volcano<END>
+|
+@840
+;00401263{Phoenix Flame<END>}#15
+Phoenix Flame<END>
+|
+@841
+;00401271{Phoenix Flame<END>}#15
+Phoenix Flame<END>
+|
+@842
+;0040127F{Fire Ball<END>}#11
+Fire Ball<END>
+|
+@843
+;00401289{Fire Ball<END>}#11
+Fire Ball<END>
+|
+@844
+;00401293{Mighty Slash<END>}#14
+Mighty Slash<END>
+|
+@845
+;004012A0{Mighty Slash<END>}#14
+Mighty Slash<END>
+|
+@846
+;004012AD{Dragon Fang<END>}#13
+Dragon Fang<END>
+|
+@847
+;004012B9{Dragon Fang<END>}#13
+Dragon Fang<END>
+|
+@848
+;004012C5{Dragon Lightning<END>}#18
+Dragon Lightning<END>
+|
+@849
+;004012D6{Drg Lightning<END>}#15
+Drg Lightning<END>
+|
+@850
+;004012E4{Black Lightning<END>}#17
+Black Lightning<END>
+|
+@851
+;004012F4{Blk Lightning<END>}#15
+Blk Lightning<END>
+|
+@852
+;00401302{Black Burst<END>}#13
+Black Burst<END>
+|
+@853
+;0040130E{Black Burst<END>}#13
+Black Burst<END>
+|
+@854
+;0040131A{Crystal Mirage<END>}#16
+Crystal Mirage<END>
+|
+@855
+;00401329{CrystalMirage<END>}#15
+CrystalMirage<END>
+|
+@856
+;00401337{Thunderbolt<END>}#13
+Thunderbolt<END>
+|
+@857
+;00401343{Thunderbolt<END>}#13
+Thunderbolt<END>
+|
+@858
+;0040134F{Ground Breaker<END>}#16
+Ground Breaker<END>
+|
+@859
+;0040135E{GroundBreaker<END>}#15
+GroundBreaker<END>
+|
+@860
+;0040136C{Wind Slash<END>}#12
+Wind Slash<END>
+|
+@861
+;00401377{Wind Slash<END>}#12
+Wind Slash<END>
+|
+@862
+;00401382{Venom Tornado<END>}#15
+Venom Tornado<END>
+|
+@863
+;00401390{Venom Tornado<END>}#15
+Venom Tornado<END>
+|
+@864
+;0040139E{Wild Force Break<END>}#18
+Wild Force Break<END>
+|
+@865
+;004013AF{Wild Force<END>}#12
+Wild Force<END>
+|
+@866
+;004013BA{Darkness Bullet<END>}#17
+Darkness Bullet<END>
+|
+@867
+;004013CA{Dark Bullet<END>}#13
+Dark Bullet<END>
+|
+@868
+;004013D6{Dark Impact<END>}#13
+Dark Impact<END>
+|
+@869
+;004013E2{Dark Impact<END>}#13
+Dark Impact<END>
+|
+@870
+;004013EE{Wing Thunder<END>}#14
+Wing Thunder<END>
+|
+@871
+;004013FB{Wing Thunder<END>}#14
+Wing Thunder<END>
+|
+@872
+;00401408{Shining Ray<END>}#13
+Shining Ray<END>
+|
+@873
+;00401414{Shining Ray<END>}#13
+Shining Ray<END>
+|
+@874
+;00401420{Arc Striker<END>}#13
+Arc Striker<END>
+|
+@875
+;0040142C{Arc Striker<END>}#13
+Arc Striker<END>
+|
+@876
+;00401438{Illusion Mist<END>}#15
+Illusion Mist<END>
+|
+@877
+;00401446{Illusion Mist<END>}#15
+Illusion Mist<END>
+|
+@878
+;00401454{Illusion Burst<END>}#16
+Illusion Burst<END>
+|
+@879
+;00401463{IllusionBurst<END>}#15
+IllusionBurst<END>
+|
+@880
+;00401471{Horror Smoke<END>}#14
+Horror Smoke<END>
+|
+@881
+;0040147E{Horror Smoke<END>}#14
+Horror Smoke<END>
+|
+@882
+;0040148B{Poison Claw<END>}#13
+Poison Claw<END>
+|
+@883
+;00401497{Poison Claw<END>}#13
+Poison Claw<END>
+|
+@884
+;004014A3{Tiger Claw<END>}#12
+Tiger Claw<END>
+|
+@885
+;004014AE{Tiger Claw<END>}#12
+Tiger Claw<END>
+|
+@886
+;004014B9{Confusion Attack<END>}#18
+Confusion Attack<END>
+|
+@887
+;004014CA{Confusion Atk<END>}#15
+Confusion Atk<END>
+|
+@888
+;004014D8{Shark Slasher<END>}#15
+Shark Slasher<END>
+|
+@889
+;004014E6{Shark Slasher<END>}#15
+Shark Slasher<END>
+|
+@890
+;004014F4{Phantom Scream<END>}#16
+Phantom Scream<END>
+|
+@891
+;00401503{Phntm Scream<END>}#14
+Phntm Scream<END>
+|
+@892
+;00401510{Super Dragon Wave<END>}#19
+Super Dragon Wave<END>
+|
+@893
+;00401522{S Dragon Wave<END>}#15
+S Dragon Wave<END>
+|
+@894
+;00401530{Protect Blow<END>}#14
+Protect Blow<END>
+|
+@895
+;0040153D{Protect Blow<END>}#14
+Protect Blow<END>
+|
+@896
+;0040154A{Boost Shot<END>}#12
+Boost Shot<END>
+|
+@897
+;00401555{Boost Shot<END>}#12
+Boost Shot<END>
+|
+@898
+;00401560{Guardian Blow<END>}#15
+Guardian Blow<END>
+|
+@899
+;0040156E{Guardian Blow<END>}#15
+Guardian Blow<END>
+|
+@900
+;0040157C{Crimson Magnum<END>}#16
+Crimson Magnum<END>
+|
+@901
+;0040158B{CrimsonMagnum<END>}#15
+CrimsonMagnum<END>
+|
+@902
+;00401599{Stealth Typhoon<END>}#17
+Stealth Typhoon<END>
+|
+@903
+;004015A9{Stlth Typhoon<END>}#15
+Stlth Typhoon<END>
+|
+@904
+;004015B7{Aqua Tornado<END>}#14
+Aqua Tornado<END>
+|
+@905
+;004015C4{Aqua Tornado<END>}#14
+Aqua Tornado<END>
+|
+@906
+;004015D1{Rapid Wave<END>}#12
+Rapid Wave<END>
+|
+@907
+;004015DC{Rapid Wave<END>}#12
+Rapid Wave<END>
+|
+@908
+;004015E7{Assault Spark<END>}#15
+Assault Spark<END>
+|
+@909
+;004015F5{Assault Spark<END>}#15
+Assault Spark<END>
+|
+@910
+;00401603{Mega Flare<END>}#12
+Mega Flare<END>
+|
+@911
+;0040160E{Mega Flare<END>}#12
+Mega Flare<END>
+|
+@912
+;00401619{Smash Strike<END>}#14
+Smash Strike<END>
+|
+@913
+;00401626{Smash Strike<END>}#14
+Smash Strike<END>
+|
+@914
+;00401633{Gatling Barrage<END>}#17
+Gatling Barrage<END>
+|
+@915
+;00401643{Gatling Brrge<END>}#15
+Gatling Brrge<END>
+|
+@916
+;00401651{Mega Strikes<END>}#14
+Mega Strikes<END>
+|
+@917
+;0040165E{Mega Strikes<END>}#14
+Mega Strikes<END>
+|
+@918
+;0040166B{Holy Blaster<END>}#14
+Holy Blaster<END>
+|
+@919
+;00401678{Holy Blaster<END>}#14
+Holy Blaster<END>
+|
+@920
+;00401685{Shadow Wave<END>}#13
+Shadow Wave<END>
+|
+@921
+;00401691{Shadow Wave<END>}#13
+Shadow Wave<END>
+|
+@922
+;0040169D{Death Howling Cannon<END>}#22
+Death Howling Cannon<END>
+|
+@923
+;004016B2{Death's Howl<END>}#14
+Death's Howl<END>
+|
+@924
+;004016BF{Drive Shot<END>}#12
+Drive Shot<END>
+|
+@925
+;004016CA{Drive Shot<END>}#12
+Drive Shot<END>
+|
+@926
+;004016D5{Strike Magnum<END>}#15
+Strike Magnum<END>
+|
+@927
+;004016E3{Strike Magnum<END>}#15
+Strike Magnum<END>
+|
+@928
+;004016F1{Random Shot<END>}#13
+Random Shot<END>
+|
+@929
+;004016FD{Random Shot<END>}#13
+Random Shot<END>
+|
+@930
+;00401709{Venom Impulse<END>}#15
+Venom Impulse<END>
+|
+@931
+;00401717{Venom Impulse<END>}#15
+Venom Impulse<END>
+|
+@932
+;00401725{Speed Shot<END>}#12
+Speed Shot<END>
+|
+@933
+;00401730{Speed Shot<END>}#12
+Speed Shot<END>
+|
+@934
+;0040173B{Cyclone Sonic<END>}#15
+Cyclone Sonic<END>
+|
+@935
+;00401749{Cyclone Sonic<END>}#15
+Cyclone Sonic<END>
+|
+@936
+;00401757{Metal Shot<END>}#12
+Metal Shot<END>
+|
+@937
+;00401762{Metal Shot<END>}#12
+Metal Shot<END>
+|
+@938
+;0040176D{Metallic Stamp<END>}#16
+Metallic Stamp<END>
+|
+@939
+;0040177C{Metal Stamp<END>}#13
+Metal Stamp<END>
+|
+@940
+;00401788{Stealth Shot<END>}#14
+Stealth Shot<END>
+|
+@941
+;00401795{Stealth Shot<END>}#14
+Stealth Shot<END>
+|
+@942
+;004017A2{Banish Stream<END>}#15
+Banish Stream<END>
+|
+@943
+;004017B0{Banish Stream<END>}#15
+Banish Stream<END>
+|
+@944
+;004017BE{Spike Shot<END>}#12
+Spike Shot<END>
+|
+@945
+;004017C9{Spike Shot<END>}#12
+Spike Shot<END>
+|
+@946
+;004017D4{Dissect Claw Cut<END>}#18
+Dissect Claw Cut<END>
+|
+@947
+;004017E5{Dssct Clw Cut<END>}#15
+Dssct Clw Cut<END>
+|
+@948
+;004017F3{Double Shot<END>}#13
+Double Shot<END>
+|
+@949
+;004017FF{Double Shot<END>}#13
+Double Shot<END>
+|
+@950
+;0040180B{Straight Swing Sword<END>}#22
+Straight Swing Sword<END>
+|
+@951
+;00401820{Str Swing Swd<END>}#15
+Str Swing Swd<END>
+|
+@952
+;0040182E{Impact Shot<END>}#13
+Impact Shot<END>
+|
+@953
+;0040183A{Impact Shot<END>}#13
+Impact Shot<END>
+|
+@954
+;00401846{Deep Impact<END>}#13
+Deep Impact<END>
+|
+@955
+;00401852{Deep Impact<END>}#13
+Deep Impact<END>
+|
+@956
+;0040185E{Stealth Drive Shot<END>}#20
+Stealth Drive Shot<END>
+|
+@957
+;00401871{StealthD Shot<END>}#15
+StealthD Shot<END>
+|
+@958
+;0040187F{Blaster Magnum<END>}#16
+Blaster Magnum<END>
+|
+@959
+;0040188E{Blast Magnum<END>}#14
+Blast Magnum<END>
+|
+@960
+;0040189B{Break Shot<END>}#12
+Break Shot<END>
+|
+@961
+;004018A6{Break Shot<END>}#12
+Break Shot<END>
+|
+@962
+;004018B1{Absolute Break<END>}#16
+Absolute Break<END>
+|
+@963
+;004018C0{AbsoluteBreak<END>}#15
+AbsoluteBreak<END>
+|
+@964
+;004018CE{Double Speed Shot<END>}#19
+Double Speed Shot<END>
+|
+@965
+;004018E0{Dbl Spd Shot<END>}#14
+Dbl Spd Shot<END>
+|
+@966
+;004018ED{Quasar Storm<END>}#14
+Quasar Storm<END>
+|
+@967
+;004018FA{Quasar Storm<END>}#14
+Quasar Storm<END>
+|
+@968
+;00401907{Spade Straight<END>}#16
+Spade Straight<END>
+|
+@969
+;00401916{SpadeStraight<END>}#15
+SpadeStraight<END>
+|
+@970
+;00401924{Flush Club<END>}#12
+Flush Club<END>
+|
+@971
+;0040192F{Flush Club<END>}#12
+Flush Club<END>
+|
+@972
+;0040193A{Full Heart<END>}#12
+Full Heart<END>
+|
+@973
+;00401945{Full Heart<END>}#12
+Full Heart<END>
+|
+@974
+;00401950{Force Diamond<END>}#15
+Force Diamond<END>
+|
+@975
+;0040195E{Force Diamond<END>}#15
+Force Diamond<END>
+|
+@976
+;0040196C{Last Joker<END>}#12
+Last Joker<END>
+|
+@977
+;00401977{Last Joker<END>}#12
+Last Joker<END>
+|
+@978
+;00401982{Royal Flush<END>}#13
+Royal Flush<END>
+|
+@979
+;0040198E{Royal Flush<END>}#13
+Royal Flush<END>
+|
+@980
+;0040199A{Gorgeous Typhoon<END>}#18
+Gorgeous Typhoon<END>
+|
+@981
+;004019AB{GorgeousTyphn<END>}#15
+GorgeousTyphn<END>
+|
+@982
+;004019B9{Legend Nova<END>}#13
+Legend Nova<END>
+|
+@983
+;004019C5{Legend Nova<END>}#13
+Legend Nova<END>
+|
+@984
+;004019D1{Beak Beam<END>}#11
+Beak Beam<END>
+|
+@985
+;004019DB{Beak Beam<END>}#11
+Beak Beam<END>
+|
+@986
+;004019E5{Stardust<END>}#10
+Stardust<END>
+|
+@987
+;004019EE{Stardust<END>}#10
+Stardust<END>
+|
+@988
+;004019F7{Power Laser<END>}#13
+Power Laser<END>
+|
+@989
+;00401A03{Power Laser<END>}#13
+Power Laser<END>
+|
+@990
+;00401A0F{Magic Burst<END>}#13
+Magic Burst<END>
+|
+@991
+;00401A1B{Magic Burst<END>}#13
+Magic Burst<END>
+|
+@992
+;00401A27{Assault Fang<END>}#14
+Assault Fang<END>
+|
+@993
+;00401A34{Assault Fang<END>}#14
+Assault Fang<END>
+|
+@994
+;00401A41{Fantasia Stream<END>}#17
+Fantasia Stream<END>
+|
+@995
+;00401A51{Fantasia Strm<END>}#15
+Fantasia Strm<END>
+|

@@ -1,0 +1,1048 @@
+@1
+;0041E198{No File<END>}#8
+No File<END>
+|
+@2
+;0041E1A0{No File<END>}#9
+No File<END>
+|
+@3
+;0041E1A8{No File<END>}#9
+No File<END>
+|
+@4
+;0041E1B0{No File<END>}#9
+No File<END>
+|
+@5
+;0041E1B8{No File<END>}#9
+No File<END>
+|
+@6
+;0041E1C0{This is a balance-type<END>}#24
+This is a balance-type<END>
+|
+@7
+;0041E1D7{core that can exhibit a<END>}#25
+core that can exhibit a<END>
+|
+@8
+;0041E1EF{high level of stability<END>}#25
+high level of stability<END>
+|
+@9
+;0041E207{under any circumstance!<END>}#25
+under any circumstance!<END>
+|
+@10
+;0041E21F{It's powerful, great for<END>}#26
+It's powerful, great for<END>
+|
+@11
+;0041E238{rapid-fire, and enables<END>}#25
+rapid-fire, and enables<END>
+|
+@12
+;0041E250{excellent accuracy! You<END>}#25
+excellent accuracy! You<END>
+|
+@13
+;0041E268{can use this core in any<END>}#26
+can use this core in any<END>
+|
+@14
+;0041E281{type of game!<END>}#15
+type of game!<END>
+|
+@15
+;0041E28F{<END>}#2
+<END>
+|
+@16
+;0041E290{# This core is an<END>}#19
+# This core is an<END>
+|
+@17
+;0041E2A2{excellent match for the<END>}#25
+excellent match for the<END>
+|
+@18
+;0041E2BA{following Strike Shots:<END>}#25
+following Strike Shots:<END>
+|
+@19
+;0041E2D2{the Random Shot and the<END>}#25
+the Random Shot and the<END>
+|
+@20
+;0041E2EA{Impact Shot.<END>}#14
+Impact Shot.<END>
+|
+@21
+;0041E2F7{The three claws that hold<END>}#27
+The three claws that hold<END>
+|
+@22
+;0041E311{the B-Daballs on this<END>}#23
+the B-Daballs on this<END>
+|
+@23
+;0041E327{power-type core reinforce<END>}#27
+power-type core reinforce<END>
+|
+@24
+;0041E341{its firing power!<END>}#19
+its firing power!<END>
+|
+@25
+;0041E353{<END>}#2
+<END>
+|
+@26
+;0041E354{# This core is an<END>}#19
+# This core is an<END>
+|
+@27
+;0041E366{excellent match for the<END>}#25
+excellent match for the<END>
+|
+@28
+;0041E37E{following Strike Shots:<END>}#25
+following Strike Shots:<END>
+|
+@29
+;0041E396{the Drive Shot, the Spike<END>}#27
+the Drive Shot, the Spike<END>
+|
+@30
+;0041E3B0{Shot, and the Metal Shot.<END>}#27
+Shot, and the Metal Shot.<END>
+|
+@31
+;0041E3CA{This is a rapid-fire type<END>}#27
+This is a rapid-fire type<END>
+|
+@32
+;0041E3E4{core that enables you to<END>}#26
+core that enables you to<END>
+|
+@33
+;0041E3FD{launch B-Daballs smoothly<END>}#27
+launch B-Daballs smoothly<END>
+|
+@34
+;0041E417{by using the spin function<END>}#28
+by using the spin function<END>
+|
+@35
+;0041E432{of the roller!<END>}#16
+of the roller!<END>
+|
+@36
+;0041E441{Its head part acts as a<END>}#25
+Its head part acts as a<END>
+|
+@37
+;0041E459{short magazine, and it<END>}#24
+short magazine, and it<END>
+|
+@38
+;0041E470{holds one B-Daball more<END>}#25
+holds one B-Daball more<END>
+|
+@39
+;0041E488{than a usual core can!<END>}#24
+than a usual core can!<END>
+|
+@40
+;0041E49F{<END>}#2
+<END>
+|
+@41
+;0041E4A0{# This core is an<END>}#19
+# This core is an<END>
+|
+@42
+;0041E4B2{excellent match for the<END>}#25
+excellent match for the<END>
+|
+@43
+;0041E4CA{following Strike Shots:<END>}#25
+following Strike Shots:<END>
+|
+@44
+;0041E4E2{the Speed Shot and the<END>}#24
+the Speed Shot and the<END>
+|
+@45
+;0041E4F9{Impact Shot.<END>}#14
+Impact Shot.<END>
+|
+@46
+;0041E506{This is a control-type<END>}#24
+This is a control-type<END>
+|
+@47
+;0041E51D{core shaped like a short<END>}#26
+core shaped like a short<END>
+|
+@48
+;0041E536{barrel. It enables precise<END>}#28
+barrel. It enables precise<END>
+|
+@49
+;0041E551{shots without equipping a<END>}#27
+shots without equipping a<END>
+|
+@50
+;0041E56B{barrel!<END>}#9
+barrel!<END>
+|
+@51
+;0041E573{<END>}#2
+<END>
+|
+@52
+;0041E574{# This core is an<END>}#19
+# This core is an<END>
+|
+@53
+;0041E586{excellent match for the<END>}#25
+excellent match for the<END>
+|
+@54
+;0041E59E{following Strike Shots:<END>}#25
+following Strike Shots:<END>
+|
+@55
+;0041E5B6{the Drive Shot, the Spike<END>}#27
+the Drive Shot, the Spike<END>
+|
+@56
+;0041E5D0{Shot, and the Metal Shot.<END>}#27
+Shot, and the Metal Shot.<END>
+|
+@57
+;0041E5EA{Because an electronic<END>}#23
+Because an electronic<END>
+|
+@58
+;0041E600{motor was installed<END>}#21
+motor was installed<END>
+|
+@59
+;0041E614{inside, this core enables<END>}#27
+inside, this core enables<END>
+|
+@60
+;0041E62E{super rapid-fire like<END>}#23
+super rapid-fire like<END>
+|
+@61
+;0041E644{never seen before!<END>}#20
+never seen before!<END>
+|
+@62
+;0041E657{<END>}#2
+<END>
+|
+@63
+;0041E658{# This core is an<END>}#19
+# This core is an<END>
+|
+@64
+;0041E66A{excellent match for the<END>}#25
+excellent match for the<END>
+|
+@65
+;0041E682{Strike Shot, Speed Shot.<END>}#26
+Strike Shot, Speed Shot.<END>
+|
+@66
+;0041E69B{This is the Drive Changing<END>}#28
+This is the Drive Changing<END>
+|
+@67
+;0041E6B6{Core that can launch right<END>}#28
+Core that can launch right<END>
+|
+@68
+;0041E6D1{and left curve shots,<END>}#23
+and left curve shots,<END>
+|
+@69
+;0041E6E7{speed shots, and slow<END>}#23
+speed shots, and slow<END>
+|
+@70
+;0041E6FD{shots!<END>}#8
+shots!<END>
+|
+@71
+;0041E704{<END>}#2
+<END>
+|
+@72
+;0041E705{# This core is an<END>}#19
+# This core is an<END>
+|
+@73
+;0041E717{excellent match for the<END>}#25
+excellent match for the<END>
+|
+@74
+;0041E72F{following Strike Shots:<END>}#25
+following Strike Shots:<END>
+|
+@75
+;0041E747{the Random Shot and the<END>}#25
+the Random Shot and the<END>
+|
+@76
+;0041E75F{Impact Shot.<END>}#14
+Impact Shot.<END>
+|
+@77
+;0041E76C{This is a rapid-fire type<END>}#27
+This is a rapid-fire type<END>
+|
+@78
+;0041E786{core that has high<END>}#20
+core that has high<END>
+|
+@79
+;0041E799{performance bearings!<END>}#23
+performance bearings!<END>
+|
+@80
+;0041E7AF{It reduces the friction <END>}#26
+It reduces the friction <END>
+|
+@81
+;0041E7C8{when B-Daballs are fired<END>}#26
+when B-Daballs are fired<END>
+|
+@82
+;0041E7E1{and enables a smoother<END>}#24
+and enables a smoother<END>
+|
+@83
+;0041E7F8{launch!<END>}#9
+launch!<END>
+|
+@84
+;0041E800{<END>}#2
+<END>
+|
+@85
+;0041E801{# This core is an<END>}#19
+# This core is an<END>
+|
+@86
+;0041E813{excellent match for the<END>}#25
+excellent match for the<END>
+|
+@87
+;0041E82B{following Strike Shots:<END>}#25
+following Strike Shots:<END>
+|
+@88
+;0041E843{the Speed Shot and the<END>}#24
+the Speed Shot and the<END>
+|
+@89
+;0041E85A{Splitting Shot.<END>}#17
+Splitting Shot.<END>
+|
+@90
+;0041E86A{The rubber underneath the<END>}#27
+The rubber underneath the<END>
+|
+@91
+;0041E884{core creates friction on<END>}#26
+core creates friction on<END>
+|
+@92
+;0041E89D{the B-Daballs and produces<END>}#28
+the B-Daballs and produces<END>
+|
+@93
+;0041E8B8{a powerful drive effect!<END>}#26
+a powerful drive effect!<END>
+|
+@94
+;0041E8D1{This is a power-type core!<END>}#28
+This is a power-type core!<END>
+|
+@95
+;0041E8EC{<END>}#2
+<END>
+|
+@96
+;0041E8ED{# This core is an<END>}#19
+# This core is an<END>
+|
+@97
+;0041E8FF{excellent match for the<END>}#25
+excellent match for the<END>
+|
+@98
+;0041E917{following Strike Shots:<END>}#25
+following Strike Shots:<END>
+|
+@99
+;0041E92F{the Drive Shot, the Spike<END>}#27
+the Drive Shot, the Spike<END>
+|
+@100
+;0041E949{Shot, and the Metal Shot.<END>}#27
+Shot, and the Metal Shot.<END>
+|
+@101
+;0041E963{The big back part is easy<END>}#27
+The big back part is easy<END>
+|
+@102
+;0041E97D{to grab and enables<END>}#21
+to grab and enables<END>
+|
+@103
+;0041E991{one-handed firing!<END>}#20
+one-handed firing!<END>
+|
+@104
+;0041E9A4{You can load B-Daballs<END>}#24
+You can load B-Daballs<END>
+|
+@105
+;0041E9BB{from the hole on the<END>}#22
+from the hole on the<END>
+|
+@106
+;0041E9D0{bottom!<END>}#9
+bottom!<END>
+|
+@107
+;0041E9D8{<END>}#2
+<END>
+|
+@108
+;0041E9D9{# This core is an<END>}#19
+# This core is an<END>
+|
+@109
+;0041E9EB{excellent match for the<END>}#25
+excellent match for the<END>
+|
+@110
+;0041EA03{following Strike Shots:<END>}#25
+following Strike Shots:<END>
+|
+@111
+;0041EA1B{the Random Shot and the<END>}#25
+the Random Shot and the<END>
+|
+@112
+;0041EA33{Splitting Shot.<END>}#17
+Splitting Shot.<END>
+|
+@113
+;0041EA43{By rotating the revolving<END>}#27
+By rotating the revolving<END>
+|
+@114
+;0041EA5D{cylinder, six different<END>}#25
+cylinder, six different<END>
+|
+@115
+;0041EA75{kinds of shots can be<END>}#23
+kinds of shots can be<END>
+|
+@116
+;0041EA8B{fired: drive, back spin,<END>}#26
+fired: drive, back spin,<END>
+|
+@117
+;0041EAA4{right curve, left curve,<END>}#26
+right curve, left curve,<END>
+|
+@118
+;0041EABD{right bound, and left<END>}#23
+right bound, and left<END>
+|
+@119
+;0041EAD3{bound shots!<END>}#14
+bound shots!<END>
+|
+@120
+;0041EAE0{This is the perfect core<END>}#26
+This is the perfect core<END>
+|
+@121
+;0041EAF9{that can perform<END>}#18
+that can perform<END>
+|
+@122
+;0041EB0A{effectively under any<END>}#23
+effectively under any<END>
+|
+@123
+;0041EB20{circumstance!<END>}#15
+circumstance!<END>
+|
+@124
+;0041EB2E{<END>}#2
+<END>
+|
+@125
+;0041EB2F{# This core is an<END>}#19
+# This core is an<END>
+|
+@126
+;0041EB41{excellent match for the<END>}#25
+excellent match for the<END>
+|
+@127
+;0041EB59{following Strike Shots:<END>}#25
+following Strike Shots:<END>
+|
+@128
+;0041EB71{the Stealth Shot and the<END>}#26
+the Stealth Shot and the<END>
+|
+@129
+;0041EB8A{Drive Shot.<END>}#13
+Drive Shot.<END>
+|
+@130
+;0041EB96{This is a core part that<END>}#26
+This is a core part that<END>
+|
+@131
+;0041EBAF{can launch normal shots by<END>}#28
+can launch normal shots by<END>
+|
+@132
+;0041EBCA{using the side trigger and<END>}#28
+using the side trigger and<END>
+|
+@133
+;0041EBE5{Striker Shots by using the<END>}#28
+Striker Shots by using the<END>
+|
+@134
+;0041EC00{center trigger!<END>}#17
+center trigger!<END>
+|
+@135
+;0041EC10{<END>}#2
+<END>
+|
+@136
+;0041EC11{# This core is an<END>}#19
+# This core is an<END>
+|
+@137
+;0041EC23{excellent match for the<END>}#25
+excellent match for the<END>
+|
+@138
+;0041EC3B{following Strike Shots:<END>}#25
+following Strike Shots:<END>
+|
+@139
+;0041EC53{the Impact Shot and the<END>}#25
+the Impact Shot and the<END>
+|
+@140
+;0041EC6B{Splitting Shot!<END>}#17
+Splitting Shot!<END>
+|
+@141
+;0041EC7B{Since the hold part is<END>}#24
+Since the hold part is<END>
+|
+@142
+;0041EC92{blown back when firing,<END>}#25
+blown back when firing,<END>
+|
+@143
+;0041ECAA{this core can launch<END>}#22
+this core can launch<END>
+|
+@144
+;0041ECBF{rapid-fire shots with<END>}#23
+rapid-fire shots with<END>
+|
+@145
+;0041ECD5{half of the normal<END>}#20
+half of the normal<END>
+|
+@146
+;0041ECE8{required movement.<END>}#20
+required movement.<END>
+|
+@147
+;0041ECFB{<END>}#2
+<END>
+|
+@148
+;0041ECFC{Besides that, the rubber<END>}#26
+Besides that, the rubber<END>
+|
+@149
+;0041ED15{on the bottom of the core<END>}#27
+on the bottom of the core<END>
+|
+@150
+;0041ED2F{results in a superior<END>}#23
+results in a superior<END>
+|
+@151
+;0041ED45{drive effect and allows<END>}#25
+drive effect and allows<END>
+|
+@152
+;0041ED5D{you to make powerful<END>}#22
+you to make powerful<END>
+|
+@153
+;0041ED72{shots!<END>}#8
+shots!<END>
+|
+@154
+;0041ED79{<END>}#2
+<END>
+|
+@155
+;0041ED7A{# This core is an<END>}#19
+# This core is an<END>
+|
+@156
+;0041ED8C{excellent match for the<END>}#25
+excellent match for the<END>
+|
+@157
+;0041EDA4{following Strike Shots:<END>}#25
+following Strike Shots:<END>
+|
+@158
+;0041EDBC{the Drive Shot, the Spike<END>}#27
+the Drive Shot, the Spike<END>
+|
+@159
+;0041EDD6{Shot, and the Metal Shot.<END>}#27
+Shot, and the Metal Shot.<END>
+|
+@160
+;0041EDF0{This is a brand-new core<END>}#26
+This is a brand-new core<END>
+|
+@161
+;0041EE09{that has been made with<END>}#25
+that has been made with<END>
+|
+@162
+;0041EE21{the latest technology!<END>}#24
+the latest technology!<END>
+|
+@163
+;0041EE38{The Cartridge System can<END>}#26
+The Cartridge System can<END>
+|
+@164
+;0041EE51{be used with this core!<END>}#25
+be used with this core!<END>
+|
+@165
+;0041EE69{This is a core part that<END>}#26
+This is a core part that<END>
+|
+@166
+;0041EE82{can manage both rapid-fire<END>}#28
+can manage both rapid-fire<END>
+|
+@167
+;0041EE9D{and power shots because of<END>}#28
+and power shots because of<END>
+|
+@168
+;0041EEB8{the three rollers inside.<END>}#27
+the three rollers inside.<END>
+|
+@169
+;0041EED2{It can fire B-Daballs<END>}#23
+It can fire B-Daballs<END>
+|
+@170
+;0041EEE8{smoothly and powerfully!<END>}#26
+smoothly and powerfully!<END>
+|
+@171
+;0041EF01{<END>}#2
+<END>
+|
+@172
+;0041EF02{# This core is an<END>}#19
+# This core is an<END>
+|
+@173
+;0041EF14{excellent match for the<END>}#25
+excellent match for the<END>
+|
+@174
+;0041EF2C{following Strike Shots:<END>}#25
+following Strike Shots:<END>
+|
+@175
+;0041EF44{the Speed Shot and the<END>}#24
+the Speed Shot and the<END>
+|
+@176
+;0041EF5B{Splitting Shot.<END>}#17
+Splitting Shot.<END>
+|
+@177
+;0041EF6B{Drive Core<END>}#12
+Drive Core<END>
+|
+@178
+;0041EF76{Drive Core<END>}#12
+Drive Core<END>
+|
+@179
+;0041EF81{Delta Core<END>}#12
+Delta Core<END>
+|
+@180
+;0041EF8C{Delta Core<END>}#12
+Delta Core<END>
+|
+@181
+;0041EF97{Striker Core<END>}#14
+Striker Core<END>
+|
+@182
+;0041EFA4{Striker Core<END>}#14
+Striker Core<END>
+|
+@183
+;0041EFB1{Drive Core<END>}#12
+Drive Core<END>
+|
+@184
+;0041EFBC{Drive Core<END>}#12
+Drive Core<END>
+|
+@185
+;0041EFC7{Roller Core<END>}#13
+Roller Core<END>
+|
+@186
+;0041EFD3{Roller Core<END>}#13
+Roller Core<END>
+|
+@187
+;0041EFDF{Bearing Core<END>}#14
+Bearing Core<END>
+|
+@188
+;0041EFEC{Bearing Core<END>}#14
+Bearing Core<END>
+|
+@189
+;0041EFF9{Roller Core<END>}#13
+Roller Core<END>
+|
+@190
+;0041F005{Roller Core<END>}#13
+Roller Core<END>
+|
+@191
+;0041F011{Bearing Core<END>}#14
+Bearing Core<END>
+|
+@192
+;0041F01E{Bearing Core<END>}#14
+Bearing Core<END>
+|
+@193
+;0041F02B{Roller Core<END>}#13
+Roller Core<END>
+|
+@194
+;0041F037{Roller Core<END>}#13
+Roller Core<END>
+|
+@195
+;0041F043{Quick Loading Core<END>}#20
+Quick Loading Core<END>
+|
+@196
+;0041F056{Q. L. Core<END>}#12
+Q. L. Core<END>
+|
+@197
+;0041F061{Long Core<END>}#11
+Long Core<END>
+|
+@198
+;0041F06B{Long Core<END>}#11
+Long Core<END>
+|
+@199
+;0041F075{Drive Core<END>}#12
+Drive Core<END>
+|
+@200
+;0041F080{Drive Core<END>}#12
+Drive Core<END>
+|
+@201
+;0041F08B{Drive Body<END>}#12
+Drive Body<END>
+|
+@202
+;0041F096{Drive Body<END>}#12
+Drive Body<END>
+|
+@203
+;0041F0A1{Bearing Core<END>}#14
+Bearing Core<END>
+|
+@204
+;0041F0AE{Bearing Core<END>}#14
+Bearing Core<END>
+|
+@205
+;0041F0BB{Roller Core<END>}#13
+Roller Core<END>
+|
+@206
+;0041F0C7{Roller Core<END>}#13
+Roller Core<END>
+|
+@207
+;0041F0D3{SS Drive Core<END>}#15
+SS Drive Core<END>
+|
+@208
+;0041F0E1{SS Drive Core<END>}#15
+SS Drive Core<END>
+|
+@209
+;0041F0EF{Long Core<END>}#11
+Long Core<END>
+|
+@210
+;0041F0F9{Long Core<END>}#11
+Long Core<END>
+|
+@211
+;0041F103{Bearing Core<END>}#14
+Bearing Core<END>
+|
+@212
+;0041F110{Bearing Core<END>}#14
+Bearing Core<END>
+|
+@213
+;0041F11D{Drive Core<END>}#12
+Drive Core<END>
+|
+@214
+;0041F128{Drive Core<END>}#12
+Drive Core<END>
+|
+@215
+;0041F133{Drive Body<END>}#12
+Drive Body<END>
+|
+@216
+;0041F13E{Drive Body<END>}#12
+Drive Body<END>
+|
+@217
+;0041F149{Drive Core<END>}#12
+Drive Core<END>
+|
+@218
+;0041F154{Drive Core<END>}#12
+Drive Core<END>
+|
+@219
+;0041F15F{Long Core<END>}#11
+Long Core<END>
+|
+@220
+;0041F169{Long Core<END>}#11
+Long Core<END>
+|
+@221
+;0041F173{Balance Core<END>}#14
+Balance Core<END>
+|
+@222
+;0041F180{Balance Core<END>}#14
+Balance Core<END>
+|
+@223
+;0041F18D{Drive Core<END>}#12
+Drive Core<END>
+|
+@224
+;0041F198{Drive Core<END>}#12
+Drive Core<END>
+|
+@225
+;0041F1A3{Drive Core<END>}#12
+Drive Core<END>
+|
+@226
+;0041F1AE{Drive Core<END>}#12
+Drive Core<END>
+|
+@227
+;0041F1B9{Balance Core<END>}#14
+Balance Core<END>
+|
+@228
+;0041F1C6{Balance Core<END>}#14
+Balance Core<END>
+|
+@229
+;0041F1D3{Delta Core<END>}#12
+Delta Core<END>
+|
+@230
+;0041F1DE{Delta Core<END>}#12
+Delta Core<END>
+|
+@231
+;0041F1E9{Drive Core<END>}#12
+Drive Core<END>
+|
+@232
+;0041F1F4{Drive Core<END>}#12
+Drive Core<END>
+|
+@233
+;0041F1FF{Bearing Core<END>}#14
+Bearing Core<END>
+|
+@234
+;0041F20C{Bearing Core<END>}#14
+Bearing Core<END>
+|
+@235
+;0041F219{Drive Core<END>}#12
+Drive Core<END>
+|
+@236
+;0041F224{Drive Core<END>}#12
+Drive Core<END>
+|
+@237
+;0041F22F{Delta Core<END>}#12
+Delta Core<END>
+|
+@238
+;0041F23A{Delta Core<END>}#12
+Delta Core<END>
+|
+@239
+;0041F245{Balance Core<END>}#14
+Balance Core<END>
+|
+@240
+;0041F252{Balance Core<END>}#14
+Balance Core<END>
+|
+@241
+;0041F25F{Long Core<END>}#11
+Long Core<END>
+|
+@242
+;0041F269{Long Core<END>}#11
+Long Core<END>
+|
+@243
+;0041F273{Motor DHB Core<END>}#16
+Motor DHB Core<END>
+|
+@244
+;0041F282{Motor DHB Core<END>}#16
+Motor DHB Core<END>
+|
+@245
+;0041F291{Balance Core<END>}#14
+Balance Core<END>
+|
+@246
+;0041F29E{Balance Core<END>}#14
+Balance Core<END>
+|
+@247
+;0041F2AB{Delta Roller Core<END>}#19
+Delta Roller Core<END>
+|
+@248
+;0041F2BD{D. R. Core<END>}#12
+D. R. Core<END>
+|
+@249
+;0041F2C8{Balance Core<END>}#14
+Balance Core<END>
+|
+@250
+;0041F2D5{Balance Core<END>}#14
+Balance Core<END>
+|
+@251
+;0041F2E2{Delta Roller Core<END>}#19
+Delta Roller Core<END>
+|
+@252
+;0041F2F4{D. R. Core<END>}#12
+D. R. Core<END>
+|
+@253
+;0041F2FF{Long Core<END>}#11
+Long Core<END>
+|
+@254
+;0041F309{Long Core<END>}#11
+Long Core<END>
+|
+@255
+;0041F313{Revolver Core<END>}#15
+Revolver Core<END>
+|
+@256
+;0041F321{Revolver Core<END>}#15
+Revolver Core<END>
+|
+@257
+;0041F32F{Revolver Core<END>}#15
+Revolver Core<END>
+|
+@258
+;0041F33D{Revolver Core<END>}#15
+Revolver Core<END>
+|
+@259
+;0041F34B{Drive Body<END>}#12
+Drive Body<END>
+|
+@260
+;0041F356{Drive Body<END>}#12
+Drive Body<END>
+|
+@261
+;0041F361{Drive Changing Core<END>}#21
+Drive Changing Core<END>
+|
+@262
+;0041F375{D. C. Core<END>}#12
+D. C. Core<END>
+|

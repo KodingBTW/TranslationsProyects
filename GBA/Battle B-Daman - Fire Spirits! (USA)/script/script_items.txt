@@ -1,0 +1,2600 @@
+@1
+;004118CE{Beast Visor<END>}#12
+Beast Visor<END>
+|
+@2
+;004118DA{Beast Visor<END>}#13
+Beast Visor<END>
+|
+@3
+;004118E6{Assault Grip<END>}#14
+Assault Grip<END>
+|
+@4
+;004118F3{Assault Grip<END>}#14
+Assault Grip<END>
+|
+@5
+;00411900{L-Beast Shoulder<END>}#18
+L-Beast Shoulder<END>
+|
+@6
+;00411911{L-Beast Pad<END>}#13
+L-Beast Pad<END>
+|
+@7
+;0041191D{R-Beast Shoulder<END>}#18
+R-Beast Shoulder<END>
+|
+@8
+;0041192E{R-Beast Pad<END>}#13
+R-Beast Pad<END>
+|
+@9
+;0041193A{L-Beast Arm<END>}#13
+L-Beast Arm<END>
+|
+@10
+;00411946{L-Beast Arm<END>}#13
+L-Beast Arm<END>
+|
+@11
+;00411952{R-Beast Arm<END>}#13
+R-Beast Arm<END>
+|
+@12
+;0041195E{R-Beast Arm<END>}#13
+R-Beast Arm<END>
+|
+@13
+;0041196A{Beast Foot<END>}#12
+Beast Foot<END>
+|
+@14
+;00411975{Beast Foot<END>}#12
+Beast Foot<END>
+|
+@15
+;00411980{Asura Visor<END>}#13
+Asura Visor<END>
+|
+@16
+;0041198C{Asura Visor<END>}#13
+Asura Visor<END>
+|
+@17
+;00411998{L-Asura Shoulder<END>}#18
+L-Asura Shoulder<END>
+|
+@18
+;004119A9{L-Asura Pad<END>}#13
+L-Asura Pad<END>
+|
+@19
+;004119B5{R-Asura Shoulder<END>}#18
+R-Asura Shoulder<END>
+|
+@20
+;004119C6{R-Asura Pad<END>}#13
+R-Asura Pad<END>
+|
+@21
+;004119D2{Asura Foot<END>}#12
+Asura Foot<END>
+|
+@22
+;004119DD{Asura Foot<END>}#12
+Asura Foot<END>
+|
+@23
+;004119E8{Shark Head<END>}#12
+Shark Head<END>
+|
+@24
+;004119F3{Shark Head<END>}#12
+Shark Head<END>
+|
+@25
+;004119FE{Shark Barrel<END>}#14
+Shark Barrel<END>
+|
+@26
+;00411A0B{Shark Barrel<END>}#14
+Shark Barrel<END>
+|
+@27
+;00411A18{Striker Core<END>}#14
+Striker Core<END>
+|
+@28
+;00411A25{Striker Core<END>}#14
+Striker Core<END>
+|
+@29
+;00411A32{L-Shark Shoulder<END>}#18
+L-Shark Shoulder<END>
+|
+@30
+;00411A43{L-Shark Pad<END>}#13
+L-Shark Pad<END>
+|
+@31
+;00411A4F{R-Shark Shoulder<END>}#18
+R-Shark Shoulder<END>
+|
+@32
+;00411A60{R-Shark Pad<END>}#13
+R-Shark Pad<END>
+|
+@33
+;00411A6C{Shark Foot<END>}#12
+Shark Foot<END>
+|
+@34
+;00411A77{Shark Foot<END>}#12
+Shark Foot<END>
+|
+@35
+;00411A82{Impact Shot<END>}#13
+Impact Shot<END>
+|
+@36
+;00411A8E{Impact Shot<END>}#13
+Impact Shot<END>
+|
+@37
+;00411A9A{Wolf Visor<END>}#12
+Wolf Visor<END>
+|
+@38
+;00411AA5{Wolf Visor<END>}#12
+Wolf Visor<END>
+|
+@39
+;00411AB0{Tail Grip<END>}#11
+Tail Grip<END>
+|
+@40
+;00411ABA{Tail Grip<END>}#11
+Tail Grip<END>
+|
+@41
+;00411AC4{L-Wolf Pad<END>}#12
+L-Wolf Pad<END>
+|
+@42
+;00411ACF{L-Wolf Pad<END>}#12
+L-Wolf Pad<END>
+|
+@43
+;00411ADA{R-Wolf Pad<END>}#12
+R-Wolf Pad<END>
+|
+@44
+;00411AE5{R-Wolf Pad<END>}#12
+R-Wolf Pad<END>
+|
+@45
+;00411AF0{L-Wolf Arm<END>}#12
+L-Wolf Arm<END>
+|
+@46
+;00411AFB{L-Wolf Arm<END>}#12
+L-Wolf Arm<END>
+|
+@47
+;00411B06{R-Wolf Arm<END>}#12
+R-Wolf Arm<END>
+|
+@48
+;00411B11{R-Wolf Arm<END>}#12
+R-Wolf Arm<END>
+|
+@49
+;00411B1C{Wolf Foot<END>}#11
+Wolf Foot<END>
+|
+@50
+;00411B26{Wolf Foot<END>}#11
+Wolf Foot<END>
+|
+@51
+;00411B30{King Yellow Helm<END>}#18
+King Yellow Helm<END>
+|
+@52
+;00411B41{Ohryu Helm<END>}#12
+Ohryu Helm<END>
+|
+@53
+;00411B4C{Blitz Arm Magazine<END>}#20
+Blitz Arm Magazine<END>
+|
+@54
+;00411B5F{Blitz Arm Mag<END>}#15
+Blitz Arm Mag<END>
+|
+@55
+;00411B6D{L-Yellow Dragon Pad<END>}#21
+L-Yellow Dragon Pad<END>
+|
+@56
+;00411B81{L-Ohryu Pad<END>}#13
+L-Ohryu Pad<END>
+|
+@57
+;00411B8D{R-Yellow Dragon Pad<END>}#21
+R-Yellow Dragon Pad<END>
+|
+@58
+;00411BA1{R-Ohryu Pad<END>}#13
+R-Ohryu Pad<END>
+|
+@59
+;00411BAD{Ohryu Foot<END>}#12
+Ohryu Foot<END>
+|
+@60
+;00411BB8{Ohryu Foot<END>}#12
+Ohryu Foot<END>
+|
+@61
+;00411BC3{Dragon Heel<END>}#13
+Dragon Heel<END>
+|
+@62
+;00411BCF{Dragon Heel<END>}#13
+Dragon Heel<END>
+|
+@63
+;00411BDB{Oak Visor<END>}#11
+Oak Visor<END>
+|
+@64
+;00411BE5{Oak Visor<END>}#11
+Oak Visor<END>
+|
+@65
+;00411BEF{Oak Guard<END>}#11
+Oak Guard<END>
+|
+@66
+;00411BF9{Oak Guard<END>}#11
+Oak Guard<END>
+|
+@67
+;00411C03{L-Oak Pad<END>}#11
+L-Oak Pad<END>
+|
+@68
+;00411C0D{L-Oak Pad<END>}#11
+L-Oak Pad<END>
+|
+@69
+;00411C17{R-Oak Pad<END>}#11
+R-Oak Pad<END>
+|
+@70
+;00411C21{R-Oak Pad<END>}#11
+R-Oak Pad<END>
+|
+@71
+;00411C2B{L-Oak Arm<END>}#11
+L-Oak Arm<END>
+|
+@72
+;00411C35{L-Oak Arm<END>}#11
+L-Oak Arm<END>
+|
+@73
+;00411C3F{R-Oak Arm<END>}#11
+R-Oak Arm<END>
+|
+@74
+;00411C49{R-Oak Arm<END>}#11
+R-Oak Arm<END>
+|
+@75
+;00411C53{Oak Foot<END>}#10
+Oak Foot<END>
+|
+@76
+;00411C5C{Oak Foot<END>}#10
+Oak Foot<END>
+|
+@77
+;00411C65{Garnet Visor<END>}#14
+Garnet Visor<END>
+|
+@78
+;00411C72{Garnet Visor<END>}#14
+Garnet Visor<END>
+|
+@79
+;00411C7F{Garnet Breast<END>}#15
+Garnet Breast<END>
+|
+@80
+;00411C8D{Garnet Breast<END>}#15
+Garnet Breast<END>
+|
+@81
+;00411C9B{Garnet Wing<END>}#13
+Garnet Wing<END>
+|
+@82
+;00411CA7{Garnet Wing<END>}#13
+Garnet Wing<END>
+|
+@83
+;00411CB3{L-Garnet Shoulder<END>}#19
+L-Garnet Shoulder<END>
+|
+@84
+;00411CC5{L-Garnet Pad<END>}#14
+L-Garnet Pad<END>
+|
+@85
+;00411CD2{R-Garnet Shoulder<END>}#19
+R-Garnet Shoulder<END>
+|
+@86
+;00411CE4{R-Garnet Pad<END>}#14
+R-Garnet Pad<END>
+|
+@87
+;00411CF1{L-Garnet Arm<END>}#14
+L-Garnet Arm<END>
+|
+@88
+;00411CFE{L-Garnet Arm<END>}#14
+L-Garnet Arm<END>
+|
+@89
+;00411D0B{R-Garnet Arm<END>}#14
+R-Garnet Arm<END>
+|
+@90
+;00411D18{R-Garnet Arm<END>}#14
+R-Garnet Arm<END>
+|
+@91
+;00411D25{Garnet Foot<END>}#13
+Garnet Foot<END>
+|
+@92
+;00411D31{Garnet Foot<END>}#13
+Garnet Foot<END>
+|
+@93
+;00411D3D{Gao Tiger Helm<END>}#16
+Gao Tiger Helm<END>
+|
+@94
+;00411D4C{GaoTiger Helm<END>}#15
+GaoTiger Helm<END>
+|
+@95
+;00411D5A{L-Gao Pad<END>}#11
+L-Gao Pad<END>
+|
+@96
+;00411D64{L-Gao Pad<END>}#11
+L-Gao Pad<END>
+|
+@97
+;00411D6E{R-Gao Pad<END>}#11
+R-Gao Pad<END>
+|
+@98
+;00411D78{R-Gao Pad<END>}#11
+R-Gao Pad<END>
+|
+@99
+;00411D82{Gao Tiger Foot<END>}#16
+Gao Tiger Foot<END>
+|
+@100
+;00411D91{GaoTiger Foot<END>}#15
+GaoTiger Foot<END>
+|
+@101
+;00411D9F{Garuda Visor<END>}#14
+Garuda Visor<END>
+|
+@102
+;00411DAC{Garuda Visor<END>}#14
+Garuda Visor<END>
+|
+@103
+;00411DB9{Garuda Grip<END>}#13
+Garuda Grip<END>
+|
+@104
+;00411DC5{Garuda Grip<END>}#13
+Garuda Grip<END>
+|
+@105
+;00411DD1{L-Garuda Shoulder<END>}#19
+L-Garuda Shoulder<END>
+|
+@106
+;00411DE3{L-Garuda Pad<END>}#14
+L-Garuda Pad<END>
+|
+@107
+;00411DF0{R-Garuda Shoulder<END>}#19
+R-Garuda Shoulder<END>
+|
+@108
+;00411E02{R-Garuda Pad<END>}#14
+R-Garuda Pad<END>
+|
+@109
+;00411E0F{L-Garuda Arm<END>}#14
+L-Garuda Arm<END>
+|
+@110
+;00411E1C{L-Garuda Arm<END>}#14
+L-Garuda Arm<END>
+|
+@111
+;00411E29{R-Garuda Arm<END>}#14
+R-Garuda Arm<END>
+|
+@112
+;00411E36{R-Garuda Arm<END>}#14
+R-Garuda Arm<END>
+|
+@113
+;00411E43{Garuda Foot<END>}#13
+Garuda Foot<END>
+|
+@114
+;00411E4F{Garuda Foot<END>}#13
+Garuda Foot<END>
+|
+@115
+;00411E5B{Gun Head<END>}#10
+Gun Head<END>
+|
+@116
+;00411E64{Gun Head<END>}#10
+Gun Head<END>
+|
+@117
+;00411E6D{Power Arms<END>}#12
+Power Arms<END>
+|
+@118
+;00411E78{Power Arms<END>}#12
+Power Arms<END>
+|
+@119
+;00411E83{Power Arms<END>}#12
+Power Arms<END>
+|
+@120
+;00411E8E{Power Arms<END>}#12
+Power Arms<END>
+|
+@121
+;00411E99{Power Arms<END>}#12
+Power Arms<END>
+|
+@122
+;00411EA4{Power Arms<END>}#12
+Power Arms<END>
+|
+@123
+;00411EAF{Power Arms<END>}#12
+Power Arms<END>
+|
+@124
+;00411EBA{Power Arms<END>}#12
+Power Arms<END>
+|
+@125
+;00411EC5{Power Arms<END>}#12
+Power Arms<END>
+|
+@126
+;00411ED0{Power Arms<END>}#12
+Power Arms<END>
+|
+@127
+;00411EDB{Gun Foot<END>}#10
+Gun Foot<END>
+|
+@128
+;00411EE4{Gun Foot<END>}#10
+Gun Foot<END>
+|
+@129
+;00411EED{Base Grip<END>}#11
+Base Grip<END>
+|
+@130
+;00411EF7{Base Grip<END>}#11
+Base Grip<END>
+|
+@131
+;00411F01{Scorpion Helm<END>}#15
+Scorpion Helm<END>
+|
+@132
+;00411F0F{Scorpion Helm<END>}#15
+Scorpion Helm<END>
+|
+@133
+;00411F1D{Magazine<END>}#10
+Magazine<END>
+|
+@134
+;00411F26{Magazine<END>}#10
+Magazine<END>
+|
+@135
+;00411F2F{Quick Loading Core<END>}#20
+Quick Loading Core<END>
+|
+@136
+;00411F42{Q. L. Core<END>}#12
+Q. L. Core<END>
+|
+@137
+;00411F4D{Quick Loading Core<END>}#20
+Quick Loading Core<END>
+|
+@138
+;00411F60{Q. L. Core<END>}#12
+Q. L. Core<END>
+|
+@139
+;00411F6B{L-Gill Pad<END>}#12
+L-Gill Pad<END>
+|
+@140
+;00411F76{L-Gill Pad<END>}#12
+L-Gill Pad<END>
+|
+@141
+;00411F81{R-Gill Pad<END>}#12
+R-Gill Pad<END>
+|
+@142
+;00411F8C{R-Gill Pad<END>}#12
+R-Gill Pad<END>
+|
+@143
+;00411F97{L-Scorpion Arm<END>}#16
+L-Scorpion Arm<END>
+|
+@144
+;00411FA6{L-ScorpionArm<END>}#15
+L-ScorpionArm<END>
+|
+@145
+;00411FB4{R-Scorpion Arm<END>}#16
+R-Scorpion Arm<END>
+|
+@146
+;00411FC3{R-ScorpionArm<END>}#15
+R-ScorpionArm<END>
+|
+@147
+;00411FD1{Scorpion Foot<END>}#15
+Scorpion Foot<END>
+|
+@148
+;00411FDF{Scorpion Foot<END>}#15
+Scorpion Foot<END>
+|
+@149
+;00411FED{Random Shot<END>}#13
+Random Shot<END>
+|
+@150
+;00411FF9{Random Shot<END>}#13
+Random Shot<END>
+|
+@151
+;00412005{Clown Visor<END>}#13
+Clown Visor<END>
+|
+@152
+;00412011{Clown Visor<END>}#13
+Clown Visor<END>
+|
+@153
+;0041201D{L-Clown Shoulder<END>}#18
+L-Clown Shoulder<END>
+|
+@154
+;0041202E{L-Clown Pad<END>}#13
+L-Clown Pad<END>
+|
+@155
+;0041203A{R-Clown Shoulder<END>}#18
+R-Clown Shoulder<END>
+|
+@156
+;0041204B{R-Clown Pad<END>}#13
+R-Clown Pad<END>
+|
+@157
+;00412057{L-Clown Arm<END>}#13
+L-Clown Arm<END>
+|
+@158
+;00412063{L-Clown Arm<END>}#13
+L-Clown Arm<END>
+|
+@159
+;0041206F{R-Clown Arm<END>}#13
+R-Clown Arm<END>
+|
+@160
+;0041207B{R-Clown Arm<END>}#13
+R-Clown Arm<END>
+|
+@161
+;00412087{Clown Foot<END>}#12
+Clown Foot<END>
+|
+@162
+;00412092{Clown Foot<END>}#12
+Clown Foot<END>
+|
+@163
+;0041209D{Crimson Visor<END>}#15
+Crimson Visor<END>
+|
+@164
+;004120AB{Crimson Visor<END>}#15
+Crimson Visor<END>
+|
+@165
+;004120B9{Crimson Wing<END>}#14
+Crimson Wing<END>
+|
+@166
+;004120C6{Crimson Wing<END>}#14
+Crimson Wing<END>
+|
+@167
+;004120D3{L-Crimson Wing<END>}#16
+L-Crimson Wing<END>
+|
+@168
+;004120E2{L-Crimson Wng<END>}#15
+L-Crimson Wng<END>
+|
+@169
+;004120F0{R-Crimson Wing<END>}#16
+R-Crimson Wing<END>
+|
+@170
+;004120FF{R-CrimsonWing<END>}#15
+R-CrimsonWing<END>
+|
+@171
+;0041210D{L-Crimson Shield<END>}#18
+L-Crimson Shield<END>
+|
+@172
+;0041211E{L-Crimson Arm<END>}#15
+L-Crimson Arm<END>
+|
+@173
+;0041212C{R-Crimson Shield<END>}#18
+R-Crimson Shield<END>
+|
+@174
+;0041213D{R-Crimson Arm<END>}#15
+R-Crimson Arm<END>
+|
+@175
+;0041214B{Crimson Foot<END>}#14
+Crimson Foot<END>
+|
+@176
+;00412158{Crimson Foot<END>}#14
+Crimson Foot<END>
+|
+@177
+;00412165{Harrier Sight<END>}#15
+Harrier Sight<END>
+|
+@178
+;00412173{Harrier Sight<END>}#15
+Harrier Sight<END>
+|
+@179
+;00412181{Cartridge Trigger<END>}#19
+Cartridge Trigger<END>
+|
+@180
+;00412193{Case Trigger<END>}#14
+Case Trigger<END>
+|
+@181
+;004121A0{L-Chrome Arm<END>}#14
+L-Chrome Arm<END>
+|
+@182
+;004121AD{L-Chrome Arm<END>}#14
+L-Chrome Arm<END>
+|
+@183
+;004121BA{R-Chrome Arm<END>}#14
+R-Chrome Arm<END>
+|
+@184
+;004121C7{R-Chrome Arm<END>}#14
+R-Chrome Arm<END>
+|
+@185
+;004121D4{Narrow Foot<END>}#13
+Narrow Foot<END>
+|
+@186
+;004121E0{Narrow Foot<END>}#13
+Narrow Foot<END>
+|
+@187
+;004121EC{Raven Visor<END>}#13
+Raven Visor<END>
+|
+@188
+;004121F8{Raven Visor<END>}#13
+Raven Visor<END>
+|
+@189
+;00412204{Chrome Guard<END>}#14
+Chrome Guard<END>
+|
+@190
+;00412211{Chrome Guard<END>}#14
+Chrome Guard<END>
+|
+@191
+;0041221E{L-Shield Shoulder<END>}#19
+L-Shield Shoulder<END>
+|
+@192
+;00412230{L-Side Shield<END>}#15
+L-Side Shield<END>
+|
+@193
+;0041223E{R-One-handed Grip<END>}#19
+R-One-handed Grip<END>
+|
+@194
+;00412250{R-1H Grip<END>}#11
+R-1H Grip<END>
+|
+@195
+;0041225A{L-Raven Arm<END>}#13
+L-Raven Arm<END>
+|
+@196
+;00412266{L-Raven Arm<END>}#13
+L-Raven Arm<END>
+|
+@197
+;00412272{R-Raven Arm<END>}#13
+R-Raven Arm<END>
+|
+@198
+;0041227E{R-Raven Arm<END>}#13
+R-Raven Arm<END>
+|
+@199
+;0041228A{Chrome Foot<END>}#13
+Chrome Foot<END>
+|
+@200
+;00412296{Chrome Foot<END>}#13
+Chrome Foot<END>
+|
+@201
+;004122A2{Speed Shot<END>}#12
+Speed Shot<END>
+|
+@202
+;004122AD{Speed Shot<END>}#12
+Speed Shot<END>
+|
+@203
+;004122B8{King Rekuso Helm<END>}#18
+King Rekuso Helm<END>
+|
+@204
+;004122C9{Red King Helm<END>}#15
+Red King Helm<END>
+|
+@205
+;004122D7{Sight Arm Magazine<END>}#20
+Sight Arm Magazine<END>
+|
+@206
+;004122EA{Sight Arm Mag<END>}#15
+Sight Arm Mag<END>
+|
+@207
+;004122F8{L-King Resuko Pad<END>}#19
+L-King Resuko Pad<END>
+|
+@208
+;0041230A{L-Rd King Pad<END>}#15
+L-Rd King Pad<END>
+|
+@209
+;00412318{R-King Resuko Pad<END>}#19
+R-King Resuko Pad<END>
+|
+@210
+;0041232A{R-Rd King Pad<END>}#15
+R-Rd King Pad<END>
+|
+@211
+;00412338{King Rekuso Foot<END>}#18
+King Rekuso Foot<END>
+|
+@212
+;00412349{Red King Foot<END>}#15
+Red King Foot<END>
+|
+@213
+;00412357{Dragon Stand<END>}#14
+Dragon Stand<END>
+|
+@214
+;00412364{Dragon Stand<END>}#14
+Dragon Stand<END>
+|
+@215
+;00412371{Tiger Visor<END>}#13
+Tiger Visor<END>
+|
+@216
+;0041237D{Tiger Visor<END>}#13
+Tiger Visor<END>
+|
+@217
+;00412389{SS Drive Core<END>}#15
+SS Drive Core<END>
+|
+@218
+;00412397{SS Drive Core<END>}#15
+SS Drive Core<END>
+|
+@219
+;004123A5{SS Drive Core<END>}#15
+SS Drive Core<END>
+|
+@220
+;004123B3{SS Drive Core<END>}#15
+SS Drive Core<END>
+|
+@221
+;004123C1{L-Go Shoulder<END>}#15
+L-Go Shoulder<END>
+|
+@222
+;004123CF{L-Go Shoulder<END>}#15
+L-Go Shoulder<END>
+|
+@223
+;004123DD{R-Go Shoulder<END>}#15
+R-Go Shoulder<END>
+|
+@224
+;004123EB{R-Go Shoulder<END>}#15
+R-Go Shoulder<END>
+|
+@225
+;004123F9{Go Foot<END>}#9
+Go Foot<END>
+|
+@226
+;00412401{Go Foot<END>}#9
+Go Foot<END>
+|
+@227
+;00412409{Spike Shot<END>}#12
+Spike Shot<END>
+|
+@228
+;00412414{Spike Shot<END>}#12
+Spike Shot<END>
+|
+@229
+;0041241F{King Blk Dragon Helm<END>}#22
+King Blk Dragon Helm<END>
+|
+@230
+;00412434{Kokuryu Helm<END>}#14
+Kokuryu Helm<END>
+|
+@231
+;00412441{Blitz Arm Barrel<END>}#18
+Blitz Arm Barrel<END>
+|
+@232
+;00412452{Blitz Barrel<END>}#14
+Blitz Barrel<END>
+|
+@233
+;0041245F{L-Black Dragon Pad<END>}#20
+L-Black Dragon Pad<END>
+|
+@234
+;00412472{L-Kokuryu Pad<END>}#15
+L-Kokuryu Pad<END>
+|
+@235
+;00412480{R-Black Dragon Pad<END>}#20
+R-Black Dragon Pad<END>
+|
+@236
+;00412493{R-Kokuryu Pad<END>}#15
+R-Kokuryu Pad<END>
+|
+@237
+;004124A1{L-Arm Tusk<END>}#12
+L-Arm Tusk<END>
+|
+@238
+;004124AC{L-Arm Tusk<END>}#12
+L-Arm Tusk<END>
+|
+@239
+;004124B7{R-Arm Tusk<END>}#12
+R-Arm Tusk<END>
+|
+@240
+;004124C2{R-Arm Tusk<END>}#12
+R-Arm Tusk<END>
+|
+@241
+;004124CD{Black Dragon Foot<END>}#19
+Black Dragon Foot<END>
+|
+@242
+;004124DF{Kokuryu Foot<END>}#14
+Kokuryu Foot<END>
+|
+@243
+;004124EC{Shinobi Visor<END>}#15
+Shinobi Visor<END>
+|
+@244
+;004124FA{Shinobi Visor<END>}#15
+Shinobi Visor<END>
+|
+@245
+;00412508{Blade Grip<END>}#12
+Blade Grip<END>
+|
+@246
+;00412513{Blade Grip<END>}#12
+Blade Grip<END>
+|
+@247
+;0041251E{L-Shinobi Shoulder<END>}#20
+L-Shinobi Shoulder<END>
+|
+@248
+;00412531{L-Shinobi Pad<END>}#15
+L-Shinobi Pad<END>
+|
+@249
+;0041253F{R-Shinobi Shoulder<END>}#20
+R-Shinobi Shoulder<END>
+|
+@250
+;00412552{R-Shinobi Pad<END>}#15
+R-Shinobi Pad<END>
+|
+@251
+;00412560{R-Blade Arm<END>}#13
+R-Blade Arm<END>
+|
+@252
+;0041256C{R-Blade Arm<END>}#13
+R-Blade Arm<END>
+|
+@253
+;00412578{Shinobi Foot<END>}#14
+Shinobi Foot<END>
+|
+@254
+;00412585{Shinobi Foot<END>}#14
+Shinobi Foot<END>
+|
+@255
+;00412592{Fire Visor<END>}#12
+Fire Visor<END>
+|
+@256
+;0041259D{Fire Visor<END>}#12
+Fire Visor<END>
+|
+@257
+;004125A8{Fire Wings<END>}#12
+Fire Wings<END>
+|
+@258
+;004125B3{Fire Wings<END>}#12
+Fire Wings<END>
+|
+@259
+;004125BE{L-Fire Wing<END>}#13
+L-Fire Wing<END>
+|
+@260
+;004125CA{L-Fire Wing<END>}#13
+L-Fire Wing<END>
+|
+@261
+;004125D6{R-Fire Wing<END>}#13
+R-Fire Wing<END>
+|
+@262
+;004125E2{R-Fire Wing<END>}#13
+R-Fire Wing<END>
+|
+@263
+;004125EE{L-Fire Shield<END>}#15
+L-Fire Shield<END>
+|
+@264
+;004125FC{L-Fire Shield<END>}#15
+L-Fire Shield<END>
+|
+@265
+;0041260A{R-Fire Shield<END>}#15
+R-Fire Shield<END>
+|
+@266
+;00412618{R-Fire Shield<END>}#15
+R-Fire Shield<END>
+|
+@267
+;00412626{Cobalt Foot<END>}#13
+Cobalt Foot<END>
+|
+@268
+;00412632{Cobalt Foot<END>}#13
+Cobalt Foot<END>
+|
+@269
+;0041263E{Drive Shot<END>}#12
+Drive Shot<END>
+|
+@270
+;00412649{Drive Shot<END>}#12
+Drive Shot<END>
+|
+@271
+;00412654{Blaster Sight<END>}#15
+Blaster Sight<END>
+|
+@272
+;00412662{Blaster Sight<END>}#15
+Blaster Sight<END>
+|
+@273
+;00412670{Cartridge Trigger<END>}#19
+Cartridge Trigger<END>
+|
+@274
+;00412682{Case Trigger<END>}#14
+Case Trigger<END>
+|
+@275
+;0041268F{L-Powerful Arm<END>}#16
+L-Powerful Arm<END>
+|
+@276
+;0041269E{L-PowerfulArm<END>}#15
+L-PowerfulArm<END>
+|
+@277
+;004126AC{R-Powerful Arm<END>}#16
+R-Powerful Arm<END>
+|
+@278
+;004126BB{R-PowerfulArm<END>}#15
+R-PowerfulArm<END>
+|
+@279
+;004126C9{Balance Foot<END>}#14
+Balance Foot<END>
+|
+@280
+;004126D6{Balance Foot<END>}#14
+Balance Foot<END>
+|
+@281
+;004126E3{Stealth Drive Shot<END>}#20
+Stealth Drive Shot<END>
+|
+@282
+;004126F6{S. D. Shot<END>}#12
+S. D. Shot<END>
+|
+@283
+;00412701{God Dragon King Helm<END>}#22
+God Dragon King Helm<END>
+|
+@284
+;00412716{Shinryu Helm<END>}#14
+Shinryu Helm<END>
+|
+@285
+;00412723{Pegasus Helm<END>}#14
+Pegasus Helm<END>
+|
+@286
+;00412730{Pegasus Helm<END>}#14
+Pegasus Helm<END>
+|
+@287
+;0041273D{Pegasus Guard<END>}#15
+Pegasus Guard<END>
+|
+@288
+;0041274B{Pegasus Guard<END>}#15
+Pegasus Guard<END>
+|
+@289
+;00412759{Pegasus Wing<END>}#14
+Pegasus Wing<END>
+|
+@290
+;00412766{Pegasus Wing<END>}#14
+Pegasus Wing<END>
+|
+@291
+;00412773{L-Pegasus Shoulder<END>}#20
+L-Pegasus Shoulder<END>
+|
+@292
+;00412786{L-Pegasus Pad<END>}#15
+L-Pegasus Pad<END>
+|
+@293
+;00412794{R-Pegasus Shoulder<END>}#20
+R-Pegasus Shoulder<END>
+|
+@294
+;004127A7{R-Pegasus Pad<END>}#15
+R-Pegasus Pad<END>
+|
+@295
+;004127B5{L-Pegasus Arm<END>}#15
+L-Pegasus Arm<END>
+|
+@296
+;004127C3{L-Pegasus Arm<END>}#15
+L-Pegasus Arm<END>
+|
+@297
+;004127D1{R-Pegasus Arm<END>}#15
+R-Pegasus Arm<END>
+|
+@298
+;004127DF{R-Pegasus Arm<END>}#15
+R-Pegasus Arm<END>
+|
+@299
+;004127ED{Pegasus Foot<END>}#14
+Pegasus Foot<END>
+|
+@300
+;004127FA{Pegasus Foot<END>}#14
+Pegasus Foot<END>
+|
+@301
+;00412807{Stone Visor<END>}#13
+Stone Visor<END>
+|
+@302
+;00412813{Stone Visor<END>}#13
+Stone Visor<END>
+|
+@303
+;0041281F{Stone Barrel<END>}#14
+Stone Barrel<END>
+|
+@304
+;0041282C{Stone Barrel<END>}#14
+Stone Barrel<END>
+|
+@305
+;00412839{Stone Wings<END>}#13
+Stone Wings<END>
+|
+@306
+;00412845{Stone Wings<END>}#13
+Stone Wings<END>
+|
+@307
+;00412851{L-Stone Shield<END>}#16
+L-Stone Shield<END>
+|
+@308
+;00412860{L-Stone Shld<END>}#14
+L-Stone Shld<END>
+|
+@309
+;0041286D{R-Stone Shoulder<END>}#18
+R-Stone Shoulder<END>
+|
+@310
+;0041287E{R-Stone Pad<END>}#13
+R-Stone Pad<END>
+|
+@311
+;0041288A{R-Stone Arm<END>}#13
+R-Stone Arm<END>
+|
+@312
+;00412896{R-Stone Arm<END>}#13
+R-Stone Arm<END>
+|
+@313
+;004128A2{Stone Foot<END>}#12
+Stone Foot<END>
+|
+@314
+;004128AD{Stone Foot<END>}#12
+Stone Foot<END>
+|
+@315
+;004128B8{Cracked B-Daball<END>}#18
+Cracked B-Daball<END>
+|
+@316
+;004128C9{Cracked Ball<END>}#14
+Cracked Ball<END>
+|
+@317
+;004128D6{King Bakuso Helm<END>}#18
+King Bakuso Helm<END>
+|
+@318
+;004128E7{Bl King Helm<END>}#14
+Bl King Helm<END>
+|
+@319
+;004128F4{Sight Arm Barrel<END>}#18
+Sight Arm Barrel<END>
+|
+@320
+;00412905{Sight Barrel<END>}#14
+Sight Barrel<END>
+|
+@321
+;00412912{L-King Bakuso Pad<END>}#19
+L-King Bakuso Pad<END>
+|
+@322
+;00412924{L-Bl King Pad<END>}#15
+L-Bl King Pad<END>
+|
+@323
+;00412932{R-King Bakuso Pad<END>}#19
+R-King Bakuso Pad<END>
+|
+@324
+;00412944{R-Bl King Pad<END>}#15
+R-Bl King Pad<END>
+|
+@325
+;00412952{L-Arm Claw<END>}#12
+L-Arm Claw<END>
+|
+@326
+;0041295D{L-Arm Claw<END>}#12
+L-Arm Claw<END>
+|
+@327
+;00412968{R-Arm Claw<END>}#12
+R-Arm Claw<END>
+|
+@328
+;00412973{R-Arm Claw<END>}#12
+R-Arm Claw<END>
+|
+@329
+;0041297E{King Bakuso Foot<END>}#18
+King Bakuso Foot<END>
+|
+@330
+;0041298F{Bl King Foot<END>}#14
+Bl King Foot<END>
+|
+@331
+;0041299C{Tarantula Helm<END>}#16
+Tarantula Helm<END>
+|
+@332
+;004129AB{TarantulaHelm<END>}#15
+TarantulaHelm<END>
+|
+@333
+;004129B9{Tarantula Grip<END>}#16
+Tarantula Grip<END>
+|
+@334
+;004129C8{TarantulaGrip<END>}#15
+TarantulaGrip<END>
+|
+@335
+;004129D6{L-Tarantula Pad<END>}#17
+L-Tarantula Pad<END>
+|
+@336
+;004129E6{L-TarantuPad<END>}#14
+L-TarantuPad<END>
+|
+@337
+;004129F3{R-Tarantula Pad<END>}#17
+R-Tarantula Pad<END>
+|
+@338
+;00412A03{R-TarantuPad<END>}#14
+R-TarantuPad<END>
+|
+@339
+;00412A10{Tarantula Foot<END>}#16
+Tarantula Foot<END>
+|
+@340
+;00412A1F{TarantulaFoot<END>}#15
+TarantulaFoot<END>
+|
+@341
+;00412A2D{King Bakurekuso Helm<END>}#22
+King Bakurekuso Helm<END>
+|
+@342
+;00412A42{Sp King Helm<END>}#14
+Sp King Helm<END>
+|
+@343
+;00412A4F{Disguise Helm<END>}#15
+Disguise Helm<END>
+|
+@344
+;00412A5D{Disguise Helm<END>}#15
+Disguise Helm<END>
+|
+@345
+;00412A6B{Disguise Barrel<END>}#17
+Disguise Barrel<END>
+|
+@346
+;00412A7B{Disguise Brrl<END>}#15
+Disguise Brrl<END>
+|
+@347
+;00412A89{Disguise Wings<END>}#16
+Disguise Wings<END>
+|
+@348
+;00412A98{Disguise Wngs<END>}#15
+Disguise Wngs<END>
+|
+@349
+;00412AA6{L-Guard Shoulder<END>}#18
+L-Guard Shoulder<END>
+|
+@350
+;00412AB7{L-Gold Shield<END>}#15
+L-Gold Shield<END>
+|
+@351
+;00412AC5{R-Disguise Pad<END>}#16
+R-Disguise Pad<END>
+|
+@352
+;00412AD4{R-DisguisePad<END>}#15
+R-DisguisePad<END>
+|
+@353
+;00412AE2{R-Sword Arm<END>}#13
+R-Sword Arm<END>
+|
+@354
+;00412AEE{R-Sword Arm<END>}#13
+R-Sword Arm<END>
+|
+@355
+;00412AFA{Disguise Foot<END>}#15
+Disguise Foot<END>
+|
+@356
+;00412B08{Disguise Foot<END>}#15
+Disguise Foot<END>
+|
+@357
+;00412B16{Break Shot<END>}#12
+Break Shot<END>
+|
+@358
+;00412B21{Break Shot<END>}#12
+Break Shot<END>
+|
+@359
+;00412B2C{Berserk Visor<END>}#15
+Berserk Visor<END>
+|
+@360
+;00412B3A{Berserk Visor<END>}#15
+Berserk Visor<END>
+|
+@361
+;00412B48{Powerful Trigger<END>}#18
+Powerful Trigger<END>
+|
+@362
+;00412B59{Powerful Trig<END>}#15
+Powerful Trig<END>
+|
+@363
+;00412B67{L-Berserk Shoulder<END>}#20
+L-Berserk Shoulder<END>
+|
+@364
+;00412B7A{L-Berserk Pad<END>}#15
+L-Berserk Pad<END>
+|
+@365
+;00412B88{R-Berserk Shoulder<END>}#20
+R-Berserk Shoulder<END>
+|
+@366
+;00412B9B{R-Berserk Pad<END>}#15
+R-Berserk Pad<END>
+|
+@367
+;00412BA9{L-Berserk Arm<END>}#15
+L-Berserk Arm<END>
+|
+@368
+;00412BB7{L-Berserk Arm<END>}#15
+L-Berserk Arm<END>
+|
+@369
+;00412BC5{R-Berserk Arm<END>}#15
+R-Berserk Arm<END>
+|
+@370
+;00412BD3{R-Berserk Arm<END>}#15
+R-Berserk Arm<END>
+|
+@371
+;00412BE1{Berserk Foot<END>}#14
+Berserk Foot<END>
+|
+@372
+;00412BEE{Berserk Foot<END>}#14
+Berserk Foot<END>
+|
+@373
+;00412BFB{Mouse Visor<END>}#13
+Mouse Visor<END>
+|
+@374
+;00412C07{Mouse Visor<END>}#13
+Mouse Visor<END>
+|
+@375
+;00412C13{Cheese Barrel<END>}#15
+Cheese Barrel<END>
+|
+@376
+;00412C21{Cheese Barrel<END>}#15
+Cheese Barrel<END>
+|
+@377
+;00412C2F{Mouse Arms<END>}#12
+Mouse Arms<END>
+|
+@378
+;00412C3A{Mouse Arms<END>}#12
+Mouse Arms<END>
+|
+@379
+;00412C45{Mouse Arms<END>}#12
+Mouse Arms<END>
+|
+@380
+;00412C50{Mouse Arms<END>}#12
+Mouse Arms<END>
+|
+@381
+;00412C5B{Mouse Arms<END>}#12
+Mouse Arms<END>
+|
+@382
+;00412C66{Mouse Arms<END>}#12
+Mouse Arms<END>
+|
+@383
+;00412C71{Mouse Arms<END>}#12
+Mouse Arms<END>
+|
+@384
+;00412C7C{Mouse Arms<END>}#12
+Mouse Arms<END>
+|
+@385
+;00412C87{Mouse Foot<END>}#12
+Mouse Foot<END>
+|
+@386
+;00412C92{Mouse Foot<END>}#12
+Mouse Foot<END>
+|
+@387
+;00412C9D{Duck Visor<END>}#12
+Duck Visor<END>
+|
+@388
+;00412CA8{Duck Visor<END>}#12
+Duck Visor<END>
+|
+@389
+;00412CB3{L-Duck Pad<END>}#12
+L-Duck Pad<END>
+|
+@390
+;00412CBE{L-Duck Pad<END>}#12
+L-Duck Pad<END>
+|
+@391
+;00412CC9{R-Duck Pad<END>}#12
+R-Duck Pad<END>
+|
+@392
+;00412CD4{R-Duck Pad<END>}#12
+R-Duck Pad<END>
+|
+@393
+;00412CDF{Duck Foot<END>}#11
+Duck Foot<END>
+|
+@394
+;00412CE9{Duck Foot<END>}#11
+Duck Foot<END>
+|
+@395
+;00412CF3{Blood Visor<END>}#13
+Blood Visor<END>
+|
+@396
+;00412CFF{Blood Visor<END>}#13
+Blood Visor<END>
+|
+@397
+;00412D0B{Blood Barrel<END>}#14
+Blood Barrel<END>
+|
+@398
+;00412D18{Blood Barrel<END>}#14
+Blood Barrel<END>
+|
+@399
+;00412D25{L-Blood Shoulder<END>}#18
+L-Blood Shoulder<END>
+|
+@400
+;00412D36{L-Blood Pad<END>}#13
+L-Blood Pad<END>
+|
+@401
+;00412D42{R-Blood Shoulder<END>}#18
+R-Blood Shoulder<END>
+|
+@402
+;00412D53{R-Blood Pad<END>}#13
+R-Blood Pad<END>
+|
+@403
+;00412D5F{Blood Foot<END>}#12
+Blood Foot<END>
+|
+@404
+;00412D6A{Blood Foot<END>}#12
+Blood Foot<END>
+|
+@405
+;00412D75{Blizzard Helm<END>}#15
+Blizzard Helm<END>
+|
+@406
+;00412D83{Blizzard Helm<END>}#15
+Blizzard Helm<END>
+|
+@407
+;00412D91{Blizzard Barrel<END>}#17
+Blizzard Barrel<END>
+|
+@408
+;00412DA1{Blizzard Brrl<END>}#15
+Blizzard Brrl<END>
+|
+@409
+;00412DAF{Blizzard Wings<END>}#16
+Blizzard Wings<END>
+|
+@410
+;00412DBE{Blizzard Wngs<END>}#15
+Blizzard Wngs<END>
+|
+@411
+;00412DCC{L-Ice Shield<END>}#14
+L-Ice Shield<END>
+|
+@412
+;00412DD9{L-Ice Shield<END>}#14
+L-Ice Shield<END>
+|
+@413
+;00412DE6{R-Blizzard Pad<END>}#16
+R-Blizzard Pad<END>
+|
+@414
+;00412DF5{R-Blizz Pad<END>}#13
+R-Blizz Pad<END>
+|
+@415
+;00412E01{R-Ice Sword Arm<END>}#17
+R-Ice Sword Arm<END>
+|
+@416
+;00412E11{R-Ice Swd Arm<END>}#15
+R-Ice Swd Arm<END>
+|
+@417
+;00412E1F{Blizzard Foot<END>}#15
+Blizzard Foot<END>
+|
+@418
+;00412E2D{Blizzard Foot<END>}#15
+Blizzard Foot<END>
+|
+@419
+;00412E3B{Eagle Visor<END>}#13
+Eagle Visor<END>
+|
+@420
+;00412E47{Eagle Visor<END>}#13
+Eagle Visor<END>
+|
+@421
+;00412E53{Eagle Wings<END>}#13
+Eagle Wings<END>
+|
+@422
+;00412E5F{Eagle Wings<END>}#13
+Eagle Wings<END>
+|
+@423
+;00412E6B{L-Eagle Shoulder<END>}#18
+L-Eagle Shoulder<END>
+|
+@424
+;00412E7C{L-Eagle Pad<END>}#13
+L-Eagle Pad<END>
+|
+@425
+;00412E88{R-Eagle Shoulder<END>}#18
+R-Eagle Shoulder<END>
+|
+@426
+;00412E99{R-Eagle Pad<END>}#13
+R-Eagle Pad<END>
+|
+@427
+;00412EA5{L-Eagle Arm<END>}#13
+L-Eagle Arm<END>
+|
+@428
+;00412EB1{L-Eagle Arm<END>}#13
+L-Eagle Arm<END>
+|
+@429
+;00412EBD{R-Eagle Arm<END>}#13
+R-Eagle Arm<END>
+|
+@430
+;00412EC9{R-Eagle Arm<END>}#13
+R-Eagle Arm<END>
+|
+@431
+;00412ED5{Eagle Foot<END>}#12
+Eagle Foot<END>
+|
+@432
+;00412EE0{Eagle Foot<END>}#12
+Eagle Foot<END>
+|
+@433
+;00412EEB{Ogre Visor<END>}#12
+Ogre Visor<END>
+|
+@434
+;00412EF6{Ogre Visor<END>}#12
+Ogre Visor<END>
+|
+@435
+;00412F01{Power Trigger<END>}#15
+Power Trigger<END>
+|
+@436
+;00412F0F{Power Trigger<END>}#15
+Power Trigger<END>
+|
+@437
+;00412F1D{L-Break Shoulder<END>}#18
+L-Break Shoulder<END>
+|
+@438
+;00412F2E{L-Break Pad<END>}#13
+L-Break Pad<END>
+|
+@439
+;00412F3A{R-Break Shoulder<END>}#18
+R-Break Shoulder<END>
+|
+@440
+;00412F4B{R-Break Pad<END>}#13
+R-Break Pad<END>
+|
+@441
+;00412F57{L-Break Arm<END>}#13
+L-Break Arm<END>
+|
+@442
+;00412F63{L-Break Arm<END>}#13
+L-Break Arm<END>
+|
+@443
+;00412F6F{R-Break Arm<END>}#13
+R-Break Arm<END>
+|
+@444
+;00412F7B{R-Break Arm<END>}#13
+R-Break Arm<END>
+|
+@445
+;00412F87{Ogre Foot<END>}#11
+Ogre Foot<END>
+|
+@446
+;00412F91{Ogre Foot<END>}#11
+Ogre Foot<END>
+|
+@447
+;00412F9B{Metal Shot<END>}#12
+Metal Shot<END>
+|
+@448
+;00412FA6{Metal Shot<END>}#12
+Metal Shot<END>
+|
+@449
+;00412FB1{Blazing Visor<END>}#15
+Blazing Visor<END>
+|
+@450
+;00412FBF{Blazing Visor<END>}#15
+Blazing Visor<END>
+|
+@451
+;00412FCD{Shoulder Joint<END>}#16
+Shoulder Joint<END>
+|
+@452
+;00412FDC{ShoulderJoint<END>}#15
+ShoulderJoint<END>
+|
+@453
+;00412FEA{L-Power Shoulder<END>}#18
+L-Power Shoulder<END>
+|
+@454
+;00412FFB{L-Power Pad<END>}#13
+L-Power Pad<END>
+|
+@455
+;00413007{R-Power Shoulder<END>}#18
+R-Power Shoulder<END>
+|
+@456
+;00413018{R-Power Pad<END>}#13
+R-Power Pad<END>
+|
+@457
+;00413024{Blazing Foot<END>}#14
+Blazing Foot<END>
+|
+@458
+;00413031{Blazing Foot<END>}#14
+Blazing Foot<END>
+|
+@459
+;0041303E{Proto II Helm<END>}#15
+Proto II Helm<END>
+|
+@460
+;0041304C{Proto II Helm<END>}#15
+Proto II Helm<END>
+|
+@461
+;0041305A{Long Server<END>}#13
+Long Server<END>
+|
+@462
+;00413066{Long Server<END>}#13
+Long Server<END>
+|
+@463
+;00413072{Compact Barrel<END>}#16
+Compact Barrel<END>
+|
+@464
+;00413081{CompactBarrel<END>}#15
+CompactBarrel<END>
+|
+@465
+;0041308F{L-Proto II Pad<END>}#16
+L-Proto II Pad<END>
+|
+@466
+;0041309E{L-Proto 2 Pad<END>}#15
+L-Proto 2 Pad<END>
+|
+@467
+;004130AC{R-Proto II Pad<END>}#16
+R-Proto II Pad<END>
+|
+@468
+;004130BB{R-Proto 2 Pad<END>}#15
+R-Proto 2 Pad<END>
+|
+@469
+;004130C9{L-Multi Shield<END>}#16
+L-Multi Shield<END>
+|
+@470
+;004130D8{L-MultiShield<END>}#15
+L-MultiShield<END>
+|
+@471
+;004130E6{R-Multi Shield<END>}#16
+R-Multi Shield<END>
+|
+@472
+;004130F5{R-MultiShield<END>}#15
+R-MultiShield<END>
+|
+@473
+;00413103{Proto II Foot<END>}#15
+Proto II Foot<END>
+|
+@474
+;00413111{Proto II Foot<END>}#15
+Proto II Foot<END>
+|
+@475
+;0041311F{Proto Stand<END>}#13
+Proto Stand<END>
+|
+@476
+;0041312B{Proto Stand<END>}#13
+Proto Stand<END>
+|
+@477
+;00413137{Venom Visor<END>}#13
+Venom Visor<END>
+|
+@478
+;00413143{Venom Visor<END>}#13
+Venom Visor<END>
+|
+@479
+;0041314F{Venom Magazine<END>}#16
+Venom Magazine<END>
+|
+@480
+;0041315E{Venom Mag<END>}#11
+Venom Mag<END>
+|
+@481
+;00413168{L-Venom Shoulder<END>}#18
+L-Venom Shoulder<END>
+|
+@482
+;00413179{L-Venom Pad<END>}#13
+L-Venom Pad<END>
+|
+@483
+;00413185{R-Venom Shoulder<END>}#18
+R-Venom Shoulder<END>
+|
+@484
+;00413196{R-Venom Pad<END>}#13
+R-Venom Pad<END>
+|
+@485
+;004131A2{L-Venom Arm<END>}#13
+L-Venom Arm<END>
+|
+@486
+;004131AE{L-Venom Arm<END>}#13
+L-Venom Arm<END>
+|
+@487
+;004131BA{R-Venom Arm<END>}#13
+R-Venom Arm<END>
+|
+@488
+;004131C6{R-Venom Arm<END>}#13
+R-Venom Arm<END>
+|
+@489
+;004131D2{Venom Foot<END>}#12
+Venom Foot<END>
+|
+@490
+;004131DD{Venom Foot<END>}#12
+Venom Foot<END>
+|
+@491
+;004131E8{Phoenix Visor<END>}#15
+Phoenix Visor<END>
+|
+@492
+;004131F6{Phoenix Visor<END>}#15
+Phoenix Visor<END>
+|
+@493
+;00413204{Leg Guard<END>}#11
+Leg Guard<END>
+|
+@494
+;0041320E{Leg Guard<END>}#11
+Leg Guard<END>
+|
+@495
+;00413218{Phoenix Wings<END>}#15
+Phoenix Wings<END>
+|
+@496
+;00413226{Phoenix Wings<END>}#15
+Phoenix Wings<END>
+|
+@497
+;00413234{L-Burning Shoulder<END>}#20
+L-Burning Shoulder<END>
+|
+@498
+;00413247{L-Burning Pad<END>}#15
+L-Burning Pad<END>
+|
+@499
+;00413255{R-Burning Shoulder<END>}#20
+R-Burning Shoulder<END>
+|
+@500
+;00413268{R-Burning Pad<END>}#15
+R-Burning Pad<END>
+|
+@501
+;00413276{Phoenix Foot<END>}#14
+Phoenix Foot<END>
+|
+@502
+;00413283{Phoenix Foot<END>}#14
+Phoenix Foot<END>
+|
+@503
+;00413290{Mega Head<END>}#11
+Mega Head<END>
+|
+@504
+;0041329A{Mega Head<END>}#11
+Mega Head<END>
+|
+@505
+;004132A4{<END>}#2
+<END>
+|
+@506
+;004132A5{<END>}#2
+<END>
+|
+@507
+;004132A6{Motor DHB Core<END>}#16
+Motor DHB Core<END>
+|
+@508
+;004132B5{DHB Core<END>}#10
+DHB Core<END>
+|
+@509
+;004132BE{Motor DHB Core<END>}#16
+Motor DHB Core<END>
+|
+@510
+;004132CD{DHB Core<END>}#10
+DHB Core<END>
+|
+@511
+;004132D6{L-Mega Pad<END>}#12
+L-Mega Pad<END>
+|
+@512
+;004132E1{L-Mega Pad<END>}#12
+L-Mega Pad<END>
+|
+@513
+;004132EC{R-Mega Pad<END>}#12
+R-Mega Pad<END>
+|
+@514
+;004132F7{R-Mega Pad<END>}#12
+R-Mega Pad<END>
+|
+@515
+;00413302{L-Mega Gauntlet<END>}#17
+L-Mega Gauntlet<END>
+|
+@516
+;00413312{L-Mega Gaunt<END>}#14
+L-Mega Gaunt<END>
+|
+@517
+;0041331F{R-Mega Gauntlet<END>}#17
+R-Mega Gauntlet<END>
+|
+@518
+;0041332F{R-Mega Gaunt<END>}#14
+R-Mega Gaunt<END>
+|
+@519
+;0041333C{Mega Foot<END>}#11
+Mega Foot<END>
+|
+@520
+;00413346{Mega Foot<END>}#11
+Mega Foot<END>
+|
+@521
+;00413350{Speed Shot<END>}#12
+Speed Shot<END>
+|
+@522
+;0041335B{Speed Shot<END>}#12
+Speed Shot<END>
+|
+@523
+;00413366{Dog Visor<END>}#11
+Dog Visor<END>
+|
+@524
+;00413370{Dog Visor<END>}#11
+Dog Visor<END>
+|
+@525
+;0041337A{L-Dog Pad<END>}#11
+L-Dog Pad<END>
+|
+@526
+;00413384{L-Dog Pad<END>}#11
+L-Dog Pad<END>
+|
+@527
+;0041338E{R-Dog Pad<END>}#11
+R-Dog Pad<END>
+|
+@528
+;00413398{R-Dog Pad<END>}#11
+R-Dog Pad<END>
+|
+@529
+;004133A2{Dog Foot<END>}#10
+Dog Foot<END>
+|
+@530
+;004133AB{Dog Foot<END>}#10
+Dog Foot<END>
+|
+@531
+;004133B4{Yokusai Visor<END>}#15
+Yokusai Visor<END>
+|
+@532
+;004133C2{Yokusai Visor<END>}#15
+Yokusai Visor<END>
+|
+@533
+;004133D0{Yokusai Guard<END>}#15
+Yokusai Guard<END>
+|
+@534
+;004133DE{Yokusai Guard<END>}#15
+Yokusai Guard<END>
+|
+@535
+;004133EC{Yokusai Trigger<END>}#17
+Yokusai Trigger<END>
+|
+@536
+;004133FC{Yokusai Trig<END>}#14
+Yokusai Trig<END>
+|
+@537
+;00413409{L-Yokusai Shoulder<END>}#20
+L-Yokusai Shoulder<END>
+|
+@538
+;0041341C{L-Yokusai Pad<END>}#15
+L-Yokusai Pad<END>
+|
+@539
+;0041342A{R-Yokusai Shoulder<END>}#20
+R-Yokusai Shoulder<END>
+|
+@540
+;0041343D{R-Yokusai Pad<END>}#15
+R-Yokusai Pad<END>
+|
+@541
+;0041344B{Yokusai Talon<END>}#15
+Yokusai Talon<END>
+|
+@542
+;00413459{Yokusai Talon<END>}#15
+Yokusai Talon<END>
+|
+@543
+;00413467{Yokusai Foot Stand<END>}#20
+Yokusai Foot Stand<END>
+|
+@544
+;0041347A{Yokusai Stand<END>}#15
+Yokusai Stand<END>
+|
+@545
+;00413488{Wing Sword Visor<END>}#18
+Wing Sword Visor<END>
+|
+@546
+;00413499{Wng Swd Visor<END>}#15
+Wng Swd Visor<END>
+|
+@547
+;004134A7{Wing Sword Guard<END>}#18
+Wing Sword Guard<END>
+|
+@548
+;004134B8{Wng Swd Grd<END>}#13
+Wng Swd Grd<END>
+|
+@549
+;004134C4{Wing Trigger<END>}#14
+Wing Trigger<END>
+|
+@550
+;004134D1{Wing Trigger<END>}#14
+Wing Trigger<END>
+|
+@551
+;004134DE{L-Shadow Shoulder<END>}#19
+L-Shadow Shoulder<END>
+|
+@552
+;004134F0{L-Shadow Pad<END>}#14
+L-Shadow Pad<END>
+|
+@553
+;004134FD{R-Shadow Shoulder<END>}#19
+R-Shadow Shoulder<END>
+|
+@554
+;0041350F{R-Shadow Pad<END>}#14
+R-Shadow Pad<END>
+|
+@555
+;0041351C{Wing Sword Talon<END>}#18
+Wing Sword Talon<END>
+|
+@556
+;0041352D{Wng Swd Talon<END>}#15
+Wng Swd Talon<END>
+|
+@557
+;0041353B{Foot Stand<END>}#12
+Foot Stand<END>
+|
+@558
+;00413546{Foot Stand<END>}#12
+Foot Stand<END>
+|
+@559
+;00413551{Thunder Assault Helm<END>}#22
+Thunder Assault Helm<END>
+|
+@560
+;00413566{Thunder Helm<END>}#14
+Thunder Helm<END>
+|
+@561
+;00413573{Thunder Guard<END>}#15
+Thunder Guard<END>
+|
+@562
+;00413581{Thunder Guard<END>}#15
+Thunder Guard<END>
+|
+@563
+;0041358F{Thunder Trigger<END>}#17
+Thunder Trigger<END>
+|
+@564
+;0041359F{Thunder Trig<END>}#14
+Thunder Trig<END>
+|
+@565
+;004135AC{L-Black Shoulder<END>}#18
+L-Black Shoulder<END>
+|
+@566
+;004135BD{L-Black Pad<END>}#13
+L-Black Pad<END>
+|
+@567
+;004135C9{R-Black Shoulder<END>}#18
+R-Black Shoulder<END>
+|
+@568
+;004135DA{R-Black Pad<END>}#13
+R-Black Pad<END>
+|
+@569
+;004135E6{Thunder Talon<END>}#15
+Thunder Talon<END>
+|
+@570
+;004135F4{Thunder Talon<END>}#15
+Thunder Talon<END>
+|
+@571
+;00413602{Heel Stand<END>}#12
+Heel Stand<END>
+|
+@572
+;0041360D{Heel Stand<END>}#12
+Heel Stand<END>
+|
+@573
+;00413618{Splitting Shot<END>}#16
+Splitting Shot<END>
+|
+@574
+;00413627{SplittingShot<END>}#15
+SplittingShot<END>
+|
+@575
+;00413635{Magic Visor<END>}#13
+Magic Visor<END>
+|
+@576
+;00413641{Magic Visor<END>}#13
+Magic Visor<END>
+|
+@577
+;0041364D{L-Magic Shoulder<END>}#18
+L-Magic Shoulder<END>
+|
+@578
+;0041365E{L-Magic Pad<END>}#13
+L-Magic Pad<END>
+|
+@579
+;0041366A{R-Magic Shoulder<END>}#18
+R-Magic Shoulder<END>
+|
+@580
+;0041367B{R-Magic Pad<END>}#13
+R-Magic Pad<END>
+|
+@581
+;00413687{L- Magic Arm<END>}#14
+L- Magic Arm<END>
+|
+@582
+;00413694{L- Magic Arm<END>}#14
+L- Magic Arm<END>
+|
+@583
+;004136A1{R-Magic Arm<END>}#13
+R-Magic Arm<END>
+|
+@584
+;004136AD{R-Magic Arm<END>}#13
+R-Magic Arm<END>
+|
+@585
+;004136B9{Magic Foot<END>}#12
+Magic Foot<END>
+|
+@586
+;004136C4{Magic Foot<END>}#12
+Magic Foot<END>
+|
+@587
+;004136CF{Hades Visor<END>}#13
+Hades Visor<END>
+|
+@588
+;004136DB{Hades Visor<END>}#13
+Hades Visor<END>
+|
+@589
+;004136E7{Magazine Grip<END>}#15
+Magazine Grip<END>
+|
+@590
+;004136F5{Magazine Grip<END>}#15
+Magazine Grip<END>
+|
+@591
+;00413703{Revolver Core<END>}#15
+Revolver Core<END>
+|
+@592
+;00413711{Revolver Core<END>}#15
+Revolver Core<END>
+|
+@593
+;0041371F{Revolver Core<END>}#15
+Revolver Core<END>
+|
+@594
+;0041372D{Revolver Core<END>}#15
+Revolver Core<END>
+|
+@595
+;0041373B{L-Hades Shoulder<END>}#18
+L-Hades Shoulder<END>
+|
+@596
+;0041374C{L-Hades Pad<END>}#13
+L-Hades Pad<END>
+|
+@597
+;00413758{R-Hades Shoulder<END>}#18
+R-Hades Shoulder<END>
+|
+@598
+;00413769{R-Hades Pad<END>}#13
+R-Hades Pad<END>
+|
+@599
+;00413775{Hades Foot<END>}#12
+Hades Foot<END>
+|
+@600
+;00413780{Hades Foot<END>}#12
+Hades Foot<END>
+|
+@601
+;0041378B{Stealth Shot<END>}#14
+Stealth Shot<END>
+|
+@602
+;00413798{Stealth Shot<END>}#14
+Stealth Shot<END>
+|
+@603
+;004137A5{Heaven Visor<END>}#14
+Heaven Visor<END>
+|
+@604
+;004137B2{Heaven Visor<END>}#14
+Heaven Visor<END>
+|
+@605
+;004137BF{Magazine Grip II<END>}#18
+Magazine Grip II<END>
+|
+@606
+;004137D0{Mag Grip II<END>}#13
+Mag Grip II<END>
+|
+@607
+;004137DC{Revolver Core<END>}#15
+Revolver Core<END>
+|
+@608
+;004137EA{Revolver Core<END>}#15
+Revolver Core<END>
+|
+@609
+;004137F8{Revolver Core<END>}#15
+Revolver Core<END>
+|
+@610
+;00413806{Revolver Core<END>}#15
+Revolver Core<END>
+|
+@611
+;00413814{L-Heaven Shoulder<END>}#19
+L-Heaven Shoulder<END>
+|
+@612
+;00413826{L-Heaven Pad<END>}#14
+L-Heaven Pad<END>
+|
+@613
+;00413833{R-Heaven Shoulder<END>}#19
+R-Heaven Shoulder<END>
+|
+@614
+;00413845{R-Heaven Pad<END>}#14
+R-Heaven Pad<END>
+|
+@615
+;00413852{Heaven Foot<END>}#13
+Heaven Foot<END>
+|
+@616
+;0041385E{Heaven Foot<END>}#13
+Heaven Foot<END>
+|
+@617
+;0041386A{Legend Sight<END>}#14
+Legend Sight<END>
+|
+@618
+;00413877{Legend Sight<END>}#14
+Legend Sight<END>
+|
+@619
+;00413884{Cartridge Trigger<END>}#19
+Cartridge Trigger<END>
+|
+@620
+;00413896{Case Trigger<END>}#14
+Case Trigger<END>
+|
+@621
+;004138A3{L-Powerful Arm<END>}#16
+L-Powerful Arm<END>
+|
+@622
+;004138B2{L-PowerfulArm<END>}#15
+L-PowerfulArm<END>
+|
+@623
+;004138C0{R-Powerful Arm<END>}#16
+R-Powerful Arm<END>
+|
+@624
+;004138CF{R-PowerfulArm<END>}#15
+R-PowerfulArm<END>
+|
+@625
+;004138DD{Legend Foot<END>}#13
+Legend Foot<END>
+|
+@626
+;004138E9{Legend Foot<END>}#13
+Legend Foot<END>
+|
+@627
+;004138F5{Stealth Drive Shot<END>}#20
+Stealth Drive Shot<END>
+|
+@628
+;00413908{S. D. Shot<END>}#12
+S. D. Shot<END>
+|
+@629
+;00413913{Lord Visor<END>}#12
+Lord Visor<END>
+|
+@630
+;0041391E{Lord Visor<END>}#12
+Lord Visor<END>
+|
+@631
+;00413929{Drive Changing Core<END>}#21
+Drive Changing Core<END>
+|
+@632
+;0041393D{D. C. Core<END>}#12
+D. C. Core<END>
+|
+@633
+;00413948{L-Lord Pad<END>}#12
+L-Lord Pad<END>
+|
+@634
+;00413953{L-Lord Pad<END>}#12
+L-Lord Pad<END>
+|
+@635
+;0041395E{R-Lord Pad<END>}#12
+R-Lord Pad<END>
+|
+@636
+;00413969{R-Lord Pad<END>}#12
+R-Lord Pad<END>
+|
+@637
+;00413974{Lord Foot<END>}#11
+Lord Foot<END>
+|
+@638
+;0041397E{Lord Foot<END>}#11
+Lord Foot<END>
+|
+@639
+;00413988{Saber Loader<END>}#14
+Saber Loader<END>
+|
+@640
+;00413995{Saber Loader<END>}#14
+Saber Loader<END>
+|
+@641
+;004139A2{Long Wing Trigger<END>}#19
+Long Wing Trigger<END>
+|
+@642
+;004139B4{Long Wng Trig<END>}#15
+Long Wng Trig<END>
+|
+@643
+;004139C2{Saber Barrel<END>}#14
+Saber Barrel<END>
+|
+@644
+;004139CF{Saber Barrel<END>}#14
+Saber Barrel<END>
+|
+@645
+;004139DC{L-Shield Stand<END>}#16
+L-Shield Stand<END>
+|
+@646
+;004139EB{L-ShiedStand<END>}#14
+L-ShiedStand<END>
+|
+@647
+;004139F8{R-Shield Stand<END>}#16
+R-Shield Stand<END>
+|
+@648
+;00413A07{R-ShiedStand<END>}#14
+R-ShiedStand<END>
+|
+@649
+;00413A14{PlasticBottle Mag II<END>}#22
+PlasticBottle Mag II<END>
+|
+@650
+;00413A29{P.B. Mag II<END>}#13
+P.B. Mag II<END>
+|

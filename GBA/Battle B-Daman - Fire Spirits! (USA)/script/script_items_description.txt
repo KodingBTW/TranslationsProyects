@@ -1,0 +1,8064 @@
+@1
+;00405320{This visor is for the<END>}#22
+This visor is for the<END>
+|
+@2
+;00405336{Blazing Kahn! Take aim<END>}#24
+Blazing Kahn! Take aim<END>
+|
+@3
+;0040534D{with its three, pointy<END>}#24
+with its three, pointy<END>
+|
+@4
+;00405364{horns!<END>}#8
+horns!<END>
+|
+@5
+;0040536B{This visor is for the King<END>}#28
+This visor is for the King<END>
+|
+@6
+;00405386{Bakuso! It's based on a<END>}#25
+Bakuso! It's based on a<END>
+|
+@7
+;0040539E{dragon design. Take aim <END>}#26
+dragon design. Take aim <END>
+|
+@8
+;004053B7{with the sharp elongated<END>}#26
+with the sharp elongated<END>
+|
+@9
+;004053D0{sight!<END>}#8
+sight!<END>
+|
+@10
+;004053D7{This visor is for the King<END>}#28
+This visor is for the King<END>
+|
+@11
+;004053F2{Rekuso! It's based on a<END>}#25
+Rekuso! It's based on a<END>
+|
+@12
+;0040540A{dragon design. Take aim<END>}#25
+dragon design. Take aim<END>
+|
+@13
+;00405422{a the sight that extends<END>}#26
+a the sight that extends<END>
+|
+@14
+;0040543B{in both directions!<END>}#21
+in both directions!<END>
+|
+@15
+;0040544F{Take aim with the double<END>}#26
+Take aim with the double<END>
+|
+@16
+;00405468{sight of the combined King<END>}#28
+sight of the combined King<END>
+|
+@17
+;00405483{Bakuso and King Rekuso<END>}#24
+Bakuso and King Rekuso<END>
+|
+@18
+;0040549A{Visors.<END>}#9
+Visors.<END>
+|
+@19
+;004054A2{<END>}#2
+<END>
+|
+@20
+;004054A3{# This part can only be<END>}#25
+# This part can only be<END>
+|
+@21
+;004054BB{used when you have both<END>}#25
+used when you have both<END>
+|
+@22
+;004054D3{the King Bakuso and the<END>}#25
+the King Bakuso and the<END>
+|
+@23
+;004054EB{King Rekuso Visors.<END>}#21
+King Rekuso Visors.<END>
+|
+@24
+;004054FF{<END>}#2
+<END>
+|
+@25
+;00405500{When either the King<END>}#22
+When either the King<END>
+|
+@26
+;00405515{Bakuso Visor or the King<END>}#26
+Bakuso Visor or the King<END>
+|
+@27
+;0040552E{Rekuso Visor is lost, the<END>}#27
+Rekuso Visor is lost, the<END>
+|
+@28
+;00405548{other will be lost, too.<END>}#26
+other will be lost, too.<END>
+|
+@29
+;00405561{This visor is for the Wing<END>}#28
+This visor is for the Wing<END>
+|
+@30
+;0040557C{Sword! It has an<END>}#18
+Sword! It has an<END>
+|
+@31
+;0040558D{impressive ninja-star mark<END>}#28
+impressive ninja-star mark<END>
+|
+@32
+;004055A8{on its forehead.<END>}#18
+on its forehead.<END>
+|
+@33
+;004055B9{<END>}#2
+<END>
+|
+@34
+;004055BA{# This item is part of a<END>}#26
+# This item is part of a<END>
+|
+@35
+;004055D3{set. If you equip it, the<END>}#27
+set. If you equip it, the<END>
+|
+@36
+;004055ED{Wing Sword Guard will be<END>}#26
+Wing Sword Guard will be<END>
+|
+@37
+;00405606{equipped automatically as<END>}#27
+equipped automatically as<END>
+|
+@38
+;00405620{well.<END>}#7
+well.<END>
+|
+@39
+;00405626{<END>}#2
+<END>
+|
+@40
+;00405627{If you buy this part, the<END>}#27
+If you buy this part, the<END>
+|
+@41
+;00405641{Wing Sword Guard will come<END>}#28
+Wing Sword Guard will come<END>
+|
+@42
+;0040565C{with it.<END>}#10
+with it.<END>
+|
+@43
+;00405665{<END>}#2
+<END>
+|
+@44
+;00405666{If you sell this part, the<END>}#28
+If you sell this part, the<END>
+|
+@45
+;00405681{Wing Sword Guard will be<END>}#26
+Wing Sword Guard will be<END>
+|
+@46
+;0040569A{sold as well.<END>}#15
+sold as well.<END>
+|
+@47
+;004056A8{This visor is for the Mega<END>}#28
+This visor is for the Mega<END>
+|
+@48
+;004056C3{Diabros! Its blazing<END>}#22
+Diabros! Its blazing<END>
+|
+@49
+;004056D8{flame-like design gives<END>}#25
+flame-like design gives<END>
+|
+@50
+;004056F0{the impression of demons!<END>}#27
+the impression of demons!<END>
+|
+@51
+;0040570A{This visor is for the Lord<END>}#28
+This visor is for the Lord<END>
+|
+@52
+;00405725{Cavalry! Its firm body is<END>}#27
+Cavalry! Its firm body is<END>
+|
+@53
+;0040573F{shaped like a knight's<END>}#24
+shaped like a knight's<END>
+|
+@54
+;00405756{helmet!<END>}#9
+helmet!<END>
+|
+@55
+;0040575E{This visor is for the<END>}#23
+This visor is for the<END>
+|
+@56
+;00405774{Proto II Armor! Its design<END>}#28
+Proto II Armor! Its design<END>
+|
+@57
+;0040578F{is simple and user<END>}#20
+is simple and user<END>
+|
+@58
+;004057A2{friendly.<END>}#11
+friendly.<END>
+|
+@59
+;004057AC{This visor is for the<END>}#23
+This visor is for the<END>
+|
+@60
+;004057C2{Cobalt Saber Fire! Take<END>}#25
+Cobalt Saber Fire! Take<END>
+|
+@61
+;004057DA{aim with its elongated<END>}#24
+aim with its elongated<END>
+|
+@62
+;004057F1{fire sight and blast-off<END>}#26
+fire sight and blast-off<END>
+|
+@63
+;0040580A{power-shots!<END>}#14
+power-shots!<END>
+|
+@64
+;00405817{This visor is for the<END>}#23
+This visor is for the<END>
+|
+@65
+;0040582D{Chrome Raven Cyclone!<END>}#23
+Chrome Raven Cyclone!<END>
+|
+@66
+;00405843{Its streamlined design<END>}#24
+Its streamlined design<END>
+|
+@67
+;0040585A{reduces air friction.<END>}#23
+reduces air friction.<END>
+|
+@68
+;00405870{This visor is for the<END>}#23
+This visor is for the<END>
+|
+@69
+;00405886{Break Ogre! Its tusk-like<END>}#27
+Break Ogre! Its tusk-like<END>
+|
+@70
+;004058A0{side parts make this visor<END>}#28
+side parts make this visor<END>
+|
+@71
+;004058BB{unique!<END>}#9
+unique!<END>
+|
+@72
+;004058C3{This visor is for the Gill<END>}#28
+This visor is for the Gill<END>
+|
+@73
+;004058DE{Scorpion! Take aim with<END>}#25
+Scorpion! Take aim with<END>
+|
+@74
+;004058F6{its stinger-like horn, and<END>}#28
+its stinger-like horn, and<END>
+|
+@75
+;00405911{engage in rapid-fire!<END>}#23
+engage in rapid-fire!<END>
+|
+@76
+;00405927{This visor is for the<END>}#23
+This visor is for the<END>
+|
+@77
+;0040593D{Revolver Hades! Its<END>}#21
+Revolver Hades! Its<END>
+|
+@78
+;00405951{jet-black body and<END>}#20
+jet-black body and<END>
+|
+@79
+;00405964{snow-white sight make for<END>}#27
+snow-white sight make for<END>
+|
+@80
+;0040597E{a striking contrast!<END>}#22
+a striking contrast!<END>
+|
+@81
+;00405993{This tiger-shaped visor is<END>}#28
+This tiger-shaped visor is<END>
+|
+@82
+;004059AE{for the Go-Tiger! It's<END>}#24
+for the Go-Tiger! It's<END>
+|
+@83
+;004059C5{black-and-white striped<END>}#25
+black-and-white striped<END>
+|
+@84
+;004059DD{pattern is reminiscent of<END>}#27
+pattern is reminiscent of<END>
+|
+@85
+;004059F7{a white tiger.<END>}#16
+a white tiger.<END>
+|
+@86
+;00405A06{This visor is for the<END>}#23
+This visor is for the<END>
+|
+@87
+;00405A1C{Impact Shark. It actually<END>}#27
+Impact Shark. It actually<END>
+|
+@88
+;00405A36{looks like a shark! Take<END>}#26
+looks like a shark! Take<END>
+|
+@89
+;00405A4F{aim with the sight<END>}#20
+aim with the sight<END>
+|
+@90
+;00405A62{sticking out of its head!<END>}#27
+sticking out of its head!<END>
+|
+@91
+;00405A7C{This visor is for the Wing<END>}#28
+This visor is for the Wing<END>
+|
+@92
+;00405A97{Sword Thunder and it's<END>}#24
+Sword Thunder and it's<END>
+|
+@93
+;00405AAE{designed for speed! The<END>}#25
+designed for speed! The<END>
+|
+@94
+;00405AC6{wing-like parts attached<END>}#26
+wing-like parts attached<END>
+|
+@95
+;00405ADF{to the visor are conducive<END>}#28
+to the visor are conducive<END>
+|
+@96
+;00405AFA{to speed!<END>}#11
+to speed!<END>
+|
+@97
+;00405B04{<END>}#2
+<END>
+|
+@98
+;00405B05{# This item is part of a<END>}#26
+# This item is part of a<END>
+|
+@99
+;00405B1E{set. If you equip it, the<END>}#27
+set. If you equip it, the<END>
+|
+@100
+;00405B38{Thunder Guard will be<END>}#23
+Thunder Guard will be<END>
+|
+@101
+;00405B4E{equipped automatically as<END>}#27
+equipped automatically as<END>
+|
+@102
+;00405B68{well.<END>}#7
+well.<END>
+|
+@103
+;00405B6E{<END>}#2
+<END>
+|
+@104
+;00405B6F{If you buy this part, the<END>}#27
+If you buy this part, the<END>
+|
+@105
+;00405B89{Thunder Guard will come<END>}#25
+Thunder Guard will come<END>
+|
+@106
+;00405BA1{with it.<END>}#10
+with it.<END>
+|
+@107
+;00405BAA{<END>}#2
+<END>
+|
+@108
+;00405BAB{If you sell this part, the<END>}#28
+If you sell this part, the<END>
+|
+@109
+;00405BC6{Thunder Guard will be sold<END>}#28
+Thunder Guard will be sold<END>
+|
+@110
+;00405BE1{automatically as well.<END>}#24
+automatically as well.<END>
+|
+@111
+;00405BF8{This is the sight for the<END>}#27
+This is the sight for the<END>
+|
+@112
+;00405C12{Cobalt Blaster! The long<END>}#26
+Cobalt Blaster! The long<END>
+|
+@113
+;00405C2B{sharp sight makes taking<END>}#26
+sharp sight makes taking<END>
+|
+@114
+;00405C44{aim a breeze!<END>}#15
+aim a breeze!<END>
+|
+@115
+;00405C52{This is the sight for the<END>}#27
+This is the sight for the<END>
+|
+@116
+;00405C6C{Chrome Harrier! It's<END>}#22
+Chrome Harrier! It's<END>
+|
+@117
+;00405C81{designed to reduce air<END>}#24
+designed to reduce air<END>
+|
+@118
+;00405C98{friction and allows you to<END>}#28
+friction and allows you to<END>
+|
+@119
+;00405CB3{be quick on your feet!<END>}#24
+be quick on your feet!<END>
+|
+@120
+;00405CCA{This visor is for the<END>}#23
+This visor is for the<END>
+|
+@121
+;00405CE0{Wolfman! It has a wolf<END>}#24
+Wolfman! It has a wolf<END>
+|
+@122
+;00405CF7{design. This sharp shiny <END>}#27
+design. This sharp shiny <END>
+|
+@123
+;00405D11{visor will help you catch<END>}#27
+visor will help you catch<END>
+|
+@124
+;00405D2B{any opponent.<END>}#15
+any opponent.<END>
+|
+@125
+;00405D39{This visor is for the<END>}#23
+This visor is for the<END>
+|
+@126
+;00405D4F{Garuda, which is designed<END>}#27
+Garuda, which is designed<END>
+|
+@127
+;00405D69{like the mythical creature<END>}#28
+like the mythical creature<END>
+|
+@128
+;00405D84{of the same name! It has a<END>}#28
+of the same name! It has a<END>
+|
+@129
+;00405D9F{big, scary beak, and its<END>}#26
+big, scary beak, and its<END>
+|
+@130
+;00405DB8{piercing eyes glare<END>}#21
+piercing eyes glare<END>
+|
+@131
+;00405DCC{fiercely.<END>}#11
+fiercely.<END>
+|
+@132
+;00405DD6{This visor is for the<END>}#23
+This visor is for the<END>
+|
+@133
+;00405DEC{Tarantula! Its two horns<END>}#26
+Tarantula! Its two horns<END>
+|
+@134
+;00405E05{act as a sight to take<END>}#24
+act as a sight to take<END>
+|
+@135
+;00405E1C{aim at your opponent!<END>}#23
+aim at your opponent!<END>
+|
+@136
+;00405E32{This visor is for the<END>}#23
+This visor is for the<END>
+|
+@137
+;00405E48{Asura! It has a fully-<END>}#24
+Asura! It has a fully-<END>
+|
+@138
+;00405E5F{armored Samurai design!<END>}#25
+armored Samurai design!<END>
+|
+@139
+;00405E77{Its two, big horns spread<END>}#27
+Its two, big horns spread<END>
+|
+@140
+;00405E91{out widely in both<END>}#20
+out widely in both<END>
+|
+@141
+;00405EA4{directions.<END>}#13
+directions.<END>
+|
+@142
+;00405EB0{This visor is for the<END>}#23
+This visor is for the<END>
+|
+@143
+;00405EC6{Clown! It's a big <END>}#20
+Clown! It's a big <END>
+|
+@144
+;00405ED9{clown-like visor. The hat<END>}#27
+clown-like visor. The hat<END>
+|
+@145
+;00405EF3{part is plenty big, so you<END>}#28
+part is plenty big, so you<END>
+|
+@146
+;00405F0E{can grab it easily.<END>}#21
+can grab it easily.<END>
+|
+@147
+;00405F22{This visor is for the<END>}#23
+This visor is for the<END>
+|
+@148
+;00405F38{Disguise, and it looks<END>}#24
+Disguise, and it looks<END>
+|
+@149
+;00405F4F{like a crown! Take aim<END>}#24
+like a crown! Take aim<END>
+|
+@150
+;00405F66{with the protruding sight!<END>}#28
+with the protruding sight!<END>
+|
+@151
+;00405F81{This visor is for the<END>}#23
+This visor is for the<END>
+|
+@152
+;00405F97{Cheesy Mouse and looks<END>}#24
+Cheesy Mouse and looks<END>
+|
+@153
+;00405FAE{like a mouse! Its cute<END>}#24
+like a mouse! Its cute<END>
+|
+@154
+;00405FC5{mouse-like face will make<END>}#27
+mouse-like face will make<END>
+|
+@155
+;00405FDF{your opponent lower his<END>}#25
+your opponent lower his<END>
+|
+@156
+;00405FF7{guard!<END>}#8
+guard!<END>
+|
+@157
+;00405FFE{This visor is for the<END>}#23
+This visor is for the<END>
+|
+@158
+;00406014{Powered Duck and actually<END>}#27
+Powered Duck and actually<END>
+|
+@159
+;0040602E{looks like a duck! Its<END>}#24
+looks like a duck! Its<END>
+|
+@160
+;00406045{cute plush toy face will<END>}#26
+cute plush toy face will<END>
+|
+@161
+;0040605E{make your opponent lower<END>}#26
+make your opponent lower<END>
+|
+@162
+;00406077{his guard!<END>}#12
+his guard!<END>
+|
+@163
+;00406082{This visor is for the<END>}#23
+This visor is for the<END>
+|
+@164
+;00406098{Mechanical Dog and has a<END>}#26
+Mechanical Dog and has a<END>
+|
+@165
+;004060B1{dog design! Its cute face<END>}#27
+dog design! Its cute face<END>
+|
+@166
+;004060CB{with a bone in its mouth<END>}#26
+with a bone in its mouth<END>
+|
+@167
+;004060E4{will make your opponent<END>}#25
+will make your opponent<END>
+|
+@168
+;004060FC{lower his guard!<END>}#18
+lower his guard!<END>
+|
+@169
+;0040610D{This visor is for the<END>}#23
+This visor is for the<END>
+|
+@170
+;00406123{Kotetsu and is streamlined<END>}#28
+Kotetsu and is streamlined<END>
+|
+@171
+;0040613E{to reduce air friction! It<END>}#28
+to reduce air friction! It<END>
+|
+@172
+;00406159{doesn't make any noise at<END>}#27
+doesn't make any noise at<END>
+|
+@173
+;00406173{all and moves smoothly.<END>}#25
+all and moves smoothly.<END>
+|
+@174
+;0040618B{This visor is for the Gun<END>}#27
+This visor is for the Gun<END>
+|
+@175
+;004061A5{Breaker! Its two big horns<END>}#28
+Breaker! Its two big horns<END>
+|
+@176
+;004061C0{act as a sight. Take aim <END>}#27
+act as a sight. Take aim <END>
+|
+@177
+;004061DA{at your opponent by<END>}#21
+at your opponent by<END>
+|
+@178
+;004061EE{looking between the horns<END>}#27
+looking between the horns<END>
+|
+@179
+;00406208{and attack!<END>}#13
+and attack!<END>
+|
+@180
+;00406214{This visor is for the<END>}#23
+This visor is for the<END>
+|
+@181
+;0040622A{Houou Fudo Maru! Its<END>}#22
+Houou Fudo Maru! Its<END>
+|
+@182
+;0040623F{impressive design reminds<END>}#27
+impressive design reminds<END>
+|
+@183
+;00406259{you of a phoenix spreading<END>}#28
+you of a phoenix spreading<END>
+|
+@184
+;00406274{its wings.<END>}#12
+its wings.<END>
+|
+@185
+;0040627F{This visor is for the<END>}#23
+This visor is for the<END>
+|
+@186
+;00406295{Garnet Wind! Its<END>}#18
+Garnet Wind! Its<END>
+|
+@187
+;004062A6{protruding sight makes<END>}#24
+protruding sight makes<END>
+|
+@188
+;004062BD{taking aim a breeze!<END>}#22
+taking aim a breeze!<END>
+|
+@189
+;004062D2{This visor part is<END>}#20
+This visor part is<END>
+|
+@190
+;004062E5{exclusively available on<END>}#26
+exclusively available on<END>
+|
+@191
+;004062FE{the video game designed by<END>}#28
+the video game designed by<END>
+|
+@192
+;00406319{Inuki!<END>}#8
+Inuki!<END>
+|
+@193
+;00406320{Its big sight has awesome<END>}#27
+Its big sight has awesome<END>
+|
+@194
+;0040633A{hitting accuracy and is<END>}#25
+hitting accuracy and is<END>
+|
+@195
+;00406352{the main feature of this<END>}#26
+the main feature of this<END>
+|
+@196
+;0040636B{visor!<END>}#8
+visor!<END>
+|
+@197
+;00406372{This visor has the same<END>}#25
+This visor has the same<END>
+|
+@198
+;0040638A{dragon design as the King<END>}#27
+dragon design as the King<END>
+|
+@199
+;004063A4{Bakuso Visor. Take aim<END>}#24
+Bakuso Visor. Take aim<END>
+|
+@200
+;004063BB{with its long sharp sight!<END>}#28
+with its long sharp sight!<END>
+|
+@201
+;004063D6{This visor has the same<END>}#25
+This visor has the same<END>
+|
+@202
+;004063EE{dragon design as the King<END>}#27
+dragon design as the King<END>
+|
+@203
+;00406408{Rekuso Visor. Take aim<END>}#24
+Rekuso Visor. Take aim<END>
+|
+@204
+;0040641F{with its forked sight!<END>}#24
+with its forked sight!<END>
+|
+@205
+;00406436{In the same manner as the<END>}#27
+In the same manner as the<END>
+|
+@206
+;00406450{King Bakurekuso Visor,<END>}#24
+King Bakurekuso Visor,<END>
+|
+@207
+;00406467{this combined visor is<END>}#24
+this combined visor is<END>
+|
+@208
+;0040647E{made up of the Kokuryu and<END>}#28
+made up of the Kokuryu and<END>
+|
+@209
+;00406499{the Ohryu Visors!<END>}#19
+the Ohryu Visors!<END>
+|
+@210
+;004064AB{<END>}#2
+<END>
+|
+@211
+;004064AC{# This part can only be<END>}#25
+# This part can only be<END>
+|
+@212
+;004064C4{used when you have both<END>}#25
+used when you have both<END>
+|
+@213
+;004064DC{Kokuryu Visor and the <END>}#24
+Kokuryu Visor and the <END>
+|
+@214
+;004064F3{Ohryu Visor.<END>}#14
+Ohryu Visor.<END>
+|
+@215
+;00406500{<END>}#2
+<END>
+|
+@216
+;00406501{When either the Kokuryu or<END>}#28
+When either the Kokuryu or<END>
+|
+@217
+;0040651C{the Ohryu Visor is lost,<END>}#26
+the Ohryu Visor is lost,<END>
+|
+@218
+;00406535{the Shinryu Visor will be<END>}#27
+the Shinryu Visor will be<END>
+|
+@219
+;0040654F{lost as well.<END>}#15
+lost as well.<END>
+|
+@220
+;0040655D{Take aim with this long,<END>}#26
+Take aim with this long,<END>
+|
+@221
+;00406576{sharp crimson sight and<END>}#25
+sharp crimson sight and<END>
+|
+@222
+;0040658E{attack! It's wrapped in<END>}#25
+attack! It's wrapped in<END>
+|
+@223
+;004065A6{flames and that increases<END>}#27
+flames and that increases<END>
+|
+@224
+;004065C0{its firing power!<END>}#19
+its firing power!<END>
+|
+@225
+;004065D2{The main feature of this<END>}#26
+The main feature of this<END>
+|
+@226
+;004065EB{visor is its use of<END>}#21
+visor is its use of<END>
+|
+@227
+;004065FF{lightweight parts!<END>}#20
+lightweight parts!<END>
+|
+@228
+;00406612{Its weight has been<END>}#21
+Its weight has been<END>
+|
+@229
+;00406626{reduced to the lowest <END>}#24
+reduced to the lowest <END>
+|
+@230
+;0040663D{possible level, making<END>}#24
+possible level, making<END>
+|
+@231
+;00406654{this visor light as a<END>}#23
+this visor light as a<END>
+|
+@232
+;0040666A{feather!<END>}#10
+feather!<END>
+|
+@233
+;00406673{This is a brutal visor<END>}#24
+This is a brutal visor<END>
+|
+@234
+;0040668A{that has the power to <END>}#24
+that has the power to <END>
+|
+@235
+;004066A1{destroy anything. Its<END>}#23
+destroy anything. Its<END>
+|
+@236
+;004066B7{power is sublime, but it's<END>}#28
+power is sublime, but it's<END>
+|
+@237
+;004066D2{difficult to control.<END>}#23
+difficult to control.<END>
+|
+@238
+;004066E8{This visor has a tiger<END>}#24
+This visor has a tiger<END>
+|
+@239
+;004066FF{design, just like the <END>}#24
+design, just like the <END>
+|
+@240
+;00406716{Tiger Visor. It's a<END>}#21
+Tiger Visor. It's a<END>
+|
+@241
+;0040672A{special model, and its <END>}#25
+special model, and its <END>
+|
+@242
+;00406742{jet-black body is<END>}#19
+jet-black body is<END>
+|
+@243
+;00406754{eye-catching!<END>}#15
+eye-catching!<END>
+|
+@244
+;00406762{This visor has a shark<END>}#24
+This visor has a shark<END>
+|
+@245
+;00406779{design, just like the<END>}#23
+design, just like the<END>
+|
+@246
+;0040678F{Shark Head. This red visor<END>}#28
+Shark Head. This red visor<END>
+|
+@247
+;004067AA{has sinister power!<END>}#21
+has sinister power!<END>
+|
+@248
+;004067BE{It's the new-and-improved<END>}#27
+It's the new-and-improved<END>
+|
+@249
+;004067D8{version of Wing Sword<END>}#23
+version of Wing Sword<END>
+|
+@250
+;004067EE{Thunder Visor. Its attack<END>}#27
+Thunder Visor. Its attack<END>
+|
+@251
+;00406808{power has been boosted!<END>}#25
+power has been boosted!<END>
+|
+@252
+;00406820{<END>}#2
+<END>
+|
+@253
+;00406821{# This item is part of a<END>}#26
+# This item is part of a<END>
+|
+@254
+;0040683A{set. If you equip it, the<END>}#27
+set. If you equip it, the<END>
+|
+@255
+;00406854{Yokusai Guard will be<END>}#23
+Yokusai Guard will be<END>
+|
+@256
+;0040686A{equipped as well.<END>}#19
+equipped as well.<END>
+|
+@257
+;0040687C{<END>}#2
+<END>
+|
+@258
+;0040687D{If you buy this part, the<END>}#27
+If you buy this part, the<END>
+|
+@259
+;00406897{Yokusai Guard will come<END>}#25
+Yokusai Guard will come<END>
+|
+@260
+;004068AF{with it.<END>}#10
+with it.<END>
+|
+@261
+;004068B8{<END>}#2
+<END>
+|
+@262
+;004068B9{If you sell this part, the<END>}#28
+If you sell this part, the<END>
+|
+@263
+;004068D4{Yokusai Guard will be sold<END>}#28
+Yokusai Guard will be sold<END>
+|
+@264
+;004068EF{as well.<END>}#10
+as well.<END>
+|
+@265
+;004068F8{The Disguise Visor has<END>}#24
+The Disguise Visor has<END>
+|
+@266
+;0040690F{been transformed by<END>}#21
+been transformed by<END>
+|
+@267
+;00406923{Yamato's power. It's a<END>}#24
+Yamato's power. It's a<END>
+|
+@268
+;0040693A{mighty visor that exudes<END>}#26
+mighty visor that exudes<END>
+|
+@269
+;00406953{sacred power!<END>}#15
+sacred power!<END>
+|
+@270
+;00406961{<END>}#2
+<END>
+|
+@271
+;00406962{This is the really-old<END>}#24
+This is the really-old<END>
+|
+@272
+;00406979{petrified visor. It's<END>}#23
+petrified visor. It's<END>
+|
+@273
+;0040698F{unclear what kind of<END>}#22
+unclear what kind of<END>
+|
+@274
+;004069A4{B-Daman this part was used<END>}#28
+B-Daman this part was used<END>
+|
+@275
+;004069BF{for.<END>}#6
+for.<END>
+|
+@276
+;004069C4{# This part can't be<END>}#22
+# This part can't be<END>
+|
+@277
+;004069D9{equipped.<END>}#11
+equipped.<END>
+|
+@278
+;004069E3{This visor has a scorpion<END>}#27
+This visor has a scorpion<END>
+|
+@279
+;004069FD{design, just like the<END>}#23
+design, just like the<END>
+|
+@280
+;00406A13{Scorpion Visor. It's also<END>}#27
+Scorpion Visor. It's also<END>
+|
+@281
+;00406A2D{sandy-colored like a<END>}#22
+sandy-colored like a<END>
+|
+@282
+;00406A42{scorpion!<END>}#11
+scorpion!<END>
+|
+@283
+;00406A4C{Although there is a marked<END>}#28
+Although there is a marked<END>
+|
+@284
+;00406A67{contrast between this<END>}#23
+contrast between this<END>
+|
+@285
+;00406A7D{white visor and the<END>}#21
+white visor and the<END>
+|
+@286
+;00406A91{Revolver Hades, its power<END>}#27
+Revolver Hades, its power<END>
+|
+@287
+;00406AAB{is comparable to that of<END>}#26
+is comparable to that of<END>
+|
+@288
+;00406AC4{the Hades Visor!<END>}#18
+the Hades Visor!<END>
+|
+@289
+;00406AD5{This visor is based on an<END>}#27
+This visor is based on an<END>
+|
+@290
+;00406AEF{animal motif in the same<END>}#26
+animal motif in the same<END>
+|
+@291
+;00406B08{way the Wolf Visor is. <END>}#25
+way the Wolf Visor is. <END>
+|
+@292
+;00406B20{It has the savage power of<END>}#28
+It has the savage power of<END>
+|
+@293
+;00406B3B{animals roaming free in<END>}#25
+animals roaming free in<END>
+|
+@294
+;00406B53{the wild.<END>}#11
+the wild.<END>
+|
+@295
+;00406B5D{This visor has a bird<END>}#23
+This visor has a bird<END>
+|
+@296
+;00406B73{design, just like the<END>}#23
+design, just like the<END>
+|
+@297
+;00406B89{Garuda Visor. It has the<END>}#26
+Garuda Visor. It has the<END>
+|
+@298
+;00406BA2{agility of a bird flying<END>}#26
+agility of a bird flying<END>
+|
+@299
+;00406BBB{in the sky.<END>}#13
+in the sky.<END>
+|
+@300
+;00406BC7{The hat-like part that<END>}#24
+The hat-like part that<END>
+|
+@301
+;00406BDE{extends in both directions<END>}#28
+extends in both directions<END>
+|
+@302
+;00406BF9{acts as a perfect balance<END>}#27
+acts as a perfect balance<END>
+|
+@303
+;00406C13{and allows the B-Daman to<END>}#27
+and allows the B-Daman to<END>
+|
+@304
+;00406C2D{maintain its stability!<END>}#25
+maintain its stability!<END>
+|
+@305
+;00406C45{This is the sight for the<END>}#27
+This is the sight for the<END>
+|
+@306
+;00406C5F{Legend Blaster! Its long,<END>}#27
+Legend Blaster! Its long,<END>
+|
+@307
+;00406C79{flame-like sight makes<END>}#24
+flame-like sight makes<END>
+|
+@308
+;00406C90{taking aim a snap!<END>}#20
+taking aim a snap!<END>
+|
+@309
+;00406CA3{If you raise the sight<END>}#24
+If you raise the sight<END>
+|
+@310
+;00406CBA{part up and switch to<END>}#23
+part up and switch to<END>
+|
+@311
+;00406CD0{sight mode, you'll be able<END>}#28
+sight mode, you'll be able<END>
+|
+@312
+;00406CEB{to take aim easily, even<END>}#26
+to take aim easily, even<END>
+|
+@313
+;00406D04{during rapid-fire action!<END>}#27
+during rapid-fire action!<END>
+|
+@314
+;00406D1E{Its capacity to load<END>}#22
+Its capacity to load<END>
+|
+@315
+;00406D33{B-Daballs with ease is<END>}#24
+B-Daballs with ease is<END>
+|
+@316
+;00406D4A{truly outstanding! It<END>}#23
+truly outstanding! It<END>
+|
+@317
+;00406D60{allows you to carry an<END>}#24
+allows you to carry an<END>
+|
+@318
+;00406D77{extra B-DaBall!<END>}#17
+extra B-DaBall!<END>
+|
+@319
+;00406D87{Its lightness and<END>}#19
+Its lightness and<END>
+|
+@320
+;00406D99{easy-loading capacity<END>}#23
+easy-loading capacity<END>
+|
+@321
+;00406DAF{makes this an awesome<END>}#23
+makes this an awesome<END>
+|
+@322
+;00406DC5{magazine. It allows you to<END>}#28
+magazine. It allows you to<END>
+|
+@323
+;00406DE0{carry two extra B-Daballs!<END>}#28
+carry two extra B-Daballs!<END>
+|
+@324
+;00406DFB{It's a fantastic magazine<END>}#27
+It's a fantastic magazine<END>
+|
+@325
+;00406E15{that can store lots of<END>}#24
+that can store lots of<END>
+|
+@326
+;00406E2C{B-Daballs and performs as<END>}#27
+B-Daballs and performs as<END>
+|
+@327
+;00406E46{a big, easy-to-use grip as<END>}#28
+a big, easy-to-use grip as<END>
+|
+@328
+;00406E61{well!<END>}#7
+well!<END>
+|
+@329
+;00406E67{If you raise the sight<END>}#24
+If you raise the sight<END>
+|
+@330
+;00406E7E{part up and switch to<END>}#23
+part up and switch to<END>
+|
+@331
+;00406E94{sight mode, you can take<END>}#26
+sight mode, you can take<END>
+|
+@332
+;00406EAD{aim easily, even during<END>}#25
+aim easily, even during<END>
+|
+@333
+;00406EC5{rapid-fire action!<END>}#20
+rapid-fire action!<END>
+|
+@334
+;00406ED8{It's a king-size magazine<END>}#27
+It's a king-size magazine<END>
+|
+@335
+;00406EF2{that can hold lots of<END>}#23
+that can hold lots of<END>
+|
+@336
+;00406F08{B-Daballs! It's not just<END>}#26
+B-Daballs! It's not just<END>
+|
+@337
+;00406F21{big. It's heavy, too.<END>}#23
+big. It's heavy, too.<END>
+|
+@338
+;00406F37{<END>}#2
+<END>
+|
+@339
+;00406F38{# This item is part of a<END>}#26
+# This item is part of a<END>
+|
+@340
+;00406F51{set. If you equip this<END>}#24
+set. If you equip this<END>
+|
+@341
+;00406F68{part, the Long Wing<END>}#21
+part, the Long Wing<END>
+|
+@342
+;00406F7C{Trigger will be equipped<END>}#26
+Trigger will be equipped<END>
+|
+@343
+;00406F95{as well.<END>}#10
+as well.<END>
+|
+@344
+;00406F9E{<END>}#2
+<END>
+|
+@345
+;00406F9F{If you buy this part, the<END>}#27
+If you buy this part, the<END>
+|
+@346
+;00406FB9{Long Wing Trigger will<END>}#24
+Long Wing Trigger will<END>
+|
+@347
+;00406FD0{come with it.<END>}#15
+come with it.<END>
+|
+@348
+;00406FDE{<END>}#2
+<END>
+|
+@349
+;00406FDF{If you sell this part, the<END>}#28
+If you sell this part, the<END>
+|
+@350
+;00406FFA{Long Wing Trigger will be<END>}#27
+Long Wing Trigger will be<END>
+|
+@351
+;00407014{sold as well.<END>}#15
+sold as well.<END>
+|
+@352
+;00407022{It's a jumbo magazine<END>}#23
+It's a jumbo magazine<END>
+|
+@353
+;00407038{that's shaped like a<END>}#22
+that's shaped like a<END>
+|
+@354
+;0040704D{plastic bottle! It can<END>}#24
+plastic bottle! It can<END>
+|
+@355
+;00407064{hold a ton of B-Daballs!<END>}#26
+hold a ton of B-Daballs!<END>
+|
+@356
+;0040707D{This is a lightweight,<END>}#24
+This is a lightweight,<END>
+|
+@357
+;00407094{user-friendly magazine.<END>}#25
+user-friendly magazine.<END>
+|
+@358
+;004070AC{It fits any kind of body.<END>}#27
+It fits any kind of body.<END>
+|
+@359
+;004070C6{Its versatility is truly<END>}#26
+Its versatility is truly<END>
+|
+@360
+;004070DF{appealing.<END>}#12
+appealing.<END>
+|
+@361
+;004070EA{This magazine can hold<END>}#24
+This magazine can hold<END>
+|
+@362
+;00407101{many B-Daballs and<END>}#20
+many B-Daballs and<END>
+|
+@363
+;00407114{performs as a big,<END>}#20
+performs as a big,<END>
+|
+@364
+;00407127{easy-to-use grip as well.<END>}#27
+easy-to-use grip as well.<END>
+|
+@365
+;00407141{This is a joint that can<END>}#26
+This is a joint that can<END>
+|
+@366
+;0040715A{hold both Power Shoulders<END>}#27
+hold both Power Shoulders<END>
+|
+@367
+;00407174{firmly in place!<END>}#18
+firmly in place!<END>
+|
+@368
+;00407185{<END>}#2
+<END>
+|
+@369
+;00407186{#This item is part of a<END>}#25
+#This item is part of a<END>
+|
+@370
+;0040719E{set.<END>}#6
+set.<END>
+|
+@371
+;004071A3{/Shoulder Joint<END>}#17
+/Shoulder Joint<END>
+|
+@372
+;004071B3{/L-Power Shoulder<END>}#19
+/L-Power Shoulder<END>
+|
+@373
+;004071C5{/R-Power Shoulder<END>}#19
+/R-Power Shoulder<END>
+|
+@374
+;004071D7{These three items make<END>}#24
+These three items make<END>
+|
+@375
+;004071EE{up the entire set.<END>}#20
+up the entire set.<END>
+|
+@376
+;00407201{<END>}#2
+<END>
+|
+@377
+;00407202{If you equip this part,<END>}#25
+If you equip this part,<END>
+|
+@378
+;0040721A{then the other two parts<END>}#26
+then the other two parts<END>
+|
+@379
+;00407233{will be equipped as well.<END>}#27
+will be equipped as well.<END>
+|
+@380
+;0040724D{<END>}#2
+<END>
+|
+@381
+;0040724E{If you remove this part,<END>}#26
+If you remove this part,<END>
+|
+@382
+;00407267{the other parts of the set<END>}#28
+the other parts of the set<END>
+|
+@383
+;00407282{will be removed as well.<END>}#26
+will be removed as well.<END>
+|
+@384
+;0040729B{<END>}#2
+<END>
+|
+@385
+;0040729C{If you buy this part, the<END>}#27
+If you buy this part, the<END>
+|
+@386
+;004072B6{other items in the set<END>}#24
+other items in the set<END>
+|
+@387
+;004072CD{will come with it.<END>}#20
+will come with it.<END>
+|
+@388
+;004072E0{<END>}#2
+<END>
+|
+@389
+;004072E1{If you sell this part, the<END>}#28
+If you sell this part, the<END>
+|
+@390
+;004072FC{other items in the set<END>}#24
+other items in the set<END>
+|
+@391
+;00407313{will be sold as well.<END>}#23
+will be sold as well.<END>
+|
+@392
+;00407329{The long barrel<END>}#17
+The long barrel<END>
+|
+@393
+;00407339{dramatically increases its <END>}#29
+dramatically increases its <END>
+|
+@394
+;00407355{firing accuracy!<END>}#18
+firing accuracy!<END>
+|
+@395
+;00407366{Raise the sight part up<END>}#25
+Raise the sight part up<END>
+|
+@396
+;0040737E{and it switches to sight<END>}#26
+and it switches to sight<END>
+|
+@397
+;00407397{mode!<END>}#7
+mode!<END>
+|
+@398
+;0040739D{This visor is for the Wing<END>}#28
+This visor is for the Wing<END>
+|
+@399
+;004073B8{Sword! The Wing Visor will<END>}#28
+Sword! The Wing Visor will<END>
+|
+@400
+;004073D3{be complete by attaching<END>}#26
+be complete by attaching<END>
+|
+@401
+;004073EC{the Wing Sword Guard to<END>}#25
+the Wing Sword Guard to<END>
+|
+@402
+;00407404{it!<END>}#5
+it!<END>
+|
+@403
+;00407408{<END>}#2
+<END>
+|
+@404
+;00407409{# This item is part of a<END>}#26
+# This item is part of a<END>
+|
+@405
+;00407422{set. If you equip this<END>}#24
+set. If you equip this<END>
+|
+@406
+;00407439{part, the Wing Visor will<END>}#27
+part, the Wing Visor will<END>
+|
+@407
+;00407453{be equipped automatically<END>}#27
+be equipped automatically<END>
+|
+@408
+;0040746D{as well.<END>}#10
+as well.<END>
+|
+@409
+;00407476{<END>}#2
+<END>
+|
+@410
+;00407477{If you buy this part, the<END>}#27
+If you buy this part, the<END>
+|
+@411
+;00407491{Wing Visor will come with<END>}#27
+Wing Visor will come with<END>
+|
+@412
+;004074AB{it.<END>}#5
+it.<END>
+|
+@413
+;004074AF{<END>}#2
+<END>
+|
+@414
+;004074B0{If you sell this part, the<END>}#28
+If you sell this part, the<END>
+|
+@415
+;004074CB{Wing Visor will be sold as<END>}#28
+Wing Visor will be sold as<END>
+|
+@416
+;004074E6{well.<END>}#7
+well.<END>
+|
+@417
+;004074EC{This is a rapid-fire type<END>}#27
+This is a rapid-fire type<END>
+|
+@418
+;00407506{core that features an<END>}#23
+core that features an<END>
+|
+@419
+;0040751C{electronic motor that<END>}#23
+electronic motor that<END>
+|
+@420
+;00407532{enables rapid fire!<END>}#21
+enables rapid fire!<END>
+|
+@421
+;00407546{It's a short barrel. Its<END>}#26
+It's a short barrel. Its<END>
+|
+@422
+;0040755F{increases firing<END>}#18
+increases firing<END>
+|
+@423
+;00407570{accuracy!<END>}#11
+accuracy!<END>
+|
+@424
+;0040757A{It increases both firing<END>}#26
+It increases both firing<END>
+|
+@425
+;00407593{accuracy and agility!<END>}#23
+accuracy and agility!<END>
+|
+@426
+;004075A9{Its big, back part is easy<END>}#28
+Its big, back part is easy<END>
+|
+@427
+;004075C4{to grab and enables<END>}#21
+to grab and enables<END>
+|
+@428
+;004075D8{one-handed shooting!<END>}#22
+one-handed shooting!<END>
+|
+@429
+;004075ED{B-Daballs can be loaded<END>}#25
+B-Daballs can be loaded<END>
+|
+@430
+;00407605{from the hole on the<END>}#22
+from the hole on the<END>
+|
+@431
+;0040761A{bottom!<END>}#9
+bottom!<END>
+|
+@432
+;00407622{By rotating the revolving<END>}#27
+By rotating the revolving<END>
+|
+@433
+;0040763C{cylinder, six different<END>}#25
+cylinder, six different<END>
+|
+@434
+;00407654{kinds of shots can be<END>}#23
+kinds of shots can be<END>
+|
+@435
+;0040766A{fired: drive, back spin,<END>}#26
+fired: drive, back spin,<END>
+|
+@436
+;00407683{right curve, left curve,<END>}#26
+right curve, left curve,<END>
+|
+@437
+;0040769C{right bound, and left<END>}#23
+right bound, and left<END>
+|
+@438
+;004076B2{bound shots!<END>}#14
+bound shots!<END>
+|
+@439
+;004076BF{This is the perfect core<END>}#26
+This is the perfect core<END>
+|
+@440
+;004076D8{that can perform<END>}#18
+that can perform<END>
+|
+@441
+;004076E9{effectively under any<END>}#23
+effectively under any<END>
+|
+@442
+;004076FF{circumstance!<END>}#15
+circumstance!<END>
+|
+@443
+;0040770D{The hold part is blown <END>}#25
+The hold part is blown <END>
+|
+@444
+;00407725{back when firing, this <END>}#25
+back when firing, this <END>
+|
+@445
+;0040773D{core can launch <END>}#18
+core can launch <END>
+|
+@446
+;0040774E{rapid-fire with half <END>}#23
+rapid-fire with half <END>
+|
+@447
+;00407764{of the normal required<END>}#24
+of the normal required<END>
+|
+@448
+;0040777B{movement.<END>}#11
+movement.<END>
+|
+@449
+;00407785{<END>}#2
+<END>
+|
+@450
+;00407786{On top of that, the rubber<END>}#28
+On top of that, the rubber<END>
+|
+@451
+;004077A1{on the bottom of the core<END>}#27
+on the bottom of the core<END>
+|
+@452
+;004077BB{results in a superior<END>}#23
+results in a superior<END>
+|
+@453
+;004077D1{drive effect and allows<END>}#25
+drive effect and allows<END>
+|
+@454
+;004077E9{you to make power shots!<END>}#26
+you to make power shots!<END>
+|
+@455
+;00407802{This elongated barrel can<END>}#27
+This elongated barrel can<END>
+|
+@456
+;0040781C{launch B-Daballs stably.<END>}#26
+launch B-Daballs stably.<END>
+|
+@457
+;00407835{It increases control<END>}#22
+It increases control<END>
+|
+@458
+;0040784A{accuracy!<END>}#11
+accuracy!<END>
+|
+@459
+;00407854{This visor is for Wing<END>}#24
+This visor is for Wing<END>
+|
+@460
+;0040786B{Sword Thunder! By using the<END>}#29
+Sword Thunder! By using the<END>
+|
+@461
+;00407887{Thunder Guard with it,<END>}#24
+Thunder Guard with it,<END>
+|
+@462
+;0040789E{the set will be complete!<END>}#27
+the set will be complete!<END>
+|
+@463
+;004078B8{<END>}#2
+<END>
+|
+@464
+;004078B9{#This item is part of a<END>}#25
+#This item is part of a<END>
+|
+@465
+;004078D1{set. If you equip it, the<END>}#27
+set. If you equip it, the<END>
+|
+@466
+;004078EB{Thunder Visor will be<END>}#23
+Thunder Visor will be<END>
+|
+@467
+;00407901{equipped as well.<END>}#19
+equipped as well.<END>
+|
+@468
+;00407913{<END>}#2
+<END>
+|
+@469
+;00407914{If you buy this part, the<END>}#27
+If you buy this part, the<END>
+|
+@470
+;0040792E{Thunder Visor will come<END>}#25
+Thunder Visor will come<END>
+|
+@471
+;00407946{with it.<END>}#10
+with it.<END>
+|
+@472
+;0040794F{<END>}#2
+<END>
+|
+@473
+;00407950{If you sell this part, the<END>}#28
+If you sell this part, the<END>
+|
+@474
+;0040796B{Thunder Visor will be sold<END>}#28
+Thunder Visor will be sold<END>
+|
+@475
+;00407986{as well.<END>}#10
+as well.<END>
+|
+@476
+;0040798F{This long, protruding<END>}#23
+This long, protruding<END>
+|
+@477
+;004079A5{barrel holds B-Daballs<END>}#24
+barrel holds B-Daballs<END>
+|
+@478
+;004079BC{firmly and produces<END>}#21
+firmly and produces<END>
+|
+@479
+;004079D0{accurate shots!<END>}#17
+accurate shots!<END>
+|
+@480
+;004079E0{It compresses the core<END>}#24
+It compresses the core<END>
+|
+@481
+;004079F7{and increases firing<END>}#22
+and increases firing<END>
+|
+@482
+;00407A0C{power!<END>}#8
+power!<END>
+|
+@483
+;00407A13{<END>}#2
+<END>
+|
+@484
+;00407A14{It's based on the same<END>}#24
+It's based on the same<END>
+|
+@485
+;00407A2B{principle as the Power<END>}#24
+principle as the Power<END>
+|
+@486
+;00407A42{Arms!<END>}#7
+Arms!<END>
+|
+@487
+;00407A48{<END>}#2
+<END>
+|
+@488
+;00407A49{# This item is part of a<END>}#26
+# This item is part of a<END>
+|
+@489
+;00407A62{set made up of the<END>}#20
+set made up of the<END>
+|
+@490
+;00407A75{following five items: the<END>}#27
+following five items: the<END>
+|
+@491
+;00407A8F{Body, the L-Shoulder, the<END>}#27
+Body, the L-Shoulder, the<END>
+|
+@492
+;00407AA9{L-Arm, the R-Shoulder, and<END>}#28
+L-Arm, the R-Shoulder, and<END>
+|
+@493
+;00407AC4{the R-Arm. These five<END>}#23
+the R-Arm. These five<END>
+|
+@494
+;00407ADA{items make up the entire<END>}#26
+items make up the entire<END>
+|
+@495
+;00407AF3{set.<END>}#6
+set.<END>
+|
+@496
+;00407AF8{<END>}#2
+<END>
+|
+@497
+;00407AF9{If you equip this part,<END>}#25
+If you equip this part,<END>
+|
+@498
+;00407B11{then the other four parts<END>}#27
+then the other four parts<END>
+|
+@499
+;00407B2B{will be equipped as well.<END>}#27
+will be equipped as well.<END>
+|
+@500
+;00407B45{<END>}#2
+<END>
+|
+@501
+;00407B46{If you remove this part,<END>}#26
+If you remove this part,<END>
+|
+@502
+;00407B5F{the other parts of the set<END>}#28
+the other parts of the set<END>
+|
+@503
+;00407B7A{will be removed as well.<END>}#26
+will be removed as well.<END>
+|
+@504
+;00407B93{<END>}#2
+<END>
+|
+@505
+;00407B94{If you buy this part, the<END>}#27
+If you buy this part, the<END>
+|
+@506
+;00407BAE{other items in the set<END>}#24
+other items in the set<END>
+|
+@507
+;00407BC5{will come with it.<END>}#20
+will come with it.<END>
+|
+@508
+;00407BD8{<END>}#2
+<END>
+|
+@509
+;00407BD9{If you sell this part, the<END>}#28
+If you sell this part, the<END>
+|
+@510
+;00407BF4{other items in the set<END>}#24
+other items in the set<END>
+|
+@511
+;00407C0B{will be sold as well.<END>}#23
+will be sold as well.<END>
+|
+@512
+;00407C21{It compresses the core<END>}#24
+It compresses the core<END>
+|
+@513
+;00407C38{and increases firing<END>}#22
+and increases firing<END>
+|
+@514
+;00407C4D{power!<END>}#8
+power!<END>
+|
+@515
+;00407C54{<END>}#2
+<END>
+|
+@516
+;00407C55{# This item is part of a<END>}#26
+# This item is part of a<END>
+|
+@517
+;00407C6E{set made up of the<END>}#20
+set made up of the<END>
+|
+@518
+;00407C81{following five items: the<END>}#27
+following five items: the<END>
+|
+@519
+;00407C9B{Body, the L-Shoulder, the<END>}#27
+Body, the L-Shoulder, the<END>
+|
+@520
+;00407CB5{L-Arm, the R-Shoulder, and<END>}#28
+L-Arm, the R-Shoulder, and<END>
+|
+@521
+;00407CD0{the R-Arm. These five<END>}#23
+the R-Arm. These five<END>
+|
+@522
+;00407CE6{items make up the entire<END>}#26
+items make up the entire<END>
+|
+@523
+;00407CFF{set.<END>}#6
+set.<END>
+|
+@524
+;00407D04{<END>}#2
+<END>
+|
+@525
+;00407D05{If you equip this part,<END>}#25
+If you equip this part,<END>
+|
+@526
+;00407D1D{then the other four parts<END>}#27
+then the other four parts<END>
+|
+@527
+;00407D37{will be equipped as well.<END>}#27
+will be equipped as well.<END>
+|
+@528
+;00407D51{<END>}#2
+<END>
+|
+@529
+;00407D52{If you remove this part,<END>}#26
+If you remove this part,<END>
+|
+@530
+;00407D6B{the other parts of the set<END>}#28
+the other parts of the set<END>
+|
+@531
+;00407D86{will be removed as well.<END>}#26
+will be removed as well.<END>
+|
+@532
+;00407D9F{<END>}#2
+<END>
+|
+@533
+;00407DA0{If you buy this part, the<END>}#27
+If you buy this part, the<END>
+|
+@534
+;00407DBA{other items in the set<END>}#24
+other items in the set<END>
+|
+@535
+;00407DD1{will come with it.<END>}#20
+will come with it.<END>
+|
+@536
+;00407DE4{<END>}#2
+<END>
+|
+@537
+;00407DE5{If you sell this part, the<END>}#28
+If you sell this part, the<END>
+|
+@538
+;00407E00{other items in the set<END>}#24
+other items in the set<END>
+|
+@539
+;00407E17{will be sold as well.<END>}#23
+will be sold as well.<END>
+|
+@540
+;00407E2D{These are protector parts<END>}#27
+These are protector parts<END>
+|
+@541
+;00407E47{to guard your B-Daman's<END>}#25
+to guard your B-Daman's<END>
+|
+@542
+;00407E5F{upper legs!<END>}#13
+upper legs!<END>
+|
+@543
+;00407E6B{This long protruding body<END>}#27
+This long protruding body<END>
+|
+@544
+;00407E85{part can also act as the<END>}#26
+part can also act as the<END>
+|
+@545
+;00407E9E{sight!<END>}#8
+sight!<END>
+|
+@546
+;00407EA5{This body part is<END>}#19
+This body part is<END>
+|
+@547
+;00407EB7{exclusively available on<END>}#26
+exclusively available on<END>
+|
+@548
+;00407ED0{the video game designed by<END>}#28
+the video game designed by<END>
+|
+@549
+;00407EEB{Inuki!<END>}#8
+Inuki!<END>
+|
+@550
+;00407EF2{It protects your B-Daman's<END>}#28
+It protects your B-Daman's<END>
+|
+@551
+;00407F0D{body and can also act as a<END>}#28
+body and can also act as a<END>
+|
+@552
+;00407F28{barrel that increases<END>}#23
+barrel that increases<END>
+|
+@553
+;00407F3E{control!<END>}#10
+control!<END>
+|
+@554
+;00407F47{The long barrel holds<END>}#23
+The long barrel holds<END>
+|
+@555
+;00407F5D{B-Daballs firmly in place<END>}#27
+B-Daballs firmly in place<END>
+|
+@556
+;00407F77{and dramatically increases<END>}#28
+and dramatically increases<END>
+|
+@557
+;00407F92{firing accuracy!<END>}#18
+firing accuracy!<END>
+|
+@558
+;00407FA3{If you raise the sight<END>}#24
+If you raise the sight<END>
+|
+@559
+;00407FBA{part up, it instantly<END>}#23
+part up, it instantly<END>
+|
+@560
+;00407FD0{switches to sight mode!<END>}#25
+switches to sight mode!<END>
+|
+@561
+;00407FE8{This body part's main<END>}#23
+This body part's main<END>
+|
+@562
+;00407FFE{feature is its use of<END>}#23
+feature is its use of<END>
+|
+@563
+;00408014{lightweight parts!<END>}#20
+lightweight parts!<END>
+|
+@564
+;00408027{Its weight has been<END>}#21
+Its weight has been<END>
+|
+@565
+;0040803B{reduced to the lowest<END>}#23
+reduced to the lowest<END>
+|
+@566
+;00408051{possible level, making<END>}#24
+possible level, making<END>
+|
+@567
+;00408068{this body part light as a<END>}#27
+this body part light as a<END>
+|
+@568
+;00408082{feather!<END>}#10
+feather!<END>
+|
+@569
+;0040808B{A B-Daball fired from the<END>}#27
+A B-Daball fired from the<END>
+|
+@570
+;004080A5{elongated barrel can hit<END>}#26
+elongated barrel can hit<END>
+|
+@571
+;004080BE{even the most difficult<END>}#25
+even the most difficult<END>
+|
+@572
+;004080D6{target!<END>}#9
+target!<END>
+|
+@573
+;004080DE{This visor is for the<END>}#23
+This visor is for the<END>
+|
+@574
+;004080F4{Yokusaimaru! The<END>}#18
+Yokusaimaru! The<END>
+|
+@575
+;00408105{Yokusaimaru will be<END>}#21
+Yokusaimaru will be<END>
+|
+@576
+;00408119{completed by attaching the<END>}#28
+completed by attaching the<END>
+|
+@577
+;00408134{Yokusai Guard to it!<END>}#22
+Yokusai Guard to it!<END>
+|
+@578
+;00408149{<END>}#2
+<END>
+|
+@579
+;0040814A{# This item is part of a<END>}#26
+# This item is part of a<END>
+|
+@580
+;00408163{set. If you equip it, the<END>}#27
+set. If you equip it, the<END>
+|
+@581
+;0040817D{Yokusai Visor will be<END>}#23
+Yokusai Visor will be<END>
+|
+@582
+;00408193{equipped as well.<END>}#19
+equipped as well.<END>
+|
+@583
+;004081A5{<END>}#2
+<END>
+|
+@584
+;004081A6{If you buy this part, the<END>}#27
+If you buy this part, the<END>
+|
+@585
+;004081C0{Yokusai Visor will come<END>}#25
+Yokusai Visor will come<END>
+|
+@586
+;004081D8{with it.<END>}#10
+with it.<END>
+|
+@587
+;004081E1{<END>}#2
+<END>
+|
+@588
+;004081E2{If you sell this part, the<END>}#28
+If you sell this part, the<END>
+|
+@589
+;004081FD{Yokusaimaru will be sold<END>}#26
+Yokusaimaru will be sold<END>
+|
+@590
+;00408216{automatically as well.<END>}#24
+automatically as well.<END>
+|
+@591
+;0040822D{This body part was<END>}#20
+This body part was<END>
+|
+@592
+;00408240{transformed by Yamato's<END>}#25
+transformed by Yamato's<END>
+|
+@593
+;00408258{power.<END>}#8
+power.<END>
+|
+@594
+;0040825F{Using this barrel to fire<END>}#27
+Using this barrel to fire<END>
+|
+@595
+;00408279{B-Daballs will give you<END>}#25
+B-Daballs will give you<END>
+|
+@596
+;00408291{unparalleled shooting<END>}#23
+unparalleled shooting<END>
+|
+@597
+;004082A7{accuracy!<END>}#11
+accuracy!<END>
+|
+@598
+;004082B1{This is a really-long<END>}#23
+This is a really-long<END>
+|
+@599
+;004082C7{barrel part! This part is<END>}#27
+barrel part! This part is<END>
+|
+@600
+;004082E1{essential if you want to<END>}#26
+essential if you want to<END>
+|
+@601
+;004082FA{increase your firing<END>}#22
+increase your firing<END>
+|
+@602
+;0040830F{accuracy!<END>}#11
+accuracy!<END>
+|
+@603
+;00408319{This is the really-old<END>}#24
+This is the really-old<END>
+|
+@604
+;00408330{petrified barrel. It's<END>}#24
+petrified barrel. It's<END>
+|
+@605
+;00408347{unclear what kind of<END>}#22
+unclear what kind of<END>
+|
+@606
+;0040835C{B-Daman this part was used<END>}#28
+B-Daman this part was used<END>
+|
+@607
+;00408377{for.<END>}#6
+for.<END>
+|
+@608
+;0040837C{# This part can't be<END>}#22
+# This part can't be<END>
+|
+@609
+;00408391{equipped.<END>}#11
+equipped.<END>
+|
+@610
+;0040839B{If you fold the big wings<END>}#27
+If you fold the big wings<END>
+|
+@611
+;004083B5{down, it'll automatically<END>}#27
+down, it'll automatically<END>
+|
+@612
+;004083CF{switch to Wing Trigger<END>}#24
+switch to Wing Trigger<END>
+|
+@613
+;004083E6{Mode! B-Daballs can be<END>}#24
+Mode! B-Daballs can be<END>
+|
+@614
+;004083FD{fired just by pressing the<END>}#28
+fired just by pressing the<END>
+|
+@615
+;00408418{triggers on the wings. It<END>}#27
+triggers on the wings. It<END>
+|
+@616
+;00408432{even enables one-handed<END>}#25
+even enables one-handed<END>
+|
+@617
+;0040844A{rapid firing!<END>}#15
+rapid firing!<END>
+|
+@618
+;00408458{<END>}#2
+<END>
+|
+@619
+;00408459{# This part can't be used<END>}#27
+# This part can't be used<END>
+|
+@620
+;00408473{at the same time as a<END>}#23
+at the same time as a<END>
+|
+@621
+;00408489{B-Daman Head Part.<END>}#20
+B-Daman Head Part.<END>
+|
+@622
+;0040849C{This is a Drive Changing<END>}#26
+This is a Drive Changing<END>
+|
+@623
+;004084B5{Type Core that can launch<END>}#27
+Type Core that can launch<END>
+|
+@624
+;004084CF{four types of shots: the<END>}#26
+four types of shots: the<END>
+|
+@625
+;004084E8{right curve, the left<END>}#23
+right curve, the left<END>
+|
+@626
+;004084FE{curve, the speed shot, and <END>}#29
+curve, the speed shot, and <END>
+|
+@627
+;0040851A{the slow shot!<END>}#16
+the slow shot!<END>
+|
+@628
+;00408529{By shifting the suspension<END>}#28
+By shifting the suspension<END>
+|
+@629
+;00408544{onto the big wings, your<END>}#26
+onto the big wings, your<END>
+|
+@630
+;0040855D{B-Daman's power will be<END>}#25
+B-Daman's power will be<END>
+|
+@631
+;00408575{increased!<END>}#12
+increased!<END>
+|
+@632
+;00408580{<END>}#2
+<END>
+|
+@633
+;00408581{#This item is part of a<END>}#25
+#This item is part of a<END>
+|
+@634
+;00408599{set.<END>}#6
+set.<END>
+|
+@635
+;0040859E{/Fire Wing <END>}#13
+/Fire Wing <END>
+|
+@636
+;004085AA{/L-Fire Wing <END>}#15
+/L-Fire Wing <END>
+|
+@637
+;004085B8{/R-Fire Wing <END>}#15
+/R-Fire Wing <END>
+|
+@638
+;004085C6{These three items make up<END>}#27
+These three items make up<END>
+|
+@639
+;004085E0{the entire set.<END>}#17
+the entire set.<END>
+|
+@640
+;004085F0{<END>}#2
+<END>
+|
+@641
+;004085F1{If you equip this part,<END>}#25
+If you equip this part,<END>
+|
+@642
+;00408609{then the other two parts<END>}#26
+then the other two parts<END>
+|
+@643
+;00408622{will be equipped as well.<END>}#27
+will be equipped as well.<END>
+|
+@644
+;0040863C{<END>}#2
+<END>
+|
+@645
+;0040863D{If you remove these parts,<END>}#28
+If you remove these parts,<END>
+|
+@646
+;00408658{the other parts of the set<END>}#28
+the other parts of the set<END>
+|
+@647
+;00408673{will be removed as well.<END>}#26
+will be removed as well.<END>
+|
+@648
+;0040868C{The gear installed inside<END>}#27
+The gear installed inside<END>
+|
+@649
+;004086A6{of the trigger transforms<END>}#27
+of the trigger transforms<END>
+|
+@650
+;004086C0{small power into big<END>}#22
+small power into big<END>
+|
+@651
+;004086D5{power!<END>}#8
+power!<END>
+|
+@652
+;004086DC{This is a core that can<END>}#25
+This is a core that can<END>
+|
+@653
+;004086F4{launch normal shots by<END>}#24
+launch normal shots by<END>
+|
+@654
+;0040870B{using the Side Trigger and<END>}#28
+using the Side Trigger and<END>
+|
+@655
+;00408726{Striker Shots by using the<END>}#28
+Striker Shots by using the<END>
+|
+@656
+;00408741{Center Trigger!<END>}#17
+Center Trigger!<END>
+|
+@657
+;00408751{If you fold the big wings<END>}#27
+If you fold the big wings<END>
+|
+@658
+;0040876B{down, it'll automatically<END>}#27
+down, it'll automatically<END>
+|
+@659
+;00408785{switch to Wing Trigger<END>}#24
+switch to Wing Trigger<END>
+|
+@660
+;0040879C{Mode!<END>}#7
+Mode!<END>
+|
+@661
+;004087A2{Just by pressing the<END>}#22
+Just by pressing the<END>
+|
+@662
+;004087B7{triggers on the wings, <END>}#25
+triggers on the wings, <END>
+|
+@663
+;004087CF{B-Daballs can be fired!<END>}#25
+B-Daballs can be fired!<END>
+|
+@664
+;004087E7{It even enables one-handed<END>}#28
+It even enables one-handed<END>
+|
+@665
+;00408802{rapid firing!<END>}#15
+rapid firing!<END>
+|
+@666
+;00408810{<END>}#2
+<END>
+|
+@667
+;00408811{# This part can't be used<END>}#27
+# This part can't be used<END>
+|
+@668
+;0040882B{at the same time as a<END>}#23
+at the same time as a<END>
+|
+@669
+;00408841{B-Daman Head part.<END>}#20
+B-Daman Head part.<END>
+|
+@670
+;00408854{This is an astonishing<END>}#24
+This is an astonishing<END>
+|
+@671
+;0040886B{trigger that lets you <END>}#24
+trigger that lets you <END>
+|
+@672
+;00408882{simultaneously launch two<END>}#27
+simultaneously launch two<END>
+|
+@673
+;0040889C{B-Daballs in the<END>}#18
+B-Daballs in the<END>
+|
+@674
+;004088AD{cartridge!<END>}#12
+cartridge!<END>
+|
+@675
+;004088B8{This extended grip that<END>}#25
+This extended grip that<END>
+|
+@676
+;004088D0{fits on the back is an <END>}#25
+fits on the back is an <END>
+|
+@677
+;004088E8{awesome item that enables<END>}#27
+awesome item that enables<END>
+|
+@678
+;00408902{you to hold your B-Daman<END>}#26
+you to hold your B-Daman<END>
+|
+@679
+;0040891B{easily!<END>}#9
+easily!<END>
+|
+@680
+;00408923{<END>}#2
+<END>
+|
+@681
+;00408924{# This part can't be used<END>}#27
+# This part can't be used<END>
+|
+@682
+;0040893E{at the same time as a<END>}#23
+at the same time as a<END>
+|
+@683
+;00408954{B-Daman Head Part.<END>}#20
+B-Daman Head Part.<END>
+|
+@684
+;00408967{These big wings increase<END>}#26
+These big wings increase<END>
+|
+@685
+;00408980{agility by taking full<END>}#24
+agility by taking full<END>
+|
+@686
+;00408997{advantage of the wind! It<END>}#27
+advantage of the wind! It<END>
+|
+@687
+;004089B1{also adjusts the core and<END>}#27
+also adjusts the core and<END>
+|
+@688
+;004089CB{produces power shots!<END>}#23
+produces power shots!<END>
+|
+@689
+;004089E1{<END>}#2
+<END>
+|
+@690
+;004089E2{# This part can't be used<END>}#27
+# This part can't be used<END>
+|
+@691
+;004089FC{at the same time as a<END>}#23
+at the same time as a<END>
+|
+@692
+;00408A12{B-Daman Heel part.<END>}#20
+B-Daman Heel part.<END>
+|
+@693
+;00408A25{These six spider leg-like<END>}#27
+These six spider leg-like<END>
+|
+@694
+;00408A3F{grip parts dramatically<END>}#25
+grip parts dramatically<END>
+|
+@695
+;00408A57{increase stability!<END>}#21
+increase stability!<END>
+|
+@696
+;00408A6B{<END>}#2
+<END>
+|
+@697
+;00408A6C{# This part can't be used<END>}#27
+# This part can't be used<END>
+|
+@698
+;00408A86{at the same time as a<END>}#23
+at the same time as a<END>
+|
+@699
+;00408A9C{B-Daman Heel part.<END>}#20
+B-Daman Heel part.<END>
+|
+@700
+;00408AAF{<END>}#2
+<END>
+|
+@701
+;00408AB0{# This part can't be used<END>}#27
+# This part can't be used<END>
+|
+@702
+;00408ACA{at the same time as a<END>}#23
+at the same time as a<END>
+|
+@703
+;00408AE0{B-Daman Head part.<END>}#20
+B-Daman Head part.<END>
+|
+@704
+;00408AF3{It's an awesome item that<END>}#27
+It's an awesome item that<END>
+|
+@705
+;00408B0D{stabilizes your B-Daman by<END>}#28
+stabilizes your B-Daman by<END>
+|
+@706
+;00408B28{controlling recoil!<END>}#21
+controlling recoil!<END>
+|
+@707
+;00408B3C{<END>}#2
+<END>
+|
+@708
+;00408B3D{# This part can't be used<END>}#27
+# This part can't be used<END>
+|
+@709
+;00408B57{at the same time as a<END>}#23
+at the same time as a<END>
+|
+@710
+;00408B6D{B-Daman Heel part.<END>}#20
+B-Daman Heel part.<END>
+|
+@711
+;00408B80{Holding the sword on the<END>}#26
+Holding the sword on the<END>
+|
+@712
+;00408B99{back with both hands<END>}#22
+back with both hands<END>
+|
+@713
+;00408BAE{enables you to increase<END>}#25
+enables you to increase<END>
+|
+@714
+;00408BC6{stability and it's also<END>}#25
+stability and it's also<END>
+|
+@715
+;00408BDE{great for one-handed<END>}#22
+great for one-handed<END>
+|
+@716
+;00408BF3{firing!<END>}#9
+firing!<END>
+|
+@717
+;00408BFB{If you press down the core<END>}#28
+If you press down the core<END>
+|
+@718
+;00408C16{by using the wings, this<END>}#26
+by using the wings, this<END>
+|
+@719
+;00408C2F{part will switch to Power<END>}#27
+part will switch to Power<END>
+|
+@720
+;00408C49{Mode!<END>}#7
+Mode!<END>
+|
+@721
+;00408C4F{These big wings are easy<END>}#26
+These big wings are easy<END>
+|
+@722
+;00408C68{to grip and give great<END>}#24
+to grip and give great<END>
+|
+@723
+;00408C7F{stability! Holding onto <END>}#26
+stability! Holding onto <END>
+|
+@724
+;00408C98{these wing parts will<END>}#23
+these wing parts will<END>
+|
+@725
+;00408CAE{enable one-handed<END>}#19
+enable one-handed<END>
+|
+@726
+;00408CC0{shooting!<END>}#11
+shooting!<END>
+|
+@727
+;00408CCA{This back part is<END>}#19
+This back part is<END>
+|
+@728
+;00408CDC{exclusively available on<END>}#26
+exclusively available on<END>
+|
+@729
+;00408CF5{the video game designed by<END>}#28
+the video game designed by<END>
+|
+@730
+;00408D10{Inuki!<END>}#8
+Inuki!<END>
+|
+@731
+;00408D17{These big wings are easy<END>}#26
+These big wings are easy<END>
+|
+@732
+;00408D30{to grab and give you great<END>}#28
+to grab and give you great<END>
+|
+@733
+;00408D4B{stability!<END>}#12
+stability!<END>
+|
+@734
+;00408D56{It adjusts the hold part<END>}#26
+It adjusts the hold part<END>
+|
+@735
+;00408D6F{and that increases<END>}#20
+and that increases<END>
+|
+@736
+;00408D82{shooting power!<END>}#17
+shooting power!<END>
+|
+@737
+;00408D92{These are huge, bright red<END>}#28
+These are huge, bright red<END>
+|
+@738
+;00408DAD{wings! The spring<END>}#19
+wings! The spring<END>
+|
+@739
+;00408DBF{suspension increases<END>}#22
+suspension increases<END>
+|
+@740
+;00408DD4{shooting power!<END>}#17
+shooting power!<END>
+|
+@741
+;00408DE4{<END>}#2
+<END>
+|
+@742
+;00408DE5{# This item is part of a<END>}#26
+# This item is part of a<END>
+|
+@743
+;00408DFE{set.<END>}#6
+set.<END>
+|
+@744
+;00408E03{/Crimson Wing <END>}#16
+/Crimson Wing <END>
+|
+@745
+;00408E12{/L-Crimson Wing <END>}#18
+/L-Crimson Wing <END>
+|
+@746
+;00408E23{/R-Crimson Wing <END>}#18
+/R-Crimson Wing <END>
+|
+@747
+;00408E34{These three items make up<END>}#27
+These three items make up<END>
+|
+@748
+;00408E4E{the entire set.<END>}#17
+the entire set.<END>
+|
+@749
+;00408E5E{<END>}#2
+<END>
+|
+@750
+;00408E5F{If you equip this part,<END>}#25
+If you equip this part,<END>
+|
+@751
+;00408E77{then the other two parts<END>}#26
+then the other two parts<END>
+|
+@752
+;00408E90{will be equipped as well.<END>}#27
+will be equipped as well.<END>
+|
+@753
+;00408EAA{<END>}#2
+<END>
+|
+@754
+;00408EAB{If you remove this part,<END>}#26
+If you remove this part,<END>
+|
+@755
+;00408EC4{the other parts of the set<END>}#28
+the other parts of the set<END>
+|
+@756
+;00408EDF{will be removed as well.<END>}#26
+will be removed as well.<END>
+|
+@757
+;00408EF8{The gear installed inside<END>}#27
+The gear installed inside<END>
+|
+@758
+;00408F12{of the trigger can<END>}#20
+of the trigger can<END>
+|
+@759
+;00408F25{transform small power into<END>}#28
+transform small power into<END>
+|
+@760
+;00408F40{big power!<END>}#12
+big power!<END>
+|
+@761
+;00408F4B{This is a core that can<END>}#25
+This is a core that can<END>
+|
+@762
+;00408F63{launch normal shots by<END>}#24
+launch normal shots by<END>
+|
+@763
+;00408F7A{using the Side Trigger and<END>}#28
+using the Side Trigger and<END>
+|
+@764
+;00408F95{Striker Shots by using the<END>}#28
+Striker Shots by using the<END>
+|
+@765
+;00408FB0{Center Trigger!<END>}#17
+Center Trigger!<END>
+|
+@766
+;00408FC0{If you fold the big wings<END>}#27
+If you fold the big wings<END>
+|
+@767
+;00408FDA{down, it'll automatically<END>}#27
+down, it'll automatically<END>
+|
+@768
+;00408FF4{switch to the Wing Trigger<END>}#28
+switch to the Wing Trigger<END>
+|
+@769
+;0040900F{Mode!<END>}#7
+Mode!<END>
+|
+@770
+;00409015{It compresses the core<END>}#24
+It compresses the core<END>
+|
+@771
+;0040902C{part and increases<END>}#20
+part and increases<END>
+|
+@772
+;0040903F{shooting power!<END>}#17
+shooting power!<END>
+|
+@773
+;0040904F{<END>}#2
+<END>
+|
+@774
+;00409050{# This part can't be used<END>}#27
+# This part can't be used<END>
+|
+@775
+;0040906A{at the same time as a<END>}#23
+at the same time as a<END>
+|
+@776
+;00409080{B-Daman Head part.<END>}#20
+B-Daman Head part.<END>
+|
+@777
+;00409093{This back part was<END>}#20
+This back part was<END>
+|
+@778
+;004090A6{transformed by Yamato's<END>}#25
+transformed by Yamato's<END>
+|
+@779
+;004090BE{power.<END>}#8
+power.<END>
+|
+@780
+;004090C5{The main feature of this<END>}#26
+The main feature of this<END>
+|
+@781
+;004090DE{part is its stability,<END>}#24
+part is its stability,<END>
+|
+@782
+;004090F5{which can deal with any<END>}#25
+which can deal with any<END>
+|
+@783
+;0040910D{amount of recoil!<END>}#19
+amount of recoil!<END>
+|
+@784
+;0040911F{<END>}#2
+<END>
+|
+@785
+;00409120{# This part can't be used<END>}#27
+# This part can't be used<END>
+|
+@786
+;0040913A{at the same time as a<END>}#23
+at the same time as a<END>
+|
+@787
+;00409150{B-Daman Heel part.<END>}#20
+B-Daman Heel part.<END>
+|
+@788
+;00409163{These elongated wings are<END>}#27
+These elongated wings are<END>
+|
+@789
+;0040917D{rapid -fire type parts<END>}#24
+rapid -fire type parts<END>
+|
+@790
+;00409194{that are excellent for<END>}#24
+that are excellent for<END>
+|
+@791
+;004091AB{one-handed shooting!<END>}#22
+one-handed shooting!<END>
+|
+@792
+;004091C0{<END>}#2
+<END>
+|
+@793
+;004091C1{# This item is part of a<END>}#26
+# This item is part of a<END>
+|
+@794
+;004091DA{set. If you remove this<END>}#25
+set. If you remove this<END>
+|
+@795
+;004091F2{part, the Saber Loader<END>}#24
+part, the Saber Loader<END>
+|
+@796
+;00409209{Server will be removed<END>}#24
+Server will be removed<END>
+|
+@797
+;00409220{automatically as well.<END>}#24
+automatically as well.<END>
+|
+@798
+;00409237{<END>}#2
+<END>
+|
+@799
+;00409238{If you buy this part, the<END>}#27
+If you buy this part, the<END>
+|
+@800
+;00409252{Saber Loader Server will<END>}#26
+Saber Loader Server will<END>
+|
+@801
+;0040926B{come with it.<END>}#15
+come with it.<END>
+|
+@802
+;00409279{<END>}#2
+<END>
+|
+@803
+;0040927A{If you sell this part, the<END>}#28
+If you sell this part, the<END>
+|
+@804
+;00409295{Saber Loader Server will<END>}#26
+Saber Loader Server will<END>
+|
+@805
+;004092AE{be sold as well.<END>}#18
+be sold as well.<END>
+|
+@806
+;004092BF{This is the really-old<END>}#24
+This is the really-old<END>
+|
+@807
+;004092D6{petrified back part. <END>}#23
+petrified back part. <END>
+|
+@808
+;004092EC{It's unclear what kind of<END>}#27
+It's unclear what kind of<END>
+|
+@809
+;00409306{B-Daman this part was used<END>}#28
+B-Daman this part was used<END>
+|
+@810
+;00409321{for.<END>}#6
+for.<END>
+|
+@811
+;00409326{# This part can't be <END>}#23
+# This part can't be <END>
+|
+@812
+;0040933C{equipped.<END>}#11
+equipped.<END>
+|
+@813
+;00409346{This extended grip that<END>}#25
+This extended grip that<END>
+|
+@814
+;0040935E{fits on the back is an <END>}#25
+fits on the back is an <END>
+|
+@815
+;00409376{awesome item that enables<END>}#27
+awesome item that enables<END>
+|
+@816
+;00409390{you to hold your B-Daman<END>}#26
+you to hold your B-Daman<END>
+|
+@817
+;004093A9{easily!<END>}#9
+easily!<END>
+|
+@818
+;004093B1{<END>}#2
+<END>
+|
+@819
+;004093B2{# This part can't be used<END>}#27
+# This part can't be used<END>
+|
+@820
+;004093CC{at the same time as a<END>}#23
+at the same time as a<END>
+|
+@821
+;004093E2{B-Daman Head part.<END>}#20
+B-Daman Head part.<END>
+|
+@822
+;004093F5{These big wings increase<END>}#26
+These big wings increase<END>
+|
+@823
+;0040940E{agility by taking full<END>}#24
+agility by taking full<END>
+|
+@824
+;00409425{advantage of the wind!<END>}#24
+advantage of the wind!<END>
+|
+@825
+;0040943C{Its stability is<END>}#18
+Its stability is<END>
+|
+@826
+;0040944D{remarkable, and it has<END>}#24
+remarkable, and it has<END>
+|
+@827
+;00409464{awesome endurance during<END>}#26
+awesome endurance during<END>
+|
+@828
+;0040947D{rapid-fire!<END>}#13
+rapid-fire!<END>
+|
+@829
+;00409489{<END>}#2
+<END>
+|
+@830
+;0040948A{# This part can't be used<END>}#27
+# This part can't be used<END>
+|
+@831
+;004094A4{at the same time as a<END>}#23
+at the same time as a<END>
+|
+@832
+;004094BA{B-Daman Heel part.<END>}#20
+B-Daman Heel part.<END>
+|
+@833
+;004094CD{It compresses the core<END>}#24
+It compresses the core<END>
+|
+@834
+;004094E4{and launches poweful<END>}#22
+and launches poweful<END>
+|
+@835
+;004094F9{shots!<END>}#8
+shots!<END>
+|
+@836
+;00409500{<END>}#2
+<END>
+|
+@837
+;00409501{# This item is part of a<END>}#26
+# This item is part of a<END>
+|
+@838
+;0040951A{set. <END>}#7
+set. <END>
+|
+@839
+;00409520{/Shoulder Joint <END>}#18
+/Shoulder Joint <END>
+|
+@840
+;00409531{/L-Power Shoulder <END>}#20
+/L-Power Shoulder <END>
+|
+@841
+;00409544{/R-Power Shoulder <END>}#20
+/R-Power Shoulder <END>
+|
+@842
+;00409557{These three items make up<END>}#27
+These three items make up<END>
+|
+@843
+;00409571{the entire set.<END>}#17
+the entire set.<END>
+|
+@844
+;00409581{<END>}#2
+<END>
+|
+@845
+;00409582{If you equip this part,<END>}#25
+If you equip this part,<END>
+|
+@846
+;0040959A{then the other two parts<END>}#26
+then the other two parts<END>
+|
+@847
+;004095B3{will be equipped as well.<END>}#27
+will be equipped as well.<END>
+|
+@848
+;004095CD{<END>}#2
+<END>
+|
+@849
+;004095CE{If you take this part off,<END>}#28
+If you take this part off,<END>
+|
+@850
+;004095E9{the other parts of the set<END>}#28
+the other parts of the set<END>
+|
+@851
+;00409604{will be removed as well.<END>}#26
+will be removed as well.<END>
+|
+@852
+;0040961D{<END>}#2
+<END>
+|
+@853
+;0040961E{If you buy this part, the<END>}#27
+If you buy this part, the<END>
+|
+@854
+;00409638{other items in the set<END>}#24
+other items in the set<END>
+|
+@855
+;0040964F{will come with it.<END>}#20
+will come with it.<END>
+|
+@856
+;00409662{<END>}#2
+<END>
+|
+@857
+;00409663{If you sell this part, the<END>}#28
+If you sell this part, the<END>
+|
+@858
+;0040967E{other items in the set<END>}#24
+other items in the set<END>
+|
+@859
+;00409695{will be sold as well.<END>}#23
+will be sold as well.<END>
+|
+@860
+;004096AB{This compact shoulder has<END>}#27
+This compact shoulder has<END>
+|
+@861
+;004096C5{a simple shape. All<END>}#21
+a simple shape. All<END>
+|
+@862
+;004096D9{unnecessary adornments<END>}#24
+unnecessary adornments<END>
+|
+@863
+;004096F0{have been eliminated.<END>}#23
+have been eliminated.<END>
+|
+@864
+;00409706{This compact shoulder has<END>}#27
+This compact shoulder has<END>
+|
+@865
+;00409720{a simple shape. All<END>}#21
+a simple shape. All<END>
+|
+@866
+;00409734{unnecessary adornments<END>}#24
+unnecessary adornments<END>
+|
+@867
+;0040974B{have been eliminated.<END>}#23
+have been eliminated.<END>
+|
+@868
+;00409761{This is a small wing-like<END>}#27
+This is a small wing-like<END>
+|
+@869
+;0040977B{shoulder that supports the<END>}#28
+shoulder that supports the<END>
+|
+@870
+;00409796{big wing!<END>}#11
+big wing!<END>
+|
+@871
+;004097A0{This is a big shield-like<END>}#27
+This is a big shield-like<END>
+|
+@872
+;004097BA{shoulder that covers your<END>}#27
+shoulder that covers your<END>
+|
+@873
+;004097D4{B-Daman's whole arm.<END>}#22
+B-Daman's whole arm.<END>
+|
+@874
+;004097E9{<END>}#2
+<END>
+|
+@875
+;004097EA{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@876
+;00409804{the arm part that is on<END>}#25
+the arm part that is on<END>
+|
+@877
+;0040981C{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@878
+;00409832{equipped.<END>}#11
+equipped.<END>
+|
+@879
+;0040983C{This small shoulder won't<END>}#27
+This small shoulder won't<END>
+|
+@880
+;00409856{get in the way when you<END>}#25
+get in the way when you<END>
+|
+@881
+;0040986E{maneuver your B-Daman!<END>}#24
+maneuver your B-Daman!<END>
+|
+@882
+;00409885{This big shield can be<END>}#24
+This big shield can be<END>
+|
+@883
+;0040989C{used as a body guard and,<END>}#27
+used as a body guard and,<END>
+|
+@884
+;004098B6{if removed, can also be<END>}#25
+if removed, can also be<END>
+|
+@885
+;004098CE{used as a practice target!<END>}#28
+used as a practice target!<END>
+|
+@886
+;004098E9{<END>}#2
+<END>
+|
+@887
+;004098EA{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@888
+;00409904{the arm part that is on<END>}#25
+the arm part that is on<END>
+|
+@889
+;0040991C{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@890
+;00409932{equipped.<END>}#11
+equipped.<END>
+|
+@891
+;0040993C{This shoulder has a long<END>}#26
+This shoulder has a long<END>
+|
+@892
+;00409955{horn coming straight out<END>}#26
+horn coming straight out<END>
+|
+@893
+;0040996E{of its head that will<END>}#23
+of its head that will<END>
+|
+@894
+;00409984{scare the dickens out of<END>}#26
+scare the dickens out of<END>
+|
+@895
+;0040999D{your opponent.<END>}#16
+your opponent.<END>
+|
+@896
+;004099AC{It's a red shoulder that<END>}#26
+It's a red shoulder that<END>
+|
+@897
+;004099C5{is as hard as a scorpion's<END>}#28
+is as hard as a scorpion's<END>
+|
+@898
+;004099E0{shell!<END>}#8
+shell!<END>
+|
+@899
+;004099E7{This protruding shoulder<END>}#26
+This protruding shoulder<END>
+|
+@900
+;00409A00{part is handy as a finger<END>}#27
+part is handy as a finger<END>
+|
+@901
+;00409A1A{rest as well!<END>}#15
+rest as well!<END>
+|
+@902
+;00409A28{These three big, long<END>}#23
+These three big, long<END>
+|
+@903
+;00409A3E{claws can even protect the<END>}#28
+claws can even protect the<END>
+|
+@904
+;00409A59{arm!<END>}#6
+arm!<END>
+|
+@905
+;00409A5E{<END>}#2
+<END>
+|
+@906
+;00409A5F{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@907
+;00409A79{the arm part that is on<END>}#25
+the arm part that is on<END>
+|
+@908
+;00409A91{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@909
+;00409AA7{equipped.<END>}#11
+equipped.<END>
+|
+@910
+;00409AB1{This is a big rounded<END>}#23
+This is a big rounded<END>
+|
+@911
+;00409AC7{shoulder that even<END>}#20
+shoulder that even<END>
+|
+@912
+;00409ADA{protects the arm. Its main<END>}#28
+protects the arm. Its main<END>
+|
+@913
+;00409AF5{feature is its great<END>}#22
+feature is its great<END>
+|
+@914
+;00409B0A{ability to deflect<END>}#20
+ability to deflect<END>
+|
+@915
+;00409B1D{attacks.<END>}#10
+attacks.<END>
+|
+@916
+;00409B26{<END>}#2
+<END>
+|
+@917
+;00409B27{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@918
+;00409B41{the arm part that is on <END>}#26
+the arm part that is on <END>
+|
+@919
+;00409B5A{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@920
+;00409B70{equipped.<END>}#11
+equipped.<END>
+|
+@921
+;00409B7A{Its black, base color and<END>}#27
+Its black, base color and<END>
+|
+@922
+;00409B94{striking, yellow pattern<END>}#26
+striking, yellow pattern<END>
+|
+@923
+;00409BAD{reminds you of lightning!<END>}#27
+reminds you of lightning!<END>
+|
+@924
+;00409BC7{The arm part reinforces<END>}#25
+The arm part reinforces<END>
+|
+@925
+;00409BDF{the hold part, enabling<END>}#25
+the hold part, enabling<END>
+|
+@926
+;00409BF7{you to launch a<END>}#17
+you to launch a<END>
+|
+@927
+;00409C07{power-shot!<END>}#13
+power-shot!<END>
+|
+@928
+;00409C13{This arm part made for the<END>}#28
+This arm part made for the<END>
+|
+@929
+;00409C2E{Chrome Harrier. It allows<END>}#27
+Chrome Harrier. It allows<END>
+|
+@930
+;00409C48{for great maneuvering and<END>}#27
+for great maneuvering and<END>
+|
+@931
+;00409C62{is easy to hold!<END>}#18
+is easy to hold!<END>
+|
+@932
+;00409C73{This is a small shoulder<END>}#26
+This is a small shoulder<END>
+|
+@933
+;00409C8C{part that was especially<END>}#26
+part that was especially<END>
+|
+@934
+;00409CA5{designed to maneuver your<END>}#27
+designed to maneuver your<END>
+|
+@935
+;00409CBF{B-Daman without getting in<END>}#28
+B-Daman without getting in<END>
+|
+@936
+;00409CDA{the way when you want to<END>}#26
+the way when you want to<END>
+|
+@937
+;00409CF3{make quick movements!<END>}#23
+make quick movements!<END>
+|
+@938
+;00409D09{This is a standard-type<END>}#25
+This is a standard-type<END>
+|
+@939
+;00409D21{shoulder with a<END>}#17
+shoulder with a<END>
+|
+@940
+;00409D31{distinctive heart mark on<END>}#27
+distinctive heart mark on<END>
+|
+@941
+;00409D4B{it!<END>}#5
+it!<END>
+|
+@942
+;00409D4F{This shoulder part has a<END>}#26
+This shoulder part has a<END>
+|
+@943
+;00409D68{bumpy surface you can hold<END>}#28
+bumpy surface you can hold<END>
+|
+@944
+;00409D83{onto. Your fingers won't<END>}#26
+onto. Your fingers won't<END>
+|
+@945
+;00409D9C{slip, even if you grip it<END>}#27
+slip, even if you grip it<END>
+|
+@946
+;00409DB6{really firmly!<END>}#16
+really firmly!<END>
+|
+@947
+;00409DC5{This shoulder part looks<END>}#26
+This shoulder part looks<END>
+|
+@948
+;00409DDE{like samurai armor!<END>}#21
+like samurai armor!<END>
+|
+@949
+;00409DF2{<END>}#2
+<END>
+|
+@950
+;00409DF3{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@951
+;00409E0D{some arm parts that are on<END>}#28
+some arm parts that are on<END>
+|
+@952
+;00409E28{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@953
+;00409E3E{equipped.<END>}#11
+equipped.<END>
+|
+@954
+;00409E48{This small, rounded<END>}#21
+This small, rounded<END>
+|
+@955
+;00409E5C{shoulder part fits your<END>}#25
+shoulder part fits your<END>
+|
+@956
+;00409E74{hand perfectly!<END>}#17
+hand perfectly!<END>
+|
+@957
+;00409E84{This shoulder part is a<END>}#25
+This shoulder part is a<END>
+|
+@958
+;00409E9C{shield that protects the<END>}#26
+shield that protects the<END>
+|
+@959
+;00409EB5{B-Daman's whole body! It<END>}#26
+B-Daman's whole body! It<END>
+|
+@960
+;00409ECE{can defend your B-Daman<END>}#25
+can defend your B-Daman<END>
+|
+@961
+;00409EE6{against any attack!<END>}#21
+against any attack!<END>
+|
+@962
+;00409EFA{<END>}#2
+<END>
+|
+@963
+;00409EFB{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@964
+;00409F15{the arm part that is on<END>}#25
+the arm part that is on<END>
+|
+@965
+;00409F2D{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@966
+;00409F43{equipped.<END>}#11
+equipped.<END>
+|
+@967
+;00409F4D{It compresses the core<END>}#24
+It compresses the core<END>
+|
+@968
+;00409F64{and increases firing<END>}#22
+and increases firing<END>
+|
+@969
+;00409F79{power!<END>}#8
+power!<END>
+|
+@970
+;00409F80{<END>}#2
+<END>
+|
+@971
+;00409F81{It's based on the same<END>}#24
+It's based on the same<END>
+|
+@972
+;00409F98{principle as the Power<END>}#24
+principle as the Power<END>
+|
+@973
+;00409FAF{Arms!<END>}#7
+Arms!<END>
+|
+@974
+;00409FB5{<END>}#2
+<END>
+|
+@975
+;00409FB6{# This item is part of a<END>}#26
+# This item is part of a<END>
+|
+@976
+;00409FCF{set made up of the<END>}#20
+set made up of the<END>
+|
+@977
+;00409FE2{following five items: the<END>}#27
+following five items: the<END>
+|
+@978
+;00409FFC{Body, the L-Shoulder, the<END>}#27
+Body, the L-Shoulder, the<END>
+|
+@979
+;0040A016{L-Arm, the R-Shoulder, and<END>}#28
+L-Arm, the R-Shoulder, and<END>
+|
+@980
+;0040A031{the R-Arm. These five<END>}#23
+the R-Arm. These five<END>
+|
+@981
+;0040A047{items make up the entire<END>}#26
+items make up the entire<END>
+|
+@982
+;0040A060{set.<END>}#6
+set.<END>
+|
+@983
+;0040A065{<END>}#2
+<END>
+|
+@984
+;0040A066{If you equip this part,<END>}#25
+If you equip this part,<END>
+|
+@985
+;0040A07E{then the other four parts<END>}#27
+then the other four parts<END>
+|
+@986
+;0040A098{will be equipped as well.<END>}#27
+will be equipped as well.<END>
+|
+@987
+;0040A0B2{<END>}#2
+<END>
+|
+@988
+;0040A0B3{If you remove this part,<END>}#26
+If you remove this part,<END>
+|
+@989
+;0040A0CC{the other parts of the set<END>}#28
+the other parts of the set<END>
+|
+@990
+;0040A0E7{will be removed as well.<END>}#26
+will be removed as well.<END>
+|
+@991
+;0040A100{<END>}#2
+<END>
+|
+@992
+;0040A101{If you buy this part, the<END>}#27
+If you buy this part, the<END>
+|
+@993
+;0040A11B{other items in the set<END>}#24
+other items in the set<END>
+|
+@994
+;0040A132{will come with it.<END>}#20
+will come with it.<END>
+|
+@995
+;0040A145{<END>}#2
+<END>
+|
+@996
+;0040A146{If you sell this part, the<END>}#28
+If you sell this part, the<END>
+|
+@997
+;0040A161{other items in the set<END>}#24
+other items in the set<END>
+|
+@998
+;0040A178{will be sold as well.<END>}#23
+will be sold as well.<END>
+|
+@999
+;0040A18E{This is a cute shoulder<END>}#25
+This is a cute shoulder<END>
+|
+@1000
+;0040A1A6{part thats shaped like a<END>}#26
+part thats shaped like a<END>
+|
+@1001
+;0040A1BF{duck's wing!<END>}#14
+duck's wing!<END>
+|
+@1002
+;0040A1CC{If you rest your fingers<END>}#26
+If you rest your fingers<END>
+|
+@1003
+;0040A1E5{on its shoulder part, <END>}#24
+on its shoulder part, <END>
+|
+@1004
+;0040A1FC{you will be able to fire<END>}#26
+you will be able to fire<END>
+|
+@1005
+;0040A215{accurate shots easily!<END>}#24
+accurate shots easily!<END>
+|
+@1006
+;0040A22C{This shoulder part has a<END>}#26
+This shoulder part has a<END>
+|
+@1007
+;0040A245{design inspired by ninja<END>}#26
+design inspired by ninja<END>
+|
+@1008
+;0040A25E{chain mail!<END>}#13
+chain mail!<END>
+|
+@1009
+;0040A26A{<END>}#2
+<END>
+|
+@1010
+;0040A26B{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@1011
+;0040A285{some arm parts that are on<END>}#28
+some arm parts that are on<END>
+|
+@1012
+;0040A2A0{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@1013
+;0040A2B6{equipped.<END>}#11
+equipped.<END>
+|
+@1014
+;0040A2C0{This is a long, slender<END>}#25
+This is a long, slender<END>
+|
+@1015
+;0040A2D8{shoulder that looks like a<END>}#28
+shoulder that looks like a<END>
+|
+@1016
+;0040A2F3{shield. It guards the<END>}#23
+shield. It guards the<END>
+|
+@1017
+;0040A309{shoulder, as well as the<END>}#26
+shoulder, as well as the<END>
+|
+@1018
+;0040A322{arm!<END>}#6
+arm!<END>
+|
+@1019
+;0040A327{<END>}#2
+<END>
+|
+@1020
+;0040A328{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@1021
+;0040A342{the arm part that is on<END>}#25
+the arm part that is on<END>
+|
+@1022
+;0040A35A{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@1023
+;0040A370{equipped.<END>}#11
+equipped.<END>
+|
+@1024
+;0040A37A{Because its size and<END>}#22
+Because its size and<END>
+|
+@1025
+;0040A38F{design allow you to grip<END>}#26
+design allow you to grip<END>
+|
+@1026
+;0040A3A8{it well, it makes it<END>}#22
+it well, it makes it<END>
+|
+@1027
+;0040A3BD{excessively easy to use!<END>}#26
+excessively easy to use!<END>
+|
+@1028
+;0040A3D6{This shoulder part is<END>}#23
+This shoulder part is<END>
+|
+@1029
+;0040A3EC{exclusively available on<END>}#26
+exclusively available on<END>
+|
+@1030
+;0040A405{the video game designed by<END>}#28
+the video game designed by<END>
+|
+@1031
+;0040A420{Inuki!<END>}#8
+Inuki!<END>
+|
+@1032
+;0040A427{This heavy-duty shoulder<END>}#26
+This heavy-duty shoulder<END>
+|
+@1033
+;0040A440{can stand up to any kind<END>}#26
+can stand up to any kind<END>
+|
+@1034
+;0040A459{of attack!<END>}#12
+of attack!<END>
+|
+@1035
+;0040A464{This compact shoulder has<END>}#27
+This compact shoulder has<END>
+|
+@1036
+;0040A47E{a simple shape. All<END>}#21
+a simple shape. All<END>
+|
+@1037
+;0040A492{unnecessary adornments<END>}#24
+unnecessary adornments<END>
+|
+@1038
+;0040A4A9{have been eliminated.<END>}#23
+have been eliminated.<END>
+|
+@1039
+;0040A4BF{This compact shoulder has<END>}#27
+This compact shoulder has<END>
+|
+@1040
+;0040A4D9{a simple shape. All<END>}#21
+a simple shape. All<END>
+|
+@1041
+;0040A4ED{unnecessary adornments<END>}#24
+unnecessary adornments<END>
+|
+@1042
+;0040A504{have been eliminated.<END>}#23
+have been eliminated.<END>
+|
+@1043
+;0040A51A{This big shield can be<END>}#24
+This big shield can be<END>
+|
+@1044
+;0040A531{used as a body guard and,<END>}#27
+used as a body guard and,<END>
+|
+@1045
+;0040A54B{if removed, can also be<END>}#25
+if removed, can also be<END>
+|
+@1046
+;0040A563{used as a practice target!<END>}#28
+used as a practice target!<END>
+|
+@1047
+;0040A57E{<END>}#2
+<END>
+|
+@1048
+;0040A57F{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@1049
+;0040A599{the arm part that is on<END>}#25
+the arm part that is on<END>
+|
+@1050
+;0040A5B1{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@1051
+;0040A5C7{equipped.<END>}#11
+equipped.<END>
+|
+@1052
+;0040A5D1{This is a brutal shoulder<END>}#27
+This is a brutal shoulder<END>
+|
+@1053
+;0040A5EB{that has the power to<END>}#23
+that has the power to<END>
+|
+@1054
+;0040A601{destroy anything.<END>}#19
+destroy anything.<END>
+|
+@1055
+;0040A613{These three big, long<END>}#23
+These three big, long<END>
+|
+@1056
+;0040A629{claws can even protect the<END>}#28
+claws can even protect the<END>
+|
+@1057
+;0040A644{arm!<END>}#6
+arm!<END>
+|
+@1058
+;0040A649{<END>}#2
+<END>
+|
+@1059
+;0040A64A{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@1060
+;0040A664{the arm part that is on <END>}#26
+the arm part that is on <END>
+|
+@1061
+;0040A67D{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@1062
+;0040A693{equipped.<END>}#11
+equipped.<END>
+|
+@1063
+;0040A69D{This is a big rounded<END>}#23
+This is a big rounded<END>
+|
+@1064
+;0040A6B3{shoulder that even<END>}#20
+shoulder that even<END>
+|
+@1065
+;0040A6C6{protects the arm. Its main<END>}#28
+protects the arm. Its main<END>
+|
+@1066
+;0040A6E1{feature is its great<END>}#22
+feature is its great<END>
+|
+@1067
+;0040A6F6{ability to deflect<END>}#20
+ability to deflect<END>
+|
+@1068
+;0040A709{attacks.<END>}#10
+attacks.<END>
+|
+@1069
+;0040A712{<END>}#2
+<END>
+|
+@1070
+;0040A713{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@1071
+;0040A72D{the arm part that is on <END>}#26
+the arm part that is on <END>
+|
+@1072
+;0040A746{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@1073
+;0040A75C{equipped.<END>}#11
+equipped.<END>
+|
+@1074
+;0040A766{This new-and-improved<END>}#23
+This new-and-improved<END>
+|
+@1075
+;0040A77C{shoulder part is based on <END>}#28
+shoulder part is based on <END>
+|
+@1076
+;0040A797{Wing Sword Thunder's.<END>}#23
+Wing Sword Thunder's.<END>
+|
+@1077
+;0040A7AD{This shoulder part can<END>}#24
+This shoulder part can<END>
+|
+@1078
+;0040A7C4{compress B-Daballs, just<END>}#26
+compress B-Daballs, just<END>
+|
+@1079
+;0040A7DD{like a core can!<END>}#18
+like a core can!<END>
+|
+@1080
+;0040A7EE{This shoulder part is a<END>}#25
+This shoulder part is a<END>
+|
+@1081
+;0040A806{shield that protects the<END>}#26
+shield that protects the<END>
+|
+@1082
+;0040A81F{B-Daman's whole body! It<END>}#26
+B-Daman's whole body! It<END>
+|
+@1083
+;0040A838{can defend your B-Daman<END>}#25
+can defend your B-Daman<END>
+|
+@1084
+;0040A850{against any attack!<END>}#21
+against any attack!<END>
+|
+@1085
+;0040A864{<END>}#2
+<END>
+|
+@1086
+;0040A865{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@1087
+;0040A87F{the arm part that is on<END>}#25
+the arm part that is on<END>
+|
+@1088
+;0040A897{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@1089
+;0040A8AD{equipped.<END>}#11
+equipped.<END>
+|
+@1090
+;0040A8B7{This long shield acts as a<END>}#28
+This long shield acts as a<END>
+|
+@1091
+;0040A8D2{perfect protector that<END>}#24
+perfect protector that<END>
+|
+@1092
+;0040A8E9{even guards the arm. It<END>}#25
+even guards the arm. It<END>
+|
+@1093
+;0040A901{extends down to the<END>}#21
+extends down to the<END>
+|
+@1094
+;0040A915{ground. The part that<END>}#23
+ground. The part that<END>
+|
+@1095
+;0040A92B{touches the ground is made<END>}#28
+touches the ground is made<END>
+|
+@1096
+;0040A946{of rubber, which increases<END>}#28
+of rubber, which increases<END>
+|
+@1097
+;0040A961{stability!<END>}#12
+stability!<END>
+|
+@1098
+;0040A96C{<END>}#2
+<END>
+|
+@1099
+;0040A96D{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@1100
+;0040A987{the arm part that is on<END>}#25
+the arm part that is on<END>
+|
+@1101
+;0040A99F{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@1102
+;0040A9B5{equipped.<END>}#11
+equipped.<END>
+|
+@1103
+;0040A9BF{This is the really-old<END>}#24
+This is the really-old<END>
+|
+@1104
+;0040A9D6{petrified left-shoulder<END>}#25
+petrified left-shoulder<END>
+|
+@1105
+;0040A9EE{part. It's unclear what<END>}#25
+part. It's unclear what<END>
+|
+@1106
+;0040AA06{kind of B-Daman this part<END>}#27
+kind of B-Daman this part<END>
+|
+@1107
+;0040AA20{was used for.<END>}#15
+was used for.<END>
+|
+@1108
+;0040AA2E{# This part can't be<END>}#22
+# This part can't be<END>
+|
+@1109
+;0040AA43{equipped.<END>}#11
+equipped.<END>
+|
+@1110
+;0040AA4D{It's a shoulder part that<END>}#27
+It's a shoulder part that<END>
+|
+@1111
+;0040AA67{is as hard as a scorpion's<END>}#28
+is as hard as a scorpion's<END>
+|
+@1112
+;0040AA82{shell!<END>}#8
+shell!<END>
+|
+@1113
+;0040AA89{This protruding shoulder<END>}#26
+This protruding shoulder<END>
+|
+@1114
+;0040AAA2{part is handy as a finger<END>}#27
+part is handy as a finger<END>
+|
+@1115
+;0040AABC{rest as well!<END>}#15
+rest as well!<END>
+|
+@1116
+;0040AACA{This is a small shoulder<END>}#26
+This is a small shoulder<END>
+|
+@1117
+;0040AAE3{part that was especially<END>}#26
+part that was especially<END>
+|
+@1118
+;0040AAFC{designed to maneuver your<END>}#27
+designed to maneuver your<END>
+|
+@1119
+;0040AB16{B-Daman without getting in<END>}#28
+B-Daman without getting in<END>
+|
+@1120
+;0040AB31{the way when you want to<END>}#26
+the way when you want to<END>
+|
+@1121
+;0040AB4A{make quick movements!<END>}#23
+make quick movements!<END>
+|
+@1122
+;0040AB60{This shoulder part was<END>}#24
+This shoulder part was<END>
+|
+@1123
+;0040AB77{designed with an image of<END>}#27
+designed with an image of<END>
+|
+@1124
+;0040AB91{wings in mind. It can deal<END>}#28
+wings in mind. It can deal<END>
+|
+@1125
+;0040ABAC{with wind resistance, even<END>}#28
+with wind resistance, even<END>
+|
+@1126
+;0040ABC7{when quick movement is<END>}#24
+when quick movement is<END>
+|
+@1127
+;0040ABDE{required!<END>}#11
+required!<END>
+|
+@1128
+;0040ABE8{The roundness of this<END>}#23
+The roundness of this<END>
+|
+@1129
+;0040ABFE{shoulder part makes it<END>}#24
+shoulder part makes it<END>
+|
+@1130
+;0040AC15{easy to grip! Its great<END>}#25
+easy to grip! Its great<END>
+|
+@1131
+;0040AC2D{design will allow you to<END>}#26
+design will allow you to<END>
+|
+@1132
+;0040AC46{hold it for a long time<END>}#25
+hold it for a long time<END>
+|
+@1133
+;0040AC5E{without tiring your<END>}#21
+without tiring your<END>
+|
+@1134
+;0040AC72{fingers out!<END>}#14
+fingers out!<END>
+|
+@1135
+;0040AC7F{It compresses the core<END>}#24
+It compresses the core<END>
+|
+@1136
+;0040AC96{and launches poweful<END>}#22
+and launches poweful<END>
+|
+@1137
+;0040ACAB{shots!<END>}#8
+shots!<END>
+|
+@1138
+;0040ACB2{<END>}#2
+<END>
+|
+@1139
+;0040ACB3{# This item is part of a<END>}#26
+# This item is part of a<END>
+|
+@1140
+;0040ACCC{set. <END>}#7
+set. <END>
+|
+@1141
+;0040ACD2{/Shoulder Joint <END>}#18
+/Shoulder Joint <END>
+|
+@1142
+;0040ACE3{/L-Power Shoulder <END>}#20
+/L-Power Shoulder <END>
+|
+@1143
+;0040ACF6{/R-Power Shoulder <END>}#20
+/R-Power Shoulder <END>
+|
+@1144
+;0040AD09{These three items make up<END>}#27
+These three items make up<END>
+|
+@1145
+;0040AD23{the entire set.<END>}#17
+the entire set.<END>
+|
+@1146
+;0040AD33{<END>}#2
+<END>
+|
+@1147
+;0040AD34{If you equip this part,<END>}#25
+If you equip this part,<END>
+|
+@1148
+;0040AD4C{then the other two parts<END>}#26
+then the other two parts<END>
+|
+@1149
+;0040AD65{will be equipped as well.<END>}#27
+will be equipped as well.<END>
+|
+@1150
+;0040AD7F{<END>}#2
+<END>
+|
+@1151
+;0040AD80{If you take this part off,<END>}#28
+If you take this part off,<END>
+|
+@1152
+;0040AD9B{the other parts of the set<END>}#28
+the other parts of the set<END>
+|
+@1153
+;0040ADB6{will be removed as well.<END>}#26
+will be removed as well.<END>
+|
+@1154
+;0040ADCF{<END>}#2
+<END>
+|
+@1155
+;0040ADD0{If you buy this part, the<END>}#27
+If you buy this part, the<END>
+|
+@1156
+;0040ADEA{other items in the set<END>}#24
+other items in the set<END>
+|
+@1157
+;0040AE01{will come with it.<END>}#20
+will come with it.<END>
+|
+@1158
+;0040AE14{<END>}#2
+<END>
+|
+@1159
+;0040AE15{If you sell this part, the<END>}#28
+If you sell this part, the<END>
+|
+@1160
+;0040AE30{other items in the set<END>}#24
+other items in the set<END>
+|
+@1161
+;0040AE47{will be sold as well.<END>}#23
+will be sold as well.<END>
+|
+@1162
+;0040AE5D{This compact shoulder has<END>}#27
+This compact shoulder has<END>
+|
+@1163
+;0040AE77{a simple shape. All<END>}#21
+a simple shape. All<END>
+|
+@1164
+;0040AE8B{unnecessary adornments<END>}#24
+unnecessary adornments<END>
+|
+@1165
+;0040AEA2{have been eliminated.<END>}#23
+have been eliminated.<END>
+|
+@1166
+;0040AEB8{This compact shoulder has<END>}#27
+This compact shoulder has<END>
+|
+@1167
+;0040AED2{a simple shape. All<END>}#21
+a simple shape. All<END>
+|
+@1168
+;0040AEE6{unnecessary adornments<END>}#24
+unnecessary adornments<END>
+|
+@1169
+;0040AEFD{have been eliminated.<END>}#23
+have been eliminated.<END>
+|
+@1170
+;0040AF13{This is a small wing-like<END>}#27
+This is a small wing-like<END>
+|
+@1171
+;0040AF2D{shoulder that supports the<END>}#28
+shoulder that supports the<END>
+|
+@1172
+;0040AF48{big wing!<END>}#11
+big wing!<END>
+|
+@1173
+;0040AF52{This is a heavy-duty<END>}#22
+This is a heavy-duty<END>
+|
+@1174
+;0040AF67{shoulder part only for <END>}#25
+shoulder part only for <END>
+|
+@1175
+;0040AF7F{the Mega Diabros!<END>}#19
+the Mega Diabros!<END>
+|
+@1176
+;0040AF91{This is a big shield-like<END>}#27
+This is a big shield-like<END>
+|
+@1177
+;0040AFAB{shoulder that covers your<END>}#27
+shoulder that covers your<END>
+|
+@1178
+;0040AFC5{B-Daman's whole arm.<END>}#22
+B-Daman's whole arm.<END>
+|
+@1179
+;0040AFDA{<END>}#2
+<END>
+|
+@1180
+;0040AFDB{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@1181
+;0040AFF5{the arm part that is on<END>}#25
+the arm part that is on<END>
+|
+@1182
+;0040B00D{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@1183
+;0040B023{equipped.<END>}#11
+equipped.<END>
+|
+@1184
+;0040B02D{This small shoulder won't<END>}#27
+This small shoulder won't<END>
+|
+@1185
+;0040B047{get in the way when you<END>}#25
+get in the way when you<END>
+|
+@1186
+;0040B05F{maneuver your B-Daman!<END>}#24
+maneuver your B-Daman!<END>
+|
+@1187
+;0040B076{This shoulder part is<END>}#23
+This shoulder part is<END>
+|
+@1188
+;0040B08C{shaped like a grip and was<END>}#28
+shaped like a grip and was<END>
+|
+@1189
+;0040B0A7{designed with handling in<END>}#27
+designed with handling in<END>
+|
+@1190
+;0040B0C1{mind. It enables<END>}#18
+mind. It enables<END>
+|
+@1191
+;0040B0D2{one-handed firing!<END>}#20
+one-handed firing!<END>
+|
+@1192
+;0040B0E5{<END>}#2
+<END>
+|
+@1193
+;0040B0E6{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@1194
+;0040B100{some arm parts that are on<END>}#28
+some arm parts that are on<END>
+|
+@1195
+;0040B11B{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@1196
+;0040B131{equipped.<END>}#11
+equipped.<END>
+|
+@1197
+;0040B13B{This shoulder has a long<END>}#26
+This shoulder has a long<END>
+|
+@1198
+;0040B154{horn coming straight out<END>}#26
+horn coming straight out<END>
+|
+@1199
+;0040B16D{of its head that will<END>}#23
+of its head that will<END>
+|
+@1200
+;0040B183{scare the dickens out of<END>}#26
+scare the dickens out of<END>
+|
+@1201
+;0040B19C{your opponent.<END>}#16
+your opponent.<END>
+|
+@1202
+;0040B1AB{It's a red shoulder that<END>}#26
+It's a red shoulder that<END>
+|
+@1203
+;0040B1C4{is as hard as a scorpion's<END>}#28
+is as hard as a scorpion's<END>
+|
+@1204
+;0040B1DF{shell!<END>}#8
+shell!<END>
+|
+@1205
+;0040B1E6{This protruding shoulder<END>}#26
+This protruding shoulder<END>
+|
+@1206
+;0040B1FF{part is handy as a finger<END>}#27
+part is handy as a finger<END>
+|
+@1207
+;0040B219{rest as well!<END>}#15
+rest as well!<END>
+|
+@1208
+;0040B227{These three big, long<END>}#23
+These three big, long<END>
+|
+@1209
+;0040B23D{claws can even protect the<END>}#28
+claws can even protect the<END>
+|
+@1210
+;0040B258{arm!<END>}#6
+arm!<END>
+|
+@1211
+;0040B25D{<END>}#2
+<END>
+|
+@1212
+;0040B25E{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@1213
+;0040B278{the arm part that is on<END>}#25
+the arm part that is on<END>
+|
+@1214
+;0040B290{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@1215
+;0040B2A6{equipped.<END>}#11
+equipped.<END>
+|
+@1216
+;0040B2B0{This is a big rounded<END>}#23
+This is a big rounded<END>
+|
+@1217
+;0040B2C6{shoulder that even<END>}#20
+shoulder that even<END>
+|
+@1218
+;0040B2D9{protects the arm. Its main<END>}#28
+protects the arm. Its main<END>
+|
+@1219
+;0040B2F4{feature is its great<END>}#22
+feature is its great<END>
+|
+@1220
+;0040B309{ability to deflect<END>}#20
+ability to deflect<END>
+|
+@1221
+;0040B31C{attacks.<END>}#10
+attacks.<END>
+|
+@1222
+;0040B325{<END>}#2
+<END>
+|
+@1223
+;0040B326{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@1224
+;0040B340{the arm part that is on <END>}#26
+the arm part that is on <END>
+|
+@1225
+;0040B359{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@1226
+;0040B36F{equipped.<END>}#11
+equipped.<END>
+|
+@1227
+;0040B379{Its black, base color and<END>}#27
+Its black, base color and<END>
+|
+@1228
+;0040B393{striking, yellow pattern<END>}#26
+striking, yellow pattern<END>
+|
+@1229
+;0040B3AC{reminds you of lightning!<END>}#27
+reminds you of lightning!<END>
+|
+@1230
+;0040B3C6{This is a small shoulder<END>}#26
+This is a small shoulder<END>
+|
+@1231
+;0040B3DF{part that was especially<END>}#26
+part that was especially<END>
+|
+@1232
+;0040B3F8{designed to maneuver your<END>}#27
+designed to maneuver your<END>
+|
+@1233
+;0040B412{B-Daman without getting in<END>}#28
+B-Daman without getting in<END>
+|
+@1234
+;0040B42D{the way when you want to<END>}#26
+the way when you want to<END>
+|
+@1235
+;0040B446{make quick movements!<END>}#23
+make quick movements!<END>
+|
+@1236
+;0040B45C{This is a standard-type<END>}#25
+This is a standard-type<END>
+|
+@1237
+;0040B474{shoulder part. It was<END>}#23
+shoulder part. It was<END>
+|
+@1238
+;0040B48A{designed for easy-handling!<END>}#29
+designed for easy-handling!<END>
+|
+@1239
+;0040B4A6{This shoulder part has a<END>}#26
+This shoulder part has a<END>
+|
+@1240
+;0040B4BF{bumpy surface you can hold<END>}#28
+bumpy surface you can hold<END>
+|
+@1241
+;0040B4DA{onto. Your fingers won't<END>}#26
+onto. Your fingers won't<END>
+|
+@1242
+;0040B4F3{slip, even if you grip it<END>}#27
+slip, even if you grip it<END>
+|
+@1243
+;0040B50D{really firmly!<END>}#16
+really firmly!<END>
+|
+@1244
+;0040B51C{This shoulder part looks<END>}#26
+This shoulder part looks<END>
+|
+@1245
+;0040B535{like samurai armor!<END>}#21
+like samurai armor!<END>
+|
+@1246
+;0040B549{<END>}#2
+<END>
+|
+@1247
+;0040B54A{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@1248
+;0040B564{some arm parts that are on<END>}#28
+some arm parts that are on<END>
+|
+@1249
+;0040B57F{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@1250
+;0040B595{equipped.<END>}#11
+equipped.<END>
+|
+@1251
+;0040B59F{This small, rounded<END>}#21
+This small, rounded<END>
+|
+@1252
+;0040B5B3{shoulder part fits your<END>}#25
+shoulder part fits your<END>
+|
+@1253
+;0040B5CB{hand perfectly!<END>}#17
+hand perfectly!<END>
+|
+@1254
+;0040B5DB{This is an enormous,<END>}#22
+This is an enormous,<END>
+|
+@1255
+;0040B5F0{protruding shoulder! It<END>}#25
+protruding shoulder! It<END>
+|
+@1256
+;0040B608{has an awesome design with<END>}#28
+has an awesome design with<END>
+|
+@1257
+;0040B623{a great finger rest!<END>}#22
+a great finger rest!<END>
+|
+@1258
+;0040B638{It compresses the core<END>}#24
+It compresses the core<END>
+|
+@1259
+;0040B64F{and increases firing<END>}#22
+and increases firing<END>
+|
+@1260
+;0040B664{power!<END>}#8
+power!<END>
+|
+@1261
+;0040B66B{<END>}#2
+<END>
+|
+@1262
+;0040B66C{It's based on the same<END>}#24
+It's based on the same<END>
+|
+@1263
+;0040B683{principle as the Power<END>}#24
+principle as the Power<END>
+|
+@1264
+;0040B69A{Arms!<END>}#7
+Arms!<END>
+|
+@1265
+;0040B6A0{<END>}#2
+<END>
+|
+@1266
+;0040B6A1{# This item is part of a<END>}#26
+# This item is part of a<END>
+|
+@1267
+;0040B6BA{set made up of the<END>}#20
+set made up of the<END>
+|
+@1268
+;0040B6CD{following five items: the<END>}#27
+following five items: the<END>
+|
+@1269
+;0040B6E7{Body, the L-Shoulder, the<END>}#27
+Body, the L-Shoulder, the<END>
+|
+@1270
+;0040B701{L-Arm, the R-Shoulder, and<END>}#28
+L-Arm, the R-Shoulder, and<END>
+|
+@1271
+;0040B71C{the R-Arm. These five<END>}#23
+the R-Arm. These five<END>
+|
+@1272
+;0040B732{items make up the entire<END>}#26
+items make up the entire<END>
+|
+@1273
+;0040B74B{set.<END>}#6
+set.<END>
+|
+@1274
+;0040B750{<END>}#2
+<END>
+|
+@1275
+;0040B751{If you equip this part,<END>}#25
+If you equip this part,<END>
+|
+@1276
+;0040B769{then the other four parts<END>}#27
+then the other four parts<END>
+|
+@1277
+;0040B783{will be equipped as well.<END>}#27
+will be equipped as well.<END>
+|
+@1278
+;0040B79D{<END>}#2
+<END>
+|
+@1279
+;0040B79E{If you remove this part,<END>}#26
+If you remove this part,<END>
+|
+@1280
+;0040B7B7{the other parts of the set<END>}#28
+the other parts of the set<END>
+|
+@1281
+;0040B7D2{will be removed as well.<END>}#26
+will be removed as well.<END>
+|
+@1282
+;0040B7EB{<END>}#2
+<END>
+|
+@1283
+;0040B7EC{If you buy this part, the<END>}#27
+If you buy this part, the<END>
+|
+@1284
+;0040B806{other items in the set<END>}#24
+other items in the set<END>
+|
+@1285
+;0040B81D{will come with it.<END>}#20
+will come with it.<END>
+|
+@1286
+;0040B830{<END>}#2
+<END>
+|
+@1287
+;0040B831{If you sell this part, the<END>}#28
+If you sell this part, the<END>
+|
+@1288
+;0040B84C{other items in the set<END>}#24
+other items in the set<END>
+|
+@1289
+;0040B863{will be sold as well.<END>}#23
+will be sold as well.<END>
+|
+@1290
+;0040B879{This is a cute shoulder<END>}#25
+This is a cute shoulder<END>
+|
+@1291
+;0040B891{part thats shaped like a<END>}#26
+part thats shaped like a<END>
+|
+@1292
+;0040B8AA{duck's wing!<END>}#14
+duck's wing!<END>
+|
+@1293
+;0040B8B7{If you rest your fingers<END>}#26
+If you rest your fingers<END>
+|
+@1294
+;0040B8D0{on its shoulder part, <END>}#24
+on its shoulder part, <END>
+|
+@1295
+;0040B8E7{you will be able to fire<END>}#26
+you will be able to fire<END>
+|
+@1296
+;0040B900{accurate shots easily!<END>}#24
+accurate shots easily!<END>
+|
+@1297
+;0040B917{This shoulder part has a<END>}#26
+This shoulder part has a<END>
+|
+@1298
+;0040B930{design inspired by ninja<END>}#26
+design inspired by ninja<END>
+|
+@1299
+;0040B949{chain mail!<END>}#13
+chain mail!<END>
+|
+@1300
+;0040B955{<END>}#2
+<END>
+|
+@1301
+;0040B956{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@1302
+;0040B970{some arm parts that are on<END>}#28
+some arm parts that are on<END>
+|
+@1303
+;0040B98B{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@1304
+;0040B9A1{equipped.<END>}#11
+equipped.<END>
+|
+@1305
+;0040B9AB{This is a long, slender<END>}#25
+This is a long, slender<END>
+|
+@1306
+;0040B9C3{shoulder that looks like a<END>}#28
+shoulder that looks like a<END>
+|
+@1307
+;0040B9DE{shield. It guards the<END>}#23
+shield. It guards the<END>
+|
+@1308
+;0040B9F4{shoulder, as well as the<END>}#26
+shoulder, as well as the<END>
+|
+@1309
+;0040BA0D{arm!<END>}#6
+arm!<END>
+|
+@1310
+;0040BA12{<END>}#2
+<END>
+|
+@1311
+;0040BA13{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@1312
+;0040BA2D{the arm part that is on<END>}#25
+the arm part that is on<END>
+|
+@1313
+;0040BA45{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@1314
+;0040BA5B{equipped.<END>}#11
+equipped.<END>
+|
+@1315
+;0040BA65{Because its size and<END>}#22
+Because its size and<END>
+|
+@1316
+;0040BA7A{design allow you to grip<END>}#26
+design allow you to grip<END>
+|
+@1317
+;0040BA93{it well, it makes it<END>}#22
+it well, it makes it<END>
+|
+@1318
+;0040BAA8{excessively easy to use!<END>}#26
+excessively easy to use!<END>
+|
+@1319
+;0040BAC1{This shoulder part is<END>}#23
+This shoulder part is<END>
+|
+@1320
+;0040BAD7{exclusively available on<END>}#26
+exclusively available on<END>
+|
+@1321
+;0040BAF0{the video game designed by<END>}#28
+the video game designed by<END>
+|
+@1322
+;0040BB0B{Inuki!<END>}#8
+Inuki!<END>
+|
+@1323
+;0040BB12{This heavy-duty shoulder<END>}#26
+This heavy-duty shoulder<END>
+|
+@1324
+;0040BB2B{can stand up to any kind<END>}#26
+can stand up to any kind<END>
+|
+@1325
+;0040BB44{of attack!<END>}#12
+of attack!<END>
+|
+@1326
+;0040BB4F{This compact shoulder has<END>}#27
+This compact shoulder has<END>
+|
+@1327
+;0040BB69{a simple shape. All<END>}#21
+a simple shape. All<END>
+|
+@1328
+;0040BB7D{unnecessary adornments<END>}#24
+unnecessary adornments<END>
+|
+@1329
+;0040BB94{have been eliminated.<END>}#23
+have been eliminated.<END>
+|
+@1330
+;0040BBAA{This compact shoulder has<END>}#27
+This compact shoulder has<END>
+|
+@1331
+;0040BBC4{a simple shape. All<END>}#21
+a simple shape. All<END>
+|
+@1332
+;0040BBD8{unnecessary adornments<END>}#24
+unnecessary adornments<END>
+|
+@1333
+;0040BBEF{have been eliminated.<END>}#23
+have been eliminated.<END>
+|
+@1334
+;0040BC05{This shoulder part is<END>}#23
+This shoulder part is<END>
+|
+@1335
+;0040BC1B{shaped like a grip and was<END>}#28
+shaped like a grip and was<END>
+|
+@1336
+;0040BC36{designed with handling in<END>}#27
+designed with handling in<END>
+|
+@1337
+;0040BC50{mind. It enables<END>}#18
+mind. It enables<END>
+|
+@1338
+;0040BC61{one-handed firing!<END>}#20
+one-handed firing!<END>
+|
+@1339
+;0040BC74{This is a brutal shoulder<END>}#27
+This is a brutal shoulder<END>
+|
+@1340
+;0040BC8E{that has the power to<END>}#23
+that has the power to<END>
+|
+@1341
+;0040BCA4{destroy anything.<END>}#19
+destroy anything.<END>
+|
+@1342
+;0040BCB6{These three big, long<END>}#23
+These three big, long<END>
+|
+@1343
+;0040BCCC{claws can even protect the<END>}#28
+claws can even protect the<END>
+|
+@1344
+;0040BCE7{arm!<END>}#6
+arm!<END>
+|
+@1345
+;0040BCEC{<END>}#2
+<END>
+|
+@1346
+;0040BCED{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@1347
+;0040BD07{the arm part that is on<END>}#25
+the arm part that is on<END>
+|
+@1348
+;0040BD1F{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@1349
+;0040BD35{equipped.<END>}#11
+equipped.<END>
+|
+@1350
+;0040BD3F{This is a big rounded<END>}#23
+This is a big rounded<END>
+|
+@1351
+;0040BD55{shoulder that even<END>}#20
+shoulder that even<END>
+|
+@1352
+;0040BD68{protects the arm. Its main<END>}#28
+protects the arm. Its main<END>
+|
+@1353
+;0040BD83{feature is its great<END>}#22
+feature is its great<END>
+|
+@1354
+;0040BD98{ability to deflect<END>}#20
+ability to deflect<END>
+|
+@1355
+;0040BDAB{attacks.<END>}#10
+attacks.<END>
+|
+@1356
+;0040BDB4{<END>}#2
+<END>
+|
+@1357
+;0040BDB5{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@1358
+;0040BDCF{the arm part that is on <END>}#26
+the arm part that is on <END>
+|
+@1359
+;0040BDE8{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@1360
+;0040BDFE{equipped.<END>}#11
+equipped.<END>
+|
+@1361
+;0040BE08{This new-and-improved<END>}#23
+This new-and-improved<END>
+|
+@1362
+;0040BE1E{shoulder part is based on <END>}#28
+shoulder part is based on <END>
+|
+@1363
+;0040BE39{Wing Sword Thunder's.<END>}#23
+Wing Sword Thunder's.<END>
+|
+@1364
+;0040BE4F{This shoulder part can<END>}#24
+This shoulder part can<END>
+|
+@1365
+;0040BE66{compress B-Daballs, just<END>}#26
+compress B-Daballs, just<END>
+|
+@1366
+;0040BE7F{like a core can!<END>}#18
+like a core can!<END>
+|
+@1367
+;0040BE90{This is an R-Shoulder Part<END>}#28
+This is an R-Shoulder Part<END>
+|
+@1368
+;0040BEAB{that was transformed by<END>}#25
+that was transformed by<END>
+|
+@1369
+;0040BEC3{Yamato's power.<END>}#17
+Yamato's power.<END>
+|
+@1370
+;0040BED3{This is an enormous,<END>}#22
+This is an enormous,<END>
+|
+@1371
+;0040BEE8{protruding shoulder! It<END>}#25
+protruding shoulder! It<END>
+|
+@1372
+;0040BF00{has an awesome design with<END>}#28
+has an awesome design with<END>
+|
+@1373
+;0040BF1B{a great finger rest!<END>}#22
+a great finger rest!<END>
+|
+@1374
+;0040BF30{This long shield acts as a<END>}#28
+This long shield acts as a<END>
+|
+@1375
+;0040BF4B{perfect protector that<END>}#24
+perfect protector that<END>
+|
+@1376
+;0040BF62{even guards the arm. It<END>}#25
+even guards the arm. It<END>
+|
+@1377
+;0040BF7A{extends down to the<END>}#21
+extends down to the<END>
+|
+@1378
+;0040BF8E{ground. The part that<END>}#23
+ground. The part that<END>
+|
+@1379
+;0040BFA4{touches the ground is made<END>}#28
+touches the ground is made<END>
+|
+@1380
+;0040BFBF{of rubber, which increases<END>}#28
+of rubber, which increases<END>
+|
+@1381
+;0040BFDA{stability!<END>}#12
+stability!<END>
+|
+@1382
+;0040BFE5{<END>}#2
+<END>
+|
+@1383
+;0040BFE6{# If you equip this part,<END>}#27
+# If you equip this part,<END>
+|
+@1384
+;0040C000{the arm part that is on<END>}#25
+the arm part that is on<END>
+|
+@1385
+;0040C018{the same arm can't be<END>}#23
+the same arm can't be<END>
+|
+@1386
+;0040C02E{equipped.<END>}#11
+equipped.<END>
+|
+@1387
+;0040C038{This is the really-old<END>}#24
+This is the really-old<END>
+|
+@1388
+;0040C04F{petrified right-shoulder<END>}#26
+petrified right-shoulder<END>
+|
+@1389
+;0040C068{part. It's unclear what<END>}#25
+part. It's unclear what<END>
+|
+@1390
+;0040C080{kind of B-Daman this part<END>}#27
+kind of B-Daman this part<END>
+|
+@1391
+;0040C09A{was used for.<END>}#15
+was used for.<END>
+|
+@1392
+;0040C0A8{# This part can't be<END>}#22
+# This part can't be<END>
+|
+@1393
+;0040C0BD{equipped.<END>}#11
+equipped.<END>
+|
+@1394
+;0040C0C7{It's a shoulder part that<END>}#27
+It's a shoulder part that<END>
+|
+@1395
+;0040C0E1{is as hard as a scorpion's<END>}#28
+is as hard as a scorpion's<END>
+|
+@1396
+;0040C0FC{shell!<END>}#8
+shell!<END>
+|
+@1397
+;0040C103{This protruding shoulder<END>}#26
+This protruding shoulder<END>
+|
+@1398
+;0040C11C{part is handy as a finger<END>}#27
+part is handy as a finger<END>
+|
+@1399
+;0040C136{rest as well!<END>}#15
+rest as well!<END>
+|
+@1400
+;0040C144{This is a small shoulder<END>}#26
+This is a small shoulder<END>
+|
+@1401
+;0040C15D{part that was especially<END>}#26
+part that was especially<END>
+|
+@1402
+;0040C176{designed to maneuver your<END>}#27
+designed to maneuver your<END>
+|
+@1403
+;0040C190{B-Daman without getting in<END>}#28
+B-Daman without getting in<END>
+|
+@1404
+;0040C1AB{the way when you want to<END>}#26
+the way when you want to<END>
+|
+@1405
+;0040C1C4{make quick movements!<END>}#23
+make quick movements!<END>
+|
+@1406
+;0040C1DA{This shoulder part was<END>}#24
+This shoulder part was<END>
+|
+@1407
+;0040C1F1{designed with an image of <END>}#28
+designed with an image of <END>
+|
+@1408
+;0040C20C{wings in mind. It can deal<END>}#28
+wings in mind. It can deal<END>
+|
+@1409
+;0040C227{with wind resistance, even<END>}#28
+with wind resistance, even<END>
+|
+@1410
+;0040C242{when quick movement is<END>}#24
+when quick movement is<END>
+|
+@1411
+;0040C259{required!<END>}#11
+required!<END>
+|
+@1412
+;0040C263{The roundness of this<END>}#23
+The roundness of this<END>
+|
+@1413
+;0040C279{shoulder part makes it<END>}#24
+shoulder part makes it<END>
+|
+@1414
+;0040C290{easy to grip! Its great<END>}#25
+easy to grip! Its great<END>
+|
+@1415
+;0040C2A8{design will allow you to<END>}#26
+design will allow you to<END>
+|
+@1416
+;0040C2C1{hold it for a long time<END>}#25
+hold it for a long time<END>
+|
+@1417
+;0040C2D9{without tiring your<END>}#21
+without tiring your<END>
+|
+@1418
+;0040C2ED{fingers out!<END>}#14
+fingers out!<END>
+|
+@1419
+;0040C2FA{This is an outstanding arm<END>}#28
+This is an outstanding arm<END>
+|
+@1420
+;0040C315{part that makes you think<END>}#27
+part that makes you think<END>
+|
+@1421
+;0040C32F{of a dragon's claw!<END>}#21
+of a dragon's claw!<END>
+|
+@1422
+;0040C343{This is a heavy-duty arm<END>}#26
+This is a heavy-duty arm<END>
+|
+@1423
+;0040C35C{part only for the Mega<END>}#24
+part only for the Mega<END>
+|
+@1424
+;0040C373{Diablos!<END>}#10
+Diablos!<END>
+|
+@1425
+;0040C37C{This little shield can<END>}#24
+This little shield can<END>
+|
+@1426
+;0040C393{maneuver effectively and <END>}#27
+maneuver effectively and <END>
+|
+@1427
+;0040C3AD{deal with any attack!<END>}#23
+deal with any attack!<END>
+|
+@1428
+;0040C3C3{This long, slender shield<END>}#27
+This long, slender shield<END>
+|
+@1429
+;0040C3DD{perfectly covers the arm<END>}#26
+perfectly covers the arm<END>
+|
+@1430
+;0040C3F6{area!<END>}#7
+area!<END>
+|
+@1431
+;0040C3FC{Its compact design allows<END>}#27
+Its compact design allows<END>
+|
+@1432
+;0040C416{you to move your B-Daman<END>}#26
+you to move your B-Daman<END>
+|
+@1433
+;0040C42F{effectively in any<END>}#20
+effectively in any<END>
+|
+@1434
+;0040C442{circumstance without<END>}#22
+circumstance without<END>
+|
+@1435
+;0040C457{getting in your way.<END>}#22
+getting in your way.<END>
+|
+@1436
+;0040C46C{This wide, flat arm part<END>}#26
+This wide, flat arm part<END>
+|
+@1437
+;0040C485{guards your B-Daman's arm<END>}#27
+guards your B-Daman's arm<END>
+|
+@1438
+;0040C49F{perfectly.<END>}#12
+perfectly.<END>
+|
+@1439
+;0040C4AA{This is a cool, bright red<END>}#28
+This is a cool, bright red<END>
+|
+@1440
+;0040C4C5{arm that has a scorpion<END>}#25
+arm that has a scorpion<END>
+|
+@1441
+;0040C4DD{mark on it!<END>}#13
+mark on it!<END>
+|
+@1442
+;0040C4E9{These two, sharp claws<END>}#24
+These two, sharp claws<END>
+|
+@1443
+;0040C500{look threatening!<END>}#19
+look threatening!<END>
+|
+@1444
+;0040C512{This is an arm part that<END>}#26
+This is an arm part that<END>
+|
+@1445
+;0040C52B{has a design inspired by<END>}#26
+has a design inspired by<END>
+|
+@1446
+;0040C544{a wolf's claws!<END>}#17
+a wolf's claws!<END>
+|
+@1447
+;0040C554{Its threatening appearance<END>}#28
+Its threatening appearance<END>
+|
+@1448
+;0040C56F{overwhelms your opponent!<END>}#27
+overwhelms your opponent!<END>
+|
+@1449
+;0040C589{This arm part is designed<END>}#27
+This arm part is designed<END>
+|
+@1450
+;0040C5A3{like a sharp knife!<END>}#21
+like a sharp knife!<END>
+|
+@1451
+;0040C5B7{This is a small protector<END>}#27
+This is a small protector<END>
+|
+@1452
+;0040C5D1{part, but it can guard <END>}#25
+part, but it can guard <END>
+|
+@1453
+;0040C5E9{the arm perfectly!<END>}#20
+the arm perfectly!<END>
+|
+@1454
+;0040C5FC{It compresses the core<END>}#24
+It compresses the core<END>
+|
+@1455
+;0040C613{and increases firing<END>}#22
+and increases firing<END>
+|
+@1456
+;0040C628{power!<END>}#8
+power!<END>
+|
+@1457
+;0040C62F{<END>}#2
+<END>
+|
+@1458
+;0040C630{It's based on the same<END>}#24
+It's based on the same<END>
+|
+@1459
+;0040C647{principle as the Power<END>}#24
+principle as the Power<END>
+|
+@1460
+;0040C65E{Arms!<END>}#7
+Arms!<END>
+|
+@1461
+;0040C664{<END>}#2
+<END>
+|
+@1462
+;0040C665{# This item is part of a<END>}#26
+# This item is part of a<END>
+|
+@1463
+;0040C67E{set made up of the<END>}#20
+set made up of the<END>
+|
+@1464
+;0040C691{following five items: the<END>}#27
+following five items: the<END>
+|
+@1465
+;0040C6AB{Body, the L-Shoulder, the<END>}#27
+Body, the L-Shoulder, the<END>
+|
+@1466
+;0040C6C5{L-Arm, the R-Shoulder, and<END>}#28
+L-Arm, the R-Shoulder, and<END>
+|
+@1467
+;0040C6E0{the R-Arm. These five<END>}#23
+the R-Arm. These five<END>
+|
+@1468
+;0040C6F6{items make up the entire<END>}#26
+items make up the entire<END>
+|
+@1469
+;0040C70F{set.<END>}#6
+set.<END>
+|
+@1470
+;0040C714{<END>}#2
+<END>
+|
+@1471
+;0040C715{If you equip this part,<END>}#25
+If you equip this part,<END>
+|
+@1472
+;0040C72D{then the other four parts<END>}#27
+then the other four parts<END>
+|
+@1473
+;0040C747{will be equipped as well.<END>}#27
+will be equipped as well.<END>
+|
+@1474
+;0040C761{<END>}#2
+<END>
+|
+@1475
+;0040C762{If you remove this part,<END>}#26
+If you remove this part,<END>
+|
+@1476
+;0040C77B{the other parts of the set<END>}#28
+the other parts of the set<END>
+|
+@1477
+;0040C796{will be removed as well.<END>}#26
+will be removed as well.<END>
+|
+@1478
+;0040C7AF{<END>}#2
+<END>
+|
+@1479
+;0040C7B0{If you buy this part, the<END>}#27
+If you buy this part, the<END>
+|
+@1480
+;0040C7CA{other items in the set<END>}#24
+other items in the set<END>
+|
+@1481
+;0040C7E1{will come with it.<END>}#20
+will come with it.<END>
+|
+@1482
+;0040C7F4{<END>}#2
+<END>
+|
+@1483
+;0040C7F5{If you sell this part, the<END>}#28
+If you sell this part, the<END>
+|
+@1484
+;0040C810{other items in the set<END>}#24
+other items in the set<END>
+|
+@1485
+;0040C827{will be sold as well.<END>}#23
+will be sold as well.<END>
+|
+@1486
+;0040C83D{It has an awesome design<END>}#26
+It has an awesome design<END>
+|
+@1487
+;0040C856{that guards the arm area<END>}#26
+that guards the arm area<END>
+|
+@1488
+;0040C86F{perfectly. It's light and<END>}#27
+perfectly. It's light and<END>
+|
+@1489
+;0040C889{easy to handle!<END>}#17
+easy to handle!<END>
+|
+@1490
+;0040C899{This arm part is<END>}#18
+This arm part is<END>
+|
+@1491
+;0040C8AA{exclusively available on<END>}#26
+exclusively available on<END>
+|
+@1492
+;0040C8C3{the video game designed by<END>}#28
+the video game designed by<END>
+|
+@1493
+;0040C8DE{Inuki!<END>}#8
+Inuki!<END>
+|
+@1494
+;0040C8E5{These two, sharp claws<END>}#24
+These two, sharp claws<END>
+|
+@1495
+;0040C8FC{will really scare your<END>}#24
+will really scare your<END>
+|
+@1496
+;0040C913{opponent!<END>}#11
+opponent!<END>
+|
+@1497
+;0040C91D{This is an outstanding arm<END>}#28
+This is an outstanding arm<END>
+|
+@1498
+;0040C938{part that makes you think<END>}#27
+part that makes you think<END>
+|
+@1499
+;0040C952{of a dragon's claw!<END>}#21
+of a dragon's claw!<END>
+|
+@1500
+;0040C966{Its long, slender shield<END>}#26
+Its long, slender shield<END>
+|
+@1501
+;0040C97F{covers the arm perfectly!<END>}#27
+covers the arm perfectly!<END>
+|
+@1502
+;0040C999{This arm part's main<END>}#22
+This arm part's main<END>
+|
+@1503
+;0040C9AE{feature is its use of<END>}#23
+feature is its use of<END>
+|
+@1504
+;0040C9C4{lightweight parts.<END>}#20
+lightweight parts.<END>
+|
+@1505
+;0040C9D7{Its weight has been<END>}#21
+Its weight has been<END>
+|
+@1506
+;0040C9EB{reduced to the lowest<END>}#23
+reduced to the lowest<END>
+|
+@1507
+;0040CA01{possible level, making<END>}#24
+possible level, making<END>
+|
+@1508
+;0040CA18{this arm part light as a<END>}#26
+this arm part light as a<END>
+|
+@1509
+;0040CA31{feather.<END>}#10
+feather.<END>
+|
+@1510
+;0040CA3A{This is an aggressive arm<END>}#27
+This is an aggressive arm<END>
+|
+@1511
+;0040CA54{part that destroys<END>}#20
+part that destroys<END>
+|
+@1512
+;0040CA67{everything that gets in<END>}#25
+everything that gets in<END>
+|
+@1513
+;0040CA7F{its way.<END>}#10
+its way.<END>
+|
+@1514
+;0040CA88{It has been designed with<END>}#27
+It has been designed with<END>
+|
+@1515
+;0040CAA2{fire power, rather than<END>}#25
+fire power, rather than<END>
+|
+@1516
+;0040CABA{defensive ability, in mind!<END>}#29
+defensive ability, in mind!<END>
+|
+@1517
+;0040CAD6{These two, sharp claws<END>}#24
+These two, sharp claws<END>
+|
+@1518
+;0040CAED{will really scare your<END>}#24
+will really scare your<END>
+|
+@1519
+;0040CB04{opponent!<END>}#11
+opponent!<END>
+|
+@1520
+;0040CB0E{This is an arm part that<END>}#26
+This is an arm part that<END>
+|
+@1521
+;0040CB27{has a design inspired by<END>}#26
+has a design inspired by<END>
+|
+@1522
+;0040CB40{animal claws!<END>}#15
+animal claws!<END>
+|
+@1523
+;0040CB4E{It guards the arm area<END>}#24
+It guards the arm area<END>
+|
+@1524
+;0040CB65{perfectly!<END>}#12
+perfectly!<END>
+|
+@1525
+;0040CB70{This is an arm part that<END>}#26
+This is an arm part that<END>
+|
+@1526
+;0040CB89{has been streamlined to<END>}#25
+has been streamlined to<END>
+|
+@1527
+;0040CBA1{reduce wind resistance.<END>}#25
+reduce wind resistance.<END>
+|
+@1528
+;0040CBB9{It enables you to make<END>}#24
+It enables you to make<END>
+|
+@1529
+;0040CBD0{fantastic maneuvers with<END>}#26
+fantastic maneuvers with<END>
+|
+@1530
+;0040CBE9{your machine!<END>}#15
+your machine!<END>
+|
+@1531
+;0040CBF7{This is a compact arm part<END>}#28
+This is a compact arm part<END>
+|
+@1532
+;0040CC12{that was designed for<END>}#23
+that was designed for<END>
+|
+@1533
+;0040CC28{great maneuvering! It even<END>}#28
+great maneuvering! It even<END>
+|
+@1534
+;0040CC43{lets you make very precise<END>}#28
+lets you make very precise<END>
+|
+@1535
+;0040CC5E{movements!<END>}#12
+movements!<END>
+|
+@1536
+;0040CC69{This is an outstanding arm<END>}#28
+This is an outstanding arm<END>
+|
+@1537
+;0040CC84{part that makes you think<END>}#27
+part that makes you think<END>
+|
+@1538
+;0040CC9E{of a dragon's claw!<END>}#21
+of a dragon's claw!<END>
+|
+@1539
+;0040CCB2{This is a heavy-duty arm<END>}#26
+This is a heavy-duty arm<END>
+|
+@1540
+;0040CCCB{part only for the Mega<END>}#24
+part only for the Mega<END>
+|
+@1541
+;0040CCE2{Diablos!<END>}#10
+Diablos!<END>
+|
+@1542
+;0040CCEB{This little shield can<END>}#24
+This little shield can<END>
+|
+@1543
+;0040CD02{maneuver effectively and <END>}#27
+maneuver effectively and <END>
+|
+@1544
+;0040CD1C{deal with any attack!<END>}#23
+deal with any attack!<END>
+|
+@1545
+;0040CD32{This long, slender shield<END>}#27
+This long, slender shield<END>
+|
+@1546
+;0040CD4C{perfectly covers the arm<END>}#26
+perfectly covers the arm<END>
+|
+@1547
+;0040CD65{area!<END>}#7
+area!<END>
+|
+@1548
+;0040CD6B{Its compact design allows<END>}#27
+Its compact design allows<END>
+|
+@1549
+;0040CD85{you to move your B-Daman<END>}#26
+you to move your B-Daman<END>
+|
+@1550
+;0040CD9E{effectively in any<END>}#20
+effectively in any<END>
+|
+@1551
+;0040CDB1{circumstance without<END>}#22
+circumstance without<END>
+|
+@1552
+;0040CDC6{getting in your way.<END>}#22
+getting in your way.<END>
+|
+@1553
+;0040CDDB{This wide, flat arm part<END>}#26
+This wide, flat arm part<END>
+|
+@1554
+;0040CDF4{guards your B-Daman's arm<END>}#27
+guards your B-Daman's arm<END>
+|
+@1555
+;0040CE0E{perfectly.<END>}#12
+perfectly.<END>
+|
+@1556
+;0040CE19{This is a cool, bright red<END>}#28
+This is a cool, bright red<END>
+|
+@1557
+;0040CE34{arm that has a scorpion<END>}#25
+arm that has a scorpion<END>
+|
+@1558
+;0040CE4C{mark on it!<END>}#13
+mark on it!<END>
+|
+@1559
+;0040CE58{These two, sharp claws<END>}#24
+These two, sharp claws<END>
+|
+@1560
+;0040CE6F{look threatening!<END>}#19
+look threatening!<END>
+|
+@1561
+;0040CE81{This is an arm part that<END>}#26
+This is an arm part that<END>
+|
+@1562
+;0040CE9A{has a design inspired by<END>}#26
+has a design inspired by<END>
+|
+@1563
+;0040CEB3{a wolf's claws!<END>}#17
+a wolf's claws!<END>
+|
+@1564
+;0040CEC3{Its threatening appearance<END>}#28
+Its threatening appearance<END>
+|
+@1565
+;0040CEDE{overwhelms your opponent!<END>}#27
+overwhelms your opponent!<END>
+|
+@1566
+;0040CEF8{This arm part is designed<END>}#27
+This arm part is designed<END>
+|
+@1567
+;0040CF12{like a sharp knife!<END>}#21
+like a sharp knife!<END>
+|
+@1568
+;0040CF26{This is a small protector<END>}#27
+This is a small protector<END>
+|
+@1569
+;0040CF40{part, but it can guard <END>}#25
+part, but it can guard <END>
+|
+@1570
+;0040CF58{the arm perfectly!<END>}#20
+the arm perfectly!<END>
+|
+@1571
+;0040CF6B{This arm part is shaped<END>}#25
+This arm part is shaped<END>
+|
+@1572
+;0040CF83{like a sword! Its long<END>}#24
+like a sword! Its long<END>
+|
+@1573
+;0040CF9A{sword part won't let your<END>}#27
+sword part won't let your<END>
+|
+@1574
+;0040CFB4{opponent go!<END>}#14
+opponent go!<END>
+|
+@1575
+;0040CFC1{It compresses the core<END>}#24
+It compresses the core<END>
+|
+@1576
+;0040CFD8{and increases firing<END>}#22
+and increases firing<END>
+|
+@1577
+;0040CFED{power!<END>}#8
+power!<END>
+|
+@1578
+;0040CFF4{<END>}#2
+<END>
+|
+@1579
+;0040CFF5{It's based on the same<END>}#24
+It's based on the same<END>
+|
+@1580
+;0040D00C{principle as the Power<END>}#24
+principle as the Power<END>
+|
+@1581
+;0040D023{Arms!<END>}#7
+Arms!<END>
+|
+@1582
+;0040D029{<END>}#2
+<END>
+|
+@1583
+;0040D02A{# This item is part of a<END>}#26
+# This item is part of a<END>
+|
+@1584
+;0040D043{set made up of the<END>}#20
+set made up of the<END>
+|
+@1585
+;0040D056{following five items: the<END>}#27
+following five items: the<END>
+|
+@1586
+;0040D070{Body, the L-Shoulder, the<END>}#27
+Body, the L-Shoulder, the<END>
+|
+@1587
+;0040D08A{L-Arm, the R-Shoulder, and<END>}#28
+L-Arm, the R-Shoulder, and<END>
+|
+@1588
+;0040D0A5{the R-Arm. These five<END>}#23
+the R-Arm. These five<END>
+|
+@1589
+;0040D0BB{items make up the entire<END>}#26
+items make up the entire<END>
+|
+@1590
+;0040D0D4{set.<END>}#6
+set.<END>
+|
+@1591
+;0040D0D9{<END>}#2
+<END>
+|
+@1592
+;0040D0DA{If you equip this part,<END>}#25
+If you equip this part,<END>
+|
+@1593
+;0040D0F2{then the other four parts<END>}#27
+then the other four parts<END>
+|
+@1594
+;0040D10C{will be equipped as well.<END>}#27
+will be equipped as well.<END>
+|
+@1595
+;0040D126{<END>}#2
+<END>
+|
+@1596
+;0040D127{If you remove this part,<END>}#26
+If you remove this part,<END>
+|
+@1597
+;0040D140{the other parts of the set<END>}#28
+the other parts of the set<END>
+|
+@1598
+;0040D15B{will be removed as well.<END>}#26
+will be removed as well.<END>
+|
+@1599
+;0040D174{<END>}#2
+<END>
+|
+@1600
+;0040D175{If you buy this part, the<END>}#27
+If you buy this part, the<END>
+|
+@1601
+;0040D18F{other items in the set<END>}#24
+other items in the set<END>
+|
+@1602
+;0040D1A6{will come with it.<END>}#20
+will come with it.<END>
+|
+@1603
+;0040D1B9{<END>}#2
+<END>
+|
+@1604
+;0040D1BA{If you sell this part, the<END>}#28
+If you sell this part, the<END>
+|
+@1605
+;0040D1D5{other items in the set<END>}#24
+other items in the set<END>
+|
+@1606
+;0040D1EC{will be sold as well.<END>}#23
+will be sold as well.<END>
+|
+@1607
+;0040D202{This is a cool arm part<END>}#25
+This is a cool arm part<END>
+|
+@1608
+;0040D21A{that has a sword on it!<END>}#25
+that has a sword on it!<END>
+|
+@1609
+;0040D232{It has an awesome design<END>}#26
+It has an awesome design<END>
+|
+@1610
+;0040D24B{that guards the arm<END>}#21
+that guards the arm<END>
+|
+@1611
+;0040D25F{perfectly. It's also light!<END>}#29
+perfectly. It's also light!<END>
+|
+@1612
+;0040D27B{and easy to handle<END>}#20
+and easy to handle<END>
+|
+@1613
+;0040D28E{This arm part is<END>}#18
+This arm part is<END>
+|
+@1614
+;0040D29F{exclusively available on<END>}#26
+exclusively available on<END>
+|
+@1615
+;0040D2B8{the video game designed by<END>}#28
+the video game designed by<END>
+|
+@1616
+;0040D2D3{Inuki!<END>}#8
+Inuki!<END>
+|
+@1617
+;0040D2DA{These two, sharp claws<END>}#24
+These two, sharp claws<END>
+|
+@1618
+;0040D2F1{will really scare your<END>}#24
+will really scare your<END>
+|
+@1619
+;0040D308{opponent!<END>}#11
+opponent!<END>
+|
+@1620
+;0040D312{This is an outstanding arm<END>}#28
+This is an outstanding arm<END>
+|
+@1621
+;0040D32D{part that makes you think<END>}#27
+part that makes you think<END>
+|
+@1622
+;0040D347{of a dragon's claw!<END>}#21
+of a dragon's claw!<END>
+|
+@1623
+;0040D35B{This long, slender shield<END>}#27
+This long, slender shield<END>
+|
+@1624
+;0040D375{perfectly covers the arm<END>}#26
+perfectly covers the arm<END>
+|
+@1625
+;0040D38E{area!<END>}#7
+area!<END>
+|
+@1626
+;0040D394{This arm part's main<END>}#22
+This arm part's main<END>
+|
+@1627
+;0040D3A9{feature is its use of<END>}#23
+feature is its use of<END>
+|
+@1628
+;0040D3BF{lightweight parts.<END>}#20
+lightweight parts.<END>
+|
+@1629
+;0040D3D2{Its weight has been<END>}#21
+Its weight has been<END>
+|
+@1630
+;0040D3E6{reduced to the lowest<END>}#23
+reduced to the lowest<END>
+|
+@1631
+;0040D3FC{possible level, making<END>}#24
+possible level, making<END>
+|
+@1632
+;0040D413{this arm part light as a<END>}#26
+this arm part light as a<END>
+|
+@1633
+;0040D42C{feather.<END>}#10
+feather.<END>
+|
+@1634
+;0040D435{This is an aggressive arm<END>}#27
+This is an aggressive arm<END>
+|
+@1635
+;0040D44F{part that destroys<END>}#20
+part that destroys<END>
+|
+@1636
+;0040D462{everything that gets in<END>}#25
+everything that gets in<END>
+|
+@1637
+;0040D47A{its way.<END>}#10
+its way.<END>
+|
+@1638
+;0040D483{It has been designed with<END>}#27
+It has been designed with<END>
+|
+@1639
+;0040D49D{fire power, rather than<END>}#25
+fire power, rather than<END>
+|
+@1640
+;0040D4B5{defensive ability, in mind!<END>}#29
+defensive ability, in mind!<END>
+|
+@1641
+;0040D4D1{This R-Shoulder Part was<END>}#26
+This R-Shoulder Part was<END>
+|
+@1642
+;0040D4EA{transformed by Yamato's<END>}#25
+transformed by Yamato's<END>
+|
+@1643
+;0040D502{power.<END>}#8
+power.<END>
+|
+@1644
+;0040D509{This arm part is shaped<END>}#25
+This arm part is shaped<END>
+|
+@1645
+;0040D521{like a sword! Its long<END>}#24
+like a sword! Its long<END>
+|
+@1646
+;0040D538{sword part won't let your<END>}#27
+sword part won't let your<END>
+|
+@1647
+;0040D552{opponent go!<END>}#14
+opponent go!<END>
+|
+@1648
+;0040D55F{This is the really-old<END>}#24
+This is the really-old<END>
+|
+@1649
+;0040D576{petrified right-arm part.<END>}#27
+petrified right-arm part.<END>
+|
+@1650
+;0040D590{It's unclear what kind of<END>}#27
+It's unclear what kind of<END>
+|
+@1651
+;0040D5AA{B-Daman this part was used<END>}#28
+B-Daman this part was used<END>
+|
+@1652
+;0040D5C5{for.<END>}#6
+for.<END>
+|
+@1653
+;0040D5CA{# This part can't be<END>}#22
+# This part can't be<END>
+|
+@1654
+;0040D5DF{equipped.<END>}#11
+equipped.<END>
+|
+@1655
+;0040D5E9{These two, sharp claws<END>}#24
+These two, sharp claws<END>
+|
+@1656
+;0040D600{will really scare your<END>}#24
+will really scare your<END>
+|
+@1657
+;0040D617{opponent!<END>}#11
+opponent!<END>
+|
+@1658
+;0040D621{This is an arm part that<END>}#26
+This is an arm part that<END>
+|
+@1659
+;0040D63A{has a design inspired by<END>}#26
+has a design inspired by<END>
+|
+@1660
+;0040D653{animal claws!<END>}#15
+animal claws!<END>
+|
+@1661
+;0040D661{It guards the arm area<END>}#24
+It guards the arm area<END>
+|
+@1662
+;0040D678{perfectly!<END>}#12
+perfectly!<END>
+|
+@1663
+;0040D683{This is an arm part that<END>}#26
+This is an arm part that<END>
+|
+@1664
+;0040D69C{has been streamlined to<END>}#25
+has been streamlined to<END>
+|
+@1665
+;0040D6B4{reduce wind resistance.<END>}#25
+reduce wind resistance.<END>
+|
+@1666
+;0040D6CC{It enables you to make<END>}#24
+It enables you to make<END>
+|
+@1667
+;0040D6E3{fantastic maneuvers with<END>}#26
+fantastic maneuvers with<END>
+|
+@1668
+;0040D6FC{your machine!<END>}#15
+your machine!<END>
+|
+@1669
+;0040D70A{This is a compact arm part<END>}#28
+This is a compact arm part<END>
+|
+@1670
+;0040D725{that was designed for<END>}#23
+that was designed for<END>
+|
+@1671
+;0040D73B{great maneuvering! It even<END>}#28
+great maneuvering! It even<END>
+|
+@1672
+;0040D756{lets you make very precise<END>}#28
+lets you make very precise<END>
+|
+@1673
+;0040D771{movements!<END>}#12
+movements!<END>
+|
+@1674
+;0040D77C{This slender foot part<END>}#24
+This slender foot part<END>
+|
+@1675
+;0040D793{enables quick movement!<END>}#25
+enables quick movement!<END>
+|
+@1676
+;0040D7AB{Its long claw is the main<END>}#27
+Its long claw is the main<END>
+|
+@1677
+;0040D7C5{feature of this armor.<END>}#24
+feature of this armor.<END>
+|
+@1678
+;0040D7DC{It grasps the ground<END>}#22
+It grasps the ground<END>
+|
+@1679
+;0040D7F1{firmly!<END>}#9
+firmly!<END>
+|
+@1680
+;0040D7F9{This foot part can<END>}#20
+This foot part can<END>
+|
+@1681
+;0040D80C{stabilize your machine,<END>}#25
+stabilize your machine,<END>
+|
+@1682
+;0040D824{even during rapid-fire!<END>}#25
+even during rapid-fire!<END>
+|
+@1683
+;0040D83C{Its long claws support<END>}#24
+Its long claws support<END>
+|
+@1684
+;0040D853{your machine firmly!<END>}#22
+your machine firmly!<END>
+|
+@1685
+;0040D868{This is a heavy-duty foot<END>}#27
+This is a heavy-duty foot<END>
+|
+@1686
+;0040D882{part only for the Mega<END>}#24
+part only for the Mega<END>
+|
+@1687
+;0040D899{Diablos!<END>}#10
+Diablos!<END>
+|
+@1688
+;0040D8A2{The characteristic of this<END>}#28
+The characteristic of this<END>
+|
+@1689
+;0040D8BD{foot part is its<END>}#18
+foot part is its<END>
+|
+@1690
+;0040D8CE{knife-like ornamentation!<END>}#27
+knife-like ornamentation!<END>
+|
+@1691
+;0040D8E8{This little compact foot<END>}#26
+This little compact foot<END>
+|
+@1692
+;0040D901{part can maneuver <END>}#20
+part can maneuver <END>
+|
+@1693
+;0040D914{quickly!<END>}#10
+quickly!<END>
+|
+@1694
+;0040D91D{This is a standard,<END>}#21
+This is a standard,<END>
+|
+@1695
+;0040D931{well-balanced foot part!<END>}#26
+well-balanced foot part!<END>
+|
+@1696
+;0040D94A{This foot part has a<END>}#22
+This foot part has a<END>
+|
+@1697
+;0040D95F{streamlined shape that <END>}#25
+streamlined shape that <END>
+|
+@1698
+;0040D977{reduces wind resistance!<END>}#26
+reduces wind resistance!<END>
+|
+@1699
+;0040D990{This foot part stands<END>}#23
+This foot part stands<END>
+|
+@1700
+;0040D9A6{firmly and gives your<END>}#23
+firmly and gives your<END>
+|
+@1701
+;0040D9BC{machine good stability!<END>}#25
+machine good stability!<END>
+|
+@1702
+;0040D9D4{These two claws grasp the<END>}#27
+These two claws grasp the<END>
+|
+@1703
+;0040D9EE{ground firmly and enable<END>}#26
+ground firmly and enable<END>
+|
+@1704
+;0040DA07{accurate shooting!<END>}#20
+accurate shooting!<END>
+|
+@1705
+;0040DA1A{This foot part has long<END>}#25
+This foot part has long<END>
+|
+@1706
+;0040DA32{toes in order to give your<END>}#28
+toes in order to give your<END>
+|
+@1707
+;0040DA4D{B-Daman better stability!<END>}#27
+B-Daman better stability!<END>
+|
+@1708
+;0040DA67{Its big claw can support<END>}#26
+Its big claw can support<END>
+|
+@1709
+;0040DA80{your machine perfectly!<END>}#25
+your machine perfectly!<END>
+|
+@1710
+;0040DA98{This is a standard,<END>}#21
+This is a standard,<END>
+|
+@1711
+;0040DAAC{well-balanced foot part!<END>}#26
+well-balanced foot part!<END>
+|
+@1712
+;0040DAC5{Its long claws can hold<END>}#25
+Its long claws can hold<END>
+|
+@1713
+;0040DADD{your machine firmly in<END>}#24
+your machine firmly in<END>
+|
+@1714
+;0040DAF4{place!<END>}#8
+place!<END>
+|
+@1715
+;0040DAFB{This foot part is for the<END>}#27
+This foot part is for the<END>
+|
+@1716
+;0040DB15{Cobalt Blaster!<END>}#17
+Cobalt Blaster!<END>
+|
+@1717
+;0040DB25{This foot part gives great<END>}#28
+This foot part gives great<END>
+|
+@1718
+;0040DB40{balance and support under<END>}#27
+balance and support under<END>
+|
+@1719
+;0040DB5A{any circumstance!<END>}#19
+any circumstance!<END>
+|
+@1720
+;0040DB6C{This foot part is for the<END>}#27
+This foot part is for the<END>
+|
+@1721
+;0040DB86{Chrome Harrier!<END>}#17
+Chrome Harrier!<END>
+|
+@1722
+;0040DB96{This high-performance foot<END>}#28
+This high-performance foot<END>
+|
+@1723
+;0040DBB1{part was made with an<END>}#23
+part was made with an<END>
+|
+@1724
+;0040DBC7{astute eye!<END>}#13
+astute eye!<END>
+|
+@1725
+;0040DBD3{This foot part gives you<END>}#26
+This foot part gives you<END>
+|
+@1726
+;0040DBEC{the agility of running<END>}#24
+the agility of running<END>
+|
+@1727
+;0040DC03{wolves!!<END>}#10
+wolves!!<END>
+|
+@1728
+;0040DC0C{Its two, big claws on each<END>}#28
+Its two, big claws on each<END>
+|
+@1729
+;0040DC27{foot perfectly support<END>}#24
+foot perfectly support<END>
+|
+@1730
+;0040DC3E{your machine!<END>}#15
+your machine!<END>
+|
+@1731
+;0040DC4C{This foot part grasps the<END>}#27
+This foot part grasps the<END>
+|
+@1732
+;0040DC66{earth firmly and has a<END>}#24
+earth firmly and has a<END>
+|
+@1733
+;0040DC7D{spider design!<END>}#16
+spider design!<END>
+|
+@1734
+;0040DC8C{This is a standard,<END>}#21
+This is a standard,<END>
+|
+@1735
+;0040DCA0{well-balanced foot part!<END>}#26
+well-balanced foot part!<END>
+|
+@1736
+;0040DCB9{This foot part has pointy<END>}#27
+This foot part has pointy<END>
+|
+@1737
+;0040DCD3{toes and is easy to use!<END>}#26
+toes and is easy to use!<END>
+|
+@1738
+;0040DCEC{This sturdy foot part is<END>}#26
+This sturdy foot part is<END>
+|
+@1739
+;0040DD05{shock-resistant!<END>}#18
+shock-resistant!<END>
+|
+@1740
+;0040DD16{This big, round foot part<END>}#27
+This big, round foot part<END>
+|
+@1741
+;0040DD30{looks like an animal's<END>}#24
+looks like an animal's<END>
+|
+@1742
+;0040DD47{foot. It gives your<END>}#21
+foot. It gives your<END>
+|
+@1743
+;0040DD5B{B-Daman good stability as<END>}#27
+B-Daman good stability as<END>
+|
+@1744
+;0040DD75{well!<END>}#7
+well!<END>
+|
+@1745
+;0040DD7B{This cute foot part is<END>}#24
+This cute foot part is<END>
+|
+@1746
+;0040DD92{shaped like a duck's foot!<END>}#28
+shaped like a duck's foot!<END>
+|
+@1747
+;0040DDAD{This dog-like foot part<END>}#25
+This dog-like foot part<END>
+|
+@1748
+;0040DDC5{gives you great grip when<END>}#27
+gives you great grip when<END>
+|
+@1749
+;0040DDDF{you run.<END>}#10
+you run.<END>
+|
+@1750
+;0040DDE8{The quick, ninja-like<END>}#23
+The quick, ninja-like<END>
+|
+@1751
+;0040DDFE{movements generated by<END>}#24
+movements generated by<END>
+|
+@1752
+;0040DE15{this foot part prevents<END>}#25
+this foot part prevents<END>
+|
+@1753
+;0040DE2D{your opponent from taking<END>}#27
+your opponent from taking<END>
+|
+@1754
+;0040DE47{accurate aim.<END>}#15
+accurate aim.<END>
+|
+@1755
+;0040DE55{This big foot part can<END>}#24
+This big foot part can<END>
+|
+@1756
+;0040DE6C{endure the recoil of<END>}#22
+endure the recoil of<END>
+|
+@1757
+;0040DE81{powerful shots!<END>}#17
+powerful shots!<END>
+|
+@1758
+;0040DE91{This is a standard,<END>}#21
+This is a standard,<END>
+|
+@1759
+;0040DEA5{well-balanced foot part!<END>}#26
+well-balanced foot part!<END>
+|
+@1760
+;0040DEBE{This foot part enables you<END>}#28
+This foot part enables you<END>
+|
+@1761
+;0040DED9{to have really fancy<END>}#22
+to have really fancy<END>
+|
+@1762
+;0040DEEE{footwork!<END>}#11
+footwork!<END>
+|
+@1763
+;0040DEF8{This foot part is<END>}#19
+This foot part is<END>
+|
+@1764
+;0040DF0A{exclusively available on <END>}#27
+exclusively available on <END>
+|
+@1765
+;0040DF24{the video game designed by<END>}#28
+the video game designed by<END>
+|
+@1766
+;0040DF3F{Inuki!<END>}#8
+Inuki!<END>
+|
+@1767
+;0040DF46{Its two, big claws hold<END>}#25
+Its two, big claws hold<END>
+|
+@1768
+;0040DF5E{your machine perfectly<END>}#24
+your machine perfectly<END>
+|
+@1769
+;0040DF75{still and can endure the<END>}#26
+still and can endure the<END>
+|
+@1770
+;0040DF8E{recoil of any powerful<END>}#24
+recoil of any powerful<END>
+|
+@1771
+;0040DFA5{shot!<END>}#7
+shot!<END>
+|
+@1772
+;0040DFAB{The main feature of this<END>}#26
+The main feature of this<END>
+|
+@1773
+;0040DFC4{part is its long claw that<END>}#28
+part is its long claw that<END>
+|
+@1774
+;0040DFDF{can grasp the ground<END>}#22
+can grasp the ground<END>
+|
+@1775
+;0040DFF4{firmly.<END>}#9
+firmly.<END>
+|
+@1776
+;0040DFFC{This foot part supports<END>}#25
+This foot part supports<END>
+|
+@1777
+;0040E014{your machine firmly,<END>}#22
+your machine firmly,<END>
+|
+@1778
+;0040E029{enabling accurate shooting<END>}#28
+enabling accurate shooting<END>
+|
+@1779
+;0040E044{even during rapid-fire!<END>}#25
+even during rapid-fire!<END>
+|
+@1780
+;0040E05C{This is a standard,<END>}#21
+This is a standard,<END>
+|
+@1781
+;0040E070{well-balanced foot part!<END>}#26
+well-balanced foot part!<END>
+|
+@1782
+;0040E089{The main feature of this<END>}#26
+The main feature of this<END>
+|
+@1783
+;0040E0A2{foot part is its use of<END>}#25
+foot part is its use of<END>
+|
+@1784
+;0040E0BA{lightweight parts!<END>}#20
+lightweight parts!<END>
+|
+@1785
+;0040E0CD{Its streamlined design<END>}#24
+Its streamlined design<END>
+|
+@1786
+;0040E0E4{reduces wind resistance!<END>}#26
+reduces wind resistance!<END>
+|
+@1787
+;0040E0FD{This foot part stands<END>}#23
+This foot part stands<END>
+|
+@1788
+;0040E113{firmly and gives your<END>}#23
+firmly and gives your<END>
+|
+@1789
+;0040E129{machine good stability!<END>}#25
+machine good stability!<END>
+|
+@1790
+;0040E141{Its big claw supports your<END>}#28
+Its big claw supports your<END>
+|
+@1791
+;0040E15C{machine perfectly!<END>}#20
+machine perfectly!<END>
+|
+@1792
+;0040E16F{This is a standard,<END>}#21
+This is a standard,<END>
+|
+@1793
+;0040E183{well-balanced foot part!<END>}#26
+well-balanced foot part!<END>
+|
+@1794
+;0040E19C{Its long claws stabilize<END>}#26
+Its long claws stabilize<END>
+|
+@1795
+;0040E1B5{your machine as it grips<END>}#26
+your machine as it grips<END>
+|
+@1796
+;0040E1CE{the ground firmly,<END>}#20
+the ground firmly,<END>
+|
+@1797
+;0040E1E1{allowing it to work well<END>}#26
+allowing it to work well<END>
+|
+@1798
+;0040E1FA{during rapid-fire!<END>}#20
+during rapid-fire!<END>
+|
+@1799
+;0040E20D{This foot part was<END>}#20
+This foot part was<END>
+|
+@1800
+;0040E220{transformed by Yamato's<END>}#25
+transformed by Yamato's<END>
+|
+@1801
+;0040E238{power.<END>}#8
+power.<END>
+|
+@1802
+;0040E23F{This sturdy foot part is<END>}#26
+This sturdy foot part is<END>
+|
+@1803
+;0040E258{shock-resistant!<END>}#18
+shock-resistant!<END>
+|
+@1804
+;0040E269{This is the really-old<END>}#24
+This is the really-old<END>
+|
+@1805
+;0040E280{petrified foot part.<END>}#22
+petrified foot part.<END>
+|
+@1806
+;0040E295{It's unclear what kind of<END>}#27
+It's unclear what kind of<END>
+|
+@1807
+;0040E2AF{B-Daman this part was used<END>}#28
+B-Daman this part was used<END>
+|
+@1808
+;0040E2CA{for.<END>}#6
+for.<END>
+|
+@1809
+;0040E2CF{# This part can't be<END>}#22
+# This part can't be<END>
+|
+@1810
+;0040E2E4{equipped.<END>}#11
+equipped.<END>
+|
+@1811
+;0040E2EE{These two claws grasp the<END>}#27
+These two claws grasp the<END>
+|
+@1812
+;0040E308{ground firmly and enable<END>}#26
+ground firmly and enable<END>
+|
+@1813
+;0040E321{accurate shooting!<END>}#20
+accurate shooting!<END>
+|
+@1814
+;0040E334{This foot part has long<END>}#25
+This foot part has long<END>
+|
+@1815
+;0040E34C{toes in order to give your<END>}#28
+toes in order to give your<END>
+|
+@1816
+;0040E367{B-Daman better stability!<END>}#27
+B-Daman better stability!<END>
+|
+@1817
+;0040E381{This foot part makes it<END>}#25
+This foot part makes it<END>
+|
+@1818
+;0040E399{possible to have the<END>}#22
+possible to have the<END>
+|
+@1819
+;0040E3AE{agility of wild animals!<END>}#26
+agility of wild animals!<END>
+|
+@1820
+;0040E3C7{These two claws grasp the<END>}#27
+These two claws grasp the<END>
+|
+@1821
+;0040E3E1{ground firmly and support<END>}#27
+ground firmly and support<END>
+|
+@1822
+;0040E3FB{your machine!<END>}#15
+your machine!<END>
+|
+@1823
+;0040E409{It allows you to aim with<END>}#27
+It allows you to aim with<END>
+|
+@1824
+;0040E423{pinpoint precision during<END>}#27
+pinpoint precision during<END>
+|
+@1825
+;0040E43D{rapid-fire!<END>}#13
+rapid-fire!<END>
+|
+@1826
+;0040E449{This foot part has pointy<END>}#27
+This foot part has pointy<END>
+|
+@1827
+;0040E463{toes!<END>}#7
+toes!<END>
+|
+@1828
+;0040E469{Since it's light and easy<END>}#27
+Since it's light and easy<END>
+|
+@1829
+;0040E483{to handle, it can make<END>}#24
+to handle, it can make<END>
+|
+@1830
+;0040E49A{subtle movements!<END>}#19
+subtle movements!<END>
+|
+@1831
+;0040E4AC{This foot part is for the<END>}#27
+This foot part is for the<END>
+|
+@1832
+;0040E4C6{Legend Blaster!<END>}#17
+Legend Blaster!<END>
+|
+@1833
+;0040E4D6{It stabilizes your<END>}#20
+It stabilizes your<END>
+|
+@1834
+;0040E4E9{machine, even during<END>}#22
+machine, even during<END>
+|
+@1835
+;0040E4FE{powerful shots, and<END>}#21
+powerful shots, and<END>
+|
+@1836
+;0040E512{increases your accuracy!<END>}#26
+increases your accuracy!<END>
+|
+@1837
+;0040E52B{It supports your machine<END>}#26
+It supports your machine<END>
+|
+@1838
+;0040E544{perfectly in order not to<END>}#27
+perfectly in order not to<END>
+|
+@1839
+;0040E55E{affect the handling of<END>}#24
+affect the handling of<END>
+|
+@1840
+;0040E575{your B-Daman, even during<END>}#27
+your B-Daman, even during<END>
+|
+@1841
+;0040E58F{rapid-fire!<END>}#13
+rapid-fire!<END>
+|
+@1842
+;0040E59B{Even if a big back part is<END>}#28
+Even if a big back part is<END>
+|
+@1843
+;0040E5B6{equipped, its talon<END>}#21
+equipped, its talon<END>
+|
+@1844
+;0040E5CA{supports and stabilizes<END>}#25
+supports and stabilizes<END>
+|
+@1845
+;0040E5E2{the machine!<END>}#14
+the machine!<END>
+|
+@1846
+;0040E5EF{Although these heels are<END>}#26
+Although these heels are<END>
+|
+@1847
+;0040E608{tiny, they are important<END>}#26
+tiny, they are important<END>
+|
+@1848
+;0040E621{parts that increase<END>}#21
+parts that increase<END>
+|
+@1849
+;0040E635{stability!<END>}#12
+stability!<END>
+|
+@1850
+;0040E640{These heels support your<END>}#26
+These heels support your<END>
+|
+@1851
+;0040E659{machine perfectly. They<END>}#25
+machine perfectly. They<END>
+|
+@1852
+;0040E671{keep your machine's<END>}#21
+keep your machine's<END>
+|
+@1853
+;0040E685{stability high, no matter<END>}#27
+stability high, no matter<END>
+|
+@1854
+;0040E69F{what kind of part is<END>}#22
+what kind of part is<END>
+|
+@1855
+;0040E6B4{equipped!<END>}#11
+equipped!<END>
+|
+@1856
+;0040E6BE{This is a support part<END>}#24
+This is a support part<END>
+|
+@1857
+;0040E6D5{designed to keep your<END>}#23
+designed to keep your<END>
+|
+@1858
+;0040E6EB{B-Daman's stability high<END>}#26
+B-Daman's stability high<END>
+|
+@1859
+;0040E704{by absorbing the recoil<END>}#25
+by absorbing the recoil<END>
+|
+@1860
+;0040E71C{of powerful shots! It also<END>}#28
+of powerful shots! It also<END>
+|
+@1861
+;0040E737{works well when a magazine<END>}#28
+works well when a magazine<END>
+|
+@1862
+;0040E752{is equipped!<END>}#14
+is equipped!<END>
+|
+@1863
+;0040E75F{The dragon tail perfectly<END>}#27
+The dragon tail perfectly<END>
+|
+@1864
+;0040E779{supports and stabilizes<END>}#25
+supports and stabilizes<END>
+|
+@1865
+;0040E791{your machine!<END>}#15
+your machine!<END>
+|
+@1866
+;0040E79F{Since these talons are<END>}#24
+Since these talons are<END>
+|
+@1867
+;0040E7B6{long enough to support<END>}#24
+long enough to support<END>
+|
+@1868
+;0040E7CD{your machine, stable shots<END>}#28
+your machine, stable shots<END>
+|
+@1869
+;0040E7E8{can still be launched,<END>}#24
+can still be launched,<END>
+|
+@1870
+;0040E7FF{even if big back parts or<END>}#27
+even if big back parts or<END>
+|
+@1871
+;0040E819{magazines are equipped!<END>}#25
+magazines are equipped!<END>
+|
+@1872
+;0040E831{This is the cracked<END>}#21
+This is the cracked<END>
+|
+@1873
+;0040E845{B-Daball.<END>}#11
+B-Daball.<END>
+|
+@1874
+;0040E84F{# This part can't be<END>}#22
+# This part can't be<END>
+|
+@1875
+;0040E864{equipped.<END>}#11
+equipped.<END>
+|
+@1876
+;0040E86E{explanation<END>}#13
+explanation<END>
+|
+@1877
+;0040E87A{explanation<END>}#13
+explanation<END>
+|
+@1878
+;0040E886{explanation<END>}#13
+explanation<END>
+|
+@1879
+;0040E892{explanation<END>}#13
+explanation<END>
+|
+@1880
+;0040E89E{explanation<END>}#13
+explanation<END>
+|
+@1881
+;0040E8AA{explanation<END>}#13
+explanation<END>
+|
+@1882
+;0040E8B6{explanation<END>}#13
+explanation<END>
+|
+@1883
+;0040E8C2{explanation<END>}#13
+explanation<END>
+|
+@1884
+;0040E8CE{explanation<END>}#13
+explanation<END>
+|
+@1885
+;0040E8DA{explanation<END>}#13
+explanation<END>
+|
+@1886
+;0040E8E6{explanation<END>}#13
+explanation<END>
+|
+@1887
+;0040E8F2{explanation<END>}#13
+explanation<END>
+|
+@1888
+;0040E8FE{explanation<END>}#13
+explanation<END>
+|
+@1889
+;0040E90A{explanation<END>}#13
+explanation<END>
+|
+@1890
+;0040E916{explanation<END>}#13
+explanation<END>
+|
+@1891
+;0040E922{explanation<END>}#13
+explanation<END>
+|
+@1892
+;0040E92E{explanation<END>}#13
+explanation<END>
+|
+@1893
+;0040E93A{explanation<END>}#13
+explanation<END>
+|
+@1894
+;0040E946{explanation<END>}#13
+explanation<END>
+|
+@1895
+;0040E952{explanation<END>}#13
+explanation<END>
+|
+@1896
+;0040E95E{explanation<END>}#13
+explanation<END>
+|
+@1897
+;0040E96A{explanation<END>}#13
+explanation<END>
+|
+@1898
+;0040E976{explanation<END>}#13
+explanation<END>
+|
+@1899
+;0040E982{explanation<END>}#13
+explanation<END>
+|
+@1900
+;0040E98E{explanation<END>}#13
+explanation<END>
+|
+@1901
+;0040E99A{explanation<END>}#13
+explanation<END>
+|
+@1902
+;0040E9A6{explanation<END>}#13
+explanation<END>
+|
+@1903
+;0040E9B2{explanation<END>}#13
+explanation<END>
+|
+@1904
+;0040E9BE{explanation<END>}#13
+explanation<END>
+|
+@1905
+;0040E9CA{explanation<END>}#13
+explanation<END>
+|
+@1906
+;0040E9D6{explanation<END>}#13
+explanation<END>
+|
+@1907
+;0040E9E2{explanation<END>}#13
+explanation<END>
+|
+@1908
+;0040E9EE{explanation<END>}#13
+explanation<END>
+|
+@1909
+;0040E9FA{explanation<END>}#13
+explanation<END>
+|
+@1910
+;0040EA06{explanation<END>}#13
+explanation<END>
+|
+@1911
+;0040EA12{explanation<END>}#13
+explanation<END>
+|
+@1912
+;0040EA1E{explanation<END>}#13
+explanation<END>
+|
+@1913
+;0040EA2A{explanation<END>}#13
+explanation<END>
+|
+@1914
+;0040EA36{explanation<END>}#13
+explanation<END>
+|
+@1915
+;0040EA42{explanation<END>}#13
+explanation<END>
+|
+@1916
+;0040EA4E{explanation<END>}#13
+explanation<END>
+|
+@1917
+;0040EA5A{explanation<END>}#13
+explanation<END>
+|
+@1918
+;0040EA66{explanation<END>}#13
+explanation<END>
+|
+@1919
+;0040EA72{explanation<END>}#13
+explanation<END>
+|
+@1920
+;0040EA7E{explanation<END>}#13
+explanation<END>
+|
+@1921
+;0040EA8A{This is a Drive Shot! Its<END>}#27
+This is a Drive Shot! Its<END>
+|
+@1922
+;0040EAA4{center is wrapped with<END>}#24
+center is wrapped with<END>
+|
+@1923
+;0040EABB{rubber which allows it to<END>}#27
+rubber which allows it to<END>
+|
+@1924
+;0040EAD5{produce a high-speed<END>}#22
+produce a high-speed<END>
+|
+@1925
+;0040EAEA{topspin. Thanks to this<END>}#25
+topspin. Thanks to this<END>
+|
+@1926
+;0040EB02{topspin, the Strike Shot<END>}#26
+topspin, the Strike Shot<END>
+|
+@1927
+;0040EB1B{moves in a straight<END>}#21
+moves in a straight<END>
+|
+@1928
+;0040EB2F{trajectory with great<END>}#23
+trajectory with great<END>
+|
+@1929
+;0040EB45{speed.<END>}#8
+speed.<END>
+|
+@1930
+;0040EB4C{This is a super high-speed<END>}#28
+This is a super high-speed<END>
+|
+@1931
+;0040EB67{Strike Shot! Since it's<END>}#25
+Strike Shot! Since it's<END>
+|
+@1932
+;0040EB7F{made of ABS resin, its<END>}#24
+made of ABS resin, its<END>
+|
+@1933
+;0040EB96{weight is 1・6 lighter than<END>}#28
+weight is 1・6 lighter than<END>
+|
+@1934
+;0040EBB1{normal Strike Shots. Even<END>}#27
+normal Strike Shots. Even<END>
+|
+@1935
+;0040EBCB{though it doesn't have<END>}#24
+though it doesn't have<END>
+|
+@1936
+;0040EBE2{much destructive power,<END>}#25
+much destructive power,<END>
+|
+@1937
+;0040EBFA{its speed is striking!<END>}#24
+its speed is striking!<END>
+|
+@1938
+;0040EC11{This Strike Shot has<END>}#22
+This Strike Shot has<END>
+|
+@1939
+;0040EC26{excellent destructive<END>}#23
+excellent destructive<END>
+|
+@1940
+;0040EC3C{power, but very little<END>}#24
+power, but very little<END>
+|
+@1941
+;0040EC53{speed since it's made of<END>}#26
+speed since it's made of<END>
+|
+@1942
+;0040EC6C{metal!<END>}#8
+metal!<END>
+|
+@1943
+;0040EC73{This Strike Shot uses<END>}#23
+This Strike Shot uses<END>
+|
+@1944
+;0040EC89{different materials on its<END>}#28
+different materials on its<END>
+|
+@1945
+;0040ECA4{left and right side,<END>}#22
+left and right side,<END>
+|
+@1946
+;0040ECB9{destabilizing its center<END>}#26
+destabilizing its center<END>
+|
+@1947
+;0040ECD2{of gravity to produce a<END>}#25
+of gravity to produce a<END>
+|
+@1948
+;0040ECEA{zigzag motion!<END>}#16
+zigzag motion!<END>
+|
+@1949
+;0040ECF9{This Strike Shot is made<END>}#26
+This Strike Shot is made<END>
+|
+@1950
+;0040ED12{of ABS resin to increase<END>}#26
+of ABS resin to increase<END>
+|
+@1951
+;0040ED2B{speed. Also, due to its<END>}#25
+speed. Also, due to its<END>
+|
+@1952
+;0040ED43{transparency, the B-Daball<END>}#28
+transparency, the B-Daball<END>
+|
+@1953
+;0040ED5E{will become almost<END>}#20
+will become almost<END>
+|
+@1954
+;0040ED71{invisible when it's<END>}#21
+invisible when it's<END>
+|
+@1955
+;0040ED85{launched. So, it's almost<END>}#27
+launched. So, it's almost<END>
+|
+@1956
+;0040ED9F{impossible to follow it<END>}#25
+impossible to follow it<END>
+|
+@1957
+;0040EDB7{with the naked eye! It's a<END>}#28
+with the naked eye! It's a<END>
+|
+@1958
+;0040EDD2{high-speed, stealth shot!<END>}#27
+high-speed, stealth shot!<END>
+|
+@1959
+;0040EDEC{Ridges are added onto the<END>}#27
+Ridges are added onto the<END>
+|
+@1960
+;0040EE06{rubber wrapping the center!<END>}#29
+rubber wrapping the center!<END>
+|
+@1961
+;0040EE22{This Strike Shot makes a<END>}#26
+This Strike Shot makes a<END>
+|
+@1962
+;0040EE3B{beautiful, wave-like<END>}#22
+beautiful, wave-like<END>
+|
+@1963
+;0040EE50{motion and has a great<END>}#24
+motion and has a great<END>
+|
+@1964
+;0040EE67{grip function!<END>}#16
+grip function!<END>
+|
+@1965
+;0040EE76{This Strike Shot excels in<END>}#28
+This Strike Shot excels in<END>
+|
+@1966
+;0040EE91{both destructive power and<END>}#28
+both destructive power and<END>
+|
+@1967
+;0040EEAC{speed! This feature has<END>}#25
+speed! This feature has<END>
+|
+@1968
+;0040EEC4{been enhanced due to added<END>}#28
+been enhanced due to added<END>
+|
+@1969
+;0040EEDF{weight and the high-speed<END>}#27
+weight and the high-speed<END>
+|
+@1970
+;0040EEF9{effect of PS resin.<END>}#21
+effect of PS resin.<END>
+|
+@1971
+;0040EF0D{This Strike Shot has<END>}#22
+This Strike Shot has<END>
+|
+@1972
+;0040EF22{another ball inside!<END>}#22
+another ball inside!<END>
+|
+@1973
+;0040EF37{It will split into two<END>}#24
+It will split into two<END>
+|
+@1974
+;0040EF4E{separate balls when fired!<END>}#28
+separate balls when fired!<END>
+|
+@1975
+;0040EF69{This Drive Shot's<END>}#19
+This Drive Shot's<END>
+|
+@1976
+;0040EF7B{transparent design<END>}#20
+transparent design<END>
+|
+@1977
+;0040EF8E{increases the stealth<END>}#23
+increases the stealth<END>
+|
+@1978
+;0040EFA4{effect.<END>}#9
+effect.<END>
+|
+@1979
+;0040EFAC{This Strike Shot can<END>}#22
+This Strike Shot can<END>
+|
+@1980
+;0040EFC1{accelerate explosively<END>}#24
+accelerate explosively<END>
+|
+@1981
+;0040EFD8{because of the drive<END>}#22
+because of the drive<END>
+|
+@1982
+;0040EFED{effect of the rubber<END>}#22
+effect of the rubber<END>
+|
+@1983
+;0040F002{wrapping the center of the<END>}#28
+wrapping the center of the<END>
+|
+@1984
+;0040F01D{ball!<END>}#7
+ball!<END>
+|
+@1985
+;0040F023{This Strike Shot splits<END>}#25
+This Strike Shot splits<END>
+|
+@1986
+;0040F03B{under the shock of the<END>}#24
+under the shock of the<END>
+|
+@1987
+;0040F052{launch!<END>}#9
+launch!<END>
+|
+@1988
+;0040F05A{You can put together the<END>}#26
+You can put together the<END>
+|
+@1989
+;0040F073{pieces, like a puzzle, to<END>}#27
+pieces, like a puzzle, to<END>
+|
+@1990
+;0040F08D{reconstruct the Strike<END>}#24
+reconstruct the Strike<END>
+|
+@1991
+;0040F0A4{Shot!<END>}#7
+Shot!<END>
+|
+@1992
+;0040F0AA{This Strike Shot splits<END>}#25
+This Strike Shot splits<END>
+|
+@1993
+;0040F0C2{under the shock of the<END>}#24
+under the shock of the<END>
+|
+@1994
+;0040F0D9{launch!<END>}#9
+launch!<END>
+|
+@1995
+;0040F0E1{You can put together the<END>}#26
+You can put together the<END>
+|
+@1996
+;0040F0FA{pieces, like a puzzle, to<END>}#27
+pieces, like a puzzle, to<END>
+|
+@1997
+;0040F114{reconstruct the Strike<END>}#24
+reconstruct the Strike<END>
+|
+@1998
+;0040F12B{Shot!<END>}#7
+Shot!<END>
+|
+@1999
+;0040F131{This Drive Shot's<END>}#19
+This Drive Shot's<END>
+|
+@2000
+;0040F143{transparent design<END>}#20
+transparent design<END>
+|
+@2001
+;0040F156{increases the stealth<END>}#23
+increases the stealth<END>
+|
+@2002
+;0040F16C{effect.<END>}#9
+effect.<END>
+|
+@2003
+;0040F174{This Strike Shot can<END>}#22
+This Strike Shot can<END>
+|
+@2004
+;0040F189{accelerate explosively<END>}#24
+accelerate explosively<END>
+|
+@2005
+;0040F1A0{because of the drive<END>}#22
+because of the drive<END>
+|
+@2006
+;0040F1B5{effect of the rubber<END>}#22
+effect of the rubber<END>
+|
+@2007
+;0040F1CA{wrapping the center of the<END>}#28
+wrapping the center of the<END>
+|
+@2008
+;0040F1E5{ball!<END>}#7
+ball!<END>
+|
+@2009
+;0040F1EB{<END>}#2
+<END>
+|
+@2010
+;0040F1EC{It can really show its<END>}#24
+It can really show its<END>
+|
+@2011
+;0040F203{power when it's used with<END>}#27
+power when it's used with<END>
+|
+@2012
+;0040F21D{a Drive Core that has<END>}#23
+a Drive Core that has<END>
+|
+@2013
+;0040F233{rubber in it, like the SS<END>}#27
+rubber in it, like the SS<END>
+|
+@2014
+;0040F24D{Drive Core or the Revolver<END>}#28
+Drive Core or the Revolver<END>
+|
+@2015
+;0040F268{Core!<END>}#7
+Core!<END>
+|
+@2016
+;0040F26E{explanation<END>}#13
+explanation<END>
+|

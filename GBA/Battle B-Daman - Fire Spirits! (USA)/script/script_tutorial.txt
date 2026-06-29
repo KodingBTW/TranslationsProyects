@@ -1,0 +1,544 @@
+@1
+;003BDE6B{Welcome to the B-Daworld!<NEXT>I'm gonna give you some<LINE>basic instructions for<LINE>       B-Dabattling.<END2>}#95
+¡Bienvenido al B-Damundo!<NEXT>Te voy a dar unas<LINE>instrucciones básicas para<LINE>       las B-Dabatallas.<END2>
+|
+@2
+;003BDECA{Oh, but first I have to<LINE>tell you something very<LINE>       important...<END2>}#69
+Oh, but first I have to<LINE>tell you something very<LINE>       important...<END2>
+|
+@3
+;003BDF0E{Real B-Daplayers use their<LINE>B-Daman properly.<END2>}#46
+Real B-Daplayers use their<LINE>B-Daman properly.<END2>
+|
+@4
+;003BDF3B{A B-Daman shouldn't be used<LINE>for harm. Don't shoot<LINE>       people with them.<END2>}#76
+A B-Daman shouldn't be used<LINE>for harm. Don't shoot<LINE>       people with them.<END2>
+|
+@5
+;003BDF86{Promise me that you'll<LINE>respect this one rule.<END2>}#47
+Promise me that you'll<LINE>respect this one rule.<END2>
+|
+@6
+;003BDFB4{Okay then, let's begin.<END2>}#25
+Okay then, let's begin.<END2>
+|
+@7
+;003BDFCC{First, look at this.<END2>}#22
+First, look at this.<END2>
+|
+@8
+;003BDFE1{This is your B-Daman.<END2>}#23
+This is your B-Daman.<END2>
+|
+@9
+;003BDFF7{These are your charged<LINE>B-Daballs.<END2>}#35
+These are your charged<LINE>B-Daballs.<END2>
+|
+@10
+;003BE019{You can only hold up to two<LINE>B-Daballs now, but you can<LINE>get more depending on<LINE>which parts you equip.<END2>}#101
+You can only hold up to two<LINE>B-Daballs now, but you can<LINE>get more depending on<LINE>which parts you equip.<END2>
+|
+@11
+;003BE07D{Next, I'll tell you how to<LINE>fire your B-Daballs.<END2>}#49
+Next, I'll tell you how to<LINE>fire your B-Daballs.<END2>
+|
+@12
+;003BE0AD{This is your sight.<END2>}#21
+This is your sight.<END2>
+|
+@13
+;003BE0C1{Aim with the sight, and<WAIT><LINE>press the A Button to fire<LINE>B-Daballs!<END2>}#64
+Aim with the sight, and<WAIT><LINE>press the A Button to fire<LINE>B-Daballs!<END2>
+|
+@14
+;003BE100{Now then, I'm going to<LINE>explain how to make your<LINE>B-Daman move.<END2>}#63
+Now then, I'm going to<LINE>explain how to make your<LINE>B-Daman move.<END2>
+|
+@15
+;003BE13E{If you press the +Control<LINE>Pad Left, your B-Daman will<LINE>move to the left.<END2>}#73
+If you press the +Control<LINE>Pad Left, your B-Daman will<LINE>move to the left.<END2>
+|
+@16
+;003BE186{If you press the +Control<LINE>Pad Right, your B-Daman<LINE>will move to the right.<END2>}#75
+If you press the +Control<LINE>Pad Right, your B-Daman<LINE>will move to the right.<END2>
+|
+@17
+;003BE1D0{If you press the +Control<LINE>Pad Up, your B-Daman will<LINE>move forward a bit.<END2>}#73
+If you press the +Control<LINE>Pad Up, your B-Daman will<LINE>move forward a bit.<END2>
+|
+@18
+;003BE218{If you press the R Button,<LINE>your B-Daman will tilt its<LINE>body to the right...<END2>}#76
+If you press the R Button,<LINE>your B-Daman will tilt its<LINE>body to the right...<END2>
+|
+@19
+;003BE263{And if you press the L<LINE>Button, it will tilt its<LINE>body to the left...<END2>}#69
+And if you press the L<LINE>Button, it will tilt its<LINE>body to the left...<END2>
+|
+@20
+;003BE2A7{If you press the L and R<LINE>Buttons simultaneously,<LINE>it'll go back to its<LINE>original position.<END2>}#90
+If you press the L and R<LINE>Buttons simultaneously,<LINE>it'll go back to its<LINE>original position.<END2>
+|
+@21
+;003BE300{Okay, shall we practice<LINE>then?<END2>}#31
+Okay, shall we practice<LINE>then?<END2>
+|
+@22
+;003BE31E{How's that? It's getting<LINE>interesting now, isn't it?<END2>}#53
+How's that? It's getting<LINE>interesting now, isn't it?<END2>
+|
+@23
+;003BE352{Alright, now I'll explain<LINE>how to charge your<LINE>       B-Daman.<END2>}#62
+Alright, now I'll explain<LINE>how to charge your<LINE>       B-Daman.<END2>
+|
+@24
+;003BE38F{If you move your B-Daman<LINE>over the B-Daballs on the<LINE>field,<WAIT> your B-Daman will<LINE>be automatically charged.<END2>}#104
+If you move your B-Daman<LINE>over the B-Daballs on the<LINE>field,<WAIT> your B-Daman will<LINE>be automatically charged.<END2>
+|
+@25
+;003BE3F6{This arrow tells you where<END2>}#28
+This arrow tells you where<END2>
+|
+@26
+;003BE411{<LINE>you can find the chargeable<LINE>B-Daballs.<END2>}#41
+<LINE>you can find the chargeable<LINE>B-Daballs.<END2>
+|
+@27
+;003BE439{Alright, let's practice<LINE>again!<END2>}#32
+Alright, let's practice<LINE>again!<END2>
+|
+@28
+;003BE458{Now then, let's talk about<LINE>defense.<END2>}#37
+Now then, let's talk about<LINE>defense.<END2>
+|
+@29
+;003BE47C{If you press the +Control<LINE>Pad Down, you'll be in<LINE>defense mode.<END2>}#64
+If you press the +Control<LINE>Pad Down, you'll be in<LINE>defense mode.<END2>
+|
+@30
+;003BE4BB{When defending, you'll be<LINE>able to decrease the damage<LINE>you incur.<END2>}#66
+When defending, you'll be<LINE>able to decrease the damage<LINE>you incur.<END2>
+|
+@31
+;003BE4FC{But, be careful. If you go<LINE>on the offensive while<LINE>defending,<WAIT> defense mode<LINE>will be disabled.<END2>}#94
+But, be careful. If you go<LINE>on the offensive while<LINE>defending,<WAIT> defense mode<LINE>will be disabled.<END2>
+|
+@32
+;003BE559{Now then, let's practice. <LINE>Defend yourself from the<LINE>B-Daballs being shot! <END2>}#76
+Now then, let's practice. <LINE>Defend yourself from the<LINE>B-Daballs being shot! <END2>
+|
+@33
+;003BE5A4{If you're successful<LINE>defending yourself,<END2>}#42
+If you're successful<LINE>defending yourself,<END2>
+|
+@34
+;003BE5CD{you'll hear a unique sound<LINE>effect of the ball hitting!<END2>}#56
+you'll hear a unique sound<LINE>effect of the ball hitting!<END2>
+|
+@35
+;003BE604{The important thing is to<END2>}#27
+The important thing is to<END2>
+|
+@36
+;003BE61E{get a sense of your<LINE>opponent's movements!<END2>}#43
+get a sense of your<LINE>opponent's movements!<END2>
+|
+@37
+;003BE648{Use defense mode well and<LINE>avoid getting attacked.<END2>}#51
+Use defense mode well and<LINE>avoid getting attacked.<END2>
+|
+@38
+;003BE67A{You can't become a true<LINE>B-Daplayer if you just go<LINE>       on the offensive!<END2>}#76
+You can't become a true<LINE>B-Daplayer if you just go<LINE>       on the offensive!<END2>
+|
+@39
+;003BE6C5{Aim, <WAIT>shoot, <WAIT>charge, <WAIT><LINE>dodge<WAIT> and defend.<END2>}#44
+Aim, <WAIT>shoot, <WAIT>charge, <WAIT><LINE>dodge<WAIT> and defend.<END2>
+|
+@40
+;003BE6F0{You can't win if you lack<LINE>even one of those skills!<WAIT><LINE>       Remember that well.<END2>}#81
+You can't win if you lack<LINE>even one of those skills!<WAIT><LINE>       Remember that well.<END2>
+|
+@41
+;003BE740{By the way, are you<LINE>wondering where the shot<LINE>       B-Daballs go?<END2>}#67
+By the way, are you<LINE>wondering where the shot<LINE>       B-Daballs go?<END2>
+|
+@42
+;003BE782{I'll explain it.<END2>}#18
+I'll explain it.<END2>
+|
+@43
+;003BE793{In normal battles, any<LINE>B-Daballs that you shoot<LINE>will be kept on your<LINE>opponent's side for<LINE>charging.<END2>}#100
+In normal battles, any<LINE>B-Daballs that you shoot<LINE>will be kept on your<LINE>opponent's side for<LINE>charging.<END2>
+|
+@44
+;003BE7F6{On the other hand, you get<0B>to keep the B-Daballs that<0B>your opponent shoots.<END2>}#77
+On the other hand, you get<0B>to keep the B-Daballs that<0B>your opponent shoots.<END2>
+|
+@45
+;003BE842{And, if you hit the<LINE>B-Daballs on your<LINE>opponent's side, <LINE>you can steal them and<LINE>charge them!<END2>}#93
+And, if you hit the<LINE>B-Daballs on your<LINE>opponent's side, <LINE>you can steal them and<LINE>charge them!<END2>
+|
+@46
+;003BE89E{Of course, the same goes<LINE>for your opponent.<END2>}#45
+Of course, the same goes<LINE>for your opponent.<END2>
+|
+@47
+;003BE8CA{You will learn the<LINE>importance of this rule<LINE>the more you continue<LINE>B-Dabattling.<END2>}#80
+You will learn the<LINE>importance of this rule<LINE>the more you continue<LINE>B-Dabattling.<END2>
+|
+@48
+;003BE919{Aim and shoot at the <LINE>bottom of my statue.<END2>}#44
+Aim and shoot at the <LINE>bottom of my statue.<END2>
+|
+@49
+;003BE944{Okay now, it's time to<LINE>explain Direct Hit Battle.<END2>}#51
+Okay now, it's time to<LINE>explain Direct Hit Battle.<END2>
+|
+@50
+;003BE976{We call it “DHB” for short!<END2>}#29
+We call it “DHB” for short!<END2>
+|
+@51
+;003BE992{This is your opponent's<LINE>B-Daman.<END2>}#34
+This is your opponent's<LINE>B-Daman.<END2>
+|
+@52
+;003BE9B3{In DHB, you and your<LINE>opponent shoot at each<LINE>other,<WAIT> facing the other<LINE>at full strength!<WAIT><LINE>Direct Hit Battle requires<LINE>a great amount of<LINE>B-Daspirit!<END2>}#146
+In DHB, you and your<LINE>opponent shoot at each<LINE>other,<WAIT> facing the other<LINE>at full strength!<WAIT><LINE>Direct Hit Battle requires<LINE>a great amount of<LINE>B-Daspirit!<END2>
+|
+@53
+;003BEA44{If you aim at the center of<LINE>the B-Daman's body,<LINE>your attack will be more<LINE>effective.<END2>}#85
+If you aim at the center of<LINE>the B-Daman's body,<LINE>your attack will be more<LINE>effective.<END2>
+|
+@54
+;003BEA98{Both of your health levels<LINE>will be shown on an HP<LINE>meter.<END2>}#58
+Both of your health levels<LINE>will be shown on an HP<LINE>meter.<END2>
+|
+@55
+;003BEAD1{This is your HP.<END2>}#18
+This is your HP.<END2>
+|
+@56
+;003BEAE2{And, this is your<LINE>opponent's HP meter.<END2>}#40
+And, this is your<LINE>opponent's HP meter.<END2>
+|
+@57
+;003BEB09{This is the time limit.<END2>}#25
+This is the time limit.<END2>
+|
+@58
+;003BEB21{When it reaches 0, the game<LINE>will be decided based on<LINE>each other's HP.<END2>}#71
+When it reaches 0, the game<LINE>will be decided based on<LINE>each other's HP.<END2>
+|
+@59
+;003BEB67{The one who has more HP<0B>wins. <END2><END><END>}#32
+The one who has more HP<0B>wins. <END2><END><END>
+|
+@60
+;003BEB86{And finally, I'll explain<LINE>how to use special attacks!<END2>}#57
+And finally, I'll explain<LINE>how to use special attacks!<END2>
+|
+@61
+;003BEBBE{Some B-Daman parts have<LINE>special powers.<END2>}#41
+Some B-Daman parts have<LINE>special powers.<END2>
+|
+@62
+;003BEBE6{You'll be able to use new<LINE>special attacks by<END2>}#46
+You'll be able to use new<LINE>special attacks by<END2>
+|
+@63
+;003BEC13{equipping those kinds<LINE>of parts!<END2>}#33
+equipping those kinds<LINE>of parts!<END2>
+|
+@64
+;003BEC33{And, there is another<LINE>important thing you need<LINE>       in order to use all<LINE>       these techniques...<END2>}#102
+And, there is another<LINE>important thing you need<LINE>       in order to use all<LINE>       these techniques...<END2>
+|
+@65
+;003BEC98{You need lots of <LINE>B-Daspirit!<END2>}#31
+You need lots of <LINE>B-Daspirit!<END2>
+|
+@66
+;003BECB6{This is the B-Daspirit<LINE>meter.<END2>}#31
+This is the B-Daspirit<LINE>meter.<END2>
+|
+@67
+;003BECD4{Your B-Daspirit increases<LINE>when you hit your<LINE>opponent's B-Daman<LINE>or the B-Daballs on<LINE>their side.<END2>}#96
+Your B-Daspirit increases<LINE>when you hit your<LINE>opponent's B-Daman<LINE>or the B-Daballs on<LINE>their side.<END2>
+|
+@68
+;003BED33{When the meter fills up,<END2>}#26
+When the meter fills up,<END2>
+|
+@69
+;003BED4C{<0B>your B-Daspirit goes up by<LINE>one level.<END2>}#40
+<0B>your B-Daspirit goes up by<LINE>one level.<END2>
+|
+@70
+;003BED73{You can only go up to<LINE>level 1 for now, but as <LINE>you brush up your skills,<WAIT><LINE>you'll be able to go <0B>higher.<END2>}#105
+You can only go up to<LINE>level 1 for now, but as <LINE>you brush up your skills,<WAIT><LINE>you'll be able to go <0B>higher.<END2>
+|
+@71
+;003BEDDB{And, depending on which<LINE>special attack you want to<LINE>use, <WAIT>you need to have<LINE>a certain number of<LINE>B-Daballs and level<LINE>of B-Daspirit.<END2>}#130
+And, depending on which<LINE>special attack you want to<LINE>use, <WAIT>you need to have<LINE>a certain number of<LINE>B-Daballs and level<LINE>of B-Daspirit.<END2>
+|
+@72
+;003BEE5C{When you meet all these<LINE>conditions...<END2>}#39
+When you meet all these<LINE>conditions...<END2>
+|
+@73
+;003BEE82{Look at this!<END2>}#15
+Look at this!<END2>
+|
+@74
+;003BEE90{<0B>This mark will appear on<LINE>the screen.<END2>}#39
+<0B>This mark will appear on<LINE>the screen.<END2>
+|
+@75
+;003BEEB6{This is a sign indicating<0B>that you can initiate a<0B>special attack by pressing<WAIT><LINE>the +Control Pad in the<0B>direction denoted by the<0B>red triangle.<END2>}#142
+This is a sign indicating<0B>that you can initiate a<0B>special attack by pressing<WAIT><LINE>the +Control Pad in the<0B>direction denoted by the<0B>red triangle.<END2>
+|
+@76
+;003BEF43{When this mark is on the<0B>screen, simultaneously<0B>press the B Button and<WAIT><LINE>the +Control Pad in the<0B>direction noted to use<0B>the special attack!<END2>}#140
+When this mark is on the<0B>screen, simultaneously<0B>press the B Button and<WAIT><LINE>the +Control Pad in the<0B>direction noted to use<0B>the special attack!<END2>
+|
+@77
+;003BEFCE{This is a really good<0B>trick to know.<END2>}#38
+This is a really good<0B>trick to know.<END2>
+|
+@78
+;003BEFF3{It should be easy enough<LINE>if you remember to first<LINE>hold down the B Button,<LINE>then press the +Control<0B>Pad.<END2>}#104
+It should be easy enough<LINE>if you remember to first<LINE>hold down the B Button,<LINE>then press the +Control<0B>Pad.<END2>
+|
+@79
+;003BF05A{Great, let's practice now!<END2>}#28
+Great, let's practice now!<END2>
+|
+@80
+;003BF075{You can change the settings<LINE>for special attacks by<END2>}#52
+You can change the settings<LINE>for special attacks by<END2>
+|
+@81
+;003BF0A8{selecting the “Special<LINE>Attacks” icon in the<LINE>       tool box.<END2>}#62
+selecting the “Special<LINE>Attacks” icon in the<LINE>       tool box.<END2>
+|
+@82
+;003BF0E5{Nothing is more important<LINE>to a B-Daman than<LINE>       customizing!<END2>}#65
+Nothing is more important<LINE>to a B-Daman than<LINE>       customizing!<END2>
+|
+@83
+;003BF125{Become a master of<LINE>customization!<END2>}#35
+Become a master of<LINE>customization!<END2>
+|
+@84
+;003BF147{Those are all the basic<LINE>instructions for B-Daman.<END2>}#51
+Those are all the basic<LINE>instructions for B-Daman.<END2>
+|
+@85
+;003BF179{It took a while, but it's<LINE>all very important.<END2>}#47
+It took a while, but it's<LINE>all very important.<END2>
+|
+@86
+;003BF1A7{Do your very best to<LINE>remember everything I said.<END2>}#50
+Do your very best to<LINE>remember everything I said.<END2>
+|
+@87
+;003BF1D8{Well, just to make sure...<END2><END>}#28
+Well, just to make sure...<END2><END>
+|
+@88
+;003BF1F3{Finally!<END2>}#11
+Finally!<END2>
+|
+@89
+;003BF1FD{It's time to<LINE>explain the Strike Shot!<END2>}#39
+It's time to<LINE>explain the Strike Shot!<END2>
+|
+@90
+;003BF223{This part.<END2>}#12
+This part.<END2>
+|
+@91
+;003BF22E{<LINE>You've been wondering about<LINE>this part, aren'tcha?<END2>}#52
+<LINE>You've been wondering about<LINE>this part, aren'tcha?<END2>
+|
+@92
+;003BF261{Your equipped Strike Shot<LINE>is shown here.<END2>}#42
+Your equipped Strike Shot<LINE>is shown here.<END2>
+|
+@93
+;003BF28A{Well now, I'll tell you how<LINE>to fire a Strike Shot.<END2>}#52
+Well now, I'll tell you how<LINE>to fire a Strike Shot.<END2>
+|
+@94
+;003BF2BD{If you hold down the A<LINE>Button, the sight will<LINE>start spinning and<LINE>change color.<END2>}#80
+If you hold down the A<LINE>Button, the sight will<LINE>start spinning and<LINE>change color.<END2>
+|
+@95
+;003BF30C{When the sight turns red,<LINE>that means it's ready.<END2>}#50
+When the sight turns red,<LINE>that means it's ready.<END2>
+|
+@96
+;003BF33D{Release the A Button, and<LINE>the Strike Shot will be<LINE>fired!<END2>}#58
+Release the A Button, and<LINE>the Strike Shot will be<LINE>fired!<END2>
+|
+@97
+;003BF376{Alright then, now you can<LINE>practice. Fire away!<END2>}#48
+Alright then, now you can<LINE>practice. Fire away!<END2>
+|
+@98
+;003BF3A5{Did you notice that the<LINE>Strike Shot mark turned<END2>}#49
+Did you notice that the<LINE>Strike Shot mark turned<END2>
+|
+@99
+;003BF3D5{blue after the Strike Shot<LINE>was fired?<END2>}#39
+blue after the Strike Shot<LINE>was fired?<END2>
+|
+@100
+;003BF3FB{When this happens, it means<LINE>that you can't use the<END2>}#52
+When this happens, it means<LINE>that you can't use the<END2>
+|
+@101
+;003BF42E{Strike Shot anymore in<LINE>this round.<END2>}#36
+Strike Shot anymore in<LINE>this round.<END2>
+|
+@102
+;003BF451{As you can see, Strike<LINE>Shots are a very precious<LINE>       resource.<END2>}#67
+As you can see, Strike<LINE>Shots are a very precious<LINE>       resource.<END2>
+|
+@103
+;003BF493{Don't make a mistake and<LINE>use it at the wrong time!<END2>}#52
+Don't make a mistake and<LINE>use it at the wrong time!<END2>
+|
+@104
+;003BF4C6{Now, I'll tell you some<LINE>great, secret information!<END2>}#52
+Now, I'll tell you some<LINE>great, secret information!<END2>
+|
+@105
+;003BF4F9{In the B-Daworld, I've<LINE>heard that there are<END2>}#45
+In the B-Daworld, I've<LINE>heard that there are<END2>
+|
+@106
+;003BF525{attacks that are even<LINE>greater than Special<LINE>       Attacks.<END2>}#60
+attacks that are even<LINE>greater than Special<LINE>       Attacks.<END2>
+|
+@107
+;003BF560{They are called Super<LINE>Special Attacks.<END2>}#40
+They are called Super<LINE>Special Attacks.<END2>
+|
+@108
+;003BF587{Hmm, how to use them... <WAIT><END2>}#27
+Hmm, how to use them... <WAIT><END2>
+|
+@109
+;003BF5A1{Well, you've gotta find<0B>that out all by yourself.<END2>}#51
+Well, you've gotta find<0B>that out all by yourself.<END2>
+|
+@110
+;003BF5D3{Okay, that's all there is<LINE>to say.<END2>}#35
+Okay, that's all there is<LINE>to say.<END2>
+|
+@111
+;003BF5F5{I'm sure you'll find that<LINE>out if you have a good<LINE>       understanding<END2>}#71
+I'm sure you'll find that<LINE>out if you have a good<LINE>       understanding<END2>
+|
+@112
+;003BF63B{of your B-Daman and if<LINE>you have enough B-Daspirit!<END2><END><END>}#52
+of your B-Daman and if<LINE>you have enough B-Daspirit!<END2><END><END>
+|
+@113
+;003BF66E{<END><END>Now, let me explain about<LINE>Battle Shoot here.<END2>}#48
+Now, let me explain about<LINE>Battle Shoot here.<END2>
+|
+@114
+;003BF69D{Battle Shoot is a match<LINE>where you shoot B-Daballs<END2>}#51
+Battle Shoot is a match<LINE>where you shoot B-Daballs<END2>
+|
+@115
+;003BF6CF{into the opponent's goal<LINE>area to score points.<END2>}#48
+into the opponent's goal<LINE>area to score points.<END2>
+|
+@116
+;003BF6FE{This is the goal area.<WAIT><LINE>B-Daballs that are shot<0B>into the goal area are<0B>counted as your points.<END2>}#96
+This is the goal area.<WAIT><LINE>B-Daballs that are shot<0B>into the goal area are<0B>counted as your points.<END2>
+|
+@117
+;003BF75D{This is a gutter zone.<WAIT><LINE>If any B-Daballs fall down<0B>here, your shot won't<0B>count.<END2>}#81
+This is a gutter zone.<WAIT><LINE>If any B-Daballs fall down<0B>here, your shot won't<0B>count.<END2>
+|
+@118
+;003BF7AD{There are three ways to<LINE>defend your goal area:<END2>}#48
+There are three ways to<LINE>defend your goal area:<END2>
+|
+@119
+;003BF7DC{first, by hitting your<LINE>opponent's B-Daballs with<LINE>       your own B-Daballs;<END2>}#77
+first, by hitting your<LINE>opponent's B-Daballs with<LINE>       your own B-Daballs;<END2>
+|
+@120
+;003BF828{second, by making them<LINE>rebound off your B-Daman<LINE>       itself;<END2>}#64
+second, by making them<LINE>rebound off your B-Daman<LINE>       itself;<END2>
+|
+@121
+;003BF867{and third, by using the<LINE>defensive mode.<END2>}#41
+and third, by using the<LINE>defensive mode.<END2>
+|
+@122
+;003BF88F{You have to defend your<LINE>goal area with gusto,<END2>}#47
+You have to defend your<LINE>goal area with gusto,<END2>
+|
+@123
+;003BF8BD{using your B-Daman's<LINE>WHOLE body.<END2>}#34
+using your B-Daman's<LINE>WHOLE body.<END2>
+|
+@124
+;003BF8DE{This is what Battle Shoot<LINE>is all about!<END2>}#41
+This is what Battle Shoot<LINE>is all about!<END2>
+|
+@125
+;003BF906{So, you're wondering what<LINE>would happen if you keep<END2>}#52
+So, you're wondering what<LINE>would happen if you keep<END2>
+|
+@126
+;003BF939{successfully blocking your<LINE>opponent's B-Daballs, but<LINE>       your HP runs out?<END2>}#79
+successfully blocking your<LINE>opponent's B-Daballs, but<LINE>       your HP runs out?<END2>
+|
+@127
+;003BF987{Well, you won't lose if<LINE>your HP reaches 0, but<LINE>       your B-Daman's<END2>}#70
+Well, you won't lose if<LINE>your HP reaches 0, but<LINE>       your B-Daman's<END2>
+|
+@128
+;003BF9CC{performance will be<LINE>significantly decreased.<END2>}#46
+performance will be<LINE>significantly decreased.<END2>
+|
+@129
+;003BF9F9{So, now you know that<END2>}#23
+So, now you know that<END2>
+|
+@130
+;003BFA0F{defending is far more<LINE>important in Battle Shoot<LINE>       than in DHB.<END2>}#69
+defending is far more<LINE>important in Battle Shoot<LINE>       than in DHB.<END2>
+|
+@131
+;003BFA53{That's about it for Battle<LINE>Shoot.<END2>}#35
+That's about it for Battle<LINE>Shoot.<END2>
+|
+@132
+;003BFA75{Now, you should practice<LINE>Battle Shoot for real. <LINE>       Keep it up!<END2>}#69
+Now, you should practice<LINE>Battle Shoot for real. <LINE>       Keep it up!<END2>
+|
+@133
+;003BFAB9{You can either finish off<LINE>your opponents in a short<LINE>       time...<END2>}#68
+You can either finish off<LINE>your opponents in a short<LINE>       time...<END2>
+|
+@134
+;003BFAFC{Or, you can weaken your<LINE>opponent's B-Daman, and<WAIT><LINE>       then take aim at<0B>       their goal area.<END2>}#98
+Or, you can weaken your<LINE>opponent's B-Daman, and<WAIT><LINE>       then take aim at<0B>       their goal area.<END2>
+|
+@135
+;003BFB5D{Finding your own playing<LINE>style will help you to<WAIT><LINE>       excel in Battle<0B>       Shoot!<END2>}#87
+Finding your own playing<LINE>style will help you to<WAIT><LINE>       excel in Battle<0B>       Shoot!<END2>
+|
+@136
+;003BFBB3{How'd you do?<END2>}#15
+How'd you do?<END2>
+|

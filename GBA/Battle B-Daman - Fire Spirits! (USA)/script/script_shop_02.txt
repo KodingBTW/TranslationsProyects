@@ -1,0 +1,5432 @@
+@1
+;0042059C{No File<END>}#8
+No File<END>
+|
+@2
+;004205A4{No File<END>}#9
+No File<END>
+|
+@3
+;004205AC{No File<END>}#9
+No File<END>
+|
+@4
+;004205B4{No File<END>}#9
+No File<END>
+|
+@5
+;004205BC{No File<END>}#9
+No File<END>
+|
+@6
+;004205C4{This is Enjyu's B-Daman.<END>}#26
+This is Enjyu's B-Daman.<END>
+|
+@7
+;004205DD{It's equipped with the<END>}#24
+It's equipped with the<END>
+|
+@8
+;004205F4{Delta Core, a power-type<END>}#26
+Delta Core, a power-type<END>
+|
+@9
+;0042060D{core. Its Power Pad<END>}#21
+core. Its Power Pad<END>
+|
+@10
+;00420621{absorbs recoil and<END>}#20
+absorbs recoil and<END>
+|
+@11
+;00420634{increases firing power!<END>}#25
+increases firing power!<END>
+|
+@12
+;0042064C{This is Wen's B-Daman.<END>}#24
+This is Wen's B-Daman.<END>
+|
+@13
+;00420663{It's equipped with the<END>}#24
+It's equipped with the<END>
+|
+@14
+;0042067A{Long Core, a control-type<END>}#27
+Long Core, a control-type<END>
+|
+@15
+;00420694{core.<END>}#7
+core.<END>
+|
+@16
+;0042069A{<END>}#2
+<END>
+|
+@17
+;0042069B{This is a control-type<END>}#24
+This is a control-type<END>
+|
+@18
+;004206B2{machine that can shoot<END>}#24
+machine that can shoot<END>
+|
+@19
+;004206C9{incredibly straight shots.<END>}#28
+incredibly straight shots.<END>
+|
+@20
+;004206E4{It's equipped with the<END>}#24
+It's equipped with the<END>
+|
+@21
+;004206FB{Sight Barrel, and its<END>}#23
+Sight Barrel, and its<END>
+|
+@22
+;00420711{shooting accuracy has been<END>}#28
+shooting accuracy has been<END>
+|
+@23
+;0042072C{improved.<END>}#11
+improved.<END>
+|
+@24
+;00420736{This is Li's B-Daman.<END>}#23
+This is Li's B-Daman.<END>
+|
+@25
+;0042074C{It's equipped with the<END>}#24
+It's equipped with the<END>
+|
+@26
+;00420763{Roller Core, a rapid-fire<END>}#27
+Roller Core, a rapid-fire<END>
+|
+@27
+;0042077D{type.<END>}#7
+type.<END>
+|
+@28
+;00420783{<END>}#2
+<END>
+|
+@29
+;00420784{By equipping both the<END>}#23
+By equipping both the<END>
+|
+@30
+;0042079A{Roller Core and the Sight<END>}#27
+Roller Core and the Sight<END>
+|
+@31
+;004207B4{Magazine, smooth<END>}#18
+Magazine, smooth<END>
+|
+@32
+;004207C5{rapid-fire has been<END>}#21
+rapid-fire has been<END>
+|
+@33
+;004207D9{enabled.<END>}#10
+enabled.<END>
+|
+@34
+;004207E2{This is the B-Daman that<END>}#26
+This is the B-Daman that<END>
+|
+@35
+;004207FB{Wen and Li use. It's a <END>}#25
+Wen and Li use. It's a <END>
+|
+@36
+;00420813{combination of the King<END>}#25
+combination of the King<END>
+|
+@37
+;0042082B{Bakuso and the King<END>}#21
+Bakuso and the King<END>
+|
+@38
+;0042083F{Rekuso. It's a multi-type<END>}#27
+Rekuso. It's a multi-type<END>
+|
+@39
+;00420859{machine that has both<END>}#23
+machine that has both<END>
+|
+@40
+;0042086F{control and rapid-fire<END>}#24
+control and rapid-fire<END>
+|
+@41
+;00420886{features!<END>}#11
+features!<END>
+|
+@42
+;00420890{This is Terry's B-Daman.<END>}#26
+This is Terry's B-Daman.<END>
+|
+@43
+;004208A9{It's equipped with the<END>}#24
+It's equipped with the<END>
+|
+@44
+;004208C0{Balance Core, a<END>}#17
+Balance Core, a<END>
+|
+@45
+;004208D0{balance-type core.<END>}#20
+balance-type core.<END>
+|
+@46
+;004208E3{<END>}#2
+<END>
+|
+@47
+;004208E4{Since the Wing Trigger has<END>}#28
+Since the Wing Trigger has<END>
+|
+@48
+;004208FF{evolved, its mobility and<END>}#27
+evolved, its mobility and<END>
+|
+@49
+;00420919{stability have been<END>}#21
+stability have been<END>
+|
+@50
+;0042092D{improved. B-Daballs are<END>}#25
+improved. B-Daballs are<END>
+|
+@51
+;00420945{fired by pulling the<END>}#22
+fired by pulling the<END>
+|
+@52
+;0042095A{trigger on the wing.<END>}#22
+trigger on the wing.<END>
+|
+@53
+;0042096F{This is Biarce's B-Daman.<END>}#27
+This is Biarce's B-Daman.<END>
+|
+@54
+;00420989{An electric motor has<END>}#23
+An electric motor has<END>
+|
+@55
+;0042099F{been installed inside of<END>}#26
+been installed inside of<END>
+|
+@56
+;004209B8{it. It enables the highest<END>}#28
+it. It enables the highest<END>
+|
+@57
+;004209D3{speed rapid-fire ever. Its<END>}#28
+speed rapid-fire ever. Its<END>
+|
+@58
+;004209EE{control has also been<END>}#23
+control has also been<END>
+|
+@59
+;00420A04{improved upon because of<END>}#26
+improved upon because of<END>
+|
+@60
+;00420A1D{the long barrel.<END>}#18
+the long barrel.<END>
+|
+@61
+;00420A2E{This is a unique B-Daman<END>}#26
+This is a unique B-Daman<END>
+|
+@62
+;00420A47{that is equipped with the<END>}#27
+that is equipped with the<END>
+|
+@63
+;00420A61{Drive Changing Core.<END>}#22
+Drive Changing Core.<END>
+|
+@64
+;00420A76{Right-curves, left curves,<END>}#28
+Right-curves, left curves,<END>
+|
+@65
+;00420A91{drives, and back spins can<END>}#28
+drives, and back spins can<END>
+|
+@66
+;00420AAC{be shot by turning the<END>}#24
+be shot by turning the<END>
+|
+@67
+;00420AC3{dial on the back.<END>}#19
+dial on the back.<END>
+|
+@68
+;00420AD5{This B-Daman is equipped<END>}#26
+This B-Daman is equipped<END>
+|
+@69
+;00420AEE{with balance-type armor.<END>}#26
+with balance-type armor.<END>
+|
+@70
+;00420B07{It's a balance-type<END>}#21
+It's a balance-type<END>
+|
+@71
+;00420B1B{machine that is equipped<END>}#26
+machine that is equipped<END>
+|
+@72
+;00420B34{with both the Compact<END>}#23
+with both the Compact<END>
+|
+@73
+;00420B4A{Barrel and Long Server.<END>}#25
+Barrel and Long Server.<END>
+|
+@74
+;00420B62{Depending on how you<END>}#22
+Depending on how you<END>
+|
+@75
+;00420B77{customize the shield, you<END>}#27
+customize the shield, you<END>
+|
+@76
+;00420B91{can switch to various<END>}#23
+can switch to various<END>
+|
+@77
+;00420BA7{modes.<END>}#8
+modes.<END>
+|
+@78
+;00420BAE{This is Yamato's B-Daman.<END>}#27
+This is Yamato's B-Daman.<END>
+|
+@79
+;00420BC8{It's equipped with the<END>}#24
+It's equipped with the<END>
+|
+@80
+;00420BDF{Drive Core, a power-type<END>}#26
+Drive Core, a power-type<END>
+|
+@81
+;00420BF8{core.<END>}#7
+core.<END>
+|
+@82
+;00420BFE{<END>}#2
+<END>
+|
+@83
+;00420BFF{It's the ultimate<END>}#19
+It's the ultimate<END>
+|
+@84
+;00420C11{evolution of the Cobalt<END>}#25
+evolution of the Cobalt<END>
+|
+@85
+;00420C29{Saber. Fire the super-<END>}#24
+Saber. Fire the super-<END>
+|
+@86
+;00420C40{powerful shots from the<END>}#25
+powerful shots from the<END>
+|
+@87
+;00420C58{Drive Core, and finish<END>}#24
+Drive Core, and finish<END>
+|
+@88
+;00420C6F{your opponent off!<END>}#20
+your opponent off!<END>
+|
+@89
+;00420C82{This is Gray's B-Daman.<END>}#25
+This is Gray's B-Daman.<END>
+|
+@90
+;00420C9A{It's equipped with the<END>}#24
+It's equipped with the<END>
+|
+@91
+;00420CB1{Bearing Core, a rapid-fire<END>}#28
+Bearing Core, a rapid-fire<END>
+|
+@92
+;00420CCC{type core.<END>}#12
+type core.<END>
+|
+@93
+;00420CD7{<END>}#2
+<END>
+|
+@94
+;00420CD8{The Bearing Core enables<END>}#26
+The Bearing Core enables<END>
+|
+@95
+;00420CF1{super-high-speed smooth<END>}#25
+super-high-speed smooth<END>
+|
+@96
+;00420D09{rapid-fire. One-handed<END>}#24
+rapid-fire. One-handed<END>
+|
+@97
+;00420D20{shooting is also possible<END>}#27
+shooting is also possible<END>
+|
+@98
+;00420D3A{if you use the One-Handed<END>}#27
+if you use the One-Handed<END>
+|
+@99
+;00420D54{Grip.<END>}#7
+Grip.<END>
+|
+@100
+;00420D5A{This is Gunnos's B-Daman.<END>}#27
+This is Gunnos's B-Daman.<END>
+|
+@101
+;00420D74{It's equipped with the<END>}#24
+It's equipped with the<END>
+|
+@102
+;00420D8B{Drive Core, a power-type<END>}#26
+Drive Core, a power-type<END>
+|
+@103
+;00420DA4{core.<END>}#7
+core.<END>
+|
+@104
+;00420DAA{<END>}#2
+<END>
+|
+@105
+;00420DAB{It's equipped with the<END>}#24
+It's equipped with the<END>
+|
+@106
+;00420DC2{Power Trigger which allows<END>}#28
+Power Trigger which allows<END>
+|
+@107
+;00420DDD{intensive power shots,<END>}#24
+intensive power shots,<END>
+|
+@108
+;00420DF4{even with minimum power!<END>}#26
+even with minimum power!<END>
+|
+@109
+;00420E0D{Haja's B-Daman is a<END>}#21
+Haja's B-Daman is a<END>
+|
+@110
+;00420E21{rapid-fire type. It is<END>}#24
+rapid-fire type. It is<END>
+|
+@111
+;00420E38{equipped with the Quick<END>}#25
+equipped with the Quick<END>
+|
+@112
+;00420E50{Loading Core that can load<END>}#28
+Loading Core that can load<END>
+|
+@113
+;00420E6B{B-Daballs from the bottom.<END>}#28
+B-Daballs from the bottom.<END>
+|
+@114
+;00420E86{It loads B-Daballs quickly<END>}#28
+It loads B-Daballs quickly<END>
+|
+@115
+;00420EA1{and enables you to shoot<END>}#26
+and enables you to shoot<END>
+|
+@116
+;00420EBA{rapid-fire efficiently.<END>}#25
+rapid-fire efficiently.<END>
+|
+@117
+;00420ED2{This is Aqulas's B-Daman.<END>}#27
+This is Aqulas's B-Daman.<END>
+|
+@118
+;00420EEC{You can access different<END>}#26
+You can access different<END>
+|
+@119
+;00420F05{types of shooting modes by<END>}#28
+types of shooting modes by<END>
+|
+@120
+;00420F20{rotating the cylinder.<END>}#24
+rotating the cylinder.<END>
+|
+@121
+;00420F37{<END>}#2
+<END>
+|
+@122
+;00420F38{It's the perfect B-Daman<END>}#26
+It's the perfect B-Daman<END>
+|
+@123
+;00420F51{that is capable of all<END>}#24
+that is capable of all<END>
+|
+@124
+;00420F68{these modes: power, rapid,<END>}#28
+these modes: power, rapid,<END>
+|
+@125
+;00420F83{accurate and curve shots.<END>}#27
+accurate and curve shots.<END>
+|
+@126
+;00420F9D{This is Kiba's B-Daman.<END>}#25
+This is Kiba's B-Daman.<END>
+|
+@127
+;00420FB5{It's equipped with the<END>}#24
+It's equipped with the<END>
+|
+@128
+;00420FCC{Short Strike Drive Core<END>}#25
+Short Strike Drive Core<END>
+|
+@129
+;00420FE4{that has both power and<END>}#25
+that has both power and<END>
+|
+@130
+;00420FFC{rapid-fire features.<END>}#22
+rapid-fire features.<END>
+|
+@131
+;00421011{<END>}#2
+<END>
+|
+@132
+;00421012{The special feature of<END>}#24
+The special feature of<END>
+|
+@133
+;00421029{this core is its ability<END>}#26
+this core is its ability<END>
+|
+@134
+;00421042{to reduce recoil, thus<END>}#24
+to reduce recoil, thus<END>
+|
+@135
+;00421059{enabling efficient<END>}#20
+enabling efficient<END>
+|
+@136
+;0042106C{rapid-fire.<END>}#13
+rapid-fire.<END>
+|
+@137
+;00421078{This is Jinbee's B-Daman.<END>}#27
+This is Jinbee's B-Daman.<END>
+|
+@138
+;00421092{It's equipped with the<END>}#24
+It's equipped with the<END>
+|
+@139
+;004210A9{Striker Core that can fire<END>}#28
+Striker Core that can fire<END>
+|
+@140
+;004210C4{B-Daballs when the trigger<END>}#28
+B-Daballs when the trigger<END>
+|
+@141
+;004210DF{on the back is pulled.<END>}#24
+on the back is pulled.<END>
+|
+@142
+;004210F6{<END>}#2
+<END>
+|
+@143
+;004210F7{By pulling the trigger on<END>}#27
+By pulling the trigger on<END>
+|
+@144
+;00421111{the back, you can launch<END>}#26
+the back, you can launch<END>
+|
+@145
+;0042112A{intense power-shots!<END>}#22
+intense power-shots!<END>
+|
+@146
+;0042113F{This is Terry's B-Daman.<END>}#26
+This is Terry's B-Daman.<END>
+|
+@147
+;00421158{It's a rapid-fire type<END>}#24
+It's a rapid-fire type<END>
+|
+@148
+;0042116F{B-Daman that has evolved<END>}#26
+B-Daman that has evolved<END>
+|
+@149
+;00421188{so much, it even surpasses<END>}#28
+so much, it even surpasses<END>
+|
+@150
+;004211A3{the Wing Sword.<END>}#17
+the Wing Sword.<END>
+|
+@151
+;004211B3{<END>}#2
+<END>
+|
+@152
+;004211B4{The Wing Trigger and Delta<END>}#28
+The Wing Trigger and Delta<END>
+|
+@153
+;004211CF{Roller Core enable more<END>}#25
+Roller Core enable more<END>
+|
+@154
+;004211E7{efficient rapid-fire than<END>}#27
+efficient rapid-fire than<END>
+|
+@155
+;00421201{ever before!<END>}#14
+ever before!<END>
+|
+@156
+;0042120E{This is Yamato's<END>}#18
+This is Yamato's<END>
+|
+@157
+;0042121F{power-type B-Daman. It's <END>}#27
+power-type B-Daman. It's <END>
+|
+@158
+;00421239{equipped with the<END>}#19
+equipped with the<END>
+|
+@159
+;0042124B{Cartridge System.<END>}#19
+Cartridge System.<END>
+|
+@160
+;0042125D{<END>}#2
+<END>
+|
+@161
+;0042125E{Using the Cartridge System<END>}#28
+Using the Cartridge System<END>
+|
+@162
+;00421279{will enable you to fire<END>}#25
+will enable you to fire<END>
+|
+@163
+;00421291{two B-Daballs at the same<END>}#27
+two B-Daballs at the same<END>
+|
+@164
+;004212AB{time!<END>}#7
+time!<END>
+|
+@165
+;004212B1{This is Gray's B-Daman.<END>}#25
+This is Gray's B-Daman.<END>
+|
+@166
+;004212C9{It's equipped with the<END>}#24
+It's equipped with the<END>
+|
+@167
+;004212E0{Cartridge System.<END>}#19
+Cartridge System.<END>
+|
+@168
+;004212F2{<END>}#2
+<END>
+|
+@169
+;004212F3{Using the Cartridge System<END>}#28
+Using the Cartridge System<END>
+|
+@170
+;0042130E{will enable you to fire<END>}#25
+will enable you to fire<END>
+|
+@171
+;00421326{two B-Daballs at the same<END>}#27
+two B-Daballs at the same<END>
+|
+@172
+;00421340{time!<END>}#7
+time!<END>
+|
+@173
+;00421346{This is Diamond's B-Daman.<END>}#28
+This is Diamond's B-Daman.<END>
+|
+@174
+;00421361{It's equipped with the<END>}#24
+It's equipped with the<END>
+|
+@175
+;00421378{Drive Core, a power-type<END>}#26
+Drive Core, a power-type<END>
+|
+@176
+;00421391{core.<END>}#7
+core.<END>
+|
+@177
+;00421397{<END>}#2
+<END>
+|
+@178
+;00421398{It can fire speedy,<END>}#21
+It can fire speedy,<END>
+|
+@179
+;004213AC{powerful shots reminiscent<END>}#28
+powerful shots reminiscent<END>
+|
+@180
+;004213C7{of a running wolf. It<END>}#23
+of a running wolf. It<END>
+|
+@181
+;004213DD{provides great stability <END>}#27
+provides great stability <END>
+|
+@182
+;004213F7{because of the Tail Grip!<END>}#27
+because of the Tail Grip!<END>
+|
+@183
+;00421411{This is Heart's B-Daman.<END>}#26
+This is Heart's B-Daman.<END>
+|
+@184
+;0042142A{It's equipped with the<END>}#24
+It's equipped with the<END>
+|
+@185
+;00421441{Bearing Core, a rapid-fire<END>}#28
+Bearing Core, a rapid-fire<END>
+|
+@186
+;0042145C{type core.<END>}#12
+type core.<END>
+|
+@187
+;00421467{<END>}#2
+<END>
+|
+@188
+;00421468{It has fantastic agility,<END>}#27
+It has fantastic agility,<END>
+|
+@189
+;00421482{like a bird flying in the<END>}#27
+like a bird flying in the<END>
+|
+@190
+;0042149C{sky, and charges at your<END>}#26
+sky, and charges at your<END>
+|
+@191
+;004214B5{opponent with high-speed<END>}#26
+opponent with high-speed<END>
+|
+@192
+;004214CE{rapid-fire from the<END>}#21
+rapid-fire from the<END>
+|
+@193
+;004214E2{Bearing Core.<END>}#15
+Bearing Core.<END>
+|
+@194
+;004214F0{This is Club's B-Daman.<END>}#25
+This is Club's B-Daman.<END>
+|
+@195
+;00421508{It's equipped with the<END>}#24
+It's equipped with the<END>
+|
+@196
+;0042151F{Balance Core, a<END>}#17
+Balance Core, a<END>
+|
+@197
+;0042152F{balance-type core.<END>}#20
+balance-type core.<END>
+|
+@198
+;00421542{<END>}#2
+<END>
+|
+@199
+;00421543{Its eight legs stabilize<END>}#26
+Its eight legs stabilize<END>
+|
+@200
+;0042155C{its body and can take<END>}#23
+its body and can take<END>
+|
+@201
+;00421572{deadly aim at your<END>}#20
+deadly aim at your<END>
+|
+@202
+;00421585{opponent, like a spider<END>}#25
+opponent, like a spider<END>
+|
+@203
+;0042159D{attacking its prey.<END>}#21
+attacking its prey.<END>
+|
+@204
+;004215B1{This is Spade's B-Daman.<END>}#26
+This is Spade's B-Daman.<END>
+|
+@205
+;004215CA{It's equipped with the<END>}#24
+It's equipped with the<END>
+|
+@206
+;004215E1{Delta Core, a power-type<END>}#26
+Delta Core, a power-type<END>
+|
+@207
+;004215FA{core.<END>}#7
+core.<END>
+|
+@208
+;00421600{<END>}#2
+<END>
+|
+@209
+;00421601{It powerfully fires<END>}#21
+It powerfully fires<END>
+|
+@210
+;00421615{B-Daballs with the<END>}#20
+B-Daballs with the<END>
+|
+@211
+;00421628{strength of a samurai.<END>}#24
+strength of a samurai.<END>
+|
+@212
+;0042163F{The Visor resembles a<END>}#23
+The Visor resembles a<END>
+|
+@213
+;00421655{samurai helmet and has the<END>}#28
+samurai helmet and has the<END>
+|
+@214
+;00421670{power of lightning.<END>}#21
+power of lightning.<END>
+|
+@215
+;00421684{It's a control-type<END>}#21
+It's a control-type<END>
+|
+@216
+;00421698{B-Daman. The Long Core<END>}#24
+B-Daman. The Long Core<END>
+|
+@217
+;004216AF{stabilizes the trajectory<END>}#27
+stabilizes the trajectory<END>
+|
+@218
+;004216C9{of your B-Daball.<END>}#19
+of your B-Daball.<END>
+|
+@219
+;004216DB{<END>}#2
+<END>
+|
+@220
+;004216DC{It works like a charm when<END>}#28
+It works like a charm when<END>
+|
+@221
+;004216F7{a battle asks for<END>}#19
+a battle asks for<END>
+|
+@222
+;00421709{incredibly accurate<END>}#21
+incredibly accurate<END>
+|
+@223
+;0042171D{control of your B-Daman.<END>}#26
+control of your B-Daman.<END>
+|
+@224
+;00421736{It's the legendary B-Daman<END>}#28
+It's the legendary B-Daman<END>
+|
+@225
+;00421751{that changes its shape<END>}#24
+that changes its shape<END>
+|
+@226
+;00421768{depending on the<END>}#18
+depending on the<END>
+|
+@227
+;00421779{B-Daplayer who uses it.<END>}#25
+B-Daplayer who uses it.<END>
+|
+@228
+;00421791{It was sealed off due to<END>}#26
+It was sealed off due to<END>
+|
+@229
+;004217AA{its excessive might.<END>}#22
+its excessive might.<END>
+|
+@230
+;004217BF{However, it has been<END>}#22
+However, it has been<END>
+|
+@231
+;004217D4{revived by Badmada.<END>}#21
+revived by Badmada.<END>
+|
+@232
+;004217E8{<END>}#2
+<END>
+|
+@233
+;004217E9{It's a perfect B-Daman<END>}#24
+It's a perfect B-Daman<END>
+|
+@234
+;00421800{that is capable of firing<END>}#27
+that is capable of firing<END>
+|
+@235
+;0042181A{powerful, accurate, rapid<END>}#27
+powerful, accurate, rapid<END>
+|
+@236
+;00421834{shots!<END>}#8
+shots!<END>
+|
+@237
+;0042183B{It's a power-type B-Daman<END>}#27
+It's a power-type B-Daman<END>
+|
+@238
+;00421855{that looks so cute, your<END>}#26
+that looks so cute, your<END>
+|
+@239
+;0042186E{opponent will be totally<END>}#26
+opponent will be totally<END>
+|
+@240
+;00421887{caught off-guard by how<END>}#25
+caught off-guard by how<END>
+|
+@241
+;0042189F{powerful it is. Your<END>}#22
+powerful it is. Your<END>
+|
+@242
+;004218B4{opponent will be<END>}#18
+opponent will be<END>
+|
+@243
+;004218C5{overwhelmed by its firing<END>}#27
+overwhelmed by its firing<END>
+|
+@244
+;004218DF{power.<END>}#8
+power.<END>
+|
+@245
+;004218E6{This is a balance-type<END>}#24
+This is a balance-type<END>
+|
+@246
+;004218FD{B-Daman. Its big flippers<END>}#27
+B-Daman. Its big flippers<END>
+|
+@247
+;00421917{and pretty wings provide<END>}#26
+and pretty wings provide<END>
+|
+@248
+;00421930{great stability!<END>}#18
+great stability!<END>
+|
+@249
+;00421941{This is a balance-type<END>}#24
+This is a balance-type<END>
+|
+@250
+;00421958{B-Daman. The bone in its<END>}#26
+B-Daman. The bone in its<END>
+|
+@251
+;00421971{mouth is its special<END>}#22
+mouth is its special<END>
+|
+@252
+;00421986{feature. This B-Daman<END>}#23
+feature. This B-Daman<END>
+|
+@253
+;0042199C{always keeps its balance<END>}#26
+always keeps its balance<END>
+|
+@254
+;004219B5{and performs impeccably in<END>}#28
+and performs impeccably in<END>
+|
+@255
+;004219D0{any battle.<END>}#13
+any battle.<END>
+|
+@256
+;004219DC{This is a rapid-fire type<END>}#27
+This is a rapid-fire type<END>
+|
+@257
+;004219F6{B-Daman. Its agility is <END>}#26
+B-Daman. Its agility is <END>
+|
+@258
+;00421A0F{remarkable. Beat your<END>}#23
+remarkable. Beat your<END>
+|
+@259
+;00421A25{opponent with the<END>}#19
+opponent with the<END>
+|
+@260
+;00421A37{rapid-fire from its<END>}#21
+rapid-fire from its<END>
+|
+@261
+;00421A4B{Bearing Core!<END>}#15
+Bearing Core!<END>
+|
+@262
+;00421A59{This B-Daman is equipped<END>}#26
+This B-Daman is equipped<END>
+|
+@263
+;00421A72{with the Roller Core, a<END>}#25
+with the Roller Core, a<END>
+|
+@264
+;00421A8A{rapid-fire type core.<END>}#23
+rapid-fire type core.<END>
+|
+@265
+;00421AA0{<END>}#2
+<END>
+|
+@266
+;00421AA1{The firing power of this<END>}#26
+The firing power of this<END>
+|
+@267
+;00421ABA{B-Daman is strong because<END>}#27
+B-Daman is strong because<END>
+|
+@268
+;00421AD4{it's equipped with the<END>}#24
+it's equipped with the<END>
+|
+@269
+;00421AEB{Power Arms! The Base Grip<END>}#27
+Power Arms! The Base Grip<END>
+|
+@270
+;00421B05{that you use with your<END>}#24
+that you use with your<END>
+|
+@271
+;00421B1C{middle finger enables you<END>}#27
+middle finger enables you<END>
+|
+@272
+;00421B36{to make accurate shots!<END>}#25
+to make accurate shots!<END>
+|
+@273
+;00421B4E{This is Joe's B-Daman.<END>}#24
+This is Joe's B-Daman.<END>
+|
+@274
+;00421B65{It's equipped with the<END>}#24
+It's equipped with the<END>
+|
+@275
+;00421B7C{Long Core, a control-type<END>}#27
+Long Core, a control-type<END>
+|
+@276
+;00421B96{core.<END>}#7
+core.<END>
+|
+@277
+;00421B9C{<END>}#2
+<END>
+|
+@278
+;00421B9D{By using the Phoenix Wings <END>}#29
+By using the Phoenix Wings <END>
+|
+@279
+;00421BB9{on the back, you can fire<END>}#27
+on the back, you can fire<END>
+|
+@280
+;00421BD3{two different shots: <END>}#23
+two different shots: <END>
+|
+@281
+;00421BE9{power and normal.<END>}#19
+power and normal.<END>
+|
+@282
+;00421BFB{This is Liena's B-Daman.<END>}#26
+This is Liena's B-Daman.<END>
+|
+@283
+;00421C14{It's equipped with the<END>}#24
+It's equipped with the<END>
+|
+@284
+;00421C2B{Roller Core, a rapid-fire<END>}#27
+Roller Core, a rapid-fire<END>
+|
+@285
+;00421C45{type core.<END>}#12
+type core.<END>
+|
+@286
+;00421C50{<END>}#2
+<END>
+|
+@287
+;00421C51{By holding the Garnet<END>}#23
+By holding the Garnet<END>
+|
+@288
+;00421C67{Wings, which stabilizes<END>}#25
+Wings, which stabilizes<END>
+|
+@289
+;00421C7F{your machine, accurate<END>}#24
+your machine, accurate<END>
+|
+@290
+;00421C96{firing is enabled!<END>}#20
+firing is enabled!<END>
+|
+@291
+;00421CA9{This is a power-type<END>}#22
+This is a power-type<END>
+|
+@292
+;00421CBE{B-Daman designed by Inuki.<END>}#28
+B-Daman designed by Inuki.<END>
+|
+@293
+;00421CD9{<END>}#2
+<END>
+|
+@294
+;00421CDA{Its monster-like parts<END>}#24
+Its monster-like parts<END>
+|
+@295
+;00421CF1{compress the core and<END>}#23
+compress the core and<END>
+|
+@296
+;00421D07{enable the strongest<END>}#22
+enable the strongest<END>
+|
+@297
+;00421D1C{power-shots ever!<END>}#19
+power-shots ever!<END>
+|
+@298
+;00421D2E{It's a mass-produced <END>}#23
+It's a mass-produced <END>
+|
+@299
+;00421D44{model, based on the <END>}#22
+model, based on the <END>
+|
+@300
+;00421D59{King Bakuso.<END>}#14
+King Bakuso.<END>
+|
+@301
+;00421D66{<END>}#2
+<END>
+|
+@302
+;00421D67{This B-Daman is equipped<END>}#26
+This B-Daman is equipped<END>
+|
+@303
+;00421D80{with the Blitz Barrel, and<END>}#28
+with the Blitz Barrel, and<END>
+|
+@304
+;00421D9B{it's great in battles that<END>}#28
+it's great in battles that<END>
+|
+@305
+;00421DB6{require impeccable<END>}#20
+require impeccable<END>
+|
+@306
+;00421DC9{accuracy.<END>}#11
+accuracy.<END>
+|
+@307
+;00421DD3{It's a mass-produced <END>}#23
+It's a mass-produced <END>
+|
+@308
+;00421DE9{model, based on the <END>}#22
+model, based on the <END>
+|
+@309
+;00421DFE{King Rekuso.<END>}#14
+King Rekuso.<END>
+|
+@310
+;00421E0B{<END>}#2
+<END>
+|
+@311
+;00421E0C{The rapid-fire from the<END>}#25
+The rapid-fire from the<END>
+|
+@312
+;00421E24{Roller Core and Blitz<END>}#23
+Roller Core and Blitz<END>
+|
+@313
+;00421E3A{Magazine can hit any<END>}#22
+Magazine can hit any<END>
+|
+@314
+;00421E4F{target!<END>}#9
+target!<END>
+|
+@315
+;00421E57{This B-Daman is made up of<END>}#28
+This B-Daman is made up of<END>
+|
+@316
+;00421E72{the Kokuryu-oh and the<END>}#24
+the Kokuryu-oh and the<END>
+|
+@317
+;00421E89{Ohryu-oh combined.<END>}#20
+Ohryu-oh combined.<END>
+|
+@318
+;00421E9C{This is a multi-type<END>}#22
+This is a multi-type<END>
+|
+@319
+;00421EB1{B-Daman that excels in<END>}#24
+B-Daman that excels in<END>
+|
+@320
+;00421EC8{accurate shooting and<END>}#23
+accurate shooting and<END>
+|
+@321
+;00421EDE{rapid-firing.<END>}#15
+rapid-firing.<END>
+|
+@322
+;00421EEC{It's the Cobalt Saber <END>}#24
+It's the Cobalt Saber <END>
+|
+@323
+;00421F03{Fire's sister model.<END>}#22
+Fire's sister model.<END>
+|
+@324
+;00421F18{<END>}#2
+<END>
+|
+@325
+;00421F19{The main feature of this<END>}#26
+The main feature of this<END>
+|
+@326
+;00421F32{B-Daman is its dazzling<END>}#25
+B-Daman is its dazzling<END>
+|
+@327
+;00421F4A{color, reminiscent of<END>}#23
+color, reminiscent of<END>
+|
+@328
+;00421F60{crimson red flames. This<END>}#26
+crimson red flames. This<END>
+|
+@329
+;00421F79{is a power-type machine,<END>}#26
+is a power-type machine,<END>
+|
+@330
+;00421F92{just like the Cobalt Saber<END>}#28
+just like the Cobalt Saber<END>
+|
+@331
+;00421FAD{Fire.<END>}#7
+Fire.<END>
+|
+@332
+;00421FB3{This B-Daman is a<END>}#19
+This B-Daman is a<END>
+|
+@333
+;00421FC5{mass-produced version of <END>}#27
+mass-produced version of <END>
+|
+@334
+;00421FDF{he Chrome Raven Cyclone.<END>}#26
+he Chrome Raven Cyclone.<END>
+|
+@335
+;00421FF8{Its Bearing Core enables<END>}#26
+Its Bearing Core enables<END>
+|
+@336
+;00422011{high-speed rapid-fire!<END>}#24
+high-speed rapid-fire!<END>
+|
+@337
+;00422028{This is the new-and-<END>}#22
+This is the new-and-<END>
+|
+@338
+;0042203D{improved version of the<END>}#25
+improved version of the<END>
+|
+@339
+;00422055{Break Ogre. The Powerful<END>}#26
+Break Ogre. The Powerful<END>
+|
+@340
+;0042206E{Trigger on the back can<END>}#25
+Trigger on the back can<END>
+|
+@341
+;00422086{launch intense power-shots!<END>}#29
+launch intense power-shots!<END>
+|
+@342
+;004220A2{This is the new-and-<END>}#22
+This is the new-and-<END>
+|
+@343
+;004220B7{improved version of the<END>}#25
+improved version of the<END>
+|
+@344
+;004220CF{Go Tiger. It's equipped<END>}#25
+Go Tiger. It's equipped<END>
+|
+@345
+;004220E7{with the Short Stroke <END>}#24
+with the Short Stroke <END>
+|
+@346
+;004220FE{Drive Core, just like Go<END>}#26
+Drive Core, just like Go<END>
+|
+@347
+;00422117{Tiger!<END>}#8
+Tiger!<END>
+|
+@348
+;0042211E{This is the new-and-<END>}#22
+This is the new-and-<END>
+|
+@349
+;00422133{improved version of the<END>}#25
+improved version of the<END>
+|
+@350
+;0042214B{Impact Shark. Since the<END>}#25
+Impact Shark. Since the<END>
+|
+@351
+;00422163{parts have been improved,<END>}#27
+parts have been improved,<END>
+|
+@352
+;0042217D{its firing power is<END>}#21
+its firing power is<END>
+|
+@353
+;00422191{stronger than the Impact<END>}#26
+stronger than the Impact<END>
+|
+@354
+;004221AA{Shark's!<END>}#10
+Shark's!<END>
+|
+@355
+;004221B3{This is the new-and-<END>}#22
+This is the new-and-<END>
+|
+@356
+;004221C8{improved version of the<END>}#25
+improved version of the<END>
+|
+@357
+;004221E0{Wing Sword Thunder. Since<END>}#27
+Wing Sword Thunder. Since<END>
+|
+@358
+;004221FA{the parts have been<END>}#21
+the parts have been<END>
+|
+@359
+;0042220E{improved, its firing power<END>}#28
+improved, its firing power<END>
+|
+@360
+;00422229{has also increased.<END>}#21
+has also increased.<END>
+|
+@361
+;0042223D{This is the legendary<END>}#23
+This is the legendary<END>
+|
+@362
+;00422253{B-Daman that changes its<END>}#26
+B-Daman that changes its<END>
+|
+@363
+;0042226C{shape depending on the<END>}#24
+shape depending on the<END>
+|
+@364
+;00422283{B-Daplayer who uses it.<END>}#25
+B-Daplayer who uses it.<END>
+|
+@365
+;0042229B{<END>}#2
+<END>
+|
+@366
+;0042229C{It's a perfect B-Daman<END>}#24
+It's a perfect B-Daman<END>
+|
+@367
+;004222B3{that is capable of firing<END>}#27
+that is capable of firing<END>
+|
+@368
+;004222CD{powerful, accurate, and<END>}#25
+powerful, accurate, and<END>
+|
+@369
+;004222E5{rapid shots, the same way<END>}#27
+rapid shots, the same way<END>
+|
+@370
+;004222FF{as the Disguise!<END>}#18
+as the Disguise!<END>
+|
+@371
+;00422310{This B-Daman is made by<END>}#25
+This B-Daman is made by<END>
+|
+@372
+;00422328{combining the Wolfman and<END>}#27
+combining the Wolfman and<END>
+|
+@373
+;00422342{Garuda together. It can<END>}#25
+Garuda together. It can<END>
+|
+@374
+;0042235A{launch rapid powerful<END>}#23
+launch rapid powerful<END>
+|
+@375
+;00422370{shots!<END>}#8
+shots!<END>
+|
+@376
+;00422377{<END>}#2
+<END>
+|
+@377
+;00422378{The Garuda Wings on the<END>}#25
+The Garuda Wings on the<END>
+|
+@378
+;00422390{back give fantastic<END>}#21
+back give fantastic<END>
+|
+@379
+;004223A4{agility.<END>}#10
+agility.<END>
+|
+@380
+;004223AD{This B-Daman is a<END>}#19
+This B-Daman is a<END>
+|
+@381
+;004223BF{mass-produced version of<END>}#26
+mass-produced version of<END>
+|
+@382
+;004223D8{the Gill Scorpion. It<END>}#23
+the Gill Scorpion. It<END>
+|
+@383
+;004223EE{loads B-Daballs quickly<END>}#25
+loads B-Daballs quickly<END>
+|
+@384
+;00422406{from the bottom and shoots<END>}#28
+from the bottom and shoots<END>
+|
+@385
+;00422421{rapid-fire.<END>}#13
+rapid-fire.<END>
+|
+@386
+;0042242D{This rare B-Daman is<END>}#22
+This rare B-Daman is<END>
+|
+@387
+;00422442{equipped with the Revolver<END>}#28
+equipped with the Revolver<END>
+|
+@388
+;0042245D{Core, just like the<END>}#21
+Core, just like the<END>
+|
+@389
+;00422471{Revolver Hades.<END>}#17
+Revolver Hades.<END>
+|
+@390
+;00422481{<END>}#2
+<END>
+|
+@391
+;00422482{You can launch different<END>}#26
+You can launch different<END>
+|
+@392
+;0042249B{types of shots by rotating<END>}#28
+types of shots by rotating<END>
+|
+@393
+;004224B6{the cylinder!<END>}#15
+the cylinder!<END>
+|
+@394
+;004224C4{This power-type B-Daman is<END>}#28
+This power-type B-Daman is<END>
+|
+@395
+;004224DF{shaped like an animal. It<END>}#27
+shaped like an animal. It<END>
+|
+@396
+;004224F9{enables you to fire super-<END>}#28
+enables you to fire super-<END>
+|
+@397
+;00422514{destructive, wild power-<END>}#26
+destructive, wild power-<END>
+|
+@398
+;0042252D{shots!<END>}#8
+shots!<END>
+|
+@399
+;00422534{This rapid-fire type<END>}#22
+This rapid-fire type<END>
+|
+@400
+;00422549{B-Daman is shaped like an<END>}#27
+B-Daman is shaped like an<END>
+|
+@401
+;00422563{animal. It enables you to<END>}#27
+animal. It enables you to<END>
+|
+@402
+;0042257D{attack continuously<END>}#21
+attack continuously<END>
+|
+@403
+;00422591{because of its great<END>}#22
+because of its great<END>
+|
+@404
+;004225A6{agility and rapid-fire<END>}#24
+agility and rapid-fire<END>
+|
+@405
+;004225BD{mechanism!<END>}#12
+mechanism!<END>
+|
+@406
+;004225C8{This B-Daman is a<END>}#19
+This B-Daman is a<END>
+|
+@407
+;004225DA{composite of various<END>}#22
+composite of various<END>
+|
+@408
+;004225EF{animals. Its strength lies<END>}#28
+animals. Its strength lies<END>
+|
+@409
+;0042260A{in its outstanding attacks<END>}#28
+in its outstanding attacks<END>
+|
+@410
+;00422625{exercised with great<END>}#22
+exercised with great<END>
+|
+@411
+;0042263A{agility and strong firing<END>}#27
+agility and strong firing<END>
+|
+@412
+;00422654{power!<END>}#8
+power!<END>
+|
+@413
+;0042265B{This control-type B-Daman<END>}#27
+This control-type B-Daman<END>
+|
+@414
+;00422675{is shaped like a clown.<END>}#25
+is shaped like a clown.<END>
+|
+@415
+;0042268D{Once this B-Daman gets its<END>}#28
+Once this B-Daman gets its<END>
+|
+@416
+;004226A8{target in its sights, it<END>}#26
+target in its sights, it<END>
+|
+@417
+;004226C1{won't let go.<END>}#15
+won't let go.<END>
+|
+@418
+;004226CF{This is a sister model of<END>}#27
+This is a sister model of<END>
+|
+@419
+;004226E9{the Cobalt Blaster. Armada<END>}#28
+the Cobalt Blaster. Armada<END>
+|
+@420
+;00422704{incorporated some of the<END>}#26
+incorporated some of the<END>
+|
+@421
+;0042271D{same features from this<END>}#25
+same features from this<END>
+|
+@422
+;00422735{machine to the Cobalt<END>}#23
+machine to the Cobalt<END>
+|
+@423
+;0042274B{Blaster that he had<END>}#21
+Blaster that he had<END>
+|
+@424
+;0042275F{created.<END>}#10
+created.<END>
+|
+@425
+;00422768{Earth Wind<END>}#12
+Earth Wind<END>
+|
+@426
+;00422773{Earth Wind<END>}#12
+Earth Wind<END>
+|
+@427
+;0042277E{Assault Beast<END>}#15
+Assault Beast<END>
+|
+@428
+;0042278C{Assault Beast<END>}#15
+Assault Beast<END>
+|
+@429
+;0042279A{Asura<END>}#7
+Asura<END>
+|
+@430
+;004227A0{Asura<END>}#7
+Asura<END>
+|
+@431
+;004227A6{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@432
+;004227B3{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@433
+;004227C0{Wolfman<END>}#9
+Wolfman<END>
+|
+@434
+;004227C8{Wolfman<END>}#9
+Wolfman<END>
+|
+@435
+;004227D0{Ohryu-oh<END>}#10
+Ohryu-oh<END>
+|
+@436
+;004227D9{Ohryu-oh<END>}#10
+Ohryu-oh<END>
+|
+@437
+;004227E2{Oak Raven<END>}#11
+Oak Raven<END>
+|
+@438
+;004227EC{Oak Raven<END>}#11
+Oak Raven<END>
+|
+@439
+;004227F6{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@440
+;00422802{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@441
+;0042280E{Gao Tiger<END>}#11
+Gao Tiger<END>
+|
+@442
+;00422818{Gao Tiger<END>}#11
+Gao Tiger<END>
+|
+@443
+;00422822{Garuda<END>}#8
+Garuda<END>
+|
+@444
+;00422829{Garuda<END>}#8
+Garuda<END>
+|
+@445
+;00422830{Gun Breaker<END>}#13
+Gun Breaker<END>
+|
+@446
+;0042283C{Gun Breaker<END>}#13
+Gun Breaker<END>
+|
+@447
+;00422848{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@448
+;00422856{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@449
+;00422864{Clown<END>}#7
+Clown<END>
+|
+@450
+;0042286A{Clown<END>}#7
+Clown<END>
+|
+@451
+;00422870{Crimson Saber<END>}#15
+Crimson Saber<END>
+|
+@452
+;0042287E{Crimson Saber<END>}#15
+Crimson Saber<END>
+|
+@453
+;0042288C{Chrome Harrier<END>}#16
+Chrome Harrier<END>
+|
+@454
+;0042289B{ChromeHarrier<END>}#15
+ChromeHarrier<END>
+|
+@455
+;004228A9{Chrome Raven Cyclone<END>}#22
+Chrome Raven Cyclone<END>
+|
+@456
+;004228BE{ChromeRaven C<END>}#15
+ChromeRaven C<END>
+|
+@457
+;004228CC{King Rekuso<END>}#13
+King Rekuso<END>
+|
+@458
+;004228D8{King Rekuso<END>}#13
+King Rekuso<END>
+|
+@459
+;004228E4{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@460
+;004228ED{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@461
+;004228F6{Kokuryu-oh<END>}#12
+Kokuryu-oh<END>
+|
+@462
+;00422901{Kokuryu-oh<END>}#12
+Kokuryu-oh<END>
+|
+@463
+;0042290C{Kotetsu<END>}#9
+Kotetsu<END>
+|
+@464
+;00422914{Kotetsu<END>}#9
+Kotetsu<END>
+|
+@465
+;0042291C{Cobalt Saber Fire<END>}#19
+Cobalt Saber Fire<END>
+|
+@466
+;0042292E{CobaltSaber F<END>}#15
+CobaltSaber F<END>
+|
+@467
+;0042293C{Cobalt Blaster<END>}#16
+Cobalt Blaster<END>
+|
+@468
+;0042294B{CobaltBlaster<END>}#15
+CobaltBlaster<END>
+|
+@469
+;00422959{Shinryu-oh<END>}#12
+Shinryu-oh<END>
+|
+@470
+;00422964{Shinryu-oh<END>}#12
+Shinryu-oh<END>
+|
+@471
+;0042296F{Storm Chimera<END>}#15
+Storm Chimera<END>
+|
+@472
+;0042297D{Storm Chimera<END>}#15
+Storm Chimera<END>
+|
+@473
+;0042298B{Stream Pegasus<END>}#16
+Stream Pegasus<END>
+|
+@474
+;0042299A{StreamPegasus<END>}#15
+StreamPegasus<END>
+|
+@475
+;004229A8{King Bakuso<END>}#13
+King Bakuso<END>
+|
+@476
+;004229B4{King Bakuso<END>}#13
+King Bakuso<END>
+|
+@477
+;004229C0{Tarantula<END>}#11
+Tarantula<END>
+|
+@478
+;004229CA{Tarantula<END>}#11
+Tarantula<END>
+|
+@479
+;004229D4{King Bakurekuso<END>}#17
+King Bakurekuso<END>
+|
+@480
+;004229E4{King Bakureku<END>}#15
+King Bakureku<END>
+|
+@481
+;004229F2{Disguise<END>}#10
+Disguise<END>
+|
+@482
+;004229FB{Disguise<END>}#10
+Disguise<END>
+|
+@483
+;00422A04{Berserk Ogre<END>}#14
+Berserk Ogre<END>
+|
+@484
+;00422A11{Berserk Ogre<END>}#14
+Berserk Ogre<END>
+|
+@485
+;00422A1E{Cheesy Mouse<END>}#14
+Cheesy Mouse<END>
+|
+@486
+;00422A2B{Cheesy Mouse<END>}#14
+Cheesy Mouse<END>
+|
+@487
+;00422A38{Powered Duck<END>}#14
+Powered Duck<END>
+|
+@488
+;00422A45{Powered Duck<END>}#14
+Powered Duck<END>
+|
+@489
+;00422A52{Blood Shark<END>}#13
+Blood Shark<END>
+|
+@490
+;00422A5E{Blood Shark<END>}#13
+Blood Shark<END>
+|
+@491
+;00422A6A{Blizzard<END>}#10
+Blizzard<END>
+|
+@492
+;00422A73{Blizzard<END>}#10
+Blizzard<END>
+|
+@493
+;00422A7C{Blitz Eagle<END>}#13
+Blitz Eagle<END>
+|
+@494
+;00422A88{Blitz Eagle<END>}#13
+Blitz Eagle<END>
+|
+@495
+;00422A94{Break Ogre<END>}#12
+Break Ogre<END>
+|
+@496
+;00422A9F{Break Ogre<END>}#12
+Break Ogre<END>
+|
+@497
+;00422AAA{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@498
+;00422AB7{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@499
+;00422AC4{Proto II Armor<END>}#16
+Proto II Armor<END>
+|
+@500
+;00422AD3{Proto 2 Armor<END>}#15
+Proto 2 Armor<END>
+|
+@501
+;00422AE1{Venom Sting<END>}#13
+Venom Sting<END>
+|
+@502
+;00422AED{Venom Sting<END>}#13
+Venom Sting<END>
+|
+@503
+;00422AF9{Houou Fudo Maru<END>}#17
+Houou Fudo Maru<END>
+|
+@504
+;00422B09{HououFudoMaru<END>}#15
+HououFudoMaru<END>
+|
+@505
+;00422B17{Mega Diabros<END>}#14
+Mega Diabros<END>
+|
+@506
+;00422B24{Mega Diabros<END>}#14
+Mega Diabros<END>
+|
+@507
+;00422B31{Mechanical Dog<END>}#16
+Mechanical Dog<END>
+|
+@508
+;00422B40{MechanicalDog<END>}#15
+MechanicalDog<END>
+|
+@509
+;00422B4E{Yokusaimaru<END>}#13
+Yokusaimaru<END>
+|
+@510
+;00422B5A{Yokusaimaru<END>}#13
+Yokusaimaru<END>
+|
+@511
+;00422B66{Wing Sword<END>}#12
+Wing Sword<END>
+|
+@512
+;00422B71{Wing Sword<END>}#12
+Wing Sword<END>
+|
+@513
+;00422B7C{Wing Sword Thunder<END>}#20
+Wing Sword Thunder<END>
+|
+@514
+;00422B8F{Wing Sword T<END>}#14
+Wing Sword T<END>
+|
+@515
+;00422B9C{Labyrinth<END>}#11
+Labyrinth<END>
+|
+@516
+;00422BA6{Labyrinth<END>}#11
+Labyrinth<END>
+|
+@517
+;00422BB0{Revolver Hades<END>}#16
+Revolver Hades<END>
+|
+@518
+;00422BBF{RevolverHades<END>}#15
+RevolverHades<END>
+|
+@519
+;00422BCD{Revolver Heaven<END>}#17
+Revolver Heaven<END>
+|
+@520
+;00422BDD{Revolver Hvn<END>}#14
+Revolver Hvn<END>
+|
+@521
+;00422BEA{Legend Blaster<END>}#16
+Legend Blaster<END>
+|
+@522
+;00422BF9{LegendBlaster<END>}#15
+LegendBlaster<END>
+|
+@523
+;00422C07{Lord Cavalry<END>}#14
+Lord Cavalry<END>
+|
+@524
+;00422C14{Lord Cavalry<END>}#14
+Lord Cavalry<END>
+|
+@525
+;00422C21{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@526
+;00422C2E{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@527
+;00422C3B{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@528
+;00422C48{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@529
+;00422C55{King Bakuso<END>}#13
+King Bakuso<END>
+|
+@530
+;00422C61{King Bakuso<END>}#13
+King Bakuso<END>
+|
+@531
+;00422C6D{King Bakuso<END>}#13
+King Bakuso<END>
+|
+@532
+;00422C79{King Bakuso<END>}#13
+King Bakuso<END>
+|
+@533
+;00422C85{King Bakurekuso<END>}#17
+King Bakurekuso<END>
+|
+@534
+;00422C95{King Bakureku<END>}#15
+King Bakureku<END>
+|
+@535
+;00422CA3{King Rekuso<END>}#13
+King Rekuso<END>
+|
+@536
+;00422CAF{King Rekuso<END>}#13
+King Rekuso<END>
+|
+@537
+;00422CBB{King Rekuso<END>}#13
+King Rekuso<END>
+|
+@538
+;00422CC7{King Rekuso<END>}#13
+King Rekuso<END>
+|
+@539
+;00422CD3{King Bakurekuso<END>}#17
+King Bakurekuso<END>
+|
+@540
+;00422CE3{King Bakureku<END>}#15
+King Bakureku<END>
+|
+@541
+;00422CF1{Wing Sword<END>}#12
+Wing Sword<END>
+|
+@542
+;00422CFC{Wing Sword<END>}#12
+Wing Sword<END>
+|
+@543
+;00422D07{Wing Sword<END>}#12
+Wing Sword<END>
+|
+@544
+;00422D12{Wing Sword<END>}#12
+Wing Sword<END>
+|
+@545
+;00422D1D{Mega Diabros<END>}#14
+Mega Diabros<END>
+|
+@546
+;00422D2A{Mega Diabros<END>}#14
+Mega Diabros<END>
+|
+@547
+;00422D37{Cobalt Saber Fire<END>}#19
+Cobalt Saber Fire<END>
+|
+@548
+;00422D49{CobaltSaber F<END>}#15
+CobaltSaber F<END>
+|
+@549
+;00422D57{Cobalt Saber Fire<END>}#19
+Cobalt Saber Fire<END>
+|
+@550
+;00422D69{CobaltSaber F<END>}#15
+CobaltSaber F<END>
+|
+@551
+;00422D77{Chrome Raven Cyclone<END>}#22
+Chrome Raven Cyclone<END>
+|
+@552
+;00422D8C{ChromeRaven C<END>}#15
+ChromeRaven C<END>
+|
+@553
+;00422D9A{Chrome Raven Cyclone<END>}#22
+Chrome Raven Cyclone<END>
+|
+@554
+;00422DAF{ChromeRaven C<END>}#15
+ChromeRaven C<END>
+|
+@555
+;00422DBD{Break Ogre<END>}#12
+Break Ogre<END>
+|
+@556
+;00422DC8{Break Ogre<END>}#12
+Break Ogre<END>
+|
+@557
+;00422DD3{Break Ogre<END>}#12
+Break Ogre<END>
+|
+@558
+;00422DDE{Break Ogre<END>}#12
+Break Ogre<END>
+|
+@559
+;00422DE9{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@560
+;00422DF7{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@561
+;00422E05{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@562
+;00422E13{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@563
+;00422E21{Revolver Hades<END>}#16
+Revolver Hades<END>
+|
+@564
+;00422E30{RevolverHades<END>}#15
+RevolverHades<END>
+|
+@565
+;00422E3E{Revolver Hades<END>}#16
+Revolver Hades<END>
+|
+@566
+;00422E4D{RevolverHades<END>}#15
+RevolverHades<END>
+|
+@567
+;00422E5B{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@568
+;00422E64{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@569
+;00422E6D{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@570
+;00422E76{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@571
+;00422E7F{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@572
+;00422E8C{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@573
+;00422E99{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@574
+;00422EA6{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@575
+;00422EB3{Wing Sword Thunder<END>}#20
+Wing Sword Thunder<END>
+|
+@576
+;00422EC6{Wing Sword T<END>}#14
+Wing Sword T<END>
+|
+@577
+;00422ED3{Wing Sword Thunder<END>}#20
+Wing Sword Thunder<END>
+|
+@578
+;00422EE6{Wing Sword T<END>}#14
+Wing Sword T<END>
+|
+@579
+;00422EF3{Cobalt Blaster<END>}#16
+Cobalt Blaster<END>
+|
+@580
+;00422F02{CobaltBlaster<END>}#15
+CobaltBlaster<END>
+|
+@581
+;00422F10{Chrome Harrier<END>}#16
+Chrome Harrier<END>
+|
+@582
+;00422F1F{ChromeHarrier<END>}#15
+ChromeHarrier<END>
+|
+@583
+;00422F2D{Wolfman<END>}#9
+Wolfman<END>
+|
+@584
+;00422F35{Wolfman<END>}#9
+Wolfman<END>
+|
+@585
+;00422F3D{Wolfman<END>}#9
+Wolfman<END>
+|
+@586
+;00422F45{Wolfman<END>}#9
+Wolfman<END>
+|
+@587
+;00422F4D{Earth Wind<END>}#12
+Earth Wind<END>
+|
+@588
+;00422F58{Earth Wind<END>}#12
+Earth Wind<END>
+|
+@589
+;00422F63{Garuda<END>}#8
+Garuda<END>
+|
+@590
+;00422F6A{Garuda<END>}#8
+Garuda<END>
+|
+@591
+;00422F71{Garuda<END>}#8
+Garuda<END>
+|
+@592
+;00422F78{Garuda<END>}#8
+Garuda<END>
+|
+@593
+;00422F7F{Earth Wind<END>}#12
+Earth Wind<END>
+|
+@594
+;00422F8A{Earth Wind<END>}#12
+Earth Wind<END>
+|
+@595
+;00422F95{Tarantula<END>}#11
+Tarantula<END>
+|
+@596
+;00422F9F{Tarantula<END>}#11
+Tarantula<END>
+|
+@597
+;00422FA9{Tarantula<END>}#11
+Tarantula<END>
+|
+@598
+;00422FB3{Tarantula<END>}#11
+Tarantula<END>
+|
+@599
+;00422FBD{Asura<END>}#7
+Asura<END>
+|
+@600
+;00422FC3{Asura<END>}#7
+Asura<END>
+|
+@601
+;00422FC9{Asura<END>}#7
+Asura<END>
+|
+@602
+;00422FCF{Asura<END>}#7
+Asura<END>
+|
+@603
+;00422FD5{Clown<END>}#7
+Clown<END>
+|
+@604
+;00422FDB{Clown<END>}#7
+Clown<END>
+|
+@605
+;00422FE1{Clown<END>}#7
+Clown<END>
+|
+@606
+;00422FE7{Clown<END>}#7
+Clown<END>
+|
+@607
+;00422FED{Disguise<END>}#10
+Disguise<END>
+|
+@608
+;00422FF6{Disguise<END>}#10
+Disguise<END>
+|
+@609
+;00422FFF{Disguise<END>}#10
+Disguise<END>
+|
+@610
+;00423008{Disguise<END>}#10
+Disguise<END>
+|
+@611
+;00423011{Disguise<END>}#10
+Disguise<END>
+|
+@612
+;0042301A{Disguise<END>}#10
+Disguise<END>
+|
+@613
+;00423023{Disguise<END>}#10
+Disguise<END>
+|
+@614
+;0042302C{Disguise<END>}#10
+Disguise<END>
+|
+@615
+;00423035{Kotetsu<END>}#9
+Kotetsu<END>
+|
+@616
+;0042303D{Kotetsu<END>}#9
+Kotetsu<END>
+|
+@617
+;00423045{Kotetsu<END>}#9
+Kotetsu<END>
+|
+@618
+;0042304D{Kotetsu<END>}#9
+Kotetsu<END>
+|
+@619
+;00423055{Gun Breaker<END>}#13
+Gun Breaker<END>
+|
+@620
+;00423061{Gun Breaker<END>}#13
+Gun Breaker<END>
+|
+@621
+;0042306D{Gun Breaker<END>}#13
+Gun Breaker<END>
+|
+@622
+;00423079{Gun Breaker<END>}#13
+Gun Breaker<END>
+|
+@623
+;00423085{Houou Fudo Maru<END>}#17
+Houou Fudo Maru<END>
+|
+@624
+;00423095{HououFudoMaru<END>}#15
+HououFudoMaru<END>
+|
+@625
+;004230A3{Houou Fudo Maru<END>}#17
+Houou Fudo Maru<END>
+|
+@626
+;004230B3{HououFudoMaru<END>}#15
+HououFudoMaru<END>
+|
+@627
+;004230C1{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@628
+;004230CD{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@629
+;004230D9{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@630
+;004230E5{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@631
+;004230F1{Gun Breaker<END>}#13
+Gun Breaker<END>
+|
+@632
+;004230FD{Gun Breaker<END>}#13
+Gun Breaker<END>
+|
+@633
+;00423109{Aqua Dried Sardines<END>}#21
+Aqua Dried Sardines<END>
+|
+@634
+;0042311D{Aqua Sardines<END>}#15
+Aqua Sardines<END>
+|
+@635
+;0042312B{Lady Killer<END>}#13
+Lady Killer<END>
+|
+@636
+;00423137{Lady Killer<END>}#13
+Lady Killer<END>
+|
+@637
+;00423143{Tarantula<END>}#11
+Tarantula<END>
+|
+@638
+;0042314D{Tarantula<END>}#11
+Tarantula<END>
+|
+@639
+;00423157{Gun Breaker<END>}#13
+Gun Breaker<END>
+|
+@640
+;00423163{Gun Breaker<END>}#13
+Gun Breaker<END>
+|
+@641
+;0042316F{Tarantula<END>}#11
+Tarantula<END>
+|
+@642
+;00423179{Tarantula<END>}#11
+Tarantula<END>
+|
+@643
+;00423183{Crabman<END>}#9
+Crabman<END>
+|
+@644
+;0042318B{Crabman<END>}#9
+Crabman<END>
+|
+@645
+;00423193{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@646
+;004231A0{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@647
+;004231AD{Crasher<END>}#9
+Crasher<END>
+|
+@648
+;004231B5{Crasher<END>}#9
+Crasher<END>
+|
+@649
+;004231BD{Great Mustache<END>}#16
+Great Mustache<END>
+|
+@650
+;004231CC{Great 'stache<END>}#15
+Great 'stache<END>
+|
+@651
+;004231DA{Seagul-maru<END>}#13
+Seagul-maru<END>
+|
+@652
+;004231E6{Seagul-maru<END>}#13
+Seagul-maru<END>
+|
+@653
+;004231F2{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@654
+;00423200{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@655
+;0042320E{Wing Sword<END>}#12
+Wing Sword<END>
+|
+@656
+;00423219{Wing Sword<END>}#12
+Wing Sword<END>
+|
+@657
+;00423224{Tokimune<END>}#10
+Tokimune<END>
+|
+@658
+;0042322D{Tokimune<END>}#10
+Tokimune<END>
+|
+@659
+;00423236{Asura<END>}#7
+Asura<END>
+|
+@660
+;0042323C{Asura<END>}#7
+Asura<END>
+|
+@661
+;00423242{Asura<END>}#7
+Asura<END>
+|
+@662
+;00423248{Asura<END>}#7
+Asura<END>
+|
+@663
+;0042324E{Great Muscle<END>}#14
+Great Muscle<END>
+|
+@664
+;0042325B{Great Muscle<END>}#14
+Great Muscle<END>
+|
+@665
+;00423268{Garuda<END>}#8
+Garuda<END>
+|
+@666
+;0042326F{Garuda<END>}#8
+Garuda<END>
+|
+@667
+;00423276{Wolfman<END>}#9
+Wolfman<END>
+|
+@668
+;0042327E{Wolfman<END>}#9
+Wolfman<END>
+|
+@669
+;00423286{Revolver Hades<END>}#16
+Revolver Hades<END>
+|
+@670
+;00423295{RevolverHades<END>}#15
+RevolverHades<END>
+|
+@671
+;004232A3{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@672
+;004232AC{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@673
+;004232B5{Garuda<END>}#8
+Garuda<END>
+|
+@674
+;004232BC{Garuda<END>}#8
+Garuda<END>
+|
+@675
+;004232C3{Wolfman<END>}#9
+Wolfman<END>
+|
+@676
+;004232CB{Wolfman<END>}#9
+Wolfman<END>
+|
+@677
+;004232D3{Earth Wind<END>}#12
+Earth Wind<END>
+|
+@678
+;004232DE{Earth Wind<END>}#12
+Earth Wind<END>
+|
+@679
+;004232E9{Mitsuhide<END>}#11
+Mitsuhide<END>
+|
+@680
+;004232F3{Mitsuhide<END>}#11
+Mitsuhide<END>
+|
+@681
+;004232FD{Aqua Flounder<END>}#15
+Aqua Flounder<END>
+|
+@682
+;0042330B{Aqua Flounder<END>}#15
+Aqua Flounder<END>
+|
+@683
+;00423319{Tarantula<END>}#11
+Tarantula<END>
+|
+@684
+;00423323{Tarantula<END>}#11
+Tarantula<END>
+|
+@685
+;0042332D{Asura<END>}#7
+Asura<END>
+|
+@686
+;00423333{Asura<END>}#7
+Asura<END>
+|
+@687
+;00423339{Chrome Raven Cyclone<END>}#22
+Chrome Raven Cyclone<END>
+|
+@688
+;0042334E{ChromeRaven C<END>}#15
+ChromeRaven C<END>
+|
+@689
+;0042335C{Tarantula<END>}#11
+Tarantula<END>
+|
+@690
+;00423366{Tarantula<END>}#11
+Tarantula<END>
+|
+@691
+;00423370{Asura<END>}#7
+Asura<END>
+|
+@692
+;00423376{Asura<END>}#7
+Asura<END>
+|
+@693
+;0042337C{Earth Wind<END>}#12
+Earth Wind<END>
+|
+@694
+;00423387{Earth Wind<END>}#12
+Earth Wind<END>
+|
+@695
+;00423392{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@696
+;004233A0{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@697
+;004233AE{Break Ogre<END>}#12
+Break Ogre<END>
+|
+@698
+;004233B9{Break Ogre<END>}#12
+Break Ogre<END>
+|
+@699
+;004233C4{Disguise<END>}#10
+Disguise<END>
+|
+@700
+;004233CD{Disguise<END>}#10
+Disguise<END>
+|
+@701
+;004233D6{Disguise<END>}#10
+Disguise<END>
+|
+@702
+;004233DF{Disguise<END>}#10
+Disguise<END>
+|
+@703
+;004233E8{Disguise<END>}#10
+Disguise<END>
+|
+@704
+;004233F1{Disguise<END>}#10
+Disguise<END>
+|
+@705
+;004233FA{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@706
+;00423407{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@707
+;00423414{Revolver Hades<END>}#16
+Revolver Hades<END>
+|
+@708
+;00423423{RevolverHades<END>}#15
+RevolverHades<END>
+|
+@709
+;00423431{Short Sword<END>}#13
+Short Sword<END>
+|
+@710
+;0042343D{Short Sword<END>}#13
+Short Sword<END>
+|
+@711
+;00423449{Long Sword<END>}#12
+Long Sword<END>
+|
+@712
+;00423454{Long Sword<END>}#12
+Long Sword<END>
+|
+@713
+;0042345F{Zombie Sword<END>}#14
+Zombie Sword<END>
+|
+@714
+;0042346C{Zombie Sword<END>}#14
+Zombie Sword<END>
+|
+@715
+;00423479{Fire Sword<END>}#12
+Fire Sword<END>
+|
+@716
+;00423484{Fire Sword<END>}#12
+Fire Sword<END>
+|
+@717
+;0042348F{Double Sword<END>}#14
+Double Sword<END>
+|
+@718
+;0042349C{Double Sword<END>}#14
+Double Sword<END>
+|
+@719
+;004234A9{Chrome Raven Cyclone<END>}#22
+Chrome Raven Cyclone<END>
+|
+@720
+;004234BE{ChromeRaven C<END>}#15
+ChromeRaven C<END>
+|
+@721
+;004234CC{Small Fry<END>}#11
+Small Fry<END>
+|
+@722
+;004234D6{Small Fry<END>}#11
+Small Fry<END>
+|
+@723
+;004234E0{Jr. Burger<END>}#12
+Jr. Burger<END>
+|
+@724
+;004234EB{Jr. Burger<END>}#12
+Jr. Burger<END>
+|
+@725
+;004234F6{Hamburger<END>}#11
+Hamburger<END>
+|
+@726
+;00423500{Hamburger<END>}#11
+Hamburger<END>
+|
+@727
+;0042350A{Double Burger<END>}#15
+Double Burger<END>
+|
+@728
+;00423518{Double Burger<END>}#15
+Double Burger<END>
+|
+@729
+;00423526{Triple Burger<END>}#15
+Triple Burger<END>
+|
+@730
+;00423534{Triple Burger<END>}#15
+Triple Burger<END>
+|
+@731
+;00423542{Chili Burger<END>}#14
+Chili Burger<END>
+|
+@732
+;0042354F{Chili Burger<END>}#14
+Chili Burger<END>
+|
+@733
+;0042355C{Double Chili Burger<END>}#21
+Double Chili Burger<END>
+|
+@734
+;00423570{Chili Burger+<END>}#15
+Chili Burger+<END>
+|
+@735
+;0042357E{Big Burger<END>}#12
+Big Burger<END>
+|
+@736
+;00423589{Big Burger<END>}#12
+Big Burger<END>
+|
+@737
+;00423594{King Burger<END>}#13
+King Burger<END>
+|
+@738
+;004235A0{King Burger<END>}#13
+King Burger<END>
+|
+@739
+;004235AC{Jr. Burger<END>}#12
+Jr. Burger<END>
+|
+@740
+;004235B7{Jr. Burger<END>}#12
+Jr. Burger<END>
+|
+@741
+;004235C2{Hamburger<END>}#11
+Hamburger<END>
+|
+@742
+;004235CC{Hamburger<END>}#11
+Hamburger<END>
+|
+@743
+;004235D6{Double Burger<END>}#15
+Double Burger<END>
+|
+@744
+;004235E4{Double Burger<END>}#15
+Double Burger<END>
+|
+@745
+;004235F2{Triple Burger<END>}#15
+Triple Burger<END>
+|
+@746
+;00423600{Triple Burger<END>}#15
+Triple Burger<END>
+|
+@747
+;0042360E{Chili Burger<END>}#14
+Chili Burger<END>
+|
+@748
+;0042361B{Chili Burger<END>}#14
+Chili Burger<END>
+|
+@749
+;00423628{Double Chili Burger<END>}#21
+Double Chili Burger<END>
+|
+@750
+;0042363C{Chili Burger+<END>}#15
+Chili Burger+<END>
+|
+@751
+;0042364A{Big Burger<END>}#12
+Big Burger<END>
+|
+@752
+;00423655{Big Burger<END>}#12
+Big Burger<END>
+|
+@753
+;00423660{King Burger<END>}#13
+King Burger<END>
+|
+@754
+;0042366C{King Burger<END>}#13
+King Burger<END>
+|
+@755
+;00423678{Blue Bull<END>}#11
+Blue Bull<END>
+|
+@756
+;00423682{Blue Bull<END>}#11
+Blue Bull<END>
+|
+@757
+;0042368C{Red Bull<END>}#10
+Red Bull<END>
+|
+@758
+;00423695{Red Bull<END>}#10
+Red Bull<END>
+|
+@759
+;0042369E{Sitting Bull<END>}#14
+Sitting Bull<END>
+|
+@760
+;004236AB{Sitting Bull<END>}#14
+Sitting Bull<END>
+|
+@761
+;004236B8{Double Bull<END>}#13
+Double Bull<END>
+|
+@762
+;004236C4{Double Bull<END>}#13
+Double Bull<END>
+|
+@763
+;004236D0{Raging Bull<END>}#13
+Raging Bull<END>
+|
+@764
+;004236DC{Raging Bull<END>}#13
+Raging Bull<END>
+|
+@765
+;004236E8{Mad Bull<END>}#10
+Mad Bull<END>
+|
+@766
+;004236F1{Mad Bull<END>}#10
+Mad Bull<END>
+|
+@767
+;004236FA{Bulldozer<END>}#11
+Bulldozer<END>
+|
+@768
+;00423704{Bulldozer<END>}#11
+Bulldozer<END>
+|
+@769
+;0042370E{Bull Pen<END>}#10
+Bull Pen<END>
+|
+@770
+;00423717{Bull Pen<END>}#10
+Bull Pen<END>
+|
+@771
+;00423720{Gum Gai Gar<END>}#13
+Gum Gai Gar<END>
+|
+@772
+;0042372C{Gum Gai Gar<END>}#13
+Gum Gai Gar<END>
+|
+@773
+;00423738{Candy Gai Gar<END>}#15
+Candy Gai Gar<END>
+|
+@774
+;00423746{Candy Gai Gar<END>}#15
+Candy Gai Gar<END>
+|
+@775
+;00423754{Pretzel Gai Gar<END>}#17
+Pretzel Gai Gar<END>
+|
+@776
+;00423764{Prtzl Gai Gar<END>}#15
+Prtzl Gai Gar<END>
+|
+@777
+;00423772{Chips Gai Gar<END>}#15
+Chips Gai Gar<END>
+|
+@778
+;00423780{Chips Gai Gar<END>}#15
+Chips Gai Gar<END>
+|
+@779
+;0042378E{Jujube Gai Gar<END>}#16
+Jujube Gai Gar<END>
+|
+@780
+;0042379D{Jujube GaiGar<END>}#15
+Jujube GaiGar<END>
+|
+@781
+;004237AB{Cola Gai Gar<END>}#14
+Cola Gai Gar<END>
+|
+@782
+;004237B8{Cola Gai Gar<END>}#14
+Cola Gai Gar<END>
+|
+@783
+;004237C5{Cream Soda Gai Gar<END>}#20
+Cream Soda Gai Gar<END>
+|
+@784
+;004237D8{Soda Gai Gar<END>}#14
+Soda Gai Gar<END>
+|
+@785
+;004237E5{Chocolate Gai Gar<END>}#19
+Chocolate Gai Gar<END>
+|
+@786
+;004237F7{Choco Gai Gar<END>}#15
+Choco Gai Gar<END>
+|
+@787
+;00423805{Aqua Seaweed<END>}#14
+Aqua Seaweed<END>
+|
+@788
+;00423812{Aqua Seaweed<END>}#14
+Aqua Seaweed<END>
+|
+@789
+;0042381F{Aqua Dried Sardines<END>}#21
+Aqua Dried Sardines<END>
+|
+@790
+;00423833{Aqua Sardines<END>}#15
+Aqua Sardines<END>
+|
+@791
+;00423841{Aqua Smelt<END>}#12
+Aqua Smelt<END>
+|
+@792
+;0042384C{Aqua Smelt<END>}#12
+Aqua Smelt<END>
+|
+@793
+;00423857{Aqua Halibut<END>}#14
+Aqua Halibut<END>
+|
+@794
+;00423864{Aqua Halibut<END>}#14
+Aqua Halibut<END>
+|
+@795
+;00423871{Aqua Flounder<END>}#15
+Aqua Flounder<END>
+|
+@796
+;0042387F{Aqua Flounder<END>}#15
+Aqua Flounder<END>
+|
+@797
+;0042388D{Aqua Snapper<END>}#14
+Aqua Snapper<END>
+|
+@798
+;0042389A{Aqua Snapper<END>}#14
+Aqua Snapper<END>
+|
+@799
+;004238A7{Aqua Dolphin<END>}#14
+Aqua Dolphin<END>
+|
+@800
+;004238B4{Aqua Dolphin<END>}#14
+Aqua Dolphin<END>
+|
+@801
+;004238C1{Aqua Whale<END>}#12
+Aqua Whale<END>
+|
+@802
+;004238CC{Aqua Whale<END>}#12
+Aqua Whale<END>
+|
+@803
+;004238D7{Aqua Seaweed<END>}#14
+Aqua Seaweed<END>
+|
+@804
+;004238E4{Aqua Seaweed<END>}#14
+Aqua Seaweed<END>
+|
+@805
+;004238F1{Aqua Dried Sardines<END>}#21
+Aqua Dried Sardines<END>
+|
+@806
+;00423905{Aqua Sardines<END>}#15
+Aqua Sardines<END>
+|
+@807
+;00423913{Aqua Smelt<END>}#12
+Aqua Smelt<END>
+|
+@808
+;0042391E{Aqua Smelt<END>}#12
+Aqua Smelt<END>
+|
+@809
+;00423929{Aqua Halibut<END>}#14
+Aqua Halibut<END>
+|
+@810
+;00423936{Aqua Halibut<END>}#14
+Aqua Halibut<END>
+|
+@811
+;00423943{Aqua Flounder<END>}#15
+Aqua Flounder<END>
+|
+@812
+;00423951{Aqua Flounder<END>}#15
+Aqua Flounder<END>
+|
+@813
+;0042395F{Aqua Snapper<END>}#14
+Aqua Snapper<END>
+|
+@814
+;0042396C{Aqua Snapper<END>}#14
+Aqua Snapper<END>
+|
+@815
+;00423979{Aqua Dolphin<END>}#14
+Aqua Dolphin<END>
+|
+@816
+;00423986{Aqua Dolphin<END>}#14
+Aqua Dolphin<END>
+|
+@817
+;00423993{Aqua Whale<END>}#12
+Aqua Whale<END>
+|
+@818
+;0042399E{Aqua Whale<END>}#12
+Aqua Whale<END>
+|
+@819
+;004239A9{San Diego P's<END>}#15
+San Diego P's<END>
+|
+@820
+;004239B7{San Diego P's<END>}#15
+San Diego P's<END>
+|
+@821
+;004239C5{Atlanta B's<END>}#13
+Atlanta B's<END>
+|
+@822
+;004239D1{Atlanta B's<END>}#13
+Atlanta B's<END>
+|
+@823
+;004239DD{Boston R's<END>}#12
+Boston R's<END>
+|
+@824
+;004239E8{Boston R's<END>}#12
+Boston R's<END>
+|
+@825
+;004239F3{New York Y's<END>}#14
+New York Y's<END>
+|
+@826
+;00423A00{New York Y's<END>}#14
+New York Y's<END>
+|
+@827
+;00423A0D{Los Angeles A's<END>}#17
+Los Angeles A's<END>
+|
+@828
+;00423A1D{L.A. A's<END>}#10
+L.A. A's<END>
+|
+@829
+;00423A26{St Louis C's<END>}#14
+St Louis C's<END>
+|
+@830
+;00423A33{St Louis C's<END>}#14
+St Louis C's<END>
+|
+@831
+;00423A40{Houston A's<END>}#13
+Houston A's<END>
+|
+@832
+;00423A4C{Houston A's<END>}#13
+Houston A's<END>
+|
+@833
+;00423A58{Chicago W's<END>}#13
+Chicago W's<END>
+|
+@834
+;00423A64{Chicago W's<END>}#13
+Chicago W's<END>
+|
+@835
+;00423A70{Water Gun<END>}#11
+Water Gun<END>
+|
+@836
+;00423A7A{Water Gun<END>}#11
+Water Gun<END>
+|
+@837
+;00423A84{Rubber Gun<END>}#12
+Rubber Gun<END>
+|
+@838
+;00423A8F{Rubber Gun<END>}#12
+Rubber Gun<END>
+|
+@839
+;00423A9A{Air Gun<END>}#9
+Air Gun<END>
+|
+@840
+;00423AA2{Air Gun<END>}#9
+Air Gun<END>
+|
+@841
+;00423AAA{Pistol<END>}#8
+Pistol<END>
+|
+@842
+;00423AB1{Pistol<END>}#8
+Pistol<END>
+|
+@843
+;00423AB8{Shotgun<END>}#9
+Shotgun<END>
+|
+@844
+;00423AC0{Shotgun<END>}#9
+Shotgun<END>
+|
+@845
+;00423AC8{Rifle<END>}#7
+Rifle<END>
+|
+@846
+;00423ACE{Rifle<END>}#7
+Rifle<END>
+|
+@847
+;00423AD4{Bazooka<END>}#9
+Bazooka<END>
+|
+@848
+;00423ADC{Bazooka<END>}#9
+Bazooka<END>
+|
+@849
+;00423AE4{Cannon<END>}#8
+Cannon<END>
+|
+@850
+;00423AEB{Cannon<END>}#8
+Cannon<END>
+|
+@851
+;00423AF2{Water<END>}#7
+Water<END>
+|
+@852
+;00423AF8{Water<END>}#7
+Water<END>
+|
+@853
+;00423AFE{Swimming Pool<END>}#15
+Swimming Pool<END>
+|
+@854
+;00423B0C{Swimming Pool<END>}#15
+Swimming Pool<END>
+|
+@855
+;00423B1A{Dam<END>}#5
+Dam<END>
+|
+@856
+;00423B1E{Dam<END>}#5
+Dam<END>
+|
+@857
+;00423B22{River<END>}#7
+River<END>
+|
+@858
+;00423B28{River<END>}#7
+River<END>
+|
+@859
+;00423B2E{Lake<END>}#6
+Lake<END>
+|
+@860
+;00423B33{Lake<END>}#6
+Lake<END>
+|
+@861
+;00423B38{Bay<END>}#5
+Bay<END>
+|
+@862
+;00423B3C{Bay<END>}#5
+Bay<END>
+|
+@863
+;00423B40{Ocean<END>}#7
+Ocean<END>
+|
+@864
+;00423B46{Ocean<END>}#7
+Ocean<END>
+|
+@865
+;00423B4C{Sea<END>}#5
+Sea<END>
+|
+@866
+;00423B50{Sea<END>}#5
+Sea<END>
+|
+@867
+;00423B54{Cookie<END>}#8
+Cookie<END>
+|
+@868
+;00423B5B{Cookie<END>}#8
+Cookie<END>
+|
+@869
+;00423B62{Cream Puff<END>}#12
+Cream Puff<END>
+|
+@870
+;00423B6D{Cream Puff<END>}#12
+Cream Puff<END>
+|
+@871
+;00423B78{Cheese Cake<END>}#13
+Cheese Cake<END>
+|
+@872
+;00423B84{Cheese Cake<END>}#13
+Cheese Cake<END>
+|
+@873
+;00423B90{Chiffon Cake<END>}#14
+Chiffon Cake<END>
+|
+@874
+;00423B9D{Chiffon Cake<END>}#14
+Chiffon Cake<END>
+|
+@875
+;00423BAA{Tiramisu<END>}#10
+Tiramisu<END>
+|
+@876
+;00423BB3{Tiramisu<END>}#10
+Tiramisu<END>
+|
+@877
+;00423BBC{Mont Blanc<END>}#12
+Mont Blanc<END>
+|
+@878
+;00423BC7{Mont Blanc<END>}#12
+Mont Blanc<END>
+|
+@879
+;00423BD2{Tart<END>}#6
+Tart<END>
+|
+@880
+;00423BD7{Tart<END>}#6
+Tart<END>
+|
+@881
+;00423BDC{Sachertorte<END>}#13
+Sachertorte<END>
+|
+@882
+;00423BE8{Sachertorte<END>}#13
+Sachertorte<END>
+|
+@883
+;00423BF4{Pink Glass<END>}#12
+Pink Glass<END>
+|
+@884
+;00423BFF{Pink Glass<END>}#12
+Pink Glass<END>
+|
+@885
+;00423C0A{Pink Kong<END>}#11
+Pink Kong<END>
+|
+@886
+;00423C14{Pink Kong<END>}#11
+Pink Kong<END>
+|
+@887
+;00423C1E{Bobby Pink<END>}#12
+Bobby Pink<END>
+|
+@888
+;00423C29{Bobby Pink<END>}#12
+Bobby Pink<END>
+|
+@889
+;00423C34{Pink Brother<END>}#14
+Pink Brother<END>
+|
+@890
+;00423C41{Pink Brother<END>}#14
+Pink Brother<END>
+|
+@891
+;00423C4E{Pink Biscuit<END>}#14
+Pink Biscuit<END>
+|
+@892
+;00423C5B{Pink Biscuit<END>}#14
+Pink Biscuit<END>
+|
+@893
+;00423C68{Pink Lady<END>}#11
+Pink Lady<END>
+|
+@894
+;00423C72{Pink Lady<END>}#11
+Pink Lady<END>
+|
+@895
+;00423C7C{Pink Lion<END>}#11
+Pink Lion<END>
+|
+@896
+;00423C86{Pink Lion<END>}#11
+Pink Lion<END>
+|
+@897
+;00423C90{Pink Monster<END>}#14
+Pink Monster<END>
+|
+@898
+;00423C9D{Pink Monster<END>}#14
+Pink Monster<END>
+|
+@899
+;00423CAA{Wooden Sword<END>}#14
+Wooden Sword<END>
+|
+@900
+;00423CB7{Wooden Sword<END>}#14
+Wooden Sword<END>
+|
+@901
+;00423CC4{Glass Sword<END>}#13
+Glass Sword<END>
+|
+@902
+;00423CD0{Glass Sword<END>}#13
+Glass Sword<END>
+|
+@903
+;00423CDC{Plastic Sword<END>}#15
+Plastic Sword<END>
+|
+@904
+;00423CEA{Plastic Sword<END>}#15
+Plastic Sword<END>
+|
+@905
+;00423CF8{Short Sword<END>}#13
+Short Sword<END>
+|
+@906
+;00423D04{Short Sword<END>}#13
+Short Sword<END>
+|
+@907
+;00423D10{Long Sword<END>}#12
+Long Sword<END>
+|
+@908
+;00423D1B{Long Sword<END>}#12
+Long Sword<END>
+|
+@909
+;00423D26{Zombie Sword<END>}#14
+Zombie Sword<END>
+|
+@910
+;00423D33{Zombie Sword<END>}#14
+Zombie Sword<END>
+|
+@911
+;00423D40{Fire Sword<END>}#12
+Fire Sword<END>
+|
+@912
+;00423D4B{Fire Sword<END>}#12
+Fire Sword<END>
+|
+@913
+;00423D56{Double Sword<END>}#14
+Double Sword<END>
+|
+@914
+;00423D63{Double Sword<END>}#14
+Double Sword<END>
+|
+@915
+;00423D70{No Muscle<END>}#11
+No Muscle<END>
+|
+@916
+;00423D7A{No Muscle<END>}#11
+No Muscle<END>
+|
+@917
+;00423D84{Little Muscle<END>}#15
+Little Muscle<END>
+|
+@918
+;00423D92{Little Muscle<END>}#15
+Little Muscle<END>
+|
+@919
+;00423DA0{Normal Muscle<END>}#15
+Normal Muscle<END>
+|
+@920
+;00423DAE{Normal Muscle<END>}#15
+Normal Muscle<END>
+|
+@921
+;00423DBC{Good Muscle<END>}#13
+Good Muscle<END>
+|
+@922
+;00423DC8{Good Muscle<END>}#13
+Good Muscle<END>
+|
+@923
+;00423DD4{Great Muscle<END>}#14
+Great Muscle<END>
+|
+@924
+;00423DE1{Great Muscle<END>}#14
+Great Muscle<END>
+|
+@925
+;00423DEE{The Greatest Muscle<END>}#21
+The Greatest Muscle<END>
+|
+@926
+;00423E02{Best Muscle<END>}#13
+Best Muscle<END>
+|
+@927
+;00423E0E{Infinite Muscle<END>}#17
+Infinite Muscle<END>
+|
+@928
+;00423E1E{InfiniMuscle<END>}#14
+InfiniMuscle<END>
+|
+@929
+;00423E2B{Ultimate Muscle<END>}#17
+Ultimate Muscle<END>
+|
+@930
+;00423E3B{UltiMuscle<END>}#12
+UltiMuscle<END>
+|
+@931
+;00423E46{No Muscle<END>}#11
+No Muscle<END>
+|
+@932
+;00423E50{No Muscle<END>}#11
+No Muscle<END>
+|
+@933
+;00423E5A{Little Muscle<END>}#15
+Little Muscle<END>
+|
+@934
+;00423E68{Little Muscle<END>}#15
+Little Muscle<END>
+|
+@935
+;00423E76{Normal Muscle<END>}#15
+Normal Muscle<END>
+|
+@936
+;00423E84{Normal Muscle<END>}#15
+Normal Muscle<END>
+|
+@937
+;00423E92{Good Muscle<END>}#13
+Good Muscle<END>
+|
+@938
+;00423E9E{Good Muscle<END>}#13
+Good Muscle<END>
+|
+@939
+;00423EAA{Great Muscle<END>}#14
+Great Muscle<END>
+|
+@940
+;00423EB7{Great Muscle<END>}#14
+Great Muscle<END>
+|
+@941
+;00423EC4{The Greatest Muscle<END>}#21
+The Greatest Muscle<END>
+|
+@942
+;00423ED8{Best Muscle<END>}#13
+Best Muscle<END>
+|
+@943
+;00423EE4{Infinite Muscle<END>}#17
+Infinite Muscle<END>
+|
+@944
+;00423EF4{Infinite Muscle<END>}#17
+Infinite Muscle<END>
+|
+@945
+;00423F04{Ultimate Muscle<END>}#17
+Ultimate Muscle<END>
+|
+@946
+;00423F14{Ultimate Muscle<END>}#17
+Ultimate Muscle<END>
+|
+@947
+;00423F24{Rabbit-maru<END>}#13
+Rabbit-maru<END>
+|
+@948
+;00423F30{Rabbit-maru<END>}#13
+Rabbit-maru<END>
+|
+@949
+;00423F3C{Swallow-maru<END>}#14
+Swallow-maru<END>
+|
+@950
+;00423F49{Swallow-maru<END>}#14
+Swallow-maru<END>
+|
+@951
+;00423F56{Carp-maru<END>}#11
+Carp-maru<END>
+|
+@952
+;00423F60{Carp-maru<END>}#11
+Carp-maru<END>
+|
+@953
+;00423F6A{Seagull-maru<END>}#14
+Seagull-maru<END>
+|
+@954
+;00423F77{Seagull-maru<END>}#14
+Seagull-maru<END>
+|
+@955
+;00423F84{Lion-maru<END>}#11
+Lion-maru<END>
+|
+@956
+;00423F8E{Lion-maru<END>}#11
+Lion-maru<END>
+|
+@957
+;00423F98{Tiger-maru<END>}#12
+Tiger-maru<END>
+|
+@958
+;00423FA3{Tiger-maru<END>}#12
+Tiger-maru<END>
+|
+@959
+;00423FAE{Eagle-maru<END>}#12
+Eagle-maru<END>
+|
+@960
+;00423FB9{Eagle-maru<END>}#12
+Eagle-maru<END>
+|
+@961
+;00423FC4{Hawk-maru<END>}#11
+Hawk-maru<END>
+|
+@962
+;00423FCE{Hawk-maru<END>}#11
+Hawk-maru<END>
+|
+@963
+;00423FD8{Yoshitsune<END>}#12
+Yoshitsune<END>
+|
+@964
+;00423FE3{Yoshitsune<END>}#12
+Yoshitsune<END>
+|
+@965
+;00423FEE{Yoritomo<END>}#10
+Yoritomo<END>
+|
+@966
+;00423FF7{Yoritomo<END>}#10
+Yoritomo<END>
+|
+@967
+;00424000{Tokimasa<END>}#10
+Tokimasa<END>
+|
+@968
+;00424009{Tokimasa<END>}#10
+Tokimasa<END>
+|
+@969
+;00424012{Tokimune<END>}#10
+Tokimune<END>
+|
+@970
+;0042401B{Tokimune<END>}#10
+Tokimune<END>
+|
+@971
+;00424024{Mitsuhide<END>}#11
+Mitsuhide<END>
+|
+@972
+;0042402E{Mitsuhide<END>}#11
+Mitsuhide<END>
+|
+@973
+;00424038{Nobunaga<END>}#10
+Nobunaga<END>
+|
+@974
+;00424041{Nobunaga<END>}#10
+Nobunaga<END>
+|
+@975
+;0042404A{Hideyoshi<END>}#11
+Hideyoshi<END>
+|
+@976
+;00424054{Hideyoshi<END>}#11
+Hideyoshi<END>
+|
+@977
+;0042405E{Ieyasu<END>}#8
+Ieyasu<END>
+|
+@978
+;00424065{Ieyasu<END>}#8
+Ieyasu<END>
+|
+@979
+;0042406C{Yoshitsune<END>}#12
+Yoshitsune<END>
+|
+@980
+;00424077{Yoshitsune<END>}#12
+Yoshitsune<END>
+|
+@981
+;00424082{Yoritomo<END>}#10
+Yoritomo<END>
+|
+@982
+;0042408B{Yoritomo<END>}#10
+Yoritomo<END>
+|
+@983
+;00424094{Tokimasa<END>}#10
+Tokimasa<END>
+|
+@984
+;0042409D{Tokimasa<END>}#10
+Tokimasa<END>
+|
+@985
+;004240A6{Tokimune<END>}#10
+Tokimune<END>
+|
+@986
+;004240AF{Tokimune<END>}#10
+Tokimune<END>
+|
+@987
+;004240B8{Mitsuhide<END>}#11
+Mitsuhide<END>
+|
+@988
+;004240C2{Mitsuhide<END>}#11
+Mitsuhide<END>
+|
+@989
+;004240CC{Nobunaga<END>}#10
+Nobunaga<END>
+|
+@990
+;004240D5{Nobunaga<END>}#10
+Nobunaga<END>
+|
+@991
+;004240DE{Hideyoshi<END>}#11
+Hideyoshi<END>
+|
+@992
+;004240E8{Hideyoshi<END>}#11
+Hideyoshi<END>
+|
+@993
+;004240F2{Ieyasu<END>}#8
+Ieyasu<END>
+|
+@994
+;004240F9{Ieyasu<END>}#8
+Ieyasu<END>
+|
+@995
+;00424100{Bad Mustache<END>}#14
+Bad Mustache<END>
+|
+@996
+;0042410D{Bad 'stache<END>}#13
+Bad 'stache<END>
+|
+@997
+;00424119{Small Mustache<END>}#16
+Small Mustache<END>
+|
+@998
+;00424128{Small 'stache<END>}#15
+Small 'stache<END>
+|
+@999
+;00424136{Good Mustache<END>}#15
+Good Mustache<END>
+|
+@1000
+;00424144{Good 'stache<END>}#14
+Good 'stache<END>
+|
+@1001
+;00424151{Great Mustache<END>}#16
+Great Mustache<END>
+|
+@1002
+;00424160{Great 'stache<END>}#15
+Great 'stache<END>
+|
+@1003
+;0042416E{Handlebar Mustache<END>}#20
+Handlebar Mustache<END>
+|
+@1004
+;00424181{Bar 'stache<END>}#13
+Bar 'stache<END>
+|
+@1005
+;0042418D{Pencil Mustache<END>}#17
+Pencil Mustache<END>
+|
+@1006
+;0042419D{Pen 'stache<END>}#13
+Pen 'stache<END>
+|
+@1007
+;004241A9{Fu Manchu Mustache<END>}#20
+Fu Manchu Mustache<END>
+|
+@1008
+;004241BC{China 'stache<END>}#15
+China 'stache<END>
+|
+@1009
+;004241CA{Imperial Mustache<END>}#19
+Imperial Mustache<END>
+|
+@1010
+;004241DC{Comb 'stache<END>}#14
+Comb 'stache<END>
+|
+@1011
+;004241E9{Frogman<END>}#9
+Frogman<END>
+|
+@1012
+;004241F1{Frogman<END>}#9
+Frogman<END>
+|
+@1013
+;004241F9{Crabman<END>}#9
+Crabman<END>
+|
+@1014
+;00424201{Crabman<END>}#9
+Crabman<END>
+|
+@1015
+;00424209{Devilfishman<END>}#14
+Devilfishman<END>
+|
+@1016
+;00424216{Devilfishman<END>}#14
+Devilfishman<END>
+|
+@1017
+;00424223{Turtleman<END>}#11
+Turtleman<END>
+|
+@1018
+;0042422D{Turtleman<END>}#11
+Turtleman<END>
+|
+@1019
+;00424237{Seahorseman<END>}#13
+Seahorseman<END>
+|
+@1020
+;00424243{Seahorseman<END>}#13
+Seahorseman<END>
+|
+@1021
+;0042424F{Whaleman<END>}#10
+Whaleman<END>
+|
+@1022
+;00424258{Whaleman<END>}#10
+Whaleman<END>
+|
+@1023
+;00424261{Alligatorman<END>}#14
+Alligatorman<END>
+|
+@1024
+;0042426E{Alligatorman<END>}#14
+Alligatorman<END>
+|
+@1025
+;0042427B{Sharkman<END>}#10
+Sharkman<END>
+|
+@1026
+;00424284{Sharkman<END>}#10
+Sharkman<END>
+|
+@1027
+;0042428D{Rose<END>}#6
+Rose<END>
+|
+@1028
+;00424292{Rose<END>}#6
+Rose<END>
+|
+@1029
+;00424297{Lily<END>}#6
+Lily<END>
+|
+@1030
+;0042429C{Lily<END>}#6
+Lily<END>
+|
+@1031
+;004242A1{Cosmos<END>}#8
+Cosmos<END>
+|
+@1032
+;004242A8{Cosmos<END>}#8
+Cosmos<END>
+|
+@1033
+;004242AF{Garnet<END>}#8
+Garnet<END>
+|
+@1034
+;004242B6{Garnet<END>}#8
+Garnet<END>
+|
+@1035
+;004242BD{Cherry<END>}#8
+Cherry<END>
+|
+@1036
+;004242C4{Cherry<END>}#8
+Cherry<END>
+|
+@1037
+;004242CB{Pansy<END>}#7
+Pansy<END>
+|
+@1038
+;004242D1{Pansy<END>}#7
+Pansy<END>
+|
+@1039
+;004242D7{Salvia<END>}#8
+Salvia<END>
+|
+@1040
+;004242DE{Salvia<END>}#8
+Salvia<END>
+|
+@1041
+;004242E5{Rafflesia<END>}#11
+Rafflesia<END>
+|
+@1042
+;004242EF{Rafflesia<END>}#11
+Rafflesia<END>
+|
+@1043
+;004242F9{Fair Lady<END>}#11
+Fair Lady<END>
+|
+@1044
+;00424303{Fair Lady<END>}#11
+Fair Lady<END>
+|
+@1045
+;0042430D{Lady Killer<END>}#13
+Lady Killer<END>
+|
+@1046
+;00424319{Lady Killer<END>}#13
+Lady Killer<END>
+|
+@1047
+;00424325{Ladies First<END>}#14
+Ladies First<END>
+|
+@1048
+;00424332{Ladies First<END>}#14
+Ladies First<END>
+|
+@1049
+;0042433F{Vampire Lady<END>}#14
+Vampire Lady<END>
+|
+@1050
+;0042434C{Vampire Lady<END>}#14
+Vampire Lady<END>
+|
+@1051
+;00424359{Cat Lady<END>}#10
+Cat Lady<END>
+|
+@1052
+;00424362{Cat Lady<END>}#10
+Cat Lady<END>
+|
+@1053
+;0042436B{Diva Lady<END>}#11
+Diva Lady<END>
+|
+@1054
+;00424375{Diva Lady<END>}#11
+Diva Lady<END>
+|
+@1055
+;0042437F{Lady Joker<END>}#12
+Lady Joker<END>
+|
+@1056
+;0042438A{Lady Joker<END>}#12
+Lady Joker<END>
+|
+@1057
+;00424395{Clown<END>}#7
+Clown<END>
+|
+@1058
+;0042439B{Clown<END>}#7
+Clown<END>
+|
+@1059
+;004243A1{Chrome Raven Cyclone<END>}#22
+Chrome Raven Cyclone<END>
+|
+@1060
+;004243B6{ChromeRaven C<END>}#15
+ChromeRaven C<END>
+|
+@1061
+;004243C4{Chrome Raven Cyclone<END>}#22
+Chrome Raven Cyclone<END>
+|
+@1062
+;004243D9{ChromeRaven C<END>}#15
+ChromeRaven C<END>
+|
+@1063
+;004243E7{Chrome Raven Cyclone<END>}#22
+Chrome Raven Cyclone<END>
+|
+@1064
+;004243FC{ChromeRaven C<END>}#15
+ChromeRaven C<END>
+|
+@1065
+;0042440A{Chrome Raven Cyclone<END>}#22
+Chrome Raven Cyclone<END>
+|
+@1066
+;0042441F{ChromeRaven C<END>}#15
+ChromeRaven C<END>
+|
+@1067
+;0042442D{Chrome Raven Cyclone<END>}#22
+Chrome Raven Cyclone<END>
+|
+@1068
+;00424442{ChromeRaven C<END>}#15
+ChromeRaven C<END>
+|
+@1069
+;00424450{Chrome Raven Cyclone<END>}#22
+Chrome Raven Cyclone<END>
+|
+@1070
+;00424465{ChromeRaven C<END>}#15
+ChromeRaven C<END>
+|
+@1071
+;00424473{Chrome Raven Cyclone<END>}#22
+Chrome Raven Cyclone<END>
+|
+@1072
+;00424488{ChromeRaven C<END>}#15
+ChromeRaven C<END>
+|
+@1073
+;00424496{Chrome Harrier<END>}#16
+Chrome Harrier<END>
+|
+@1074
+;004244A5{ChromeHarrier<END>}#15
+ChromeHarrier<END>
+|
+@1075
+;004244B3{Wing Sword<END>}#12
+Wing Sword<END>
+|
+@1076
+;004244BE{Wing Sword<END>}#12
+Wing Sword<END>
+|
+@1077
+;004244C9{Wing Sword<END>}#12
+Wing Sword<END>
+|
+@1078
+;004244D4{Wing Sword<END>}#12
+Wing Sword<END>
+|
+@1079
+;004244DF{Wing Sword<END>}#12
+Wing Sword<END>
+|
+@1080
+;004244EA{Wing Sword<END>}#12
+Wing Sword<END>
+|
+@1081
+;004244F5{Wing Sword<END>}#12
+Wing Sword<END>
+|
+@1082
+;00424500{Wing Sword<END>}#12
+Wing Sword<END>
+|
+@1083
+;0042450B{Wing Sword Thunder<END>}#20
+Wing Sword Thunder<END>
+|
+@1084
+;0042451E{Wing Sword T<END>}#14
+Wing Sword T<END>
+|
+@1085
+;0042452B{Wing Sword Thunder<END>}#20
+Wing Sword Thunder<END>
+|
+@1086
+;0042453E{Wing Sword T<END>}#14
+Wing Sword T<END>
+|
+@1087
+;0042454B{Wing Sword Thunder<END>}#20
+Wing Sword Thunder<END>
+|
+@1088
+;0042455E{Wing Sword T<END>}#14
+Wing Sword T<END>
+|
+@1089
+;0042456B{Wing Sword Thunder<END>}#20
+Wing Sword Thunder<END>
+|
+@1090
+;0042457E{Wing Sword T<END>}#14
+Wing Sword T<END>
+|
+@1091
+;0042458B{King Bakuso<END>}#13
+King Bakuso<END>
+|
+@1092
+;00424597{King Bakuso<END>}#13
+King Bakuso<END>
+|
+@1093
+;004245A3{King Bakuso<END>}#13
+King Bakuso<END>
+|
+@1094
+;004245AF{King Bakuso<END>}#13
+King Bakuso<END>
+|
+@1095
+;004245BB{King Bakuso<END>}#13
+King Bakuso<END>
+|
+@1096
+;004245C7{King Bakuso<END>}#13
+King Bakuso<END>
+|
+@1097
+;004245D3{King Bakuso<END>}#13
+King Bakuso<END>
+|
+@1098
+;004245DF{King Bakuso<END>}#13
+King Bakuso<END>
+|
+@1099
+;004245EB{King Bakuso<END>}#13
+King Bakuso<END>
+|
+@1100
+;004245F7{King Bakuso<END>}#13
+King Bakuso<END>
+|
+@1101
+;00424603{King Bakuso<END>}#13
+King Bakuso<END>
+|
+@1102
+;0042460F{King Bakuso<END>}#13
+King Bakuso<END>
+|
+@1103
+;0042461B{King Bakuso<END>}#13
+King Bakuso<END>
+|
+@1104
+;00424627{King Bakuso<END>}#13
+King Bakuso<END>
+|
+@1105
+;00424633{King Bakurekuso<END>}#17
+King Bakurekuso<END>
+|
+@1106
+;00424643{King Bakureku<END>}#15
+King Bakureku<END>
+|
+@1107
+;00424651{King Rekuso<END>}#13
+King Rekuso<END>
+|
+@1108
+;0042465D{King Rekuso<END>}#13
+King Rekuso<END>
+|
+@1109
+;00424669{King Rekuso<END>}#13
+King Rekuso<END>
+|
+@1110
+;00424675{King Rekuso<END>}#13
+King Rekuso<END>
+|
+@1111
+;00424681{King Rekuso<END>}#13
+King Rekuso<END>
+|
+@1112
+;0042468D{King Rekuso<END>}#13
+King Rekuso<END>
+|
+@1113
+;00424699{King Rekuso<END>}#13
+King Rekuso<END>
+|
+@1114
+;004246A5{King Rekuso<END>}#13
+King Rekuso<END>
+|
+@1115
+;004246B1{King Rekuso<END>}#13
+King Rekuso<END>
+|
+@1116
+;004246BD{King Rekuso<END>}#13
+King Rekuso<END>
+|
+@1117
+;004246C9{King Rekuso<END>}#13
+King Rekuso<END>
+|
+@1118
+;004246D5{King Rekuso<END>}#13
+King Rekuso<END>
+|
+@1119
+;004246E1{King Rekuso<END>}#13
+King Rekuso<END>
+|
+@1120
+;004246ED{King Rekuso<END>}#13
+King Rekuso<END>
+|
+@1121
+;004246F9{King Bakurekuso<END>}#17
+King Bakurekuso<END>
+|
+@1122
+;00424709{King Bakureku<END>}#15
+King Bakureku<END>
+|
+@1123
+;00424717{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@1124
+;00424724{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@1125
+;00424731{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@1126
+;0042473E{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@1127
+;0042474B{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@1128
+;00424758{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@1129
+;00424765{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@1130
+;00424772{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@1131
+;0042477F{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@1132
+;0042478C{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@1133
+;00424799{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@1134
+;004247A6{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@1135
+;004247B3{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@1136
+;004247C0{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@1137
+;004247CD{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@1138
+;004247DA{Blazing Kahn<END>}#14
+Blazing Kahn<END>
+|
+@1139
+;004247E7{Houou Fudo Maru<END>}#17
+Houou Fudo Maru<END>
+|
+@1140
+;004247F7{HououFudoMaru<END>}#15
+HououFudoMaru<END>
+|
+@1141
+;00424805{Houou Fudo Maru<END>}#17
+Houou Fudo Maru<END>
+|
+@1142
+;00424815{HououFudoMaru<END>}#15
+HououFudoMaru<END>
+|
+@1143
+;00424823{Houou Fudo Maru<END>}#17
+Houou Fudo Maru<END>
+|
+@1144
+;00424833{HououFudoMaru<END>}#15
+HououFudoMaru<END>
+|
+@1145
+;00424841{Houou Fudo Maru<END>}#17
+Houou Fudo Maru<END>
+|
+@1146
+;00424851{HououFudoMaru<END>}#15
+HououFudoMaru<END>
+|
+@1147
+;0042485F{Houou Fudo Maru<END>}#17
+Houou Fudo Maru<END>
+|
+@1148
+;0042486F{HououFudoMaru<END>}#15
+HououFudoMaru<END>
+|
+@1149
+;0042487D{Houou Fudo Maru<END>}#17
+Houou Fudo Maru<END>
+|
+@1150
+;0042488D{HououFudoMaru<END>}#15
+HououFudoMaru<END>
+|
+@1151
+;0042489B{Houou Fudo Maru<END>}#17
+Houou Fudo Maru<END>
+|
+@1152
+;004248AB{HououFudoMaru<END>}#15
+HououFudoMaru<END>
+|
+@1153
+;004248B9{Houou Fudo Maru<END>}#17
+Houou Fudo Maru<END>
+|
+@1154
+;004248C9{HououFudoMaru<END>}#15
+HououFudoMaru<END>
+|
+@1155
+;004248D7{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@1156
+;004248E3{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@1157
+;004248EF{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@1158
+;004248FB{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@1159
+;00424907{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@1160
+;00424913{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@1161
+;0042491F{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@1162
+;0042492B{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@1163
+;00424937{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@1164
+;00424943{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@1165
+;0042494F{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@1166
+;0042495B{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@1167
+;00424967{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@1168
+;00424973{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@1169
+;0042497F{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@1170
+;0042498B{Garnet Wind<END>}#13
+Garnet Wind<END>
+|
+@1171
+;00424997{Gun Breaker<END>}#13
+Gun Breaker<END>
+|
+@1172
+;004249A3{Gun Breaker<END>}#13
+Gun Breaker<END>
+|
+@1173
+;004249AF{Gun Breaker<END>}#13
+Gun Breaker<END>
+|
+@1174
+;004249BB{Gun Breaker<END>}#13
+Gun Breaker<END>
+|
+@1175
+;004249C7{Gun Breaker<END>}#13
+Gun Breaker<END>
+|
+@1176
+;004249D3{Gun Breaker<END>}#13
+Gun Breaker<END>
+|
+@1177
+;004249DF{Gun Breaker<END>}#13
+Gun Breaker<END>
+|
+@1178
+;004249EB{Gun Breaker<END>}#13
+Gun Breaker<END>
+|
+@1179
+;004249F7{Break Ogre<END>}#12
+Break Ogre<END>
+|
+@1180
+;00424A02{Break Ogre<END>}#12
+Break Ogre<END>
+|
+@1181
+;00424A0D{Break Ogre<END>}#12
+Break Ogre<END>
+|
+@1182
+;00424A18{Break Ogre<END>}#12
+Break Ogre<END>
+|
+@1183
+;00424A23{Break Ogre<END>}#12
+Break Ogre<END>
+|
+@1184
+;00424A2E{Break Ogre<END>}#12
+Break Ogre<END>
+|
+@1185
+;00424A39{Break Ogre<END>}#12
+Break Ogre<END>
+|
+@1186
+;00424A44{Break Ogre<END>}#12
+Break Ogre<END>
+|
+@1187
+;00424A4F{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@1188
+;00424A5D{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@1189
+;00424A6B{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@1190
+;00424A79{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@1191
+;00424A87{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@1192
+;00424A95{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@1193
+;00424AA3{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@1194
+;00424AB1{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@1195
+;00424ABF{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@1196
+;00424ACD{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@1197
+;00424ADB{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@1198
+;00424AE9{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@1199
+;00424AF7{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@1200
+;00424B05{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@1201
+;00424B13{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@1202
+;00424B21{Gill Scorpion<END>}#15
+Gill Scorpion<END>
+|
+@1203
+;00424B2F{Revolver Hades<END>}#16
+Revolver Hades<END>
+|
+@1204
+;00424B3E{RevolverHades<END>}#15
+RevolverHades<END>
+|
+@1205
+;00424B4C{Revolver Hades<END>}#16
+Revolver Hades<END>
+|
+@1206
+;00424B5B{RevolverHades<END>}#15
+RevolverHades<END>
+|
+@1207
+;00424B69{Revolver Hades<END>}#16
+Revolver Hades<END>
+|
+@1208
+;00424B78{RevolverHades<END>}#15
+RevolverHades<END>
+|
+@1209
+;00424B86{Revolver Hades<END>}#16
+Revolver Hades<END>
+|
+@1210
+;00424B95{RevolverHades<END>}#15
+RevolverHades<END>
+|
+@1211
+;00424BA3{Revolver Hades<END>}#16
+Revolver Hades<END>
+|
+@1212
+;00424BB2{RevolverHades<END>}#15
+RevolverHades<END>
+|
+@1213
+;00424BC0{Revolver Hades<END>}#16
+Revolver Hades<END>
+|
+@1214
+;00424BCF{RevolverHades<END>}#15
+RevolverHades<END>
+|
+@1215
+;00424BDD{Revolver Hades<END>}#16
+Revolver Hades<END>
+|
+@1216
+;00424BEC{RevolverHades<END>}#15
+RevolverHades<END>
+|
+@1217
+;00424BFA{Revolver Hades<END>}#16
+Revolver Hades<END>
+|
+@1218
+;00424C09{RevolverHades<END>}#15
+RevolverHades<END>
+|
+@1219
+;00424C17{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@1220
+;00424C20{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@1221
+;00424C29{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@1222
+;00424C32{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@1223
+;00424C3B{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@1224
+;00424C44{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@1225
+;00424C4D{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@1226
+;00424C56{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@1227
+;00424C5F{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@1228
+;00424C68{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@1229
+;00424C71{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@1230
+;00424C7A{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@1231
+;00424C83{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@1232
+;00424C8C{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@1233
+;00424C95{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@1234
+;00424C9E{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@1235
+;00424CA7{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@1236
+;00424CB0{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@1237
+;00424CB9{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@1238
+;00424CC2{Go Tiger<END>}#10
+Go Tiger<END>
+|
+@1239
+;00424CCB{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@1240
+;00424CD8{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@1241
+;00424CE5{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@1242
+;00424CF2{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@1243
+;00424CFF{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@1244
+;00424D0C{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@1245
+;00424D19{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@1246
+;00424D26{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@1247
+;00424D33{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@1248
+;00424D40{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@1249
+;00424D4D{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@1250
+;00424D5A{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@1251
+;00424D67{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@1252
+;00424D74{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@1253
+;00424D81{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@1254
+;00424D8E{Impact Shark<END>}#14
+Impact Shark<END>
+|
+@1255
+;00424D9B{Asura<END>}#7
+Asura<END>
+|
+@1256
+;00424DA1{Asura<END>}#7
+Asura<END>
+|
+@1257
+;00424DA7{Asura<END>}#7
+Asura<END>
+|
+@1258
+;00424DAD{Asura<END>}#7
+Asura<END>
+|
+@1259
+;00424DB3{Asura<END>}#7
+Asura<END>
+|
+@1260
+;00424DB9{Asura<END>}#7
+Asura<END>
+|
+@1261
+;00424DBF{Asura<END>}#7
+Asura<END>
+|
+@1262
+;00424DC5{Asura<END>}#7
+Asura<END>
+|
+@1263
+;00424DCB{Asura<END>}#7
+Asura<END>
+|
+@1264
+;00424DD1{Asura<END>}#7
+Asura<END>
+|
+@1265
+;00424DD7{Asura<END>}#7
+Asura<END>
+|
+@1266
+;00424DDD{Asura<END>}#7
+Asura<END>
+|
+@1267
+;00424DE3{Asura<END>}#7
+Asura<END>
+|
+@1268
+;00424DE9{Asura<END>}#7
+Asura<END>
+|
+@1269
+;00424DEF{Asura<END>}#7
+Asura<END>
+|
+@1270
+;00424DF5{Asura<END>}#7
+Asura<END>
+|
+@1271
+;00424DFB{Tarantula<END>}#11
+Tarantula<END>
+|
+@1272
+;00424E05{Tarantula<END>}#11
+Tarantula<END>
+|
+@1273
+;00424E0F{Tarantula<END>}#11
+Tarantula<END>
+|
+@1274
+;00424E19{Tarantula<END>}#11
+Tarantula<END>
+|
+@1275
+;00424E23{Tarantula<END>}#11
+Tarantula<END>
+|
+@1276
+;00424E2D{Tarantula<END>}#11
+Tarantula<END>
+|
+@1277
+;00424E37{Tarantula<END>}#11
+Tarantula<END>
+|
+@1278
+;00424E41{Tarantula<END>}#11
+Tarantula<END>
+|
+@1279
+;00424E4B{Tarantula<END>}#11
+Tarantula<END>
+|
+@1280
+;00424E55{Tarantula<END>}#11
+Tarantula<END>
+|
+@1281
+;00424E5F{Tarantula<END>}#11
+Tarantula<END>
+|
+@1282
+;00424E69{Tarantula<END>}#11
+Tarantula<END>
+|
+@1283
+;00424E73{Tarantula<END>}#11
+Tarantula<END>
+|
+@1284
+;00424E7D{Tarantula<END>}#11
+Tarantula<END>
+|
+@1285
+;00424E87{Tarantula<END>}#11
+Tarantula<END>
+|
+@1286
+;00424E91{Tarantula<END>}#11
+Tarantula<END>
+|
+@1287
+;00424E9B{Garuda<END>}#8
+Garuda<END>
+|
+@1288
+;00424EA2{Garuda<END>}#8
+Garuda<END>
+|
+@1289
+;00424EA9{Garuda<END>}#8
+Garuda<END>
+|
+@1290
+;00424EB0{Garuda<END>}#8
+Garuda<END>
+|
+@1291
+;00424EB7{Garuda<END>}#8
+Garuda<END>
+|
+@1292
+;00424EBE{Garuda<END>}#8
+Garuda<END>
+|
+@1293
+;00424EC5{Garuda<END>}#8
+Garuda<END>
+|
+@1294
+;00424ECC{Garuda<END>}#8
+Garuda<END>
+|
+@1295
+;00424ED3{Garuda<END>}#8
+Garuda<END>
+|
+@1296
+;00424EDA{Garuda<END>}#8
+Garuda<END>
+|
+@1297
+;00424EE1{Garuda<END>}#8
+Garuda<END>
+|
+@1298
+;00424EE8{Garuda<END>}#8
+Garuda<END>
+|
+@1299
+;00424EEF{Garuda<END>}#8
+Garuda<END>
+|
+@1300
+;00424EF6{Garuda<END>}#8
+Garuda<END>
+|
+@1301
+;00424EFD{Earth Wind<END>}#12
+Earth Wind<END>
+|
+@1302
+;00424F08{Earth Wind<END>}#12
+Earth Wind<END>
+|
+@1303
+;00424F13{Wolfman<END>}#9
+Wolfman<END>
+|
+@1304
+;00424F1B{Wolfman<END>}#9
+Wolfman<END>
+|
+@1305
+;00424F23{Wolfman<END>}#9
+Wolfman<END>
+|
+@1306
+;00424F2B{Wolfman<END>}#9
+Wolfman<END>
+|
+@1307
+;00424F33{Wolfman<END>}#9
+Wolfman<END>
+|
+@1308
+;00424F3B{Wolfman<END>}#9
+Wolfman<END>
+|
+@1309
+;00424F43{Wolfman<END>}#9
+Wolfman<END>
+|
+@1310
+;00424F4B{Wolfman<END>}#9
+Wolfman<END>
+|
+@1311
+;00424F53{Wolfman<END>}#9
+Wolfman<END>
+|
+@1312
+;00424F5B{Wolfman<END>}#9
+Wolfman<END>
+|
+@1313
+;00424F63{Wolfman<END>}#9
+Wolfman<END>
+|
+@1314
+;00424F6B{Wolfman<END>}#9
+Wolfman<END>
+|
+@1315
+;00424F73{Wolfman<END>}#9
+Wolfman<END>
+|
+@1316
+;00424F7B{Wolfman<END>}#9
+Wolfman<END>
+|
+@1317
+;00424F83{Earth Wind<END>}#12
+Earth Wind<END>
+|
+@1318
+;00424F8E{Earth Wind<END>}#12
+Earth Wind<END>
+|
+@1319
+;00424F99{Killer Pumpkin<END>}#16
+Killer Pumpkin<END>
+|
+@1320
+;00424FA8{KillerPumpkin<END>}#15
+KillerPumpkin<END>
+|
+@1321
+;00424FB6{Killer Chimp<END>}#14
+Killer Chimp<END>
+|
+@1322
+;00424FC3{Killer Chimp<END>}#14
+Killer Chimp<END>
+|
+@1323
+;00424FD0{Serial Killer<END>}#15
+Serial Killer<END>
+|
+@1324
+;00424FDE{Serial Killer<END>}#15
+Serial Killer<END>
+|
+@1325
+;00424FEC{Killer Bee<END>}#12
+Killer Bee<END>
+|
+@1326
+;00424FF7{Killer Bee<END>}#12
+Killer Bee<END>
+|
+@1327
+;00425002{Killer Whale<END>}#14
+Killer Whale<END>
+|
+@1328
+;0042500F{Killer Whale<END>}#14
+Killer Whale<END>
+|
+@1329
+;0042501C{Killer Wave<END>}#13
+Killer Wave<END>
+|
+@1330
+;00425028{Killer Wave<END>}#13
+Killer Wave<END>
+|
+@1331
+;00425034{Angel Killer<END>}#14
+Angel Killer<END>
+|
+@1332
+;00425041{Angel Killer<END>}#14
+Angel Killer<END>
+|
+@1333
+;0042504E{Kotetsu<END>}#9
+Kotetsu<END>
+|
+@1334
+;00425056{Kotetsu<END>}#9
+Kotetsu<END>
+|
+@1335
+;0042505E{Cobalt Saber Fire<END>}#19
+Cobalt Saber Fire<END>
+|
+@1336
+;00425070{CobaltSaber F<END>}#15
+CobaltSaber F<END>
+|
+@1337
+;0042507E{Custom2<END>}#9
+Custom2<END>
+|
+@1338
+;00425086{Custom2<END>}#9
+Custom2<END>
+|
+@1339
+;0042508E{Custom3<END>}#9
+Custom3<END>
+|
+@1340
+;00425096{Custom3<END>}#9
+Custom3<END>
+|
+@1341
+;0042509E{Custom4<END>}#9
+Custom4<END>
+|
+@1342
+;004250A6{Custom4<END>}#9
+Custom4<END>
+|
+@1343
+;004250AE{Custom5<END>}#9
+Custom5<END>
+|
+@1344
+;004250B6{Custom5<END>}#9
+Custom5<END>
+|
+@1345
+;004250BE{Custom6<END>}#9
+Custom6<END>
+|
+@1346
+;004250C6{Custom6<END>}#9
+Custom6<END>
+|
+@1347
+;004250CE{Custom7<END>}#9
+Custom7<END>
+|
+@1348
+;004250D6{Custom7<END>}#9
+Custom7<END>
+|
+@1349
+;004250DE{Custom8<END>}#9
+Custom8<END>
+|
+@1350
+;004250E6{Custom8<END>}#9
+Custom8<END>
+|
+@1351
+;004250EE{Custom9<END>}#9
+Custom9<END>
+|
+@1352
+;004250F6{Custom9<END>}#9
+Custom9<END>
+|
+@1353
+;004250FE{Custom10<END>}#10
+Custom10<END>
+|
+@1354
+;00425107{Custom10<END>}#10
+Custom10<END>
+|
+@1355
+;00425110{Custom11<END>}#10
+Custom11<END>
+|
+@1356
+;00425119{Custom11<END>}#10
+Custom11<END>
+|
+@1357
+;00425122{Custom12<END>}#10
+Custom12<END>
+|
+@1358
+;0042512B{Custom12<END>}#10
+Custom12<END>
+|

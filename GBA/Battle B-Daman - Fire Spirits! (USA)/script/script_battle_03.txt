@@ -1,0 +1,948 @@
+@1
+;00403B9C{The champion of the<END>}#20
+The champion of the<END>
+|
+@2
+;00403BB0{previous Winners<END>}#18
+previous Winners<END>
+|
+@3
+;00403BC1{Tournament. He has an<END>}#23
+Tournament. He has an<END>
+|
+@4
+;00403BD7{innate talent for B-Daman<END>}#27
+innate talent for B-Daman<END>
+|
+@5
+;00403BF1{and loves it more than<END>}#24
+and loves it more than<END>
+|
+@6
+;00403C08{anything else in<END>}#18
+anything else in<END>
+|
+@7
+;00403C19{the world.<END>}#12
+the world.<END>
+|
+@8
+;00403C24{Yamato's rival. He devotes<END>}#28
+Yamato's rival. He devotes<END>
+|
+@9
+;00403C3F{all of his energy to<END>}#22
+all of his energy to<END>
+|
+@10
+;00403C54{training in order to<END>}#22
+training in order to<END>
+|
+@11
+;00403C69{defeat Yamato. He takes<END>}#25
+defeat Yamato. He takes<END>
+|
+@12
+;00403C81{great care of Liena, his<END>}#26
+great care of Liena, his<END>
+|
+@13
+;00403C9A{little sister. He's calm,<END>}#27
+little sister. He's calm,<END>
+|
+@14
+;00403CB4{cool, and collected.<END>}#22
+cool, and collected.<END>
+|
+@15
+;00403CC9{He loves strong<END>}#17
+He loves strong<END>
+|
+@16
+;00403CD9{B-Daplayers and is a<END>}#22
+B-Daplayers and is a<END>
+|
+@17
+;00403CEE{little narcissistic. He's<END>}#27
+little narcissistic. He's<END>
+|
+@18
+;00403D08{been... intrigued with<END>}#24
+been... intrigued with<END>
+|
+@19
+;00403D1F{Yamato since his defeat to<END>}#28
+Yamato since his defeat to<END>
+|
+@20
+;00403D3A{him.<END>}#6
+him.<END>
+|
+@21
+;00403D3F{He's normally in a daze,<END>}#26
+He's normally in a daze,<END>
+|
+@22
+;00403D58{so it's hard to tell what<END>}#27
+so it's hard to tell what<END>
+|
+@23
+;00403D72{he's thinking. His goal is<END>}#28
+he's thinking. His goal is<END>
+|
+@24
+;00403D8D{to become the best B-Daman<END>}#28
+to become the best B-Daman<END>
+|
+@25
+;00403DA8{craftsman.<END>}#12
+craftsman.<END>
+|
+@26
+;00403DB3{He, along with Joe, is a<END>}#26
+He, along with Joe, is a<END>
+|
+@27
+;00403DCC{Choju-style martial artist<END>}#28
+Choju-style martial artist<END>
+|
+@28
+;00403DE7{in addition to being a<END>}#24
+in addition to being a<END>
+|
+@29
+;00403DFE{B-Daplayer. Joe is a<END>}#22
+B-Daplayer. Joe is a<END>
+|
+@30
+;00403E13{more advanced pupil than<END>}#26
+more advanced pupil than<END>
+|
+@31
+;00403E2C{Terry, and they travel<END>}#24
+Terry, and they travel<END>
+|
+@32
+;00403E43{together to perfect their<END>}#27
+together to perfect their<END>
+|
+@33
+;00403E5D{techniques.<END>}#13
+techniques.<END>
+|
+@34
+;00403E69{An aloof, dark hero. He<END>}#25
+An aloof, dark hero. He<END>
+|
+@35
+;00403E81{shows up when least<END>}#21
+shows up when least<END>
+|
+@36
+;00403E95{expected. It's hard to<END>}#24
+expected. It's hard to<END>
+|
+@37
+;00403EAC{tell what he's thinking.<END>}#26
+tell what he's thinking.<END>
+|
+@38
+;00403EC5{A B-Daplayer who has great<END>}#28
+A B-Daplayer who has great<END>
+|
+@39
+;00403EE0{teamwork with his little<END>}#26
+teamwork with his little<END>
+|
+@40
+;00403EF9{brother, Li. He used to be<END>}#28
+brother, Li. He used to be<END>
+|
+@41
+;00403F14{a member of an evil<END>}#21
+a member of an evil<END>
+|
+@42
+;00403F28{organization called the<END>}#25
+organization called the<END>
+|
+@43
+;00403F40{Shadow Alliance, but he<END>}#25
+Shadow Alliance, but he<END>
+|
+@44
+;00403F58{became friends with Yamato<END>}#28
+became friends with Yamato<END>
+|
+@45
+;00403F73{after being moved by his<END>}#26
+after being moved by his<END>
+|
+@46
+;00403F8C{unyielding B-Daspirit.<END>}#24
+unyielding B-Daspirit.<END>
+|
+@47
+;00403FA3{A B-Daplayer who has great<END>}#28
+A B-Daplayer who has great<END>
+|
+@48
+;00403FBE{teamwork with his big<END>}#23
+teamwork with his big<END>
+|
+@49
+;00403FD4{brother, Wen. He used to<END>}#26
+brother, Wen. He used to<END>
+|
+@50
+;00403FED{be a member of an evil<END>}#24
+be a member of an evil<END>
+|
+@51
+;00404004{organization called the<END>}#25
+organization called the<END>
+|
+@52
+;0040401C{Shadow Alliance, but he<END>}#25
+Shadow Alliance, but he<END>
+|
+@53
+;00404034{became friends with Yamato<END>}#28
+became friends with Yamato<END>
+|
+@54
+;0040404F{after being moved by his<END>}#26
+after being moved by his<END>
+|
+@55
+;00404068{unyielding B-Daspirit.<END>}#24
+unyielding B-Daspirit.<END>
+|
+@56
+;0040407F{A more advanced pupil at<END>}#26
+A more advanced pupil at<END>
+|
+@57
+;00404098{martial arts than Terry.<END>}#26
+martial arts than Terry.<END>
+|
+@58
+;004040B1{He devotes his energy to<END>}#26
+He devotes his energy to<END>
+|
+@59
+;004040CA{perfect his B-Dabattling<END>}#26
+perfect his B-Dabattling<END>
+|
+@60
+;004040E3{by traveling with Terry.<END>}#26
+by traveling with Terry.<END>
+|
+@61
+;004040FC{A B-Daplayer who travels<END>}#26
+A B-Daplayer who travels<END>
+|
+@62
+;00404115{with Shin, a wolf that can<END>}#28
+with Shin, a wolf that can<END>
+|
+@63
+;00404130{speak. Even though he's<END>}#25
+speak. Even though he's<END>
+|
+@64
+;00404148{very talented, he never<END>}#25
+very talented, he never<END>
+|
+@65
+;00404160{really shows his full<END>}#23
+really shows his full<END>
+|
+@66
+;00404176{potential. He started<END>}#23
+potential. He started<END>
+|
+@67
+;0040418C{traveling with Bull<END>}#21
+traveling with Bull<END>
+|
+@68
+;004041A0{somehow.<END>}#10
+somehow.<END>
+|
+@69
+;004041A9{This B-Daplayer shows up<END>}#26
+This B-Daplayer shows up<END>
+|
+@70
+;004041C2{when least expected, and<END>}#26
+when least expected, and<END>
+|
+@71
+;004041DB{distracts everyone. His<END>}#25
+distracts everyone. His<END>
+|
+@72
+;004041F3{B-Dabattle style is<END>}#21
+B-Dabattle style is<END>
+|
+@73
+;00404207{tricky, quick, and<END>}#20
+tricky, quick, and<END>
+|
+@74
+;0040421A{confuses his enemies!<END>}#23
+confuses his enemies!<END>
+|
+@75
+;00404230{An innocent, yet rather<END>}#25
+An innocent, yet rather<END>
+|
+@76
+;00404248{cocky, boy. He's already<END>}#26
+cocky, boy. He's already<END>
+|
+@77
+;00404261{had to suffer the hardship<END>}#28
+had to suffer the hardship<END>
+|
+@78
+;0040427C{of leaving his hometown at<END>}#28
+of leaving his hometown at<END>
+|
+@79
+;00404297{a tender age to pursue his<END>}#28
+a tender age to pursue his<END>
+|
+@80
+;004042B2{goal of becoming the best<END>}#27
+goal of becoming the best<END>
+|
+@81
+;004042CC{B-Daplayer. The fact that<END>}#27
+B-Daplayer. The fact that<END>
+|
+@82
+;004042E6{he really hates losing<END>}#24
+he really hates losing<END>
+|
+@83
+;004042FD{causes a lot of arguments<END>}#27
+causes a lot of arguments<END>
+|
+@84
+;00404317{with Yamato.<END>}#14
+with Yamato.<END>
+|
+@85
+;00404324{The three cats who are<END>}#24
+The three cats who are<END>
+|
+@86
+;0040433B{always with B-DaMage.<END>}#23
+always with B-DaMage.<END>
+|
+@87
+;00404351{They're good at reminding<END>}#27
+They're good at reminding<END>
+|
+@88
+;0040436B{B-DaMage to stick to the<END>}#26
+B-DaMage to stick to the<END>
+|
+@89
+;00404384{story when he starts<END>}#22
+story when he starts<END>
+|
+@90
+;00404399{getting off track.<END>}#20
+getting off track.<END>
+|
+@91
+;004043AC{A mysterious B-Daplayer<END>}#25
+A mysterious B-Daplayer<END>
+|
+@92
+;004043C4{who always wears a diving<END>}#27
+who always wears a diving<END>
+|
+@93
+;004043DE{suit. His cute face<END>}#21
+suit. His cute face<END>
+|
+@94
+;004043F2{actually conceals his bad<END>}#27
+actually conceals his bad<END>
+|
+@95
+;0040440C{character.<END>}#12
+character.<END>
+|
+@96
+;00404417{One of the four bosses of<END>}#27
+One of the four bosses of<END>
+|
+@97
+;00404431{the Death Poker Alliance.<END>}#27
+the Death Poker Alliance.<END>
+|
+@98
+;0040444B{Diamond is her twin<END>}#21
+Diamond is her twin<END>
+|
+@99
+;0040445F{sister. She uses<END>}#18
+sister. She uses<END>
+|
+@100
+;00404470{Garuda, her favorite<END>}#22
+Garuda, her favorite<END>
+|
+@101
+;00404485{B-Daman.<END>}#10
+B-Daman.<END>
+|
+@102
+;0040448E{The Overseer of the<END>}#21
+The Overseer of the<END>
+|
+@103
+;004044A2{B-Daworld. Really<END>}#19
+B-Daworld. Really<END>
+|
+@104
+;004044B4{cute-looking but has<END>}#22
+cute-looking but has<END>
+|
+@105
+;004044C9{unexpectedly great power.<END>}#27
+unexpectedly great power.<END>
+|
+@106
+;004044E3{Gray's little sister.<END>}#23
+Gray's little sister.<END>
+|
+@107
+;004044F9{Inspired by her brother,<END>}#26
+Inspired by her brother,<END>
+|
+@108
+;00404512{she decided to become a<END>}#25
+she decided to become a<END>
+|
+@109
+;0040452A{B-Daplayer. She always<END>}#24
+B-Daplayer. She always<END>
+|
+@110
+;00404541{wears a mask when she<END>}#23
+wears a mask when she<END>
+|
+@111
+;00404557{B-Dabattles in order to<END>}#25
+B-Dabattles in order to<END>
+|
+@112
+;0040456F{conceal herself from Gray.<END>}#28
+conceal herself from Gray.<END>
+|
+@113
+;0040458A{She owns the Garnet Wind!<END>}#27
+She owns the Garnet Wind!<END>
+|
+@114
+;004045A4{Yamato's foster mother.<END>}#25
+Yamato's foster mother.<END>
+|
+@115
+;004045BC{She's very positive and<END>}#25
+She's very positive and<END>
+|
+@116
+;004045D4{strong-minded, so she<END>}#23
+strong-minded, so she<END>
+|
+@117
+;004045EA{really dislikes<END>}#17
+really dislikes<END>
+|
+@118
+;004045FA{indecisiveness! She's also<END>}#28
+indecisiveness! She's also<END>
+|
+@119
+;00404615{an excellent cook!<END>}#20
+an excellent cook!<END>
+|
+@120
+;00404628{He's known as the<END>}#19
+He's known as the<END>
+|
+@121
+;0040463A{B-DaMaster. He's a great<END>}#26
+B-DaMaster. He's a great<END>
+|
+@122
+;00404653{man... er, a great cat,<END>}#25
+man... er, a great cat,<END>
+|
+@123
+;0040466B{actually. He has a cute<END>}#25
+actually. He has a cute<END>
+|
+@124
+;00404683{cat-side to his<END>}#17
+cat-side to his<END>
+|
+@125
+;00404693{personality, but his skill<END>}#28
+personality, but his skill<END>
+|
+@126
+;004046AE{at B-Daman is superb. He's<END>}#28
+at B-Daman is superb. He's<END>
+|
+@127
+;004046C9{also Yamato and Terry's<END>}#25
+also Yamato and Terry's<END>
+|
+@128
+;004046E1{master.<END>}#9
+master.<END>
+|
+@129
+;004046E9{<END>}#2
+<END>
+|
+@130
+;004046EA{<END>}#2
+<END>
+|
+@131
+;004046EB{<END>}#2
+<END>
+|
+@132
+;004046EC{<END>}#2
+<END>
+|
+@133
+;004046ED{A black tomcat owned by<END>}#25
+A black tomcat owned by<END>
+|
+@134
+;00404705{Yamato. It's best friends<END>}#27
+Yamato. It's best friends<END>
+|
+@135
+;0040471F{with Yamato, and they're<END>}#26
+with Yamato, and they're<END>
+|
+@136
+;00404738{always together.<END>}#18
+always together.<END>
+|
+@137
+;00404749{One of four bosses of the<END>}#27
+One of four bosses of the<END>
+|
+@138
+;00404763{Death Poker Alliance.<END>}#23
+Death Poker Alliance.<END>
+|
+@139
+;00404779{He wears eccentric clothes<END>}#28
+He wears eccentric clothes<END>
+|
+@140
+;00404794{and uses Tarantula, his<END>}#25
+and uses Tarantula, his<END>
+|
+@141
+;004047AC{favorite B-Daman.<END>}#19
+favorite B-Daman.<END>
+|
+@142
+;004047BE{He is Armada's rival in<END>}#25
+He is Armada's rival in<END>
+|
+@143
+;004047D6{B-Daman. When Armada<END>}#22
+B-Daman. When Armada<END>
+|
+@144
+;004047EB{received the title of<END>}#23
+received the title of<END>
+|
+@145
+;00404801{B-DaMaster, he turned into<END>}#28
+B-DaMaster, he turned into<END>
+|
+@146
+;0040481C{a bad guy.<END>}#12
+a bad guy.<END>
+|
+@147
+;00404827{One of the four bosses of<END>}#27
+One of the four bosses of<END>
+|
+@148
+;00404841{the Death Poker Alliance.<END>}#27
+the Death Poker Alliance.<END>
+|
+@149
+;0040485B{Heart is her twin sister.<END>}#27
+Heart is her twin sister.<END>
+|
+@150
+;00404875{She uses Wolfman, her<END>}#23
+She uses Wolfman, her<END>
+|
+@151
+;0040488B{favorite B-Daman.<END>}#19
+favorite B-Daman.<END>
+|
+@152
+;0040489D{One of the four bosses of<END>}#27
+One of the four bosses of<END>
+|
+@153
+;004048B7{the Death Poker Alliance.<END>}#27
+the Death Poker Alliance.<END>
+|
+@154
+;004048D1{He wears an egg shell-like<END>}#28
+He wears an egg shell-like<END>
+|
+@155
+;004048EC{helmet and uses Asura, his<END>}#28
+helmet and uses Asura, his<END>
+|
+@156
+;00404907{favorite B-Daman.<END>}#19
+favorite B-Daman.<END>
+|
+@157
+;00404919{A B-Daplayer who belongs<END>}#26
+A B-Daplayer who belongs<END>
+|
+@158
+;00404932{to the Neo Shadow<END>}#19
+to the Neo Shadow<END>
+|
+@159
+;00404944{Alliance. His favorite<END>}#24
+Alliance. His favorite<END>
+|
+@160
+;0040495B{B-Daman to use is the Mega<END>}#28
+B-Daman to use is the Mega<END>
+|
+@161
+;00404976{Diablos, an evil B-Daman.<END>}#27
+Diablos, an evil B-Daman.<END>
+|
+@162
+;00404990{This is the friendly man<END>}#26
+This is the friendly man<END>
+|
+@163
+;004049A9{who owns a parts shop.<END>}#24
+who owns a parts shop.<END>
+|
+@164
+;004049C0{He seems to be at every<END>}#25
+He seems to be at every<END>
+|
+@165
+;004049D8{parts shop in every town,<END>}#27
+parts shop in every town,<END>
+|
+@166
+;004049F2{but nobody knows if he<END>}#24
+but nobody knows if he<END>
+|
+@167
+;00404A09{runs them all.<END>}#16
+runs them all.<END>
+|
+@168
+;00404A18{The commander of the Death<END>}#28
+The commander of the Death<END>
+|
+@169
+;00404A33{Poker Alliance. There are<END>}#27
+Poker Alliance. There are<END>
+|
+@170
+;00404A4D{four bosses under him. He<END>}#27
+four bosses under him. He<END>
+|
+@171
+;00404A67{pretended to cooperate<END>}#24
+pretended to cooperate<END>
+|
+@172
+;00404A7E{with Badmada in order to<END>}#26
+with Badmada in order to<END>
+|
+@173
+;00404A97{obtain the legendary<END>}#22
+obtain the legendary<END>
+|
+@174
+;00404AAC{B-Daman, Disguise.<END>}#20
+B-Daman, Disguise.<END>
+|
+@175
+;00404ABF{A wolf that travels with<END>}#26
+A wolf that travels with<END>
+|
+@176
+;00404AD8{Aqulas. He speaks on<END>}#22
+Aqulas. He speaks on<END>
+|
+@177
+;00404AED{Aqulas's behalf.<END>}#18
+Aqulas's behalf.<END>
+|
+@178
+;00404AFE{A childhood friend of Wen<END>}#27
+A childhood friend of Wen<END>
+|
+@179
+;00404B18{and Li's. He's so serious,<END>}#28
+and Li's. He's so serious,<END>
+|
+@180
+;00404B33{he hates it when<END>}#18
+he hates it when<END>
+|
+@181
+;00404B44{other people joke around.<END>}#27
+other people joke around.<END>
+|
+@182
+;00404B5E{Yamato<END>}#8
+Yamato<END>
+|
+@183
+;00404B65{Yamato<END>}#8
+Yamato<END>
+|
+@184
+;00404B6C{Gray<END>}#6
+Gray<END>
+|
+@185
+;00404B71{Gray<END>}#6
+Gray<END>
+|
+@186
+;00404B76{Bull<END>}#6
+Bull<END>
+|
+@187
+;00404B7B{Bull<END>}#6
+Bull<END>
+|
+@188
+;00404B80{Terry<END>}#7
+Terry<END>
+|
+@189
+;00404B86{Terry<END>}#7
+Terry<END>
+|
+@190
+;00404B8C{Wen<END>}#5
+Wen<END>
+|
+@191
+;00404B90{Wen<END>}#5
+Wen<END>
+|
+@192
+;00404B94{Li<END>}#4
+Li<END>
+|
+@193
+;00404B97{Li<END>}#4
+Li<END>
+|
+@194
+;00404B9A{Enjyu<END>}#7
+Enjyu<END>
+|
+@195
+;00404BA0{Enjyu<END>}#7
+Enjyu<END>
+|
+@196
+;00404BA6{Joe<END>}#5
+Joe<END>
+|
+@197
+;00404BAA{Joe<END>}#5
+Joe<END>
+|
+@198
+;00404BAE{Liena<END>}#7
+Liena<END>
+|
+@199
+;00404BB4{Liena<END>}#7
+Liena<END>
+|
+@200
+;00404BBA{Mie<END>}#5
+Mie<END>
+|
+@201
+;00404BBE{Mie<END>}#5
+Mie<END>
+|
+@202
+;00404BC2{Armada<END>}#8
+Armada<END>
+|
+@203
+;00404BC9{Armada<END>}#8
+Armada<END>
+|
+@204
+;00404BD0{B-DaMage<END>}#10
+B-DaMage<END>
+|
+@205
+;00404BD9{B-DaMage<END>}#10
+B-DaMage<END>
+|
+@206
+;00404BE2{Tommi<END>}#7
+Tommi<END>
+|
+@207
+;00404BE8{Tommi<END>}#7
+Tommi<END>
+|
+@208
+;00404BEE{Meowmigos<END>}#11
+Meowmigos<END>
+|
+@209
+;00404BF8{Meowmigos<END>}#11
+Meowmigos<END>
+|
+@210
+;00404C02{Gunnos<END>}#8
+Gunnos<END>
+|
+@211
+;00404C09{Gunnos<END>}#8
+Gunnos<END>
+|
+@212
+;00404C10{Haja<END>}#6
+Haja<END>
+|
+@213
+;00404C15{Haja<END>}#6
+Haja<END>
+|
+@214
+;00404C1A{Aqulas<END>}#8
+Aqulas<END>
+|
+@215
+;00404C21{Aqulas<END>}#8
+Aqulas<END>
+|
+@216
+;00404C28{Shin<END>}#6
+Shin<END>
+|
+@217
+;00404C2D{Shin<END>}#6
+Shin<END>
+|
+@218
+;00404C32{Kiba<END>}#6
+Kiba<END>
+|
+@219
+;00404C37{Kiba<END>}#6
+Kiba<END>
+|
+@220
+;00404C3C{Jinbee<END>}#8
+Jinbee<END>
+|
+@221
+;00404C43{Jinbee<END>}#8
+Jinbee<END>
+|
+@222
+;00404C4A{Biarce<END>}#8
+Biarce<END>
+|
+@223
+;00404C51{Biarce<END>}#8
+Biarce<END>
+|
+@224
+;00404C58{Spade<END>}#7
+Spade<END>
+|
+@225
+;00404C5E{Spade<END>}#7
+Spade<END>
+|
+@226
+;00404C64{Club<END>}#6
+Club<END>
+|
+@227
+;00404C69{Club<END>}#6
+Club<END>
+|
+@228
+;00404C6E{Heart<END>}#7
+Heart<END>
+|
+@229
+;00404C74{Heart<END>}#7
+Heart<END>
+|
+@230
+;00404C7A{Diamond<END>}#9
+Diamond<END>
+|
+@231
+;00404C82{Diamond<END>}#9
+Diamond<END>
+|
+@232
+;00404C8A{Joker<END>}#7
+Joker<END>
+|
+@233
+;00404C90{Joker<END>}#7
+Joker<END>
+|
+@234
+;00404C96{Badmada<END>}#9
+Badmada<END>
+|
+@235
+;00404C9E{Badmada<END>}#9
+Badmada<END>
+|
+@236
+;00404CA6{Fornan<END>}#8
+Fornan<END>
+|
+@237
+;00404CAD{Fornan<END>}#8
+Fornan<END>
+|
