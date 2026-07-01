@@ -33,7 +33,7 @@ def expand_rom(filename: str, target_mib: float) -> None:
     print("Expansion completed.")
     print(f"Original size : {current_size:,} bytes")
     print(f"New size      : {target_size:,} bytes")
-    print(f"Bytes added   : {bytes_to_add:,}")
+    print(f"Bytes added   : {bytes_to_add:,}\n")
 
 
 def main():

@@ -42,14 +42,14 @@ TBD
 5. HERRAMIENTAS UTILIZADAS
 --------------------------------------------------------------------------------
 
-Blog:
-https://traduccioneskoda.blogspot.com
+- Assembler Armips
+  https://github.com/Kingcom/armips
 
-Correo de contacto:
-traduccioneskoda@gmail.com
+- HexString 1.4.1
+  https://github.com/KodingBTW/hexstring
 
-GitHub:
-https://github.com/KodingBTW
+- Bdd_lz_rle
+  https://github.com/romhack/bbd_lz_rle
 
 --------------------------------------------------------------------------------
 6. CONTACTO

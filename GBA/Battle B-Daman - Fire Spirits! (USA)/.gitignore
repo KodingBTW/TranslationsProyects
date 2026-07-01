@@ -36,3 +36,4 @@
 /assets/backup/
 /dump_script/*.txt
 /build/*
+/nppextlang.xml

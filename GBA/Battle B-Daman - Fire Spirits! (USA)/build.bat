@@ -47,18 +47,23 @@ tools\rom_expander.py -r %ROM_ESP% -e 9
 ::=========
 echo ================== GFX ============================
 echo.
-:: Compressed GFX
+:: Compress GFX
 tools\bbd_nybbles.py compress -f "assets/main_fonts.bin" -c "build/main_fonts_c.bin"
 tools\bin_manager insert -r %ROM_ESP% -f "build/main_fonts_c.bin" -o "CF75C" -s "6A40"
+tools\bin_manager insert -r %ROM_ESP% -f "assets/name_entry_buttons_02.bin" -o "74B530" -s "200"
 
 REM tools\bbd_lz_rle.py pack -o "build/nintendo_license_c.bin"  "assets/nintendo_license.bin"
-tools\bin_manager insert -r %ROM_ESP% -f "build/nintendo_license_c.bin" -o "70C488" -s "384"
-
-REM tools\bbd_lz_rle.py pack -o "build/title_screen_logo_c.bin"  "assets/title_screen_logo.bin"
-REM tools\bin_manager insert -r %ROM_ESP% -f "build/title_screen_logo_c.bin" -o "70E74C" -s "876"
-
+tools\bbd_lz_rle.py pack -o "build/title_screen_logo_c.bin"  "assets/title_screen_logo.bin"
+tools\bbd_lz_rle.py pack -o "build/title_screen_license_c.bin"  "assets/title_screen_license.bin"
 tools\bbd_lz_rle.py pack -o "build/title_screen_start_c.bin"  "assets/title_screen_start.bin"
-tools\bin_manager insert -r %ROM_ESP% -f "build/title_screen_start_c.bin" -o "7FB500" -s "3AA"
+tools\bbd_lz_rle.py pack -o "build/main_screen_bdaworld_c.bin"  "assets/main_screen_bdaworld.bin"
+tools\bbd_lz_rle.py pack -o "build/main_screen_system_settings_c.bin"  "assets/main_screen_system_settings.bin"
+tools\bbd_lz_rle.py pack -o "build/settings_menu_01_c.bin"  "assets/settings_menu_01.bin"
+tools\bbd_lz_rle.py pack -o "build/settings_menu_02_c.bin"  "assets/settings_menu_02.bin"
+tools\bbd_lz_rle.py pack -o "build/name_entry_buttons_c.bin"  "assets/name_entry_buttons.bin"
+tools\bbd_lz_rle.py pack -o "build/name_entry_title_c.bin"  "assets/name_entry_title.bin"
+tools\bbd_lz_rle.py pack -o "build/battle_hud_c.bin"  "assets/battle_hud.bin"
+tools\bbd_lz_rle.py pack -o "build/battle_hud_02_c.bin"  "assets/battle_hud_02.bin"
 
 echo.
 ::=========

@@ -12,7 +12,7 @@
 ;.defineregion 0x83D2420, 0x2DBE0, 0x00
 
 ; --- Include ---
-.include "asm/gfx_move.asm"									; Moved graphics
+.include "asm/move_gfx.asm"									; Move compressed graphic to blank space
 
 .include "asm/main_script_pointer_table.asm"  				; Main script pointer table
 .include "asm/script_tutorial_pointer_table.asm"  			; Tutorial #1 pointer table
