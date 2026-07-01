@@ -37,3 +37,7 @@
 /dump_script/*.txt
 /build/*
 /nppextlang.xml
+
+!README.md
+!CONTRIBUTING.md
+!LICENSE.md
