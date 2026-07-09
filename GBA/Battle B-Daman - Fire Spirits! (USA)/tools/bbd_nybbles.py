@@ -3,6 +3,7 @@
 import argparse
 import sys
 import os
+from pathlib import Path
 
 class CustomArgumentParser(argparse.ArgumentParser):
     def error(self, message):
@@ -145,6 +146,7 @@ def read_rom(rom_file, addr, size):
         return data
 
 def export_data(out_file, data):
+    Path(out_file).parent.mkdir(parents=True, exist_ok=True)
     with open(out_file, 'wb') as f:
         f.write(data)
         return len(data)

@@ -123,9 +123,7 @@ activo y todo el guion se mantiene en singular.
 6. CONTACTO
 --------------------------------------------------------------------------------
 
-Traducción realizada por:
-
-Rodrigo Muñoz (koda)
+Traducción realizada por Koda.
 
 Blog:
 https://traduccioneskoda.blogspot.com

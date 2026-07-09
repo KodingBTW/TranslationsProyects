@@ -66,5 +66,13 @@ SEARCH  BONUS (HUD) -> 01F2A2
 5. CONTACTO
 -------------------------------------------------------------------------------------------
 
-Traducción hecha por rodrigo muñoz, alias koda
-Cualquier error enviar un mensaje a mi correo traduccioneskoda@gmail.com
+Traducción realizada por Koda.
+
+Blog:
+https://traduccioneskoda.blogspot.com
+
+Correo de contacto:
+traduccioneskoda@gmail.com
+
+GitHub:
+https://github.com/KodingBTW

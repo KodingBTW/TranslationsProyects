@@ -74,10 +74,6 @@ el texto, al cual mando un afectuoso agradecimiento.
 
 ## 6. CONTACTO
 
-Traducción realizada por:
-
-Koda
-
 Blog:
 https://traduccioneskoda.blogspot.com
 
@@ -87,8 +83,10 @@ traduccioneskoda@gmail.com
 GitHub:
 https://github.com/KodingBTW
 
+
 ## 7. AGRADECIMIENTOS
 
+- Koda: Hacking, tools y traducción al español.
 - Noishe: Traducción al catalán.
 
 ## 8. LICENCIA

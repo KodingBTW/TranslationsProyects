@@ -1,62 +1,62 @@
 @1
 ;003FC257{Newbie<END>}#7
-Newbie<END>
+Novato<END>
 |
 @2
 ;003FC25E{Student<END>}#9
-Student<END>
+Aprendiz<END>
 |
 @3
 ;003FC266{2nd-Rate<END>}#10
-2nd-Rate<END>
+2da-Clase<END>
 |
 @4
 ;003FC26F{Bronze<END>}#8
-Bronze<END>
+Bronce<END>
 |
 @5
 ;003FC276{Average<END>}#9
-Average<END>
+Promedio<END>
 |
 @6
 ;003FC27E{Wild<END>}#6
-Wild<END>
+Salvaje<END>
 |
 @7
 ;003FC283{Fire<END>}#6
-Fire<END>
+Fuego<END>
 |
 @8
 ;003FC288{Silver<END>}#8
-Silver<END>
+Plata<END>
 |
 @9
 ;003FC28F{Prince<END>}#8
-Prince<END>
+Príncipe<END>
 |
 @10
 ;003FC296{1st-Rate<END>}#10
-1st-Rate<END>
+1ra-Clase<END>
 |
 @11
 ;003FC29F{Cosmic<END>}#8
-Cosmic<END>
+Cósmico<END>
 |
 @12
 ;003FC2A6{Gold<END>}#6
-Gold<END>
+Oro<END>
 |
 @13
 ;003FC2AB{B-DaKing<END>}#10
-B-DaKing<END>
+B-DaRey<END>
 |
 @14
 ;003FC2B4{Master<END>}#8
-Master<END>
+Maestro<END>
 |
 @15
 ;003FC2BB{B-DaGod<END>}#9
-B-DaGod<END>
+B-DaDios<END>
 |
 @16
 ;003FC2C3{GO YAMATO!<END>}#12
@@ -152,43 +152,43 @@ STRONG RED GALE<END>
 |
 @39
 ;003FC402{Set a SA to<END>}#13
-Set a SA to<END>
+Asigna una HE<END>
 |
 @40
 ;003FC40E{a button.<END>}#11
-a button.<END>
+a un botón.<END>
 |
 @41
 ;003FC418{Choose a SA.<END>}#14
-Choose a SA.<END>
+Elige una HE.<END>
 |
 @42
 ;003FC425{Choose a file<END>}#15
-Choose a file<END>
+Elige un<END>
 |
 @43
 ;003FC433{to copy to.<END>}#13
-to copy to.<END>
+perfil.<END>
 |
 @44
 ;003FC43F{Is it OK to copy it?<END>}#22
-Is it OK to copy it?<END>
+¿Quieres copiarlo?<END>
 |
 @45
 ;003FC454{Yes<END>}#5
-Yes<END>
+Sí<END>
 |
 @46
 ;003FC458{No <END>}#5
-No <END>
+No<END>
 |
 @47
 ;003FC45C{This B-Daman can't<END>}#20
-This B-Daman can't<END>
+Este B-Daman no<END>
 |
 @48
 ;003FC46F{be copied.<END>}#12
-be copied.<END>
+puede ser copiado.<END>
 |
 @49
 ;003FC47A{The character skill<END>}#21
@@ -376,39 +376,39 @@ No, thanks. <END>
 |
 @95
 ;003FC738{Is <END>}#5
-Is <END>
+Son <END>
 |
 @96
 ;003FC73C{ ฿ OK?<END>}#8
- ฿ OK?<END>
+ ฿ ¿Está bien?<END>
 |
 @97
 ;003FC743{Okay.      <END>}#13
-Okay.      <END>
+Bien.      <END>
 |
 @98
 ;003FC74F{No, thanks.<END>}#13
-No, thanks.<END>
+No, gracias.<END>
 |
 @99
 ;003FC75B{You don't have<END>}#16
-You don't have<END>
+No tienes<END>
 |
 @100
 ;003FC76A{enough ฿.<END>}#11
-enough ฿.<END>
+suficiente ฿.<END>
 |
 @101
 ;003FC774{You can't sell a part<END>}#23
-You can't sell a part<END>
+No puedes vender<END>
 |
 @102
 ;003FC78A{that is currently<END>}#19
-that is currently<END>
+una pieza que<END>
 |
 @103
 ;003FC79C{equipped.<END>}#11
-equipped.<END>
+está equipada.<END>
 |
 @104
 ;003FC7A6{You can't sell<END>}#16
@@ -428,11 +428,11 @@ this part.<END>
 |
 @108
 ;003FC7DC{Save the game?<END>}#16
-Save the game?<END>
+¿Guardar juego?<END>
 |
 @109
 ;003FC7EB{Yes<END>}#5
-Yes<END>
+Sí<END>
 |
 @110
 ;003FC7EF{No<END>}#4
@@ -440,23 +440,23 @@ No<END>
 |
 @111
 ;003FC7F2{Saving data.<END>}#14
-Saving data.<END>
+Guardando datos.<END>
 |
 @112
 ;003FC7FF{Do not turn off<END>}#17
-Do not turn off<END>
+No apagues la<END>
 |
 @113
 ;003FC80F{the GBA.<END>}#10
-the GBA.<END>
+GBA.<END>
 |
 @114
 ;003FC818{The game has been<END>}#19
-The game has been<END>
+El juego se ha<END>
 |
 @115
 ;003FC82A{saved successfully.<END>}#21
-saved successfully.<END>
+guardado correctamente.<END>
 |
 @116
 ;003FC83E{Unable to save data.<END>}#22

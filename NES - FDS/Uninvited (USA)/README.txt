@@ -62,9 +62,7 @@ puntos.
 5. CONTACTO
 --------------------------------------------------------------------------------
 
-Traducción realizada por:
-
-Koda
+Traducción realizada por Koda.
 
 Blog:
 https://traduccioneskoda.blogspot.com
@@ -74,6 +72,7 @@ traduccioneskoda@gmail.com
 
 GitHub:
 https://github.com/KodingBTW
+
 
 
 --------------------------------------------------------------------------------

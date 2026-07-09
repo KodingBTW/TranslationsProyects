@@ -55,7 +55,13 @@ Versión 1.0 (13/02/2025):
 5. CONTACTO
 --------------------------------------------------------------------------------------------
 
-Traducción hecha por rodrigo muñoz, alias koda. Visita https://traduccioneskoda.blogspot.com 
-para más traducciones.
+Traducción realizada por Koda.
 
-Correo contacto: traduccioneskoda@gmail.com
+Blog:
+https://traduccioneskoda.blogspot.com
+
+Correo de contacto:
+traduccioneskoda@gmail.com
+
+GitHub:
+https://github.com/KodingBTW

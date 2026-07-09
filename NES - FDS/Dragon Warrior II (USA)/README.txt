@@ -196,10 +196,16 @@ tras la salida del "Dragon Quest 1+2 HD-2D Remake".
 8. CONTACTO
 ---------------------------------------------------------------------------------------------
 
-Traducción hecha por Rodrigo Muñoz, alias Koda. Visita https://traduccioneskoda.blogspot.com 
-para más traducciones.
+Traducción realizada por Koda.
 
-Para agradecimientos, sugerencias, errores e insultos enviar a traduccioneskoda@gmail.com
+Blog:
+https://traduccioneskoda.blogspot.com
+
+Correo de contacto:
+traduccioneskoda@gmail.com
+
+GitHub:
+https://github.com/KodingBTW
 
 ---------------------------------------------------------------------------------------------
 9. CRÉDITOS

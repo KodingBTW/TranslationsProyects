@@ -50,15 +50,21 @@ el texto, al cual mando un afectuoso agradecimiento.
 5. CONTACTO
 ---------------------------------------------------------------------------------------------
 
-Traducción hecha por Rodrigo Muñoz, alias koda. Visita https://traduccioneskoda.blogspot.com 
-para más traducciones.
+Blog:
+https://traduccioneskoda.blogspot.com
 
-Correo contacto: traduccioneskoda@gmail.com
+Correo de contacto:
+traduccioneskoda@gmail.com
+
+GitHub:
+https://github.com/KodingBTW
+
 
 ---------------------------------------------------------------------------------------------
 6. CRÉDITOS
 ---------------------------------------------------------------------------------------------
 
+- Koda: Hacking, tools y traducción al español.
 - Noishe: Traducción al catalán.
 
 ---------------------------------------------------------------------------------------------

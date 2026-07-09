@@ -76,5 +76,13 @@ Compressor: https://github.com/KodingBTW/M.C.-Kids-NES-text-Compressor
 5. CONTACTO
 -------------------------------------------------------------------------------------------
 
-Traducción y Script hecho por rodrigo muñoz, alias koda
-Cualquier error enviar un mensaje a mi correo traduccioneskoda@gmail.com
+Traducción realizada por Koda.
+
+Blog:
+https://traduccioneskoda.blogspot.com
+
+Correo de contacto:
+traduccioneskoda@gmail.com
+
+GitHub:
+https://github.com/KodingBTW

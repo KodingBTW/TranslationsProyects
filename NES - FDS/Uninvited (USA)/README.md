@@ -80,9 +80,7 @@ Ninguno que yo sepa, informar si se encuentran.
 
 ## 5. CONTACTO
 
-Traducción realizada por:
-
-koda
+Traducción realizada por Koda.
 
 Blog:
 https://traduccioneskoda.blogspot.com
@@ -92,6 +90,7 @@ traduccioneskoda@gmail.com
 
 GitHub:
 https://github.com/KodingBTW
+
 
 
 

@@ -160,7 +160,7 @@ Octodude<END>
 |
 @41
 ;003BFCCA{Salesperson<END>}#13
-Salesperson<END>
+Vendedor<END>
 |
 @42
 ;003BFCD6{TP<END>}#4

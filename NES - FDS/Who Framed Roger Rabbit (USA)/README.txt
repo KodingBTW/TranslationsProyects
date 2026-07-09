@@ -70,10 +70,17 @@ lugar donde puedas conseguir una pelota de béisbol rápidamente?".
 6. CONTACTO
 ---------------------------------------------------------------------------------------------
 
-Traducción hecha por Rodrigo Muñoz, alias koda. Visita https://traduccioneskoda.blogspot.com 
-para más traducciones.
+Traducción realizada por Koda.
 
-Correo contacto: traduccioneskoda@gmail.com
+Blog:
+https://traduccioneskoda.blogspot.com
+
+Correo de contacto:
+traduccioneskoda@gmail.com
+
+GitHub:
+https://github.com/KodingBTW
+
 
 ---------------------------------------------------------------------------------------------
 7. LICENCIA

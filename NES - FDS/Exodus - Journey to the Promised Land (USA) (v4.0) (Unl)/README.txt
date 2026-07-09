@@ -61,7 +61,14 @@ He hecho una herramientas de extracción e inserción:
 --------------------------------------------------------------------------------------------
 5. CONTACTO
 --------------------------------------------------------------------------------------------
-Traducción hecha por rodrigo muñoz, alias koda. Visita https://traduccioneskoda.blogspot.com 
-para más traducciones.
 
-Correo contacto: traduccioneskoda@gmail.com
+Traducción realizada por Koda.
+
+Blog:
+https://traduccioneskoda.blogspot.com
+
+Correo de contacto:
+traduccioneskoda@gmail.com
+
+GitHub:
+https://github.com/KodingBTW

@@ -18,6 +18,7 @@ License:   MIT License https://opensource.org/licenses/mit-license.php
 
 
 try:
+    from pathlib import Path
     from io import BytesIO
     from itertools import repeat
     from collections import namedtuple
@@ -61,6 +62,7 @@ def decompress_file(in_name, address, out_name):
         encoded = BytesIO(encoded_file.read())
     comms = deserialize(encoded)
     decoded = decode(comms)
+    Path(out_name).parent.mkdir(parents=True, exist_ok=True)
     with open(out_name, "wb") as decoded_file:
         decoded_file.write(bytes(decoded))
     print(f"Compressed block size was 0x{encoded.tell():X}")

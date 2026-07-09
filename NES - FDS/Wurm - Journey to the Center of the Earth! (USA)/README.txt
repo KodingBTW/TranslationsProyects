@@ -45,10 +45,16 @@ Versión 1.0 (03/04/2026):
 5. CONTACTO
 ---------------------------------------------------------------------------------------------
 
-Traducción hecha por Rodrigo Muñoz, alias koda. Visita https://traduccioneskoda.blogspot.com 
-para más traducciones.
+Traducción realizada por Koda.
 
-Correo contacto: traduccioneskoda@gmail.com
+Blog:
+https://traduccioneskoda.blogspot.com
+
+Correo de contacto:
+traduccioneskoda@gmail.com
+
+GitHub:
+https://github.com/KodingBTW
 
 ---------------------------------------------------------------------------------------------
 6. LICENCIA

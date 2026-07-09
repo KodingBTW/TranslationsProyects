@@ -78,5 +78,13 @@ A554            GAME OVER
 5. CONTACTO
 -------------------------------------------------------------------------------------------
 
-Traducción hecha por rodrigo muñoz, alias koda
-Cualquier error enviar un mensaje a mi correo rodrigo.23luis@gmail.com
+Traducción realizada por Koda.
+
+Blog:
+https://traduccioneskoda.blogspot.com
+
+Correo de contacto:
+traduccioneskoda@gmail.com
+
+GitHub:
+https://github.com/KodingBTW

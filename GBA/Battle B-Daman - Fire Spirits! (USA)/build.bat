@@ -47,23 +47,90 @@ tools\rom_expander.py -r %ROM_ESP% -e 9
 ::=========
 echo ================== GFX ============================
 echo.
-:: Compress GFX
-tools\bbd_nybbles.py compress -f "assets/main_fonts.bin" -c "build/main_fonts_c.bin"
-tools\bin_manager insert -r %ROM_ESP% -f "build/main_fonts_c.bin" -o "CF75C" -s "6A40"
-tools\bin_manager insert -r %ROM_ESP% -f "assets/name_entry_buttons_02.bin" -o "74B530" -s "200"
 
-REM tools\bbd_lz_rle.py pack -o "build/nintendo_license_c.bin"  "assets/nintendo_license.bin"
-tools\bbd_lz_rle.py pack -o "build/title_screen_logo_c.bin"  "assets/title_screen_logo.bin"
-tools\bbd_lz_rle.py pack -o "build/title_screen_license_c.bin"  "assets/title_screen_license.bin"
-tools\bbd_lz_rle.py pack -o "build/title_screen_start_c.bin"  "assets/title_screen_start.bin"
-tools\bbd_lz_rle.py pack -o "build/main_screen_bdaworld_c.bin"  "assets/main_screen_bdaworld.bin"
-tools\bbd_lz_rle.py pack -o "build/main_screen_system_settings_c.bin"  "assets/main_screen_system_settings.bin"
-tools\bbd_lz_rle.py pack -o "build/settings_menu_01_c.bin"  "assets/settings_menu_01.bin"
-tools\bbd_lz_rle.py pack -o "build/settings_menu_02_c.bin"  "assets/settings_menu_02.bin"
-tools\bbd_lz_rle.py pack -o "build/name_entry_buttons_c.bin"  "assets/name_entry_buttons.bin"
-tools\bbd_lz_rle.py pack -o "build/name_entry_title_c.bin"  "assets/name_entry_title.bin"
-tools\bbd_lz_rle.py pack -o "build/battle_hud_c.bin"  "assets/battle_hud.bin"
-tools\bbd_lz_rle.py pack -o "build/battle_hud_02_c.bin"  "assets/battle_hud_02.bin"
+:: FONTS
+tools\bbd_nybbles.py compress -f "assets/fonts/main_fonts.bin" -c "build/main_fonts_c.bin"
+tools\bin_manager insert -r %ROM_ESP% -f "build/main_fonts_c.bin" -o "CF75C" -s "6A40"
+
+:: INTRO
+REM tools\bbd_lz_rle.py pack -o "build/nintendo_license_c.bin"  "assets/intro/nintendo_license.bin"
+
+:: TITLE SCREEN
+tools\bbd_lz_rle.py pack -o "build/title_screen_logo_c.bin"  "assets/title_screen/title_screen_logo.bin"
+tools\bbd_lz_rle.py pack -o "build/title_screen_license_c.bin"  "assets/title_screen/title_screen_license.bin"
+tools\bbd_lz_rle.py pack -o "build/title_screen_start_c.bin"  "assets/title_screen/title_screen_start.bin"
+tools\bbd_lz_rle.py pack -o "build/main_screen_bdaworld_c.bin"  "assets/title_screen/main_screen_bdaworld.bin"
+tools\bbd_lz_rle.py pack -o "build/main_screen_system_settings_c.bin"  "assets/title_screen/main_screen_system_settings.bin"
+tools\bbd_lz_rle.py pack -o "build/settings_menu_01_c.bin"  "assets/title_screen/settings_menu_01.bin"
+tools\bbd_lz_rle.py pack -o "build/settings_menu_02_c.bin"  "assets/title_screen/settings_menu_02.bin"
+
+:: ENTRY NAMES
+tools\bin_manager insert -r %ROM_ESP% -f "assets/entry/entry_buttons_02.bin" -o "74B530" -s "200"
+tools\bbd_lz_rle.py pack -o "build/entry_buttons_c.bin"  "assets/entry/entry_buttons.bin"
+tools\bbd_lz_rle.py pack -o "build/entry_player_name_title_c.bin"  "assets/entry/entry_player_name_title.bin"
+tools\bbd_lz_rle.py pack -o "build/entry_bdaman_name_title_c.bin"  "assets/entry/entry_bdaman_name_title.bin"
+tools\bbd_lz_rle.py pack -o "build/entry_code_name_title_c.bin"  "assets/entry/entry_code_name_title.bin"
+
+:: BATTLE
+tools\bbd_lz_rle.py pack -o "build/battle_hud_c.bin"  "assets/battle/battle_hud.bin"
+tools\bbd_lz_rle.py pack -o "build/battle_hud_02_c.bin"  "assets/battle/battle_hud_02.bin"
+
+:: COMMAND BOX
+tools\bbd_lz_rle.py pack -o "build/command_box_move_01_c.bin"  "assets/command_box/command_box_move_01.bin"
+tools\bbd_lz_rle.py pack -o "build/command_box_move_02_c.bin"  "assets/command_box/command_box_move_02.bin"
+tools\bbd_lz_rle.py pack -o "build/command_box_talk_01_c.bin"  "assets/command_box/command_box_talk_01.bin"
+tools\bbd_lz_rle.py pack -o "build/command_box_talk_02_c.bin"  "assets/command_box/command_box_talk_02.bin"
+tools\bbd_lz_rle.py pack -o "build/command_box_battle_01_c.bin"  "assets/command_box/command_box_battle_01.bin"
+tools\bbd_lz_rle.py pack -o "build/command_box_battle_02_c.bin"  "assets/command_box/command_box_battle_02.bin"
+tools\bbd_lz_rle.py pack -o "build/command_box_subgame_01_c.bin"  "assets/command_box/command_box_subgame_01.bin"
+tools\bbd_lz_rle.py pack -o "build/command_box_subgame_02_c.bin"  "assets/command_box/command_box_subgame_02.bin"
+tools\bbd_lz_rle.py pack -o "build/command_box_training_01_c.bin"  "assets/command_box/command_box_training_01.bin"
+tools\bbd_lz_rle.py pack -o "build/command_box_training_02_c.bin"  "assets/command_box/command_box_training_02.bin"
+tools\bbd_lz_rle.py pack -o "build/command_box_toolbox_01_c.bin"  "assets/command_box/command_box_toolbox_01.bin"
+tools\bbd_lz_rle.py pack -o "build/command_box_toolbox_02_c.bin"  "assets/command_box/command_box_toolbox_02.bin"
+tools\bbd_lz_rle.py pack -o "build/command_box_hint_01_c.bin"  "assets/command_box/command_box_hint_01.bin"
+tools\bbd_lz_rle.py pack -o "build/command_box_hint_02_c.bin"  "assets/command_box/command_box_hint_02.bin"
+
+:: TOOLBOX
+REM tools\bbd_lz_rle.py pack -o "build/toolbox_status_c.bin"  "assets/toolbox/toolbox_status.bin"
+REM tools\bbd_lz_rle.py pack -o "build/toolbox_status_02_c.bin"  "assets/toolbox/toolbox_status_02.bin"
+tools\bin_manager insert -r %ROM_ESP% -f "assets/toolbox/toolbox_status_03.bin" -o "7442F0" -s "400"
+tools\bbd_lz_rle.py pack -o "build/toolbox_title_toolbox_c.bin"  "assets/toolbox/toolbox_title_toolbox.bin"
+tools\bbd_lz_rle.py pack -o "build/toolbox_btn_bdaman_01_c.bin"  "assets/toolbox/toolbox_btn_bdaman_01.bin"
+tools\bbd_lz_rle.py pack -o "build/toolbox_btn_bdanote_01_c.bin"  "assets/toolbox/toolbox_btn_bdanote_01.bin"
+tools\bbd_lz_rle.py pack -o "build/toolbox_btn_save_01_c.bin"  "assets/toolbox/toolbox_btn_save_01.bin"
+tools\bbd_lz_rle.py pack -o "build/toolbox_btn_bdaman_02_c.bin"  "assets/toolbox/toolbox_btn_bdaman_02.bin"
+tools\bbd_lz_rle.py pack -o "build/toolbox_btn_bdanote_02_c.bin"  "assets/toolbox/toolbox_btn_bdanote_02.bin"
+tools\bbd_lz_rle.py pack -o "build/toolbox_btn_save_02_c.bin"  "assets/toolbox/toolbox_btn_save_02.bin"
+
+:: B-DAMAN (INSIDE TOOLBOX)
+tools\bin_manager insert -r %ROM_ESP% -f "assets/bdaman/bdaman_customize_title.bin" -o "746050" -s "3F00"
+tools\bbd_lz_rle.py pack -o "build/bdaman_status_c.bin"  "assets/bdaman/bdaman_status.bin"
+tools\bbd_lz_rle.py pack -o "build/bdaman_menu_btns_c.bin"  "assets/bdaman/bdaman_menu_btns.bin"
+tools\bbd_lz_rle.py pack -o "build/bdaman_status_configuration_c.bin"  "assets/bdaman/bdaman_status_configuration.bin"
+tools\bbd_lz_rle.py pack -o "build/bdaman_wheel_customize_c.bin"  "assets/bdaman/bdaman_wheel_customize.bin"
+tools\bbd_lz_rle.py pack -o "build/bdaman_wheel_spa_c.bin"  "assets/bdaman/bdaman_wheel_spa.bin"
+tools\bbd_lz_rle.py pack -o "build/bdaman_wheel_name_c.bin"  "assets/bdaman/bdaman_wheel_name.bin"
+tools\bbd_lz_rle.py pack -o "build/bdaman_wheel_copy_c.bin"  "assets/bdaman/bdaman_wheel_copy.bin"
+
+:: B-DANOTE (INSIDE TOOLBOX)
+tools\bin_manager insert -r %ROM_ESP% -f "assets/bdanote/bdanote_labbels.bin" -o "744890" -s "179C"
+tools\bin_manager insert -r %ROM_ESP% -f "assets/bdanote/bdanote_parts_collection.bin" -o "74C190" -s "2940"
+tools\bbd_lz_rle.py pack -o "build/bdanote_parts_collection_02_c.bin"  "assets/bdanote/bdanote_parts_collection_02.bin"
+tools\bbd_lz_rle.py pack -o "build/bdanote_btn_characters_c.bin"  "assets/bdanote/bdanote_btn_characters.bin"
+tools\bbd_lz_rle.py pack -o "build/bdanote_btn_bdaman_c.bin"  "assets/bdanote/bdanote_btn_bdaman.bin"
+tools\bbd_lz_rle.py pack -o "build/bdanote_btn_parts_c.bin"  "assets/bdanote/bdanote_btn_parts.bin"
+tools\bbd_lz_rle.py pack -o "build/bdanote_btn_special_attack_c.bin"  "assets/bdanote/bdanote_btn_special_attack.bin"
+tools\bbd_lz_rle.py pack -o "build/bdanote_btn_battle_records_c.bin"  "assets/bdanote/bdanote_btn_battle_records.bin"
+
+:: B-DASHOP
+tools\bbd_lz_rle.py pack -o "build/shop_btn_buy_01_c.bin"  "assets/shop/shop_btn_buy_01.bin"
+tools\bbd_lz_rle.py pack -o "build/shop_btn_buy_02_c.bin"  "assets/shop/shop_btn_buy_02.bin"
+tools\bbd_lz_rle.py pack -o "build/shop_btn_sell_01_c.bin"  "assets/shop/shop_btn_sell_01.bin"
+tools\bbd_lz_rle.py pack -o "build/shop_btn_sell_02_c.bin"  "assets/shop/shop_btn_sell_02.bin"
+tools\bbd_lz_rle.py pack -o "build/shop_btn_code_01_c.bin"  "assets/shop/shop_btn_code_01.bin"
+tools\bbd_lz_rle.py pack -o "build/shop_btn_code_02_c.bin"  "assets/shop/shop_btn_code_02.bin"
+tools\bbd_lz_rle.py pack -o "build/shop_parts_list_c.bin"  "assets/shop/shop_parts_list.bin"
 
 echo.
 ::=========

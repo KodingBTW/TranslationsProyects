@@ -61,6 +61,8 @@ TBD
 
 ## 6. CONTACTO
 
+Traducción realizada por Koda
+
 Blog:
 https://traduccioneskoda.blogspot.com
 
@@ -72,7 +74,7 @@ https://github.com/KodingBTW
 
 ## 7. CRÉDITOS
 
-- Koda: Hacking & Tools.
+- Koda: Hacking, tools y assembler.
 
 - Digiverde: Traducción al español.
 

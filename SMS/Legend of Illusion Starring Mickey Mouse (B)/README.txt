@@ -37,20 +37,23 @@ Versión 1.0 (09/07/2025):
 será arreglado más tarde.
 
 ---------------------------------------------------------------------------------------------
-4. INFORMACIÓN ADICIONAL
+4. CONTACTO
 ---------------------------------------------------------------------------------------------
 
----------------------------------------------------------------------------------------------
-5. CONTACTO
----------------------------------------------------------------------------------------------
+Traducción realizada por Koda.
 
-Traducción hecha por rodrigo muñoz, alias koda. Visita https://traduccioneskoda.blogspot.com 
-para más traducciones.
+Blog:
+https://traduccioneskoda.blogspot.com
 
-Correo contacto: traduccioneskoda@gmail.com
+Correo de contacto:
+traduccioneskoda@gmail.com
+
+GitHub:
+https://github.com/KodingBTW
+
 
 ---------------------------------------------------------------------------------------------
-6. LICENCIA
+5. LICENCIA
 ---------------------------------------------------------------------------------------------
 
 Acuerdo de Licencia para la Distribución de Parches de la autoría de koda
