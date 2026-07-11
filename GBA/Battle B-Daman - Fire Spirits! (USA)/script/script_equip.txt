@@ -1,6 +1,6 @@
 @1
 ;003FBCB1{Remove<END>}#7
-Remove<END>
+Quitar<END>
 |
 @2
 ;003FBCB8{Visor<END>}#7
@@ -8,51 +8,51 @@ Visor<END>
 |
 @3
 ;003FBCBE{Mag.<END>}#6
-Mag.<END>
+Recám.<END>
 |
 @4
 ;003FBCC3{Body<END>}#6
-Body<END>
+Cuerpo<END>
 |
 @5
 ;003FBCC8{Back<END>}#6
-Back<END>
+Espalda<END>
 |
 @6
 ;003FBCCD{L-S.Pad<END>}#9
-L-S.Pad<END>
+Hmbr I<END>
 |
 @7
 ;003FBCD5{R-S.Pad<END>}#9
-R-S.Pad<END>
+Hmbr D<END>
 |
 @8
 ;003FBCDD{L Arm<END>}#7
-L Arm<END>
+Brazo I<END>
 |
 @9
 ;003FBCE3{R Arm<END>}#7
-R Arm<END>
+Brazo D<END>
 |
 @10
 ;003FBCE9{FOOT<END>}#6
-FOOT<END>
+Pie<END>
 |
 @11
 ;003FBCEE{Heel<END>}#6
-Heel<END>
+Talón<END>
 |
 @12
 ;003FBCF3{S-Shot<END>}#8
-S-Shot<END>
+D. Esp.<END>
 |
 @13
 ;003FBCFA{Trigger<END>}#9
-Trigger<END>
+Gatillo<END>
 |
 @14
 ;003FBD02{Core<END>}#6
-Core<END>
+Núcleo<END>
 |
 @15
 ;003FBD07{Visor<END>}#7
@@ -60,47 +60,47 @@ Visor<END>
 |
 @16
 ;003FBD0D{Mag.<END>}#6
-Mag.<END>
+Recámara<END>
 |
 @17
 ;003FBD12{Body<END>}#6
-Body<END>
+Cuerpo<END>
 |
 @18
 ;003FBD17{Back<END>}#6
-Back<END>
+Espalda<END>
 |
 @19
 ;003FBD1C{L-S.Pad<END>}#9
-L-S.Pad<END>
+Hmbr I<END>
 |
 @20
 ;003FBD24{R-S.Pad<END>}#9
-R-S.Pad<END>
+Hmbr D<END>
 |
 @21
 ;003FBD2C{L Arm<END>}#7
-L Arm<END>
+Brazo I<END>
 |
 @22
 ;003FBD32{R Arm<END>}#7
-R Arm<END>
+Brazo D<END>
 |
 @23
 ;003FBD38{FOOT<END>}#6
-FOOT<END>
+Pie<END>
 |
 @24
 ;003FBD3D{Heel<END>}#6
-Heel<END>
+Talón<END>
 |
 @25
 ;003FBD42{S-Shot<END>}#8
-S-Shot<END>
+D Especial<END>
 |
 @26
 ;003FBD49{Custom<END>}#8
-Custom<END>
+Perfil<END>
 |
 @27
 ;003FBD50{Orig.<END>}#7
@@ -108,7 +108,7 @@ Orig.<END>
 |
 @28
 ;003FBD56{Event<END>}#7
-Event<END>
+Evento<END>
 |
 @29
 ;003FBD5C{Yamato<END>}#8
@@ -168,7 +168,7 @@ Tommi<END>
 |
 @43
 ;003FBDAB{Meowmigos<END>}#11
-Meowmigos<END>
+Miaumigos<END>
 |
 @44
 ;003FBDB5{Gunnos<END>}#8
@@ -228,19 +228,19 @@ Fornan<END>
 |
 @58
 ;003FBE0E{Event<END>}#7
-Event<END>
+Evento<END>
 |
 @59
 ;003FBE14{Event<END>}#7
-Event<END>
+Evento<END>
 |
 @60
 ;003FBE1A{Event<END>}#7
-Event<END>
+Evento<END>
 |
 @61
 ;003FBE20{Event<END>}#7
-Event<END>
+Evento<END>
 |
 @62
 ;003FBE26{Visor<END>}#7
@@ -248,47 +248,47 @@ Visor<END>
 |
 @63
 ;003FBE2C{Magazine<END>}#10
-Magazine<END>
+Recám.<END>
 |
 @64
 ;003FBE35{Body<END>}#6
-Body<END>
+Cuerpo<END>
 |
 @65
 ;003FBE3A{Back<END>}#6
-Back<END>
+Espalda<END>
 |
 @66
 ;003FBE3F{L-S.Pad<END>}#9
-L-S.Pad<END>
+Hmbr I<END>
 |
 @67
 ;003FBE47{R-S.Pad<END>}#9
-R-S.Pad<END>
+Hmbr D<END>
 |
 @68
 ;003FBE4F{L Arm<END>}#7
-L Arm<END>
+Brazo I<END>
 |
 @69
 ;003FBE55{R Arm<END>}#7
-R Arm<END>
+Brazo D<END>
 |
 @70
 ;003FBE5B{Foot<END>}#6
-Foot<END>
+Pie<END>
 |
 @71
 ;003FBE60{Heel<END>}#6
-Heel<END>
+Talón<END>
 |
 @72
 ;003FBE65{Core<END>}#6
-Core<END>
+Núcleo<END>
 |
 @73
 ;003FBE6A{Trggr.<END>}#8
-Trggr.<END>
+Gatlls<END>
 |
 @74
 ;003FBE71{0<END>}#3
@@ -348,7 +348,7 @@ Trggr.<END>
 |
 @88
 ;003FBE8D{Set<END>}#5
-Set<END>
+Equipar<END>
 |
 @89
 ;003FBE91{ <END>}#3
@@ -356,11 +356,11 @@ Set<END>
 |
 @90
 ;003FBE93{Sold<END>}#6
-Sold<END>
+Vendido<END>
 |
 @91
 ;003FBE98{N・A<END>}#5
-N・A<END>
+N/D<END>
 |
 @92
 ;003FBE9C{E<END>}#3
@@ -372,15 +372,15 @@ Total<END>
 |
 @94
 ;003FBEA4{DHB<END>}#5
-DHB<END>
+BGD<END>
 |
 @95
 ;003FBEA8{Battle Shoot<END>}#14
-Battle Shoot<END>
+Bata<ll>a Disp.<END>
 |
 @96
 ;003FBEB5{Last battle<END>}#13
-Last battle<END>
+Última Bata<ll>a.<END>
 |
 @97
 ;003FBEC1{:  :<END>}#6
@@ -388,15 +388,15 @@ Last battle<END>
 |
 @98
 ;003FBEC6{BattleID<END>}#10
-BattleID<END>
+IDBata<ll>a<END>
 |
 @99
 ;003FBECF{Match<END>}#7
-Match<END>
+B<END>
 |
 @100
 ;003FBED5{Win<END>}#5
-Win<END>
+G<END>
 |
 @101
 ;003FBED9{ <END>}#3
@@ -404,11 +404,11 @@ Win<END>
 |
 @102
 ;003FBEDB{Rounds<END>}#8
-Rounds<END>
+Rondas<END>
 |
 @103
 ;003FBEE2{People Met<END>}#12
-People Met<END>
+P. Conocidos<END>
 |
 @104
 ;003FBEED{・    <END>}#7
@@ -416,81 +416,81 @@ People Met<END>
 |
 @105
 ;003FBEF3{Normal<END>}#8
-Normal<END>
+Comunes<END>
 |
 @106
 ;003FBEFA{Special<END>}#9
-Special<END>
+Especiales<END>
 |
 @107
 ;003FBF02{Normal Parts<END>}#14
-Normal Parts<END>
+Pieza Común<END>
 |
 @108
 ;003FBF0F{Special Parts<END>}#15
-Special Parts<END>
+Pieza Esp.<END>
 |
 @109
 ;003FBF1D{SPA-BP<END>}#8
-SPA-BP<END>
+HE-BP<END>
 |
 @110
 ;003FBF24{SPA-Part<END>}#10
-SPA-Part<END>
+HE-Pieza<END>
 |
 @111
 ;003FBF2D{SPA-BM<END>}#8
-SPA-BM<END>
+HE-BM<END>
 |
 @112
 ;003FBF34{B-Dabattle<END>}#12
-B-Dabattle<END>
+B-Dabatallas<END>
 |
 @113
 ;003FBF3F{[SPA ・ machine]<END>}#17
-[SPA ・ machine]<END>
+[HE / máquina]<END>
 |
 @114
 ;003FBF4F{[Personal SPA]<END>}#16
-[Personal SPA]<END>
+[HE Personal]<END>
 |
 @115
 ;003FBF5E{[SPA-Part]<END>}#12
-[SPA-Part]<END>
+[HE-Pieza]<END>
 |
 @116
 ;003FBF69{[Available character]<END>}#23
-[Available character]<END>
+[Personaje Disp.]<END>
 |
 @117
 ;003FBF7F{[Parts]<END>}#9
-[Parts]<END>
+[Piezas]<END>
 |
 @118
 ;003FBF87{[Machines]<END>}#12
-[Machines]<END>
+[Máquinas]<END>
 |
 @119
 ;003FBF92{#This part cannot be sold.<END>}#28
-#This part cannot be sold.<END>
+#Esta pieza no puede ser vendida.<END>
 |
 @120
 ;003FBFAD{#This part cannot be sold.<END>}#28
-#This part cannot be sold.<END>
+#Esta pieza no puede ser vendida.<END>
 |
 @121
 ;003FBFC8{B-Daspirits<END>}#13
-B-Daspirits<END>
+B-Daspíritu<END>
 |
 @122
 ;003FBFD4{B-Daballs<END>}#11
-B-Daballs<END>
+B-Dabombas<END>
 |
 @123
 ;003FBFDE{ball(s)<END>}#9
-ball(s)<END>
+bola(s)<END>
 |
 @124
 ;003FBFE6{ or more<END>}#10
- or more<END>
+ o más<END>
 |

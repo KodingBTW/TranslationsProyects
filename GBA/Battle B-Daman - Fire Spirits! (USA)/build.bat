@@ -49,8 +49,9 @@ echo ================== GFX ============================
 echo.
 
 :: FONTS
-tools\bbd_nybbles.py compress -f "assets/fonts/main_fonts.bin" -c "build/main_fonts_c.bin"
-tools\bin_manager insert -r %ROM_ESP% -f "build/main_fonts_c.bin" -o "CF75C" -s "6A40"
+tools\bbd_nybbles.py compress -f "assets/fonts/fonts_8_16.bin" -c "build/fonts_8_16_c.bin"
+tools\bin_manager insert -r %ROM_ESP% -f "build/fonts_8_16_c.bin" -o "CF75C" -s "6A40"
+tools\bin_manager insert -r %ROM_ESP% -f "assets/fonts/fonts_8_8.bin" -o "E475C" -s "B80"
 
 :: INTRO
 REM tools\bbd_lz_rle.py pack -o "build/nintendo_license_c.bin"  "assets/intro/nintendo_license.bin"
@@ -74,6 +75,34 @@ tools\bbd_lz_rle.py pack -o "build/entry_code_name_title_c.bin"  "assets/entry/e
 :: BATTLE
 tools\bbd_lz_rle.py pack -o "build/battle_hud_c.bin"  "assets/battle/battle_hud.bin"
 tools\bbd_lz_rle.py pack -o "build/battle_hud_02_c.bin"  "assets/battle/battle_hud_02.bin"
+tools\bbd_lz_rle.py pack -o "build/battle_pause_c.bin"  "assets/battle/battle_pause.bin"
+tools\bbd_lz_rle.py pack -o "build/battle_bfire_c.bin"  "assets/battle/battle_bfire.bin"
+tools\bbd_lz_rle.py pack -o "build/battle_win_c.bin"  "assets/battle/battle_win.bin"
+tools\bbd_lz_rle.py pack -o "build/battle_lose_c.bin"  "assets/battle/battle_lose.bin"
+tools\bbd_lz_rle.py pack -o "build/battle_sets_c.bin"  "assets/battle/battle_sets.bin"
+tools\bbd_lz_rle.py pack -o "build/battle_numbers_c.bin"  "assets/battle/battle_numbers.bin"
+tools\bbd_lz_rle.py pack -o "build/battle_timeout_c.bin"  "assets/battle/battle_timeout.bin"
+tools\bbd_lz_rle.py pack -o "build/battle_result_winner_c.bin"  "assets/battle/battle_result_winner.bin"
+tools\bbd_lz_rle.py pack -o "build/battle_result_loser_c.bin"  "assets/battle/battle_result_loser.bin"
+tools\bbd_lz_rle.py pack -o "build/battle_result_status_c.bin"  "assets/battle/battle_result_status.bin"
+
+:: SPECIAL SHOT
+tools\bbd_lz_rle.py pack -o "build/sshot_boost_magnum_c.bin" "assets/sshot/sshot_boost_magnum.bin" %ROM%
+
+
+:: BATTLE SUMMARY
+tools\bbd_lz_rle.py pack -o "build/summary_bg_box_c.bin"  "assets/battle_summary/summary_bg_box.bin" %ROM%
+tools\bbd_lz_rle.py pack -o "build/summary_game_dhb_c.bin"  "assets/battle_summary/summary_game_dhb.bin" %ROM%
+tools\bbd_lz_rle.py pack -o "build/summary_game_bshoot_c.bin"  "assets/battle_summary/summary_game_bshoot.bin" %ROM%
+tools\bbd_lz_rle.py pack -o "build/summary_set_1_c.bin"  "assets/battle_summary/summary_set_1.bin" %ROM%
+tools\bbd_lz_rle.py pack -o "build/summary_set_3_c.bin"  "assets/battle_summary/summary_set_3.bin" %ROM%
+tools\bbd_lz_rle.py pack -o "build/summary_set_5_c.bin"  "assets/battle_summary/summary_set_5.bin" %ROM%
+tools\bbd_lz_rle.py pack -o "build/summary_time_60_c.bin"  "assets/battle_summary/summary_time_60.bin" %ROM%
+tools\bbd_lz_rle.py pack -o "build/summary_time_90_c.bin"  "assets/battle_summary/summary_time_90.bin" %ROM%
+tools\bbd_lz_rle.py pack -o "build/summary_time_120_c.bin"  "assets/battle_summary/summary_time_120.bin" %ROM%
+tools\bbd_lz_rle.py pack -o "build/summary_btn_view_c.bin"  "assets/battle_summary/summary_btn_view.bin" %ROM%
+tools\bbd_lz_rle.py pack -o "build/summary_player_bdaman_c.bin"  "assets/battle_summary/summary_player_bdaman.bin" %ROM%
+tools\bbd_lz_rle.py pack -o "build/loading_screen_time_c.bin"  "assets/battle_summary/loading_screen_time.bin" %ROM%
 
 :: COMMAND BOX
 tools\bbd_lz_rle.py pack -o "build/command_box_move_01_c.bin"  "assets/command_box/command_box_move_01.bin"
@@ -131,6 +160,9 @@ tools\bbd_lz_rle.py pack -o "build/shop_btn_sell_02_c.bin"  "assets/shop/shop_bt
 tools\bbd_lz_rle.py pack -o "build/shop_btn_code_01_c.bin"  "assets/shop/shop_btn_code_01.bin"
 tools\bbd_lz_rle.py pack -o "build/shop_btn_code_02_c.bin"  "assets/shop/shop_btn_code_02.bin"
 tools\bbd_lz_rle.py pack -o "build/shop_parts_list_c.bin"  "assets/shop/shop_parts_list.bin"
+
+
+
 
 echo.
 ::=========

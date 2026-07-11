@@ -164,9 +164,69 @@ org 0x0807233C
 
 ; org 0x08073C8C
 	; .word shop_parts_list_tileset
+	
+org 0x0804D194
+	.word summary_bg_box_tileset
 
+org 0x0804D1D8
+	.word summary_btn_view_tileset
+	
+org 0x083B83B4
+	.word summary_game_dhb_tileset
+	.word summary_game_bshoot_tileset
+	.word summary_game_dhb_tileset
+	.word summary_game_dhb_tileset
+	.word summary_game_dhb_tileset
+	.word summary_game_dhb_tileset
+	.word summary_game_dhb_tileset
+	.word summary_game_dhb_tileset
+	.word summary_game_dhb_tileset
+	.word summary_game_dhb_tileset
+	.word summary_set_1_tileset
+	.word summary_set_3_tileset
+	.word summary_set_5_tileset
+	.word summary_time_60_tileset
+	.word summary_time_90_tileset
+	.word summary_time_120_tileset
 
+org 0x0807190C
+	.word summary_player_bdaman_tileset
+	
+org 0x0804B09C
+	.word loading_screen_time_tileset
+	
+org 0x0801F824
+	.word battle_pause_tileset
+	
+org 0x0801B6A8
+	.word battle_bfire_tileset
+	
+org 0x0801BEB8
+	.word battle_win_tileset
+	
+org 0x0801C198
+	.word battle_lose_tileset
 
+org 0x0801B998
+	.word battle_sets_tileset
+
+org 0x0801B9A0
+	.word battle_numbers_tileset
+
+org 0x0801BFB4
+	.word battle_timeout_tileset
+	
+org 0x080CD64C
+	.word sshot_boost_magnum_tileset
+	
+org 0x083B8350
+	.word battle_result_winner_tileset
+	
+org 0x083B8358
+	.word battle_result_loser_tileset
+	
+org 0x08049940
+	.word battle_result_status_tileset
 
 ;===============
 ; Tilesets Data
@@ -342,3 +402,74 @@ shop_btn_code_02_tileset:
 	
 shop_parts_list_tileset:
 	.incbin "build/shop_parts_list_c.bin"
+	
+summary_bg_box_tileset:
+	.incbin "build/summary_bg_box_c.bin"
+	
+summary_btn_view_tileset:
+	.incbin "build/summary_btn_view_c.bin"
+	
+summary_game_bshoot_tileset:
+	.incbin "build/summary_game_bshoot_c.bin"
+	
+summary_game_dhb_tileset:
+	.incbin "build/summary_game_dhb_c.bin"
+	
+summary_set_1_tileset:
+	.incbin "build/summary_set_1_c.bin"
+	
+summary_set_3_tileset:
+	.incbin "build/summary_set_3_c.bin"
+	
+summary_set_5_tileset:
+	.incbin "build/summary_set_5_c.bin"
+	
+summary_time_60_tileset:
+	.incbin "build/summary_time_60_c.bin"
+	
+summary_time_90_tileset:
+	.incbin "build/summary_time_90_c.bin"
+	
+summary_time_120_tileset:
+	.incbin "build/summary_time_120_c.bin"
+	
+summary_player_bdaman_tileset:
+	.incbin "build/summary_player_bdaman_c.bin"
+
+loading_screen_time_tileset:	
+	.incbin "build/loading_screen_time_c.bin"
+
+battle_pause_tileset:
+	.incbin "build/battle_pause_c.bin"
+	
+battle_bfire_tileset:
+	.incbin "build/battle_bfire_c.bin"
+	
+battle_win_tileset:
+	.incbin "build/battle_win_c.bin"
+
+battle_lose_tileset:
+	.incbin "build/battle_lose_c.bin"
+
+battle_sets_tileset:
+	.incbin "build/battle_sets_c.bin"
+
+battle_numbers_tileset:
+	.incbin "build/battle_numbers_c.bin"
+
+battle_timeout_tileset:
+	.incbin "build/battle_timeout_c.bin"
+
+battle_result_winner_tileset:
+	.incbin	"build/battle_result_winner_c.bin"
+	
+battle_result_loser_tileset:
+	.incbin	"build/battle_result_loser_c.bin"
+
+battle_result_status_tileset:
+	.incbin	"build/battle_result_status_c.bin"
+
+sshot_boost_magnum_tileset:
+	.incbin "build/sshot_boost_magnum_c.bin"
+
+

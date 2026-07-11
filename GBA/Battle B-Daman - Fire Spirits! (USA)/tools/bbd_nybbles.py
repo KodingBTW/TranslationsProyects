@@ -36,7 +36,7 @@ class CustomArgumentParser(argparse.ArgumentParser):
         print("+---------------------------------------------")
         sys.exit(1)
 
-##descomprimir
+# Decompress
 def decode_byte(b):
     return (
         (((b >> 4) & 0x03) << 4) | ((b >> 6) & 0x03),
@@ -73,15 +73,13 @@ def decompress_tileset(data):
     return out
 
 
-## comprimir
+# Compresion
 def encode_byte(a, c):
     b = 0
 
-    # reconstrucción de los 2 bits altos de 'a'
     b |= ((a >> 4) & 0x03) << 4
     b |= ((a >> 0) & 0x03) << 6
 
-    # reconstrucción de los bits de 'c'
     b |= ((c >> 4) & 0x03) << 0
     b |= ((c >> 0) & 0x03) << 2
 
@@ -93,8 +91,6 @@ def compress_tile(block):
     """
 
     out = bytearray()
-
-    # 1. reconstruir bytes originales con decode inverso
     expanded = []
 
     for i in range(0, 16, 2):
@@ -104,12 +100,9 @@ def compress_tile(block):
         b = encode_byte(a, c)
         expanded.append(b)
 
-    # 2. ahora empaquetar por grupos de 4 (NO 8)
     for i in range(0, 4):
         chunk = expanded[i*2:(i*2)+2]
-
-        # cada chunk produce 4 bytes finales
-        # (aquí está tu estructura real)
+        
         out.append(chunk[0])
         out.append(chunk[1])
         out.append(0)
@@ -129,7 +122,6 @@ def compress_tileset(data):
         out.extend(compress_tile(block))
 
     return out
-
 
 
 def hexdump(data, label, width=16):

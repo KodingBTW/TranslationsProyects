@@ -4,7 +4,8 @@ set ROM="../Battle B-Daman - Fire Spirits! (USA).gba"
 REM ..\tools\bbd_lz_rle.py unpack -a 0x70C488 -o "intro/nintendo_license.bin" %ROM%
 
 :: FONTS
-REM ..\tools\bbd_nybbles.py decompress -r %ROM% -f "fonts/main_fonts.bin" -o "CF75C" -s "6A40"
+REM ..\tools\bbd_nybbles.py decompress -r %ROM% -f "fonts/fonts_8_16.bin" -o "CF75C" -s "6A40"
+..\tools\bin_manager extract -r %ROM% -f "fonts/fonts_8_8.bin" -o "E475C" -s "B80"
 
 :: TITLE SCREEN
 REM ..\tools\bbd_lz_rle.py unpack -a 0x70E74C -o "title_screen/title_screen_logo.bin" %ROM%
@@ -25,10 +26,37 @@ REM ..\tools\bbd_lz_rle.py unpack -a 0x76B091 -o "entry/entry_code_name_title.bi
 :: BATTLE
 REM ..\tools\bbd_lz_rle.py unpack -a 0x4364A2 -o "battle/battle_hud.bin" %ROM%
 REM ..\tools\bbd_lz_rle.py unpack -a 0x436970 -o "battle/battle_hud_02.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x43737A -o "battle/battle_pause.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x437FB7 -o "battle/battle_bfire.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x4384BA -o "battle/battle_win.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x438931 -o "battle/battle_lose.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x439293 -o "battle/battle_sets.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x439B5B -o "battle/battle_numbers.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x43AA81 -o "battle/battle_timeout.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x6D4B1E -o "battle/battle_result_winner.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x6D5731 -o "battle/battle_result_loser.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x6D60D8 -o "battle/battle_result_status.bin" %ROM%
+
+:: SPECIAL SHOT
+REM ..\tools\bbd_lz_rle.py unpack -a 0x476585 -o "sshot/sshot_boost_magnum.bin" %ROM%
+
+:: CHAPTERS
+
 
 :: BATTLE SUMMARY
-..\tools\bbd_lz_rle.py unpack -a 0x6D75FA -o "battle_summary/gamemode_bshoot.bin" %ROM%
-..\tools\bbd_lz_rle.py unpack -a 0x6D76F2 -o "battle_summary/gamemode_dhb.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x6D6A0F -o "battle_summary/summary_bg_box.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x6D71B1 -o "battle_summary/summary_bg_box.map" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x6D75FA -o "battle_summary/summary_game_dhb.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x6D76F2 -o "battle_summary/summary_game_bshoot.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x6D7841 -o "battle_summary/summary_set_1.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x6D7899 -o "battle_summary/summary_set_3.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x6D78EE -o "battle_summary/summary_set_5.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x6D7946 -o "battle_summary/summary_time_60.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x6D79E3 -o "battle_summary/summary_time_90.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x6D7A7E -o "battle_summary/summary_time_120.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x6D7FD7 -o "battle_summary/summary_btn_view.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x7671EC -o "battle_summary/summary_player_bdaman.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x6CF2A4 -o "battle_summary/loading_screen_time.bin" %ROM%
 
 :: COMMAND BOX
 REM ..\tools\bbd_lz_rle.py unpack -a 0x5ED82A -o "command_box/command_box_move_01.bin" %ROM%
@@ -88,7 +116,6 @@ REM ..\tools\bbd_lz_rle.py unpack -a 0x77D399 -o "shop/shop_btn_code_02.bin" %RO
 REM ..\tools\bbd_lz_rle.py unpack -a 0x765506 -o "shop/shop_parts_list.bin" %ROM%
 
 
-..\tools\bbd_lz_rle.py unpack -a 0x6D75FA -o "TEST.bin" %ROM%
-..\tools\bbd_lz_rle.py unpack -a 0x6D76F2 -o "TEST2.bin" %ROM%
+..\tools\bbd_lz_rle.py unpack -a 0xe477C -o "TEST.bin" %ROM%
 
 pause

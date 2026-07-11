@@ -828,11 +828,11 @@ Tommi<END>
 |
 @208
 ;00404BEE{Meowmigos<END>}#11
-Meowmigos<END>
+Miaumigos<END>
 |
 @209
 ;00404BF8{Meowmigos<END>}#11
-Meowmigos<END>
+Miaumigos<END>
 |
 @210
 ;00404C02{Gunnos<END>}#8
