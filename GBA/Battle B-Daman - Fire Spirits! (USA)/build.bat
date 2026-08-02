@@ -40,7 +40,7 @@ echo.
 :: Expand ROM
 :: -----------
 
-tools\rom_expander.py -r %ROM_ESP% -e 9
+tools\kuru -r %ROM_ESP% -e 9
 
 ::=========
 :: GFX
@@ -61,7 +61,11 @@ tools\bbd_lz_rle.py pack -o "build/title_screen_logo_c.bin"  "assets/title_scree
 tools\bbd_lz_rle.py pack -o "build/title_screen_license_c.bin"  "assets/title_screen/title_screen_license.bin"
 tools\bbd_lz_rle.py pack -o "build/title_screen_start_c.bin"  "assets/title_screen/title_screen_start.bin"
 tools\bbd_lz_rle.py pack -o "build/main_screen_bdaworld_c.bin"  "assets/title_screen/main_screen_bdaworld.bin"
+tools\bbd_lz_rle.py pack -o "build/main_screen_bdabattle_c.bin"  "assets/title_screen/main_screen_bdabattle.bin"
+tools\bbd_lz_rle.py pack -o "build/main_screen_bconnect_c.bin"  "assets/title_screen/main_screen_bconnect.bin"
+tools\bbd_lz_rle.py pack -o "build/main_screen_toolbox_c.bin"  "assets/title_screen/main_screen_toolbox.bin"
 tools\bbd_lz_rle.py pack -o "build/main_screen_system_settings_c.bin"  "assets/title_screen/main_screen_system_settings.bin"
+tools\bbd_lz_rle.py pack -o "build/main_screen_btraining_c.bin"  "assets/title_screen/main_screen_btraining.bin"
 tools\bbd_lz_rle.py pack -o "build/settings_menu_01_c.bin"  "assets/title_screen/settings_menu_01.bin"
 tools\bbd_lz_rle.py pack -o "build/settings_menu_02_c.bin"  "assets/title_screen/settings_menu_02.bin"
 
@@ -161,7 +165,7 @@ tools\bbd_lz_rle.py pack -o "build/shop_btn_code_01_c.bin"  "assets/shop/shop_bt
 tools\bbd_lz_rle.py pack -o "build/shop_btn_code_02_c.bin"  "assets/shop/shop_btn_code_02.bin"
 tools\bbd_lz_rle.py pack -o "build/shop_parts_list_c.bin"  "assets/shop/shop_parts_list.bin"
 
-
+:: MULTIPLAYER (B-DABATTLE)
 
 
 echo.

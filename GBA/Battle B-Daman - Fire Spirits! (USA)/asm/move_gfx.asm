@@ -9,8 +9,10 @@ org 0x0804F400
 	
 org 0x083B8528
 	.word title_screen_bdaworld_tileset
-	
-org 0x083B853C
+	.word title_screen_bdabattle_tileset
+	.word title_screen_bconnect_tileset
+	.word title_screen_toolbox_tileset
+	.word title_screen_btraining_tileset
 	.word title_screen_system_setting_tileset
 
 org 0x083B86E0
@@ -246,10 +248,22 @@ title_screen_start_tileset:
 
 title_screen_bdaworld_tileset:
 	.incbin "build/main_screen_bdaworld_c.bin"
+
+title_screen_bdabattle_tileset:
+	.incbin "build/main_screen_bdabattle_c.bin"
+
+title_screen_bconnect_tileset:
+	.incbin "build/main_screen_bconnect_c.bin"	
+	
+title_screen_toolbox_tileset:
+	.incbin "build/main_screen_toolbox_c.bin"		
 	
 title_screen_system_setting_tileset:
 	.incbin "build/main_screen_system_settings_c.bin"
 	
+title_screen_btraining_tileset:
+	.incbin "build/main_screen_btraining_c.bin"
+
 settings_01_tileset:
 	.incbin "build/settings_menu_01_c.bin"
 	

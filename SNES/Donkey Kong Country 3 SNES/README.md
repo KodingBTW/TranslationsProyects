@@ -28,8 +28,8 @@ Esperar a que termine, esto generará "Donkey Kong Country 3 (ESP).sfc"
 
 ```
 Database: No-Intro: Super Nintendo Entertainment System (v. 20210222-050638)
-File/ROM SHA-1: 09E7F2101C28BB505BBD60F15B565327CE254AD9
-File/ROM CRC32: 7317CB23
+File/ROM SHA-1: A05C257B4CB66DFD3172A6082C5CA6F48958F879
+File/ROM CRC32: 4421BC3E
 ```
 
 Además se crearán 2 parches "Donkey Kong Country 3 (ESP).bps" y

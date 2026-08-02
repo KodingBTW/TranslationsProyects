@@ -1,0 +1,76 @@
+@1
+;LICENSED BY NINTENDO<LINE>   OF AMERICA INC.<LINE><LINE><LINE>   COPYRIGHT 1991<LINE>ACCLAIM ENTERTAINMENT<LINE><LINE><LINE>   THE SIMPSONS TM<LINE> AND COPYRIGHT 1991<END>
+LICENCIA DE NINTENDO<LINE>   OF AMERICA INC.<LINE><LINE><LINE>  REGISTRADO 1991<LINE>ACCLAIM ENTERTAINMENT<LINE><LINE><LINE>  LOS SIMPSONS TM <LINE>  REGISTRADO 1991  <END>
+|
+@2
+;TWENTIETH CENTURY FOX<LINE>   FILM CORPORATION<LINE> ALL RIGHTS RESERVED<LINE><LINE><LINE>    CREATED BY<LINE>   MATT GROENING<LINE><LINE><END>
+TWENTIETH CENTURY FOX <LINE>   FILM CORPORATION   <LINE> DERECHOS RESERVADOS  <LINE><LINE><LINE>    CREADO POR        <LINE>   MATT GROENING      <LINE><LINE><END>
+|
+@3
+;CONCEPT, PROGRAM AND<LINE>   AUDIOVISUALS BY<LINE>  IMAGINEERING INC.<LINE>    GLEN ROCK, NJ<END>
+CONCEPTO, PROGRAMACIÓN<LINE>    Y GRÁFICOS POR    <LINE>  IMAGINEERING INC.   <LINE>    GLEN ROCK, NJ     <END>
+|
+@4
+;   CONCEPT, PROGRAM   <LINE>      AND DESIGN      <LINE>                      <LINE>                      <LINE>     DAN KITCHEN      <END>
+CONCEPTO, PROGRAMACIÓN<LINE>       Y DISEÑO       <LINE><LINE><LINE>     DAN KITCHEN      <END>
+|
+@5
+;                      <LINE>                      <LINE>     ROGER BOOTH      <LINE>                      <LINE>                      <END>
+<60><14><LINE><60><14><LINE>     ROGER BOOTH      <LINE><60><14><LINE><60><14><END>
+|
+@6
+;                       <LINE>                      <LINE>  CONCEPT AND DESIGN  <LINE>                      <LINE>                      <END>
+<60><14><LINE><60><14><LINE>  CONCEPTO Y DISEÑO   <LINE><60><14><LINE><60><14><END>
+|
+@7
+;      BARRY MARX      <LINE>                      <LINE>                      <LINE>                      <LINE>                      <END>
+      BARRY MARX      <LINE><60><14><LINE><60><14><LINE><60><14><LINE><60><14><END>
+|
+@8
+;ADDITIONAL PROGRAMMING<LINE>      AND DESIGN      <LINE>                      <LINE>                      <LINE>      DAVID CRANE     <END>
+PROGRAMACIÓN ADICIONAL<LINE>       Y DISEÑO       <LINE><60><14><LINE><60><14><LINE>      DAVID CRANE     <END>
+|
+@9
+;                      <LINE>                      <LINE>     GARRY KITCHEN    <LINE>                      <LINE>                      <END>
+<60><14><LINE><60><14><LINE>     GARRY KITCHEN    <LINE><60><14><LINE><60><14><END>
+|
+@10
+;     SHEN JIAN LONG   <LINE>                      <LINE>                      <LINE>      CHUNG S. LAU    <LINE>                      <END>
+     SHEN JIAN LONG   <LINE><60><14><LINE><60><14><LINE>      CHUNG S. LAU    <LINE><60><14><END>
+|
+@11
+;                       <LINE>      MARK MORRIS     <LINE>                      <LINE>                      <LINE>    HENRY C. WILL IV  <END>
+<60><14><LINE>      MARK MORRIS     <LINE><60><14><LINE><60><14><LINE>    HENRY C. WILL IV  <END>
+|
+@12
+;                       <LINE>                      <LINE>                      <LINE>                      <LINE>       GRAPHICS       <END>
+<60><14><LINE><60><14><LINE><60><14><LINE><60><14><LINE>       GRÁFICOS       <END>
+|
+@13
+;                       <LINE>                      <LINE>     JESSE KAPILI     <LINE>                      <LINE>                      <END>
+<60><14><LINE><60><14><LINE>     JESSE KAPILI     <LINE><60><14><LINE><60><14><END>
+|
+@14
+;                       <LINE>                      <LINE>  MUSIC ARRANGEMENTS  <LINE>                      <LINE>                      <END>
+<60><14><LINE><60><14><LINE>  ARREGLOS MUSICALES  <LINE><60><14><LINE><60><14><END>
+|
+@15
+;    MARK VAN HECKE    <LINE>                      <LINE>                      <LINE>                      <LINE>                      <END>
+    MARK VAN HECKE    <LINE><60><14><LINE><60><14><LINE><60><14><LINE><60><14><END>
+|
+@16
+;     SIMPSONS THEME    <LINE>                      <LINE>                      <LINE>     DANNY ELFMAN     <LINE>                      <END>
+ TEMA DE LOS SIMPSONS <LINE><60><14><LINE><60><14><LINE>     DANNY ELFMAN     <LINE><60><14><END>
+|
+@17
+;                      <LINE>                      <LINE>                      <LINE>   SPECIAL THANKS TO  <LINE>                      <END>
+<60><14><LINE><60><14><LINE><60><14><LINE>   AGRADECIMIENTOS A  <LINE><60><14><END>
+|
+@18
+;                       <LINE>      ALEX DEMEO      <LINE>                      <LINE>                      <LINE>    KATHRYN NIKODEM   <END>
+<60><14><LINE>      ALEX DEMEO      <LINE><60><14><LINE><60><14><LINE>    KATHRYN NIKODEM   <END>
+|
+@19
+;                       <LINE>                      <LINE>                      <LINE>                      <LINE><END>
+<60><14><LINE><60><14><LINE><60><14><LINE><60><14><LINE><60><14><LINE><60><16><END>
+|

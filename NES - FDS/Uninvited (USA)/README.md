@@ -44,7 +44,7 @@ Además se crearán 2 parches "Uninvited (ESP).bps" y
 Disfrutar del parche.
 
 
-##2. VERSIONES
+## 2. VERSIONES
 
 Versión 1.0 (20/03/2026):
 - Agregados los caracteres del idioma español.
@@ -59,7 +59,7 @@ puntos.
 - Restaurado gráfico y animación del zombi decapitado.
 
 
-##3. ERRORES CONOCIDOS
+## 3. ERRORES CONOCIDOS
 
 Ninguno que yo sepa, informar si se encuentran.
 

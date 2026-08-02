@@ -1,0 +1,18 @@
+DTETable:
+    db $0D, $20, "E ", "A ", ") ", "AR", "ER", "O ", "EN"
+    db "ES", $0D, "C", "DE", "QU", $0D, "B", "ON", "EL", " E"
+    db "IN", $0D, "A", "OS", " S", "OR", "N ", "RA", "S "
+    db " D", "AN", "LA", "ST", "TO", "CI", "RE", " B"
+    db "AL", "TH", "OM", "!", $00, ".", $00, "IM", "RO"
+    db " T", "E", $0D, "UN", " P", "AS", "TA", " L"
+    db " C", " A", "A", $0D, "CO", "CU", "DI", "DO"
+    db "MI", " H", "LI", "AM", "LE", "AD", "TI", "UR"
+    db " M", "MA", $0D,"S", "RI", "L ", "LO", "BA"
+    db $0D, "D", "O", $0D, "BU", $00,"A", "NI", "S", $0D, "SU"
+    db $0D, "P", ", ", "AT", "HE", "LL", "PR", "T "
+    db "AC", "IT", "NT", "GE", "IE", "NS", "TR", "AB"
+    db "HO", "IL", "SE", "TE", "MO", "NE", "PO", "SA"
+    db "SI", "ED", "ME", "HI", "N", $0D, "ND", "PA", "UE"
+    db "HA", "L", $0D, "MP", "Y ", "CA", "ID", "PE", "SO"
+    db "US", " F", "CE", "DA", "IS", "NO", $25," ", "IC"
+    db "IO", "NA", "RS", " N", " U", ".", $0D

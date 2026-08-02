@@ -43,6 +43,10 @@ Versión 1.0 (24/11/2024):
 - Traducido textos escenas.
 - Traducidas 250 preguntas con sus respectivas respuestas.
 
+Versión 1.1 (17/07/2026):
+- Reeditados los menús.
+- Arreglado bug de paleta pantalla inicial.
+
 --------------------------------------------------------------------------------------------
 3. ERRORES CONOCIDOS
 --------------------------------------------------------------------------------------------

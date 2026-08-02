@@ -5,14 +5,18 @@ REM ..\tools\bbd_lz_rle.py unpack -a 0x70C488 -o "intro/nintendo_license.bin" %R
 
 :: FONTS
 REM ..\tools\bbd_nybbles.py decompress -r %ROM% -f "fonts/fonts_8_16.bin" -o "CF75C" -s "6A40"
-..\tools\bin_manager extract -r %ROM% -f "fonts/fonts_8_8.bin" -o "E475C" -s "B80"
+REM ..\tools\bin_manager extract -r %ROM% -f "fonts/fonts_8_8.bin" -o "E475C" -s "B80"
 
 :: TITLE SCREEN
 REM ..\tools\bbd_lz_rle.py unpack -a 0x70E74C -o "title_screen/title_screen_logo.bin" %ROM%
 REM ..\tools\bbd_lz_rle.py unpack -a 0x70F70B -o "title_screen/title_screen_license.bin" %ROM%
 REM ..\tools\bbd_lz_rle.py unpack -a 0x70F341 -o "title_screen/title_screen_start.bin" %ROM%
 REM ..\tools\bbd_lz_rle.py unpack -a 0x71009C -o "title_screen/main_screen_bdaworld.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x71030B -o "title_screen/main_screen_bdabattle.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x710583 -o "title_screen/main_screen_bconnect.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x7107E4 -o "title_screen/main_screen_toolbox.bin" %ROM%
 REM ..\tools\bbd_lz_rle.py unpack -a 0x710A0C -o "title_screen/main_screen_system_settings.bin" %ROM%
+REM ..\tools\bbd_lz_rle.py unpack -a 0x710D45 -o "title_screen/main_screen_btraining.bin" %ROM%
 REM ..\tools\bbd_lz_rle.py unpack -a 0x71115B -o "title_screen/settings_menu_01.bin" %ROM%
 REM ..\tools\bbd_lz_rle.py unpack -a 0x7117D0 -o "title_screen/settings_menu_02.bin" %ROM%
 
@@ -115,7 +119,8 @@ REM ..\tools\bbd_lz_rle.py unpack -a 0x77CB94 -o "shop/shop_btn_sell_02.bin" %RO
 REM ..\tools\bbd_lz_rle.py unpack -a 0x77D399 -o "shop/shop_btn_code_02.bin" %ROM%
 REM ..\tools\bbd_lz_rle.py unpack -a 0x765506 -o "shop/shop_parts_list.bin" %ROM%
 
+:: MULTIPLAYER (B-DABATTLE)
 
-..\tools\bbd_lz_rle.py unpack -a 0xe477C -o "TEST.bin" %ROM%
+..\tools\bbd_lz_rle.py unpack -a 0x71030b -o "TEST.bin" %ROM%
 
 pause

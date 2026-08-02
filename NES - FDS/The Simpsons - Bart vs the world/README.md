@@ -1,91 +1,79 @@
-Deja Vu (USA).nes
-Traducido al español por koda 2026
+The Simpsons - Bart vs. the World (U).nes
+Traducido por koda 2026
 
 ## 1. INSTRUCCIONES
 
 ### Paso 1:
-
 Copiar la ROM a la carpeta raíz
 
-Este parche debe ser aplicado a la versión americana con cabecera.
+Este parche debe ser aplicado ROM americana con cabecera.
 
-La ROM es:
+ROM:
 
 ```
-Database match: Deja Vu (USA)
+Database match: Simpsons, The - Bart vs. the World (USA)
 Database: No-Intro: Nintendo Entertainment System (v. 20210216-231042)
-File SHA-1: B15BB34CC2392323AC16DE1A6EA4198DE1971DC1
-File CRC32: 67B25DB5
-ROM SHA-1: C8CA009CFB56EDB86ACD8BB8F05D96D19132AD66
-ROM CRC32: 43D01C10
+File SHA-1: A43D014A4706509C3F8093E61F9040B57D9BCA4E
+File CRC32: 5101BAE1
+ROM SHA-1: FE90ED67291B405970E911B0AA0FC489F1C9253F
+ROM CRC32: 7416903F
 ```
 
 ### Paso 2:
-Renombrar a "Deja Vu (USA).nes"
+Renombrar a "The Simpsons - Bart vs. the World (U).nes"
 
 ### Paso 3:
-Crear el parche dando click a "build.bat"
+Compilar el parche dando clic a "build.bat"
 
 ### Paso 4:
-Esperar a que termine, esto generará "Deja Vu (ESP).nes"
+Esperar a que termine, esto generará "The Simpsons - Bart vs. the World (ESP).nes"
 
 ```
 Database: No-Intro: Nintendo Entertainment System (v. 20210216-231042)
-File SHA-1: A3BDCB9EE32F6183FBAEB0197ED4F76BD018F152
-File CRC32: 77E28205
-ROM SHA-1: 35BDA4CC119AC8CC7DCCC0A09AD39F299A5967C8
-ROM CRC32: 5380C3A0
+File SHA-1: 129B7EC90A3011FA9EE6B026D7A0B0D75EBDB8F4
+File CRC32: 5182DF56
+ROM SHA-1: 23F80F2B8ABF539F1C2DD06A070E891AB628BBFC
+ROM CRC32: 7495F588
 ```
 
-Además se crearán 2 parches "DDeja Vu (ESP).bps" y
-"Deja Vu (ESP).ips" 
+Además se crearán 2 parches "The Simpsons - Bart vs. the World (ESP).bps" y
+"The Simpsons - Bart vs. the World (ESP).ips" 
 
 ### Paso 5:
-Disfrutar del parche.
-
+Disfrutar de la traducción.
 
 ## 2. VERSIONES
 
-Versión 1.0 (19/03/2026):
-- Agregados los caracteres del idioma español.
-- editada la pantalla de título al español y el certificado al final.
-- Traducido completamente el script.
-- Esta versión incluye un parche anti-censura realizado por mí, 
-https://www.romhacking.net/hacks/9368/ , por cual se incluye cada uno de sus
-puntos.
-- Pantalla de título restaurada.
-- Sangre del caimán restaurada.
-- Gráficos del baño de mujeres restaurados.
-- Sangre del cadáver restaurado.
-- Pantalla "Game Over" restaurado.
-- Reemplazado silla de dentista por silla eléctrica.
-- Reemplazado capsulas por jeringas.
-- Pantalla final retraducida y más fiel a la versión japonesa.
-- Se ha limitado el máximo de monedas a 99. Para evitar un bug gráfico.
-
+Versión 1.0 (01/08/2026):
+- Traducido completamente al español.
+- Cambiada compresión interna.
+- Editados los punteros.
+- Agregados caracteres del español.
+- Editado gráficos de los puzles deslizantes.
+- Editado algunos sprites.
 
 ## 3. ERRORES CONOCIDOS
 
-Ninguno que yo sepa, informar si se encuentran.
+- Ninguno
 
-## 4. HERRAMIENTAS UTILIZADAS
+## 4. ACERCA DE LA TRADUCCIÓN
 
-- Assembler ASM6
-  https://github.com/parasyte/asm6
+Para esta traducción se ha usado el doblaje latino, así que verán términos usados en el
+doblaje por ejemplo el más notorio, Homero, Bob Patiño, etc.
 
-- HexString 1.4.1
+Se ha usado la terminología de la primera y segunda temporada de Los Simpsons para la trivia.
+
+## 5. HERRAMIENTAS UTILIZADAS
+ 
+- Assembler Asm6
+ https://github.com/parasyte/asm6
+
+- HexString
   https://github.com/KodingBTW/hexstring
 
-- Dejavu Text Editor
+## 6. CONTACTO
 
-- String Format by koda
-
-- Bin Manager by koda
-
-
-## 5. CONTACTO
-
-Traducción realizada por Koda.
+Traducción realizada por Koda
 
 Blog:
 https://traduccioneskoda.blogspot.com
@@ -96,17 +84,11 @@ traduccioneskoda@gmail.com
 GitHub:
 https://github.com/KodingBTW
 
+## 7. CRÉDITOS
 
+- Koda: Hacking, assembler y traducción al español.
 
-## 6. AGRADECIMIENTOS
-
-
-- Ryu: Por el parche sin restaurada que contiene una traducción más fiel del 
-final.
-
-
-## 7. LICENCIA
-
+## 8. LICENCIA
 
 Acuerdo de Licencia para la Distribución de Parches de la autoría de koda
 
