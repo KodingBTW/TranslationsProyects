@@ -50,6 +50,7 @@
 /build/*
 /nppextlang.xml
 
+!patch
 !README.md
 !CONTRIBUTING.md
 !LICENSE.md
